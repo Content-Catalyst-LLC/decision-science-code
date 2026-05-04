@@ -1,0 +1,10 @@
+alternative,scenario,value
+Incremental Program Upgrade,stable conditions,74
+Incremental Program Upgrade,moderate disruption,58
+Incremental Program Upgrade,severe disruption,36
+Targeted Resilience Investment,stable conditions,78
+Targeted Resilience Investment,moderate disruption,76
+Targeted Resilience Investment,severe disruption,64
+Large-Scale Transformation,stable conditions,68
+Large-Scale Transformation,moderate disruption,82
+Large-Scale Transformation,severe disruption,50

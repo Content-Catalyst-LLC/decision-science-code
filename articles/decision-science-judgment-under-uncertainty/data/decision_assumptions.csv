@@ -1,0 +1,6 @@
+assumption_id,decision_context,assumption,confidence,impact_if_wrong,testing_method
+1,Public policy,Probabilities are stable enough for expected-value comparison,0.55,0.80,Sensitivity analysis
+2,Sustainability planning,Severe disruption scenario is plausible within planning horizon,0.68,0.86,Scenario review
+3,Organizational strategy,Implementation capacity can be expanded within two years,0.48,0.72,Capacity audit
+4,Healthcare decision,Patient preferences can be elicited before treatment selection,0.74,0.64,Shared decision protocol
+5,Infrastructure planning,Climate stress will increase maintenance demand,0.70,0.88,Stress test

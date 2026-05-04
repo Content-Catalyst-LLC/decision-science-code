@@ -1,0 +1,7 @@
+alternative,state,probability,value
+Incremental Program Upgrade,favorable,0.65,72
+Incremental Program Upgrade,unfavorable,0.35,38
+Targeted Resilience Investment,favorable,0.55,84
+Targeted Resilience Investment,unfavorable,0.45,52
+Large-Scale Transformation,favorable,0.45,96
+Large-Scale Transformation,unfavorable,0.55,30

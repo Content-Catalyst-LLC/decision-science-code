@@ -1,0 +1,21 @@
+{
+  "schema_name": "decision_science_model_schema",
+  "description": "Metadata schema for decision science models.",
+  "fields": [
+    {"name": "decision_id", "type": "integer"},
+    {"name": "decision_name", "type": "string"},
+    {"name": "decision_context", "type": "string"},
+    {"name": "alternative_name", "type": "string"},
+    {"name": "criterion_name", "type": "string"},
+    {"name": "criterion_weight", "type": "number"},
+    {"name": "score_value", "type": "number"},
+    {"name": "scenario_name", "type": "string"},
+    {"name": "outcome_value", "type": "number"},
+    {"name": "assumption_text", "type": "string"},
+    {"name": "confidence", "type": "number"},
+    {"name": "impact_if_wrong", "type": "number"},
+    {"name": "uncertainty_note", "type": "string"},
+    {"name": "tradeoff_note", "type": "string"},
+    {"name": "rationale", "type": "string"}
+  ]
+}

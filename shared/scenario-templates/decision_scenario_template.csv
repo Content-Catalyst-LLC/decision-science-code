@@ -1,0 +1,4 @@
+scenario_name,description,plausibility_note,key_uncertainties,monitoring_indicators
+Stable Conditions,Reference environment with limited disruption,Useful baseline,Low disruption and stable assumptions,performance and cost indicators
+Moderate Disruption,Stress environment with manageable disruption,Plausible stress test,implementation pressure and changing demand,capacity and delay indicators
+Severe Disruption,High-stress environment with cascading effects,Deep uncertainty case,systemic disruption and compounding risk,resilience and failure indicators

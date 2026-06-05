@@ -1,0 +1,6 @@
+"metric","value"
+"overall_brier_score",0.184134495943586
+"overall_log_loss",0.553454506765733
+"expected_calibration_error",0.0486112866799679
+"average_forecast_probability",0.492635441656544
+"observed_frequency",0.506666666666667

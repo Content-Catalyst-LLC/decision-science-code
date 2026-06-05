@@ -1,0 +1,6 @@
+threshold_id,decision_context,probability_threshold,false_positive_cost,false_negative_cost,review_owner
+TH1,act on strategic opportunity,0.65,18,45,strategy review group
+TH2,escalate risk control,0.55,12,70,risk committee
+TH3,approve operational change,0.70,20,35,operations lead
+TH4,scale public policy pilot,0.75,30,40,policy review group
+TH5,trigger model governance review,0.60,15,85,model governance lead

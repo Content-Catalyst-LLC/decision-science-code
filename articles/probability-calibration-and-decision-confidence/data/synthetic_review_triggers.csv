@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,expected_calibration_error,above,0.08,analysis lead
+RT2,high_confidence_calibration_gap,above,0.12,decision review group
+RT3,brier_score,above,0.22,forecasting lead
+RT4,subgroup_calibration_gap,above,0.10,model governance lead
+RT5,threshold_action_error_rate,above,0.20,risk committee

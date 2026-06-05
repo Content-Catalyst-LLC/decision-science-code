@@ -1,0 +1,11 @@
+forecast_id,outcome,resolution_date,resolution_notes
+1,1,2026-03-31,event occurred
+2,0,2026-03-31,event did not occur
+3,1,2026-03-31,event occurred
+4,0,2026-03-31,event did not occur
+5,1,2026-03-31,event occurred
+6,1,2026-03-31,event occurred
+7,0,2026-03-31,event did not occur
+8,1,2026-03-31,event occurred
+9,0,2026-03-31,event did not occur
+10,0,2026-03-31,event did not occur

@@ -1,0 +1,19 @@
+{
+  "article": "Probability Calibration and Decision Confidence",
+  "decision_context": "",
+  "event_definition": "",
+  "time_horizon": "",
+  "forecast_probability": null,
+  "probability_range": [],
+  "base_rate": null,
+  "reference_class": "",
+  "evidence_summary": "",
+  "decision_threshold": null,
+  "selected_action": "",
+  "outcome": null,
+  "brier_score": null,
+  "log_loss": null,
+  "calibration_notes": "",
+  "review_triggers": [],
+  "lessons_learned": []
+}

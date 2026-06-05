@@ -1,0 +1,6 @@
+reference_class,base_rate,n_cases,evidence_quality,description
+Strategic Forecast,0.58,220,medium,Comparable strategic market and institutional forecasts
+Risk Forecast,0.34,340,medium,Comparable operational and financial risk forecasts
+Operational Forecast,0.62,500,high,Comparable operational performance forecasts
+Policy Forecast,0.46,180,medium,Comparable policy adoption and implementation forecasts
+Model Governance Forecast,0.40,260,medium,Comparable model drift and governance event forecasts

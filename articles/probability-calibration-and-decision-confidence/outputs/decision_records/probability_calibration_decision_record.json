@@ -1,0 +1,311 @@
+{
+  "article": "Probability Calibration and Decision Confidence",
+  "decision_context": "Testing whether stated probabilities match observed outcomes and whether decision thresholds rely on calibrated confidence.",
+  "modeling_principles": [
+    "Confidence should be expressed as probability or probability range where decision-relevant.",
+    "Calibration compares stated probabilities with observed frequencies.",
+    "Accuracy, calibration, discrimination, and sharpness are distinct properties.",
+    "Base rates and reference classes should discipline probability estimates.",
+    "Scoring rules create feedback for probabilistic judgment.",
+    "Decision thresholds should use calibrated probabilities, not rhetorical confidence.",
+    "Calibration results should be preserved in decision records."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "overall_brier_score",
+      "value": 0.181734
+    },
+    {
+      "metric": "overall_log_loss",
+      "value": 0.54453
+    },
+    {
+      "metric": "expected_calibration_error",
+      "value": 0.031921
+    },
+    {
+      "metric": "average_forecast_probability",
+      "value": 0.490147
+    },
+    {
+      "metric": "observed_frequency",
+      "value": 0.496667
+    }
+  ],
+  "reliability_table": [
+    {
+      "probability_bin": "[0.0,0.1)",
+      "n_forecasts": 112,
+      "average_forecast_probability": 0.032512,
+      "observed_frequency": 0.089286,
+      "calibration_gap": -0.056773,
+      "absolute_calibration_gap": 0.056773,
+      "weighted_calibration_error": 0.005299,
+      "average_brier_score": 0.084719,
+      "average_log_loss": 0.366406
+    },
+    {
+      "probability_bin": "[0.1,0.2)",
+      "n_forecasts": 89,
+      "average_forecast_probability": 0.157498,
+      "observed_frequency": 0.089888,
+      "calibration_gap": 0.067611,
+      "absolute_calibration_gap": 0.067611,
+      "weighted_calibration_error": 0.005014,
+      "average_brier_score": 0.087739,
+      "average_log_loss": 0.32653
+    },
+    {
+      "probability_bin": "[0.2,0.3)",
+      "n_forecasts": 114,
+      "average_forecast_probability": 0.252269,
+      "observed_frequency": 0.298246,
+      "calibration_gap": -0.045976,
+      "absolute_calibration_gap": 0.045976,
+      "weighted_calibration_error": 0.004368,
+      "average_brier_score": 0.21127,
+      "average_log_loss": 0.614635
+    },
+    {
+      "probability_bin": "[0.3,0.4)",
+      "n_forecasts": 150,
+      "average_forecast_probability": 0.352524,
+      "observed_frequency": 0.353333,
+      "calibration_gap": -0.000809,
+      "absolute_calibration_gap": 0.000809,
+      "weighted_calibration_error": 0.000101,
+      "average_brier_score": 0.231336,
+      "average_log_loss": 0.655807
+    },
+    {
+      "probability_bin": "[0.4,0.5)",
+      "n_forecasts": 144,
+      "average_forecast_probability": 0.448443,
+      "observed_frequency": 0.430556,
+      "calibration_gap": 0.017887,
+      "absolute_calibration_gap": 0.017887,
+      "weighted_calibration_error": 0.002146,
+      "average_brier_score": 0.244763,
+      "average_log_loss": 0.682585
+    },
+    {
+      "probability_bin": "[0.5,0.6)",
+      "n_forecasts": 164,
+      "average_forecast_probability": 0.55129,
+      "observed_frequency": 0.530488,
+      "calibration_gap": 0.020802,
+      "absolute_calibration_gap": 0.020802,
+      "weighted_calibration_error": 0.002843,
+      "average_brier_score": 0.251271,
+      "average_log_loss": 0.695752
+    },
+    {
+      "probability_bin": "[0.6,0.7)",
+      "n_forecasts": 143,
+      "average_forecast_probability": 0.650468,
+      "observed_frequency": 0.713287,
+      "calibration_gap": -0.062819,
+      "absolute_calibration_gap": 0.062819,
+      "weighted_calibration_error": 0.007486,
+      "average_brier_score": 0.211412,
+      "average_log_loss": 0.614661
+    },
+    {
+      "probability_bin": "[0.7,0.8)",
+      "n_forecasts": 115,
+      "average_forecast_probability": 0.751463,
+      "observed_frequency": 0.756522,
+      "calibration_gap": -0.005059,
+      "absolute_calibration_gap": 0.005059,
+      "weighted_calibration_error": 0.000485,
+      "average_brier_score": 0.184077,
+      "average_log_loss": 0.555072
+    },
+    {
+      "probability_bin": "[0.8,0.9)",
+      "n_forecasts": 70,
+      "average_forecast_probability": 0.846019,
+      "observed_frequency": 0.871429,
+      "calibration_gap": -0.02541,
+      "absolute_calibration_gap": 0.02541,
+      "weighted_calibration_error": 0.001482,
+      "average_brier_score": 0.11129,
+      "average_log_loss": 0.37926
+    },
+    {
+      "probability_bin": "[0.9,1.0]",
+      "n_forecasts": 99,
+      "average_forecast_probability": 0.961986,
+      "observed_frequency": 0.929293,
+      "calibration_gap": 0.032693,
+      "absolute_calibration_gap": 0.032693,
+      "weighted_calibration_error": 0.002697,
+      "average_brier_score": 0.064177,
+      "average_log_loss": 0.244695
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "Model Governance Forecast",
+      "n_forecasts": 258,
+      "average_forecast_probability": 0.485008,
+      "observed_frequency": 0.51938,
+      "calibration_gap": -0.034372,
+      "absolute_calibration_gap": 0.034372,
+      "brier_score": 0.184206,
+      "log_loss": 0.56254
+    },
+    {
+      "domain": "Operational Forecast",
+      "n_forecasts": 241,
+      "average_forecast_probability": 0.502527,
+      "observed_frequency": 0.506224,
+      "calibration_gap": -0.003697,
+      "absolute_calibration_gap": 0.003697,
+      "brier_score": 0.183618,
+      "log_loss": 0.529042
+    },
+    {
+      "domain": "Policy Forecast",
+      "n_forecasts": 246,
+      "average_forecast_probability": 0.48321,
+      "observed_frequency": 0.47561,
+      "calibration_gap": 0.0076,
+      "absolute_calibration_gap": 0.0076,
+      "brier_score": 0.188441,
+      "log_loss": 0.57662
+    },
+    {
+      "domain": "Risk Forecast",
+      "n_forecasts": 215,
+      "average_forecast_probability": 0.489669,
+      "observed_frequency": 0.530233,
+      "calibration_gap": -0.040564,
+      "absolute_calibration_gap": 0.040564,
+      "brier_score": 0.178163,
+      "log_loss": 0.536679
+    },
+    {
+      "domain": "Strategic Forecast",
+      "n_forecasts": 240,
+      "average_forecast_probability": 0.490779,
+      "observed_frequency": 0.454167,
+      "calibration_gap": 0.036612,
+      "absolute_calibration_gap": 0.036612,
+      "brier_score": 0.173511,
+      "log_loss": 0.514865
+    }
+  ],
+  "confidence_profile_summary": [
+    {
+      "confidence_profile": "overconfident",
+      "n_forecasts": 388,
+      "average_forecast_probability": 0.485337,
+      "observed_frequency": 0.512887,
+      "calibration_gap": -0.02755,
+      "absolute_calibration_gap": 0.02755,
+      "brier_score": 0.181574,
+      "log_loss": 0.556993
+    },
+    {
+      "confidence_profile": "underconfident",
+      "n_forecasts": 188,
+      "average_forecast_probability": 0.48695,
+      "observed_frequency": 0.473404,
+      "calibration_gap": 0.013545,
+      "absolute_calibration_gap": 0.013545,
+      "brier_score": 0.198907,
+      "log_loss": 0.58262
+    },
+    {
+      "confidence_profile": "well calibrated",
+      "n_forecasts": 624,
+      "average_forecast_probability": 0.494101,
+      "observed_frequency": 0.49359,
+      "calibration_gap": 0.000511,
+      "absolute_calibration_gap": 0.000511,
+      "brier_score": 0.17666,
+      "log_loss": 0.525306
+    }
+  ],
+  "threshold_summary": [
+    {
+      "decision_threshold": 0.55,
+      "action_count": 508,
+      "action_rate": 0.423333,
+      "average_probability_among_acted": 0.74904,
+      "observed_success_rate_among_acted": 0.753937,
+      "threshold_calibration_gap": -0.004897,
+      "brier_score_among_acted": 0.169663
+    },
+    {
+      "decision_threshold": 0.65,
+      "action_count": 359,
+      "action_rate": 0.299167,
+      "average_probability_among_acted": 0.812159,
+      "observed_success_rate_among_acted": 0.816156,
+      "threshold_calibration_gap": -0.003997,
+      "brier_score_among_acted": 0.142707
+    },
+    {
+      "decision_threshold": 0.75,
+      "action_count": 229,
+      "action_rate": 0.190833,
+      "average_probability_among_acted": 0.877752,
+      "observed_success_rate_among_acted": 0.868996,
+      "threshold_calibration_gap": 0.008756,
+      "brier_score_among_acted": 0.109033
+    },
+    {
+      "decision_threshold": 0.85,
+      "action_count": 131,
+      "action_rate": 0.109167,
+      "average_probability_among_acted": 0.940189,
+      "observed_success_rate_among_acted": 0.931298,
+      "threshold_calibration_gap": 0.008891,
+      "brier_score_among_acted": 0.063491
+    }
+  ],
+  "base_rate_checks": [
+    {
+      "domain": "Model Governance Forecast",
+      "reference_class_base_rate": 0.4,
+      "average_forecast_probability": 0.485008,
+      "observed_frequency": 0.51938,
+      "forecast_minus_base_rate": 0.085008,
+      "observed_minus_base_rate": 0.11938
+    },
+    {
+      "domain": "Operational Forecast",
+      "reference_class_base_rate": 0.62,
+      "average_forecast_probability": 0.502527,
+      "observed_frequency": 0.506224,
+      "forecast_minus_base_rate": -0.117473,
+      "observed_minus_base_rate": -0.113776
+    },
+    {
+      "domain": "Policy Forecast",
+      "reference_class_base_rate": 0.46,
+      "average_forecast_probability": 0.48321,
+      "observed_frequency": 0.47561,
+      "forecast_minus_base_rate": 0.02321,
+      "observed_minus_base_rate": 0.01561
+    },
+    {
+      "domain": "Risk Forecast",
+      "reference_class_base_rate": 0.34,
+      "average_forecast_probability": 0.489669,
+      "observed_frequency": 0.530233,
+      "forecast_minus_base_rate": 0.149669,
+      "observed_minus_base_rate": 0.190233
+    },
+    {
+      "domain": "Strategic Forecast",
+      "reference_class_base_rate": 0.58,
+      "average_forecast_probability": 0.490779,
+      "observed_frequency": 0.454167,
+      "forecast_minus_base_rate": -0.089221,
+      "observed_minus_base_rate": -0.125833
+    }
+  ]
+}

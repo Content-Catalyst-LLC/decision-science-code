@@ -1,0 +1,2 @@
+record_id,decision_context,forecast_probability,decision_threshold,selected_action,rationale,review_trigger
+DR1,Probability calibration and decision confidence audit,0.72,0.65,Act,Forecast crosses calibrated action threshold with moderate evidence quality,review if calibration gap exceeds tolerance

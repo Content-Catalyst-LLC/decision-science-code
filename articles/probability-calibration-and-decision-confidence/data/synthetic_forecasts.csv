@@ -1,0 +1,11 @@
+forecast_id,domain,forecast_probability,true_probability,outcome,confidence_profile
+1,Strategic Forecast,0.72,0.68,1,well calibrated
+2,Risk Forecast,0.84,0.67,0,overconfident
+3,Operational Forecast,0.58,0.64,1,underconfident
+4,Policy Forecast,0.41,0.38,0,well calibrated
+5,Model Governance Forecast,0.76,0.70,1,well calibrated
+6,Strategic Forecast,0.91,0.74,1,overconfident
+7,Risk Forecast,0.32,0.45,0,underconfident
+8,Operational Forecast,0.66,0.62,1,well calibrated
+9,Policy Forecast,0.24,0.31,0,underconfident
+10,Model Governance Forecast,0.88,0.69,0,overconfident

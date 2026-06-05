@@ -1,0 +1,5 @@
+"strategy","maximum_regret","robustness_share","minimum_payoff","decision_profile"
+"AdaptivePathway",25,0.6,10,"robust and option-preserving"
+"Hedge",38,0.6,-20,"comparison strategy"
+"PreserveOption",48,0.6,18,"robust and option-preserving"
+"Expand",148,0.4,-130,"comparison strategy"

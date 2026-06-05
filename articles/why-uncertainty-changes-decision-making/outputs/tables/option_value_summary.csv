@@ -1,0 +1,5 @@
+"strategy","reversibility","ambiguity","option_value_proxy"
+"PreserveOption",0.88,0.08,0.896
+"AdaptivePathway",0.82,0.15,0.832
+"Hedge",0.55,0.22,0.642
+"Expand",0.2,0.42,0.352

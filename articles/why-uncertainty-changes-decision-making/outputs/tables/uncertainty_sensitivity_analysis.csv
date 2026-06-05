@@ -1,0 +1,5 @@
+"strategy","expected_value_rank","ambiguity_adjusted_rank","minimax_regret_rank","robustness_rank"
+"PreserveOption",3,1,3,1
+"AdaptivePathway",1,2,1,1
+"Hedge",2,3,2,1
+"Expand",4,4,4,4

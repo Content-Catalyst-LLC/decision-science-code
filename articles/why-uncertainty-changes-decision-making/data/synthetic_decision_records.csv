@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,rationale,review_trigger
+DR1,Decision under uncertainty with ambiguity and model shift,Adaptive Pathway,High reversibility and learning capacity with strong robustness,model shift or loss frequency exceeds threshold

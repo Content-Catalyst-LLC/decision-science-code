@@ -1,0 +1,6 @@
+scenario,probability,payoff_multiplier,disruption,model_shift,delay_cost
+Baseline,0.40,1.00,0.12,0.10,0.10
+Adverse,0.24,0.82,0.34,0.26,0.24
+Severe,0.16,0.55,0.68,0.52,0.38
+Novel shock,0.10,0.45,0.86,0.78,0.50
+Delayed feedback,0.10,0.76,0.42,0.62,0.72

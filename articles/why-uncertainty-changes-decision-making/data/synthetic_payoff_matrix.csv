@@ -1,0 +1,6 @@
+scenario,probability,Expand,Hedge,PreserveOption,AdaptivePathway
+Baseline,0.40,120,92,72,95
+Adverse,0.24,45,68,62,72
+Severe,0.16,-95,18,42,34
+Novel shock,0.10,-130,-20,18,10
+Delayed feedback,0.10,20,55,70,78

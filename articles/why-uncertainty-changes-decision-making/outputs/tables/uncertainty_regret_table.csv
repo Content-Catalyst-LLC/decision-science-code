@@ -1,0 +1,21 @@
+"scenario","probability","strategy","payoff","best_payoff","regret"
+"Baseline",0.4,"Expand",120,120,0
+"Adverse",0.24,"Expand",45,72,27
+"Severe",0.16,"Expand",-95,42,137
+"Novel shock",0.1,"Expand",-130,18,148
+"Delayed feedback",0.1,"Expand",20,78,58
+"Baseline",0.4,"Hedge",92,120,28
+"Adverse",0.24,"Hedge",68,72,4
+"Severe",0.16,"Hedge",18,42,24
+"Novel shock",0.1,"Hedge",-20,18,38
+"Delayed feedback",0.1,"Hedge",55,78,23
+"Baseline",0.4,"PreserveOption",72,120,48
+"Adverse",0.24,"PreserveOption",62,72,10
+"Severe",0.16,"PreserveOption",42,42,0
+"Novel shock",0.1,"PreserveOption",18,18,0
+"Delayed feedback",0.1,"PreserveOption",70,78,8
+"Baseline",0.4,"AdaptivePathway",95,120,25
+"Adverse",0.24,"AdaptivePathway",72,72,0
+"Severe",0.16,"AdaptivePathway",34,42,8
+"Novel shock",0.1,"AdaptivePathway",10,18,8
+"Delayed feedback",0.1,"AdaptivePathway",78,78,0

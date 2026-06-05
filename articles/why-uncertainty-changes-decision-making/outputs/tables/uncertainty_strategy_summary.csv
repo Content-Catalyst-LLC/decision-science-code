@@ -1,0 +1,5 @@
+strategy,expected_value,expected_utility,ambiguity_adjusted_value,minimum_payoff,maximum_payoff,payoff_sd,maximum_regret,average_regret,robustness_share,ambiguity_exposure,reversibility,implementation_capacity,evidence_quality,learning_capacity
+Adaptive Pathway,34.7564,0.375884,0.135884,-11.0644,58.196,25.6239,13.7484,5.5739,0.2,0.16,0.84,0.78,0.76,0.92
+Preserve Option,31.8215,0.377163,0.257163,2.684,46.588,17.1824,17.416,4.2841,0.2,0.08,0.9,0.84,0.8,0.86
+Hedge,23.0702,0.216833,-0.143167,-33.4356,52.198,30.5358,36.1196,20.459,0.2,0.24,0.56,0.76,0.72,0.55
+Expand,15.5239,-0.095902,-0.755902,-78.2772,64.004,49.8183,80.9612,37.8406,0.2,0.44,0.22,0.62,0.58,0.3

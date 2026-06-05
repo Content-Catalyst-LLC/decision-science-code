@@ -1,0 +1,6 @@
+"indicator","baseline_value","warning_threshold","critical_threshold","interpretation"
+"model_shift_index",0.1,0.55,0.7,"Signals that the assumed model is becoming unreliable"
+"loss_frequency",0,0.15,0.3,"Signals repeated negative outcomes"
+"implementation_capacity",0.78,0.6,0.45,"Signals weakening institutional ability to act"
+"evidence_quality",0.76,0.55,0.4,"Signals insufficient evidence confidence"
+"delay_cost",0.1,0.45,0.65,"Signals that waiting is becoming costly"

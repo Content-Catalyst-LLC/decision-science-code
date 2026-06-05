@@ -1,0 +1,1001 @@
+trial,scenario,expected_value_strategy,expected_value_payoff,ambiguity_averse_strategy,ambiguity_averse_payoff,minimax_regret_strategy,minimax_regret_payoff,adaptive_strategy,adaptive_payoff,recent_loss_count,monitoring_trigger_active
+1,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+2,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+3,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+4,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+5,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+6,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+7,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+8,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+9,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+10,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+11,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+12,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+13,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+14,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+15,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+16,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+17,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+18,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+19,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+20,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+21,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+22,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+23,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+24,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+25,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+26,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+27,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+28,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+29,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+30,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+31,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+32,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+33,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+34,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+35,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+36,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+37,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+38,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+39,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+40,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+41,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+42,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+43,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+44,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+45,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+46,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+47,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+48,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+49,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+50,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+51,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+52,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+53,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+54,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+55,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+56,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+57,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+58,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+59,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+60,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+61,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+62,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+63,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+64,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+65,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+66,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+67,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+68,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+69,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+70,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+71,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+72,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+73,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+74,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+75,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+76,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+77,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+78,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+79,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+80,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+81,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+82,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+83,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+84,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+85,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+86,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+87,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+88,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+89,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+90,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+91,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+92,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+93,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+94,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+95,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+96,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+97,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+98,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+99,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+100,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+101,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+102,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+103,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+104,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+105,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+106,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+107,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+108,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+109,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+110,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+111,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+112,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+113,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+114,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+115,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+116,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+117,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+118,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+119,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+120,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+121,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+122,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+123,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+124,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+125,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+126,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+127,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+128,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+129,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+130,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+131,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+132,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+133,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+134,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+135,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+136,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+137,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+138,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+139,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+140,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+141,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+142,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+143,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+144,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+145,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+146,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+147,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+148,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+149,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+150,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+151,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+152,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+153,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+154,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+155,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+156,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+157,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+158,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+159,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+160,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+161,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+162,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+163,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+164,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+165,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+166,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+167,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+168,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+169,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+170,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+171,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+172,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+173,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+174,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+175,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+176,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+177,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+178,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+179,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+180,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+181,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+182,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+183,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+184,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+185,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+186,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+187,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+188,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+189,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+190,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+191,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+192,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+193,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+194,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+195,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+196,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+197,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+198,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+199,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+200,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+201,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+202,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+203,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+204,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+205,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+206,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+207,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+208,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+209,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+210,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+211,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+212,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+213,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+214,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+215,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+216,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+217,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+218,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+219,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+220,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+221,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+222,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+223,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+224,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+225,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+226,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+227,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+228,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+229,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+230,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+231,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+232,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+233,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+234,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+235,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+236,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+237,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+238,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+239,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+240,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+241,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+242,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+243,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+244,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+245,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+246,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+247,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+248,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+249,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+250,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+251,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+252,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+253,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+254,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+255,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+256,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+257,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+258,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+259,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+260,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+261,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+262,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+263,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+264,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+265,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+266,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+267,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+268,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+269,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+270,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+271,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+272,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+273,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+274,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+275,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+276,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+277,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+278,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+279,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+280,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+281,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+282,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+283,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+284,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+285,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+286,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+287,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+288,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+289,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+290,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+291,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+292,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+293,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+294,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+295,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+296,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+297,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+298,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+299,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+300,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+301,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+302,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+303,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+304,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+305,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+306,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+307,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+308,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+309,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+310,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+311,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+312,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+313,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+314,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+315,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+316,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+317,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+318,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+319,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+320,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+321,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+322,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+323,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+324,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+325,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+326,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+327,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+328,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+329,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+330,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+331,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+332,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+333,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+334,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+335,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+336,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+337,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+338,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+339,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+340,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+341,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+342,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+343,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+344,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+345,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+346,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+347,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+348,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+349,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+350,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+351,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+352,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+353,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+354,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+355,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+356,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+357,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+358,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+359,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+360,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+361,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+362,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+363,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+364,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+365,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+366,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+367,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+368,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+369,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+370,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+371,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+372,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+373,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+374,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+375,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+376,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+377,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+378,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+379,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+380,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+381,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+382,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+383,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+384,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+385,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+386,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+387,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+388,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+389,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+390,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+391,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+392,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+393,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+394,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+395,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+396,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+397,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+398,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+399,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+400,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+401,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+402,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+403,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+404,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+405,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+406,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+407,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+408,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+409,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+410,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+411,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+412,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+413,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+414,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+415,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+416,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+417,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+418,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+419,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+420,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+421,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+422,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+423,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+424,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+425,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+426,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+427,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+428,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+429,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+430,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+431,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+432,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+433,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+434,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+435,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+436,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+437,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+438,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+439,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+440,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+441,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+442,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+443,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+444,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+445,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+446,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+447,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+448,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+449,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+450,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+451,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+452,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+453,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+454,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+455,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+456,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+457,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+458,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+459,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+460,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+461,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+462,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+463,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+464,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+465,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+466,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+467,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+468,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+469,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+470,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+471,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+472,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+473,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+474,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+475,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+476,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+477,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+478,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+479,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+480,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+481,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+482,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+483,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+484,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+485,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+486,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+487,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+488,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+489,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+490,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+491,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+492,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+493,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+494,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+495,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+496,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+497,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+498,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+499,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+500,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+501,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+502,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+503,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+504,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+505,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+506,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+507,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+508,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+509,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+510,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+511,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+512,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+513,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+514,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+515,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+516,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+517,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+518,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+519,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+520,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+521,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+522,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+523,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+524,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+525,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+526,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+527,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+528,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+529,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+530,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+531,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+532,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+533,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+534,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+535,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+536,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+537,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+538,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+539,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+540,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+541,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+542,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+543,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+544,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+545,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+546,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+547,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+548,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+549,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+550,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+551,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+552,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+553,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+554,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+555,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+556,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+557,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+558,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+559,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+560,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+561,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+562,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+563,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+564,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+565,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+566,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+567,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+568,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+569,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+570,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+571,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+572,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+573,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+574,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+575,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+576,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+577,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+578,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+579,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+580,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+581,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+582,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+583,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+584,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+585,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+586,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+587,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+588,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+589,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+590,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+591,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+592,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+593,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+594,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+595,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+596,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+597,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+598,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+599,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+600,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+601,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+602,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+603,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+604,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+605,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+606,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+607,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+608,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+609,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+610,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+611,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+612,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+613,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+614,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+615,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+616,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+617,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+618,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+619,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+620,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+621,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+622,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+623,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+624,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+625,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+626,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+627,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+628,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+629,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+630,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+631,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+632,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+633,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+634,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+635,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+636,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+637,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+638,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+639,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+640,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+641,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+642,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+643,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+644,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+645,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+646,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+647,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+648,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+649,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+650,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+651,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+652,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+653,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+654,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+655,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+656,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+657,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+658,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+659,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+660,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+661,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+662,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+663,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+664,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+665,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+666,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+667,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+668,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+669,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+670,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+671,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+672,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+673,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+674,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+675,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+676,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+677,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+678,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+679,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+680,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+681,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+682,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+683,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+684,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+685,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+686,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+687,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+688,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+689,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+690,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+691,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+692,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+693,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+694,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+695,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+696,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+697,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+698,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+699,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+700,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+701,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+702,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+703,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+704,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+705,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+706,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+707,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+708,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+709,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+710,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+711,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+712,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+713,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+714,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+715,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+716,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+717,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+718,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+719,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+720,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+721,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+722,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+723,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+724,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+725,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+726,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+727,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+728,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+729,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+730,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+731,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+732,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+733,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+734,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+735,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+736,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+737,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+738,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+739,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+740,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+741,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+742,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+743,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+744,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+745,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+746,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+747,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+748,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+749,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+750,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+751,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+752,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+753,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+754,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+755,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+756,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+757,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+758,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+759,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+760,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+761,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+762,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+763,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+764,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+765,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+766,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+767,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+768,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+769,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+770,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+771,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+772,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+773,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+774,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+775,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+776,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+777,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+778,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+779,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+780,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+781,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+782,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+783,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+784,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+785,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+786,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+787,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+788,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+789,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+790,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+791,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+792,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+793,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+794,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+795,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+796,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+797,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+798,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+799,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+800,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+801,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+802,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+803,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+804,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+805,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+806,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+807,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+808,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+809,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+810,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+811,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+812,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+813,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+814,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+815,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+816,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+817,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+818,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+819,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+820,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+821,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+822,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+823,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+824,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+825,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+826,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+827,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+828,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+829,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+830,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+831,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+832,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+833,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+834,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+835,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+836,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+837,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+838,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+839,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+840,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+841,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+842,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+843,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+844,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+845,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+846,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+847,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+848,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+849,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+850,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+851,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+852,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+853,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+854,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+855,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+856,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+857,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+858,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+859,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+860,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+861,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+862,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+863,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+864,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+865,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+866,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+867,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+868,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+869,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+870,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+871,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+872,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+873,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+874,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+875,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+876,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+877,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+878,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+879,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+880,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+881,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+882,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+883,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+884,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+885,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+886,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+887,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+888,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+889,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+890,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+891,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+892,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+893,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+894,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+895,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+896,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+897,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+898,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+899,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+900,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+901,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+902,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+903,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+904,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+905,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+906,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+907,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+908,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+909,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+910,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+911,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+912,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+913,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+914,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+915,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+916,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+917,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+918,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+919,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+920,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+921,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+922,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+923,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+924,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+925,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+926,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+927,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+928,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+929,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+930,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+931,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+932,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+933,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+934,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+935,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+936,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+937,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+938,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+939,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+940,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+941,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+942,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+943,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+944,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+945,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+946,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+947,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+948,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+949,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+950,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+951,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+952,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+953,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+954,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+955,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+956,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+957,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+958,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+959,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+960,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+961,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+962,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+963,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+964,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+965,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+966,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+967,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+968,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+969,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Preserve Option,31.7832,0,False
+970,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+971,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+972,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+973,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+974,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+975,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+976,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+977,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+978,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+979,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+980,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+981,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+982,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True
+983,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Preserve Option,46.588,0,False
+984,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+985,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+986,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+987,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+988,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+989,Severe,Adaptive Pathway,0.8792,Preserve Option,8.5984,Adaptive Pathway,0.8792,Preserve Option,8.5984,0,False
+990,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+991,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+992,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+993,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+994,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+995,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+996,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+997,Baseline,Adaptive Pathway,58.196,Preserve Option,46.588,Adaptive Pathway,58.196,Expand,64.004,0,False
+998,Adverse,Adaptive Pathway,35.7876,Preserve Option,31.7832,Adaptive Pathway,35.7876,Adaptive Pathway,35.7876,0,False
+999,Delayed feedback,Adaptive Pathway,38.5476,Preserve Option,39.1416,Adaptive Pathway,38.5476,Preserve Option,39.1416,0,False
+1000,Novel shock,Adaptive Pathway,-11.0644,Preserve Option,2.684,Adaptive Pathway,-11.0644,Preserve Option,2.684,0,True

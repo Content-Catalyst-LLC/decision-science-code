@@ -1,0 +1,130 @@
+{
+  "article": "Why Uncertainty Changes Decision-Making",
+  "decision_context": "Comparison of expected value, ambiguity aversion, minimax regret, and adaptive strategy under uncertain futures.",
+  "robust_candidate": "Adaptive Pathway",
+  "interpretive_warning": "The preferred strategy depends on uncertainty structure, ambiguity exposure, reversibility, downside risk, and the value of learning.",
+  "modeling_principles": [
+    "Distinguish risk from uncertainty, ambiguity, and deep uncertainty.",
+    "Use expected value only when probabilities and outcomes are credible.",
+    "Use ambiguity diagnostics when probability structure is poorly understood.",
+    "Use regret and robustness when forecasts are fragile.",
+    "Preserve reversibility when uncertainty is high and learning is possible.",
+    "Document decision records for accountability and learning.",
+    "Treat computational models as supports for judgment, not substitutes for responsibility."
+  ],
+  "strategy_summary": [
+    {
+      "strategy": "Adaptive Pathway",
+      "expected_value": 34.7564,
+      "expected_utility": 0.375884,
+      "ambiguity_adjusted_value": 0.135884,
+      "minimum_payoff": -11.0644,
+      "maximum_payoff": 58.196,
+      "payoff_sd": 25.6239,
+      "maximum_regret": 13.7484,
+      "average_regret": 5.5739,
+      "robustness_share": 0.2,
+      "ambiguity_exposure": 0.16,
+      "reversibility": 0.84,
+      "implementation_capacity": 0.78,
+      "evidence_quality": 0.76,
+      "learning_capacity": 0.92
+    },
+    {
+      "strategy": "Preserve Option",
+      "expected_value": 31.8215,
+      "expected_utility": 0.377163,
+      "ambiguity_adjusted_value": 0.257163,
+      "minimum_payoff": 2.684,
+      "maximum_payoff": 46.588,
+      "payoff_sd": 17.1824,
+      "maximum_regret": 17.416,
+      "average_regret": 4.2841,
+      "robustness_share": 0.2,
+      "ambiguity_exposure": 0.08,
+      "reversibility": 0.9,
+      "implementation_capacity": 0.84,
+      "evidence_quality": 0.8,
+      "learning_capacity": 0.86
+    },
+    {
+      "strategy": "Hedge",
+      "expected_value": 23.0702,
+      "expected_utility": 0.216833,
+      "ambiguity_adjusted_value": -0.143167,
+      "minimum_payoff": -33.4356,
+      "maximum_payoff": 52.198,
+      "payoff_sd": 30.5358,
+      "maximum_regret": 36.1196,
+      "average_regret": 20.459,
+      "robustness_share": 0.2,
+      "ambiguity_exposure": 0.24,
+      "reversibility": 0.56,
+      "implementation_capacity": 0.76,
+      "evidence_quality": 0.72,
+      "learning_capacity": 0.55
+    },
+    {
+      "strategy": "Expand",
+      "expected_value": 15.5239,
+      "expected_utility": -0.095902,
+      "ambiguity_adjusted_value": -0.755902,
+      "minimum_payoff": -78.2772,
+      "maximum_payoff": 64.004,
+      "payoff_sd": 49.8183,
+      "maximum_regret": 80.9612,
+      "average_regret": 37.8406,
+      "robustness_share": 0.2,
+      "ambiguity_exposure": 0.44,
+      "reversibility": 0.22,
+      "implementation_capacity": 0.62,
+      "evidence_quality": 0.58,
+      "learning_capacity": 0.3
+    }
+  ],
+  "simulation_summary": [
+    {
+      "agent": "Adaptive",
+      "average_payoff": 38.1206,
+      "minimum_payoff": 2.684,
+      "maximum_payoff": 64.004,
+      "payoff_sd": 22.3854,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.374
+    },
+    {
+      "agent": "Expected Value",
+      "average_payoff": 33.9736,
+      "minimum_payoff": -11.0644,
+      "maximum_payoff": 58.196,
+      "payoff_sd": 24.6945,
+      "loss_frequency": 0.104,
+      "acceptable_frequency": 0.374
+    },
+    {
+      "agent": "Minimax Regret",
+      "average_payoff": 33.9736,
+      "minimum_payoff": -11.0644,
+      "maximum_payoff": 58.196,
+      "payoff_sd": 24.6945,
+      "loss_frequency": 0.104,
+      "acceptable_frequency": 0.374
+    },
+    {
+      "agent": "Ambiguity Averse",
+      "average_payoff": 31.3558,
+      "minimum_payoff": 2.684,
+      "maximum_payoff": 46.588,
+      "payoff_sd": 16.194,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.374
+    }
+  ],
+  "review_triggers": [
+    "new evidence changes probability assumptions",
+    "model shift indicator exceeds threshold",
+    "loss frequency exceeds tolerance",
+    "implementation capacity deteriorates",
+    "scenario performance falls below acceptability threshold"
+  ]
+}

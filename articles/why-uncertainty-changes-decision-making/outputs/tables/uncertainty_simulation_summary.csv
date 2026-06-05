@@ -1,0 +1,5 @@
+agent,average_payoff,minimum_payoff,maximum_payoff,payoff_sd,loss_frequency,acceptable_frequency
+Adaptive,38.1206,2.684,64.004,22.3854,0.0,0.374
+Expected Value,33.9736,-11.0644,58.196,24.6945,0.104,0.374
+Minimax Regret,33.9736,-11.0644,58.196,24.6945,0.104,0.374
+Ambiguity Averse,31.3558,2.684,46.588,16.194,0.0,0.374

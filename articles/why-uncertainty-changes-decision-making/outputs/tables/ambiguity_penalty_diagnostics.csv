@@ -1,0 +1,14 @@
+"ambiguity_lambda","top_strategy_at_lambda","ambiguity_adjusted_score"
+0,"AdaptivePathway",0.629884531029357
+0.25,"AdaptivePathway",0.592384531029357
+0.5,"PreserveOption",0.55528419322689
+0.75,"PreserveOption",0.53528419322689
+1,"PreserveOption",0.51528419322689
+1.25,"PreserveOption",0.49528419322689
+1.5,"PreserveOption",0.47528419322689
+1.75,"PreserveOption",0.45528419322689
+2,"PreserveOption",0.43528419322689
+2.25,"PreserveOption",0.41528419322689
+2.5,"PreserveOption",0.39528419322689
+2.75,"PreserveOption",0.37528419322689
+3,"PreserveOption",0.35528419322689

@@ -1,0 +1,7 @@
+scenario,demand_shift,cost_pressure,disruption_pressure,volatility,probability,description
+Baseline,0.50,0.30,0.20,3.00,0.30,Expected operating environment
+Fiscal Stress,-0.20,1.00,0.35,4.50,0.15,Higher costs and budget constraints
+High Volatility,0.30,0.55,0.75,8.00,0.18,Unstable demand and variable performance
+Climate Stress,-0.10,0.75,1.25,7.50,0.14,Physical and operational climate stress
+Implementation Constraint,0.10,0.80,0.60,5.50,0.13,Capacity and delivery constraints
+Compound Stress,-0.45,1.20,1.55,10.00,0.10,Multiple adverse conditions together

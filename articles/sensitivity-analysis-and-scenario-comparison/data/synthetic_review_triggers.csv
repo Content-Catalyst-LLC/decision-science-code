@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,rank_reversal,equals,1,decision review group
+RT2,maximum_regret,above,20,risk committee
+RT3,minimum_scenario_average,below,60,scenario review group
+RT4,downside_breach_rate,above,0.15,governance lead
+RT5,key_driver_evidence_quality,below,0.60,analysis lead

@@ -1,0 +1,31 @@
+scenario,strategy,average_value,minimum_value,average_regret,maximum_regret,downside_breach_rate
+Baseline,Adaptive Strategy,80.225429,70.462213,1.573812,12.187259,0.0
+Baseline,Balanced Strategy,79.035668,69.629601,2.763574,13.296052,0.0
+Baseline,Efficiency Strategy,76.991938,68.868897,4.807304,17.772498,0.0
+Baseline,Precautionary Strategy,73.891698,61.988176,7.907544,20.790179,0.0
+Baseline,Resilience Strategy,74.621511,65.186371,7.17773,18.028967,0.0
+Climate Stress,Adaptive Strategy,70.604393,48.403153,12.467346,47.651515,0.02
+Climate Stress,Balanced Strategy,65.375999,44.174347,17.69574,57.103449,0.08
+Climate Stress,Efficiency Strategy,47.273793,22.819798,35.797945,68.052146,0.850667
+Climate Stress,Precautionary Strategy,80.499117,58.563767,2.572622,27.353121,0.0
+Climate Stress,Resilience Strategy,74.965497,52.56649,8.106241,36.503771,0.004
+Compound Stress,Adaptive Strategy,69.15199,36.431584,15.942696,57.896717,0.086667
+Compound Stress,Balanced Strategy,59.394723,28.92159,25.699964,64.01155,0.301333
+Compound Stress,Efficiency Strategy,34.435574,-1.420862,50.659112,81.784588,0.985333
+Compound Stress,Precautionary Strategy,81.768211,50.008843,3.326475,35.660882,0.005333
+Compound Stress,Resilience Strategy,74.110979,47.950173,10.983707,46.288469,0.025333
+Fiscal Stress,Adaptive Strategy,66.120668,53.350022,4.144209,20.12264,0.005333
+Fiscal Stress,Balanced Strategy,64.179061,51.035558,6.085817,24.389257,0.016
+Fiscal Stress,Efficiency Strategy,55.548713,39.793282,14.716165,33.921706,0.442667
+Fiscal Stress,Precautionary Strategy,66.8409,54.381611,3.423977,19.247312,0.002667
+Fiscal Stress,Resilience Strategy,64.843038,50.754534,5.421839,23.611266,0.013333
+High Volatility,Adaptive Strategy,75.792967,52.035817,8.063778,36.466741,0.005333
+High Volatility,Balanced Strategy,72.518776,50.572882,11.337969,36.321114,0.009333
+High Volatility,Efficiency Strategy,62.550387,34.572234,21.306358,50.917957,0.156
+High Volatility,Precautionary Strategy,77.224633,53.381107,6.632112,33.879551,0.004
+High Volatility,Resilience Strategy,75.811252,53.608066,8.045493,39.923349,0.001333
+Implementation Constraint,Adaptive Strategy,69.484515,53.420331,6.108,24.527476,0.004
+Implementation Constraint,Balanced Strategy,67.259408,50.636331,8.333107,25.721432,0.009333
+Implementation Constraint,Efficiency Strategy,58.559355,41.61686,17.033161,38.391796,0.250667
+Implementation Constraint,Precautionary Strategy,71.807047,54.102555,3.785468,21.854567,0.001333
+Implementation Constraint,Resilience Strategy,70.126109,50.981859,5.466406,26.519591,0.002667

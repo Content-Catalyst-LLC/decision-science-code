@@ -1,0 +1,21 @@
+{
+  "article": "Sensitivity Analysis and Scenario Comparison",
+  "decision_context": "",
+  "alternatives": [],
+  "baseline_assumptions": [],
+  "uncertain_inputs": [],
+  "input_ranges": [],
+  "scenarios": [],
+  "one_way_sensitivity": [],
+  "multi_way_sensitivity": [],
+  "thresholds": [],
+  "ranking_stability": [],
+  "robustness_results": [],
+  "regret_results": [],
+  "probabilistic_sensitivity": [],
+  "key_drivers": [],
+  "selected_strategy": "",
+  "rationale": "",
+  "review_triggers": [],
+  "limitations": []
+}

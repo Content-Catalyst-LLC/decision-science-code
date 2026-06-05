@@ -1,0 +1,31 @@
+"strategy","scenario","composite_score","best_scenario_score","regret"
+"Efficiency Strategy","Baseline",0.6488,0.786,0.1372
+"Balanced Strategy","Baseline",0.7344,0.786,0.0516000000000001
+"Resilience Strategy","Baseline",0.7152,0.786,0.0708000000000001
+"Adaptive Strategy","Baseline",0.786,0.786,0
+"Precautionary Strategy","Baseline",0.7504,0.786,0.0356000000000001
+"Efficiency Strategy","Fiscal Stress",0.705,0.7705,0.0654999999999999
+"Balanced Strategy","Fiscal Stress",0.741,0.7705,0.0295
+"Resilience Strategy","Fiscal Stress",0.688,0.7705,0.0824999999999999
+"Adaptive Strategy","Fiscal Stress",0.7705,0.7705,0
+"Precautionary Strategy","Fiscal Stress",0.722,0.7705,0.0484999999999999
+"Efficiency Strategy","High Volatility",0.5608,0.819,0.2582
+"Balanced Strategy","High Volatility",0.7236,0.819,0.0953999999999999
+"Resilience Strategy","High Volatility",0.7508,0.819,0.0681999999999999
+"Adaptive Strategy","High Volatility",0.819,0.819,0
+"Precautionary Strategy","High Volatility",0.78,0.819,0.0389999999999999
+"Efficiency Strategy","Climate Stress",0.517,0.8235,0.3065
+"Balanced Strategy","Climate Stress",0.719,0.8235,0.1045
+"Resilience Strategy","Climate Stress",0.793,0.8235,0.0304999999999999
+"Adaptive Strategy","Climate Stress",0.8235,0.8235,0
+"Precautionary Strategy","Climate Stress",0.8135,0.8235,0.00999999999999979
+"Efficiency Strategy","Implementation Constraint",0.65,0.79,0.14
+"Balanced Strategy","Implementation Constraint",0.738,0.79,0.0519999999999999
+"Resilience Strategy","Implementation Constraint",0.715,0.79,0.075
+"Adaptive Strategy","Implementation Constraint",0.79,0.79,0
+"Precautionary Strategy","Implementation Constraint",0.7495,0.79,0.0405000000000001
+"Efficiency Strategy","Compound Stress",0.549,0.8205,0.2715
+"Balanced Strategy","Compound Stress",0.723,0.8205,0.0974999999999999
+"Resilience Strategy","Compound Stress",0.765,0.8205,0.0555
+"Adaptive Strategy","Compound Stress",0.8205,0.8205,0
+"Precautionary Strategy","Compound Stress",0.7895,0.8205,0.0310000000000001

@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,rationale,review_trigger
+DR1,Sensitivity and scenario comparison for strategy robustness,Adaptive Strategy,Strong robustness across plausible scenarios with moderate regret and good flexibility,review if rank reverses under resilience weight or compound stress assumptions

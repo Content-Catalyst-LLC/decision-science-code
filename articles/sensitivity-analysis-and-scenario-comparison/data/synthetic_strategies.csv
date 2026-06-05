@@ -1,0 +1,6 @@
+strategy,base_value,demand_sensitivity,cost_sensitivity,disruption_sensitivity,resilience_buffer,adaptation_capacity,cost_score,resilience_score,flexibility_score,implementation_score,downside_protection,description
+Efficiency Strategy,78,10,16,18,4,3,0.92,0.38,0.44,0.88,0.34,High baseline efficiency but fragile under stress
+Balanced Strategy,75,8,10,11,9,7,0.76,0.72,0.70,0.78,0.66,Moderate performance across most conditions
+Resilience Strategy,70,5.5,8,7,16,5,0.58,0.94,0.68,0.62,0.88,Strong downside protection and stress performance
+Adaptive Strategy,73,7,9,9,12,12,0.70,0.86,0.91,0.71,0.81,Strong under volatile and shifting conditions
+Precautionary Strategy,68,4,6,5,18,6,0.62,0.91,0.74,0.69,0.93,Conservative strategy with strong worst-case protection

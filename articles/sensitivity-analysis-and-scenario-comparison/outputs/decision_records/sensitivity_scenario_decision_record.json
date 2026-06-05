@@ -1,0 +1,407 @@
+{
+  "article": "Sensitivity Analysis and Scenario Comparison",
+  "decision_context": "Testing strategy performance across uncertain scenarios, parameters, regret, and robustness conditions.",
+  "modeling_principles": [
+    "Baseline results should not be treated as final recommendations.",
+    "Decision rankings should be tested under plausible parameter variation.",
+    "Scenarios should represent coherent alternative futures.",
+    "Robustness requires acceptable performance across multiple conditions.",
+    "Regret reveals the cost of being wrong in particular scenarios.",
+    "Threshold analysis identifies when decisions should be reviewed.",
+    "Sensitivity results should be preserved in accountable decision records."
+  ],
+  "robustness_summary": [
+    {
+      "strategy": "Precautionary Strategy",
+      "average_value": 75.338601,
+      "minimum_scenario_average": 66.8409,
+      "worst_observed_value": 50.008843,
+      "volatility": 8.591288,
+      "average_regret": 4.608033,
+      "maximum_regret": 35.660882,
+      "downside_breach_rate": 0.002222,
+      "robustness_score": 52.426896
+    },
+    {
+      "strategy": "Resilience Strategy",
+      "average_value": 72.413064,
+      "minimum_scenario_average": 64.843038,
+      "worst_observed_value": 47.950173,
+      "volatility": 7.73118,
+      "average_regret": 7.53357,
+      "maximum_regret": 46.288469,
+      "downside_breach_rate": 0.007778,
+      "robustness_score": 49.372113
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "average_value": 71.89666,
+      "minimum_scenario_average": 66.120668,
+      "worst_observed_value": 36.431584,
+      "volatility": 8.40081,
+      "average_regret": 8.049974,
+      "maximum_regret": 57.896717,
+      "downside_breach_rate": 0.020222,
+      "robustness_score": 46.076636
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "average_value": 67.960606,
+      "minimum_scenario_average": 59.394723,
+      "worst_observed_value": 28.92159,
+      "volatility": 9.314264,
+      "average_regret": 11.986028,
+      "maximum_regret": 64.01155,
+      "downside_breach_rate": 0.069333,
+      "robustness_score": 40.522079
+    },
+    {
+      "strategy": "Efficiency Strategy",
+      "average_value": 55.893293,
+      "minimum_scenario_average": 34.435574,
+      "worst_observed_value": -1.420862,
+      "volatility": 14.69855,
+      "average_regret": 24.053341,
+      "maximum_regret": 81.784588,
+      "downside_breach_rate": 0.447556,
+      "robustness_score": 20.695766
+    }
+  ],
+  "key_driver_diagnostics": [
+    {
+      "parameter": "demand_shift",
+      "score_range": 71.5,
+      "winner_count": 1,
+      "winning_strategies_observed": "Adaptive Strategy",
+      "driver_flag": "stable"
+    },
+    {
+      "parameter": "disruption_pressure",
+      "score_range": 40.1,
+      "winner_count": 2,
+      "winning_strategies_observed": "Adaptive Strategy; Precautionary Strategy",
+      "driver_flag": "high"
+    },
+    {
+      "parameter": "cost_pressure",
+      "score_range": 25.4,
+      "winner_count": 1,
+      "winning_strategies_observed": "Adaptive Strategy",
+      "driver_flag": "stable"
+    }
+  ],
+  "probabilistic_sensitivity_summary": [
+    {
+      "strategy": "Adaptive Strategy",
+      "average_value": 85.865898,
+      "minimum_value": 52.836428,
+      "maximum_value": 131.832077,
+      "value_volatility": 15.974304,
+      "average_regret": 3.604421,
+      "maximum_regret": 40.769072,
+      "win_rate": 0.486,
+      "downside_breach_rate": 0.002
+    },
+    {
+      "strategy": "Precautionary Strategy",
+      "average_value": 83.41715,
+      "minimum_value": 53.093946,
+      "maximum_value": 119.684739,
+      "value_volatility": 11.441049,
+      "average_regret": 6.053169,
+      "maximum_regret": 38.045994,
+      "win_rate": 0.356333,
+      "downside_breach_rate": 0.001
+    },
+    {
+      "strategy": "Resilience Strategy",
+      "average_value": 80.299036,
+      "minimum_value": 50.552386,
+      "maximum_value": 116.581245,
+      "value_volatility": 11.341571,
+      "average_regret": 9.171283,
+      "maximum_regret": 44.836244,
+      "win_rate": 0.089,
+      "downside_breach_rate": 0.004
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "average_value": 78.018481,
+      "minimum_value": 48.775136,
+      "maximum_value": 122.787033,
+      "value_volatility": 14.143319,
+      "average_regret": 11.451837,
+      "maximum_regret": 43.428901,
+      "win_rate": 0.056667,
+      "downside_breach_rate": 0.014667
+    },
+    {
+      "strategy": "Efficiency Strategy",
+      "average_value": 63.353149,
+      "minimum_value": 14.435558,
+      "maximum_value": 111.595458,
+      "value_volatility": 16.413036,
+      "average_regret": 26.11717,
+      "maximum_regret": 73.510493,
+      "win_rate": 0.012,
+      "downside_breach_rate": 0.325667
+    }
+  ],
+  "threshold_summary": [
+    {
+      "demand_shift": -2.0,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 80.0
+    },
+    {
+      "demand_shift": -1.9,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 79.5
+    },
+    {
+      "demand_shift": -1.8,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 79.0
+    },
+    {
+      "demand_shift": -1.7,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 78.5
+    },
+    {
+      "demand_shift": -1.6,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 78.0
+    },
+    {
+      "demand_shift": -1.5,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 77.5
+    },
+    {
+      "demand_shift": -1.4,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 77.0
+    },
+    {
+      "demand_shift": -1.3,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 76.5
+    },
+    {
+      "demand_shift": -1.2,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 76.0
+    },
+    {
+      "demand_shift": -1.1,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 75.5
+    },
+    {
+      "demand_shift": -1.0,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 75.0
+    },
+    {
+      "demand_shift": -0.9,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 74.5
+    },
+    {
+      "demand_shift": -0.8,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 74.0
+    },
+    {
+      "demand_shift": -0.7,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 73.5
+    },
+    {
+      "demand_shift": -0.6,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 73.0
+    },
+    {
+      "demand_shift": -0.5,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 72.5
+    },
+    {
+      "demand_shift": -0.4,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 72.3
+    },
+    {
+      "demand_shift": -0.3,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 72.1
+    },
+    {
+      "demand_shift": -0.2,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 71.9
+    },
+    {
+      "demand_shift": -0.1,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 71.7
+    },
+    {
+      "demand_shift": 0.0,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 71.5
+    },
+    {
+      "demand_shift": 0.1,
+      "winning_strategy": "Precautionary Strategy",
+      "winning_value": 72.5
+    },
+    {
+      "demand_shift": 0.2,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 73.8
+    },
+    {
+      "demand_shift": 0.3,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 75.7
+    },
+    {
+      "demand_shift": 0.4,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 77.6
+    },
+    {
+      "demand_shift": 0.5,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 79.5
+    },
+    {
+      "demand_shift": 0.6,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 81.4
+    },
+    {
+      "demand_shift": 0.7,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 83.3
+    },
+    {
+      "demand_shift": 0.8,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 85.2
+    },
+    {
+      "demand_shift": 0.9,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 87.1
+    },
+    {
+      "demand_shift": 1.0,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 89.0
+    },
+    {
+      "demand_shift": 1.1,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 90.9
+    },
+    {
+      "demand_shift": 1.2,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 92.8
+    },
+    {
+      "demand_shift": 1.3,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 94.7
+    },
+    {
+      "demand_shift": 1.4,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 96.6
+    },
+    {
+      "demand_shift": 1.5,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 98.5
+    },
+    {
+      "demand_shift": 1.6,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 100.4
+    },
+    {
+      "demand_shift": 1.7,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 102.3
+    },
+    {
+      "demand_shift": 1.8,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 104.2
+    },
+    {
+      "demand_shift": 1.9,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 106.1
+    },
+    {
+      "demand_shift": 2.0,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 108.0
+    },
+    {
+      "demand_shift": 2.1,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 109.9
+    },
+    {
+      "demand_shift": 2.2,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 111.8
+    },
+    {
+      "demand_shift": 2.3,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 113.7
+    },
+    {
+      "demand_shift": 2.4,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 115.6
+    },
+    {
+      "demand_shift": 2.5,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 117.5
+    },
+    {
+      "demand_shift": 2.6,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 119.4
+    },
+    {
+      "demand_shift": 2.7,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 121.3
+    },
+    {
+      "demand_shift": 2.8,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 123.2
+    },
+    {
+      "demand_shift": 2.9,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 125.1
+    },
+    {
+      "demand_shift": 3.0,
+      "winning_strategy": "Adaptive Strategy",
+      "winning_value": 127.0
+    }
+  ]
+}

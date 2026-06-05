@@ -1,0 +1,4 @@
+parameter,score_range,winner_count,winning_strategies_observed,driver_flag
+demand_shift,71.5,1,Adaptive Strategy,stable
+disruption_pressure,40.1,2,Adaptive Strategy; Precautionary Strategy,high
+cost_pressure,25.4,1,Adaptive Strategy,stable

@@ -1,0 +1,6 @@
+threshold_id,parameter,threshold_direction,threshold_value,interpretation
+TH1,resilience_weight,above,0.35,Review if resilience value weight becomes dominant
+TH2,cost_pressure,above,1.00,Review if cost stress exceeds expected range
+TH3,disruption_pressure,above,1.25,Escalate if disruption approaches climate or compound stress
+TH4,downside_breach_rate,above,0.15,Review strategies with high unacceptable-outcome frequency
+TH5,maximum_regret,above,20,Review if regret exposure is too high

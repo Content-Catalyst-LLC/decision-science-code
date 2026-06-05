@@ -1,0 +1,5 @@
+"strategy","maximum_regret","minimax_regret_rank","robustness_share","robustness_rank","historical_profile"
+"Balanced",36,1,0.75,2,"robust regret-minimization candidate"
+"Adaptive",40,2,0.75,2,"classical expected-value candidate"
+"Defensive",66,3,1,1,"robust threshold candidate"
+"Aggressive",134,4,0.5,4,"comparison strategy"

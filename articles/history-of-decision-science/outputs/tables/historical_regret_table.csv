@@ -1,0 +1,17 @@
+scenario,strategy,payoff,best_payoff,regret
+Stable Growth,Aggressive,128.0,128.0,0.0
+Stable Growth,Balanced,92.0,128.0,36.0
+Stable Growth,Defensive,62.0,128.0,66.0
+Stable Growth,Adaptive,88.0,128.0,40.0
+Moderate Shock,Aggressive,50.0,70.0,20.0
+Moderate Shock,Balanced,68.0,70.0,2.0
+Moderate Shock,Defensive,58.0,70.0,12.0
+Moderate Shock,Adaptive,70.0,70.0,0.0
+Severe Disruption,Aggressive,-90.0,44.0,134.0
+Severe Disruption,Balanced,18.0,44.0,26.0
+Severe Disruption,Defensive,44.0,44.0,0.0
+Severe Disruption,Adaptive,36.0,44.0,8.0
+Institutional Constraint,Aggressive,-20.0,72.0,92.0
+Institutional Constraint,Balanced,42.0,72.0,30.0
+Institutional Constraint,Defensive,54.0,72.0,18.0
+Institutional Constraint,Adaptive,72.0,72.0,0.0

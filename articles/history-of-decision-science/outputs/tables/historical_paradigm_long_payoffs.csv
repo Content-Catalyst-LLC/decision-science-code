@@ -1,0 +1,17 @@
+"scenario","objective_probability","subjective_probability","strategy","payoff"
+"Stable Growth",0.42,0.3,"Aggressive",128
+"Moderate Shock",0.28,0.34,"Aggressive",50
+"Severe Disruption",0.18,0.24,"Aggressive",-90
+"Institutional Constraint",0.12,0.12,"Aggressive",-20
+"Stable Growth",0.42,0.3,"Balanced",92
+"Moderate Shock",0.28,0.34,"Balanced",68
+"Severe Disruption",0.18,0.24,"Balanced",18
+"Institutional Constraint",0.12,0.12,"Balanced",42
+"Stable Growth",0.42,0.3,"Defensive",62
+"Moderate Shock",0.28,0.34,"Defensive",58
+"Severe Disruption",0.18,0.24,"Defensive",44
+"Institutional Constraint",0.12,0.12,"Defensive",54
+"Stable Growth",0.42,0.3,"Adaptive",88
+"Moderate Shock",0.28,0.34,"Adaptive",70
+"Severe Disruption",0.18,0.24,"Adaptive",36
+"Institutional Constraint",0.12,0.12,"Adaptive",72

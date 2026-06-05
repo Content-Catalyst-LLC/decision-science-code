@@ -1,0 +1,5 @@
+scenario,objective_probability,subjective_probability,pessimistic_probability,optimistic_probability
+Stable Growth,0.42,0.30,0.24,0.56
+Moderate Shock,0.28,0.34,0.30,0.26
+Severe Disruption,0.18,0.24,0.30,0.10
+Institutional Constraint,0.12,0.12,0.16,0.08

@@ -1,0 +1,125 @@
+{
+  "article": "The History of Decision Science",
+  "decision_context": "Comparison of historical decision paradigms under uncertainty.",
+  "historical_interpretation": "Different eras of decision science emphasize different criteria: expectation, utility, subjective belief, bounded rationality, regret, and robustness.",
+  "robust_candidate": "Defensive",
+  "strategy_summary": [
+    {
+      "strategy": "Defensive",
+      "expected_value": 56.68,
+      "expected_utility": 0.593948,
+      "subjective_expected_utility": 0.585051,
+      "minimum_payoff": 44.0,
+      "maximum_payoff": 62.0,
+      "payoff_sd": 6.6895,
+      "maximum_regret": 66.0,
+      "average_regret": 24.0,
+      "robustness_share": 1.0,
+      "satisficing_share": 0.75
+    },
+    {
+      "strategy": "Balanced",
+      "expected_value": 65.96,
+      "expected_utility": 0.613056,
+      "subjective_expected_utility": 0.575393,
+      "minimum_payoff": 18.0,
+      "maximum_payoff": 92.0,
+      "payoff_sd": 27.7308,
+      "maximum_regret": 36.0,
+      "average_regret": 23.5,
+      "robustness_share": 0.75,
+      "satisficing_share": 0.5
+    },
+    {
+      "strategy": "Adaptive",
+      "expected_value": 71.68,
+      "expected_utility": 0.66679,
+      "subjective_expected_utility": 0.642841,
+      "minimum_payoff": 36.0,
+      "maximum_payoff": 88.0,
+      "payoff_sd": 18.9407,
+      "maximum_regret": 40.0,
+      "average_regret": 12.0,
+      "robustness_share": 0.75,
+      "satisficing_share": 0.75
+    },
+    {
+      "strategy": "Aggressive",
+      "expected_value": 49.16,
+      "expected_utility": -0.10497,
+      "subjective_expected_utility": -0.369692,
+      "minimum_payoff": -90.0,
+      "maximum_payoff": 128.0,
+      "payoff_sd": 80.9753,
+      "maximum_regret": 134.0,
+      "average_regret": 61.5,
+      "robustness_share": 0.5,
+      "satisficing_share": 0.5
+    }
+  ],
+  "simulation_summary": [
+    {
+      "agent": "Satisficing",
+      "average_payoff": 83.686,
+      "minimum_payoff": 44.0,
+      "maximum_payoff": 128.0,
+      "payoff_sd": 37.9172,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 1.0
+    },
+    {
+      "agent": "Expected Value",
+      "average_payoff": 71.234,
+      "minimum_payoff": 36.0,
+      "maximum_payoff": 88.0,
+      "payoff_sd": 18.7333,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.811
+    },
+    {
+      "agent": "Expected Utility",
+      "average_payoff": 71.234,
+      "minimum_payoff": 36.0,
+      "maximum_payoff": 88.0,
+      "payoff_sd": 18.7333,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.811
+    },
+    {
+      "agent": "Subjective Expected Utility",
+      "average_payoff": 71.234,
+      "minimum_payoff": 36.0,
+      "maximum_payoff": 88.0,
+      "payoff_sd": 18.7333,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.811
+    },
+    {
+      "agent": "Noisy Expected Value",
+      "average_payoff": 68.716,
+      "minimum_payoff": -90.0,
+      "maximum_payoff": 128.0,
+      "payoff_sd": 23.1148,
+      "loss_frequency": 0.002,
+      "acceptable_frequency": 0.816
+    },
+    {
+      "agent": "Robust Minimax Regret",
+      "average_payoff": 65.266,
+      "minimum_payoff": 18.0,
+      "maximum_payoff": 92.0,
+      "payoff_sd": 28.0144,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.811
+    }
+  ],
+  "modeling_principles": [
+    "Expected value represents early probability-weighted payoff reasoning.",
+    "Expected utility represents subjective valuation and risk attitude.",
+    "Subjective expected utility represents coherent belief under uncertainty.",
+    "Satisficing represents bounded rationality and limited search.",
+    "Minimax regret represents robust decision-making under uncertain futures.",
+    "Noisy expected value represents judgment under imperfect attention and estimation noise.",
+    "Computational models support historical interpretation but do not replace judgment."
+  ]
+}

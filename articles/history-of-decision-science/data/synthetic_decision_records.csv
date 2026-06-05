@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,decision_rule,rationale,review_trigger
+DR1,Historical paradigm comparison under uncertainty,Adaptive,Robustness and minimax regret,Strong robustness with low regret across stylized futures,scenario probabilities or institutional constraints change

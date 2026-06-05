@@ -1,0 +1,7 @@
+agent,noise_scale,search_threshold,bias_note
+Expected Value,0,NA,Formal probability-weighted payoff
+Expected Utility,0,NA,Formal probability-weighted utility
+Subjective Expected Utility,0,NA,Coherent subjective belief
+Satisficing,0,50,Bounded rationality with aspiration threshold
+Noisy Expected Value,8,NA,Judgment with estimation noise
+Robust Minimax Regret,0,NA,Downside opportunity-loss protection

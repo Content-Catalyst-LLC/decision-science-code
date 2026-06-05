@@ -1,0 +1,5 @@
+"strategy","satisficing_share","minimum_payoff","robustness_share"
+"Defensive",0.75,44,1
+"Adaptive",0.75,36,0.75
+"Balanced",0.5,18,0.75
+"Aggressive",0.5,-90,0.5

@@ -1,0 +1,5 @@
+"strategy","expected_monetary_value","expected_utility","subjective_expected_utility","minimum_payoff","maximum_payoff","maximum_regret","average_regret","robustness_share","satisficing_share","emv_rank","eu_rank","subjective_eu_rank","minimax_regret_rank","robustness_rank","historical_profile"
+"Defensive",56.68,0.59394812702827,0.585051448420464,44,62,66,24,1,0.75,3,3,2,3,1,"robust threshold candidate"
+"Balanced",65.96,0.613055724132268,0.575392583874695,18,92,36,23.5,0.75,0.5,2,2,3,1,2,"robust regret-minimization candidate"
+"Adaptive",71.68,0.666790057427659,0.642840570038307,36,88,40,12,0.75,0.75,1,1,1,2,2,"classical expected-value candidate"
+"Aggressive",49.16,-0.104969593767854,-0.369691964910298,-90,128,134,61.5,0.5,0.5,4,4,4,4,4,"comparison strategy"

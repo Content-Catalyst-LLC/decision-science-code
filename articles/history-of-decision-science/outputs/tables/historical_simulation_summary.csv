@@ -1,0 +1,7 @@
+agent,average_payoff,minimum_payoff,maximum_payoff,payoff_sd,loss_frequency,acceptable_frequency
+Satisficing,83.686,44.0,128.0,37.9172,0.0,1.0
+Expected Value,71.234,36.0,88.0,18.7333,0.0,0.811
+Expected Utility,71.234,36.0,88.0,18.7333,0.0,0.811
+Subjective Expected Utility,71.234,36.0,88.0,18.7333,0.0,0.811
+Noisy Expected Value,68.716,-90.0,128.0,23.1148,0.002,0.816
+Robust Minimax Regret,65.266,18.0,92.0,28.0144,0.0,0.811

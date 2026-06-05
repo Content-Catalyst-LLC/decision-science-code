@@ -1,0 +1,5 @@
+"strategy","expected_utility","eu_rank","expected_monetary_value","emv_rank"
+"Adaptive",0.666790057427659,1,71.68,1
+"Balanced",0.613055724132268,2,65.96,2
+"Defensive",0.59394812702827,3,56.68,3
+"Aggressive",-0.104969593767854,4,49.16,4

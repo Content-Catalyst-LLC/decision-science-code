@@ -1,0 +1,5 @@
+strategy,expected_value,expected_utility,subjective_expected_utility,minimum_payoff,maximum_payoff,payoff_sd,maximum_regret,average_regret,robustness_share,satisficing_share
+Defensive,56.68,0.593948,0.585051,44.0,62.0,6.6895,66.0,24.0,1.0,0.75
+Balanced,65.96,0.613056,0.575393,18.0,92.0,27.7308,36.0,23.5,0.75,0.5
+Adaptive,71.68,0.66679,0.642841,36.0,88.0,18.9407,40.0,12.0,0.75,0.75
+Aggressive,49.16,-0.10497,-0.369692,-90.0,128.0,80.9753,134.0,61.5,0.5,0.5

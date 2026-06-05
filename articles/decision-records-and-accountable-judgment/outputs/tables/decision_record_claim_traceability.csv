@@ -1,0 +1,13 @@
+"claim_id","record_id","claim","evidence_linked","evidence_quality","evidence_linked_logical"
+"C1","DR-001","Model accuracy is sufficient for deployment","true",0.78,TRUE
+"C2","DR-001","Human oversight process is operational","true",0.7,TRUE
+"C3","DR-001","Stakeholder appeal channel is available","false",0.4,FALSE
+"C4","DR-002","Demand growth supports investment","true",0.82,TRUE
+"C5","DR-002","Climate risk remains within design tolerance","true",0.76,TRUE
+"C6","DR-002","Capital cost remains below ceiling","true",0.8,TRUE
+"C7","DR-003","Protocol reduces variation in care","true",0.86,TRUE
+"C8","DR-003","Patient risk remains within tolerance","false",0.55,FALSE
+"C9","DR-004","Market demand will grow quickly","false",0.35,FALSE
+"C10","DR-004","Operational capacity can scale","false",0.42,FALSE
+"C11","DR-005","Pathway preserves reversibility","true",0.88,TRUE
+"C12","DR-005","Monitoring indicators are measurable","true",0.84,TRUE

@@ -1,0 +1,92 @@
+{
+  "article": "Decision Records and Accountable Judgment",
+  "purpose": "Preserve the reasoning architecture behind consequential decisions.",
+  "record_fields": {
+    "decision_frame": "",
+    "decision_owner": "",
+    "alternatives_considered": [],
+    "evidence": [],
+    "assumptions": [],
+    "uncertainties": [],
+    "criteria": [],
+    "tradeoffs": [],
+    "dissent": [],
+    "selected_action": "",
+    "rationale": "",
+    "implementation_owner": "",
+    "monitoring_indicators": [],
+    "review_triggers": []
+  },
+  "audit_summary": [
+    {
+      "record_id": "DR-004",
+      "context": "Strategic market entry",
+      "record_quality": 0.5118,
+      "minimum_component": 0.3,
+      "accountable_judgment_score": 0.4483,
+      "traceability_share": 0.0,
+      "average_evidence_quality": 0.385,
+      "average_assumption_risk": 0.5214,
+      "critical_monitoring_gaps": 2,
+      "active_review_triggers": 1,
+      "review_priority_score": 0.6307,
+      "review_priority": "high"
+    },
+    {
+      "record_id": "DR-003",
+      "context": "Healthcare protocol change",
+      "record_quality": 0.8172,
+      "minimum_component": 0.64,
+      "accountable_judgment_score": 0.764,
+      "traceability_share": 0.5,
+      "average_evidence_quality": 0.705,
+      "average_assumption_risk": 0.1644,
+      "critical_monitoring_gaps": 1,
+      "active_review_triggers": 1,
+      "review_priority_score": 0.2988,
+      "review_priority": "medium"
+    },
+    {
+      "record_id": "DR-001",
+      "context": "AI deployment approval",
+      "record_quality": 0.808,
+      "minimum_component": 0.62,
+      "accountable_judgment_score": 0.7516,
+      "traceability_share": 0.6667,
+      "average_evidence_quality": 0.6267,
+      "average_assumption_risk": 0.2714,
+      "critical_monitoring_gaps": 0,
+      "active_review_triggers": 1,
+      "review_priority_score": 0.2412,
+      "review_priority": "low"
+    },
+    {
+      "record_id": "DR-002",
+      "context": "Infrastructure investment",
+      "record_quality": 0.9036,
+      "minimum_component": 0.72,
+      "accountable_judgment_score": 0.8485,
+      "traceability_share": 1.0,
+      "average_evidence_quality": 0.7933,
+      "average_assumption_risk": 0.2158,
+      "critical_monitoring_gaps": 0,
+      "active_review_triggers": 0,
+      "review_priority_score": 0.0962,
+      "review_priority": "low"
+    },
+    {
+      "record_id": "DR-005",
+      "context": "Climate adaptation pathway",
+      "record_quality": 0.9699,
+      "minimum_component": 0.8,
+      "accountable_judgment_score": 0.9189,
+      "traceability_share": 1.0,
+      "average_evidence_quality": 0.86,
+      "average_assumption_risk": 0.2524,
+      "critical_monitoring_gaps": 0,
+      "active_review_triggers": 0,
+      "review_priority_score": 0.0789,
+      "review_priority": "low"
+    }
+  ]
+}

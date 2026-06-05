@@ -1,0 +1,6 @@
+"record_id","decision_context","decision_record_quality","minimum_component_score","quality_profile"
+"DR-005","Climate adaptation pathway",0.8819,0.8,"strong accountable judgment record"
+"DR-002","Infrastructure investment",0.822,0.72,"usable record with improvement needs"
+"DR-003","Healthcare protocol change",0.7432,0.64,"usable record with improvement needs"
+"DR-001","AI deployment approval",0.7352,0.62,"usable record with improvement needs"
+"DR-004","Strategic market entry",0.4658,0.3,"fragile or incomplete decision record"

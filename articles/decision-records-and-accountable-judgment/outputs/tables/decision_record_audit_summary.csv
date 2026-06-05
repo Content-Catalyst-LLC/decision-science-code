@@ -1,0 +1,6 @@
+record_id,context,record_quality,minimum_component,accountable_judgment_score,traceability_share,average_evidence_quality,average_assumption_risk,critical_monitoring_gaps,active_review_triggers,review_priority_score,review_priority
+DR-004,Strategic market entry,0.5118,0.3,0.4483,0.0,0.385,0.5214,2,1,0.6307,high
+DR-003,Healthcare protocol change,0.8172,0.64,0.764,0.5,0.705,0.1644,1,1,0.2988,medium
+DR-001,AI deployment approval,0.808,0.62,0.7516,0.6667,0.6267,0.2714,0,1,0.2412,low
+DR-002,Infrastructure investment,0.9036,0.72,0.8485,1.0,0.7933,0.2158,0,0,0.0962,low
+DR-005,Climate adaptation pathway,0.9699,0.8,0.9189,1.0,0.86,0.2524,0,0,0.0789,low

@@ -1,0 +1,6 @@
+"record_id","decision_context","review_priority_score","review_priority","active_review_triggers","critical_monitoring_gaps"
+"DR-004","Strategic market entry",0.609325344447449,"high",1,2
+"DR-003","Healthcare protocol change",0.301574522057569,"medium",1,1
+"DR-001","AI deployment approval",0.242898873046051,"low",1,0
+"DR-002","Infrastructure investment",0.1050554951685,"low",0,0
+"DR-005","Climate adaptation pathway",0.0932731915425487,"low",0,0

@@ -1,0 +1,61 @@
+period,signal_id,record_id,indicator,value,lower_bound,upper_bound,review_owner,review_trigger_active
+1,T1,DR-001,model_drift,0.3285,0.0,0.3,AI governance board,True
+2,T1,DR-001,model_drift,0.3146,0.0,0.3,AI governance board,True
+3,T1,DR-001,model_drift,0.3057,0.0,0.3,AI governance board,True
+4,T1,DR-001,model_drift,0.3619,0.0,0.3,AI governance board,True
+5,T1,DR-001,model_drift,0.3517,0.0,0.3,AI governance board,True
+6,T1,DR-001,model_drift,0.2319,0.0,0.3,AI governance board,False
+7,T1,DR-001,model_drift,0.2585,0.0,0.3,AI governance board,False
+8,T1,DR-001,model_drift,0.2371,0.0,0.3,AI governance board,False
+9,T1,DR-001,model_drift,0.2197,0.0,0.3,AI governance board,False
+10,T1,DR-001,model_drift,0.229,0.0,0.3,AI governance board,False
+11,T1,DR-001,model_drift,0.2476,0.0,0.3,AI governance board,False
+12,T1,DR-001,model_drift,0.3407,0.0,0.3,AI governance board,True
+1,T2,DR-002,cost_escalation,0.1725,0.0,0.15,infrastructure review committee,True
+2,T2,DR-002,cost_escalation,0.1814,0.0,0.15,infrastructure review committee,True
+3,T2,DR-002,cost_escalation,0.1223,0.0,0.15,infrastructure review committee,False
+4,T2,DR-002,cost_escalation,0.0411,0.0,0.15,infrastructure review committee,False
+5,T2,DR-002,cost_escalation,0.0608,0.0,0.15,infrastructure review committee,False
+6,T2,DR-002,cost_escalation,0.1657,0.0,0.15,infrastructure review committee,True
+7,T2,DR-002,cost_escalation,0.1691,0.0,0.15,infrastructure review committee,True
+8,T2,DR-002,cost_escalation,0.1606,0.0,0.15,infrastructure review committee,True
+9,T2,DR-002,cost_escalation,0.2031,0.0,0.15,infrastructure review committee,True
+10,T2,DR-002,cost_escalation,0.0868,0.0,0.15,infrastructure review committee,False
+11,T2,DR-002,cost_escalation,0.0618,0.0,0.15,infrastructure review committee,False
+12,T2,DR-002,cost_escalation,0.1011,0.0,0.15,infrastructure review committee,False
+1,T3,DR-003,adverse_event_rate,0.1199,0.0,0.04,clinical governance lead,True
+2,T3,DR-003,adverse_event_rate,0.1006,0.0,0.04,clinical governance lead,True
+3,T3,DR-003,adverse_event_rate,0.1307,0.0,0.04,clinical governance lead,True
+4,T3,DR-003,adverse_event_rate,0.1506,0.0,0.04,clinical governance lead,True
+5,T3,DR-003,adverse_event_rate,0.2132,0.0,0.04,clinical governance lead,True
+6,T3,DR-003,adverse_event_rate,0.1241,0.0,0.04,clinical governance lead,True
+7,T3,DR-003,adverse_event_rate,0.1696,0.0,0.04,clinical governance lead,True
+8,T3,DR-003,adverse_event_rate,0.0484,0.0,0.04,clinical governance lead,True
+9,T3,DR-003,adverse_event_rate,-0.1612,0.0,0.04,clinical governance lead,True
+10,T3,DR-003,adverse_event_rate,-0.2097,0.0,0.04,clinical governance lead,True
+11,T3,DR-003,adverse_event_rate,-0.283,0.0,0.04,clinical governance lead,True
+12,T3,DR-003,adverse_event_rate,-0.2129,0.0,0.04,clinical governance lead,True
+1,T4,DR-004,market_growth,0.0931,0.06,0.16,strategy committee,False
+2,T4,DR-004,market_growth,-0.0044,0.06,0.16,strategy committee,True
+3,T4,DR-004,market_growth,0.0634,0.06,0.16,strategy committee,False
+4,T4,DR-004,market_growth,-0.0168,0.06,0.16,strategy committee,True
+5,T4,DR-004,market_growth,-0.0237,0.06,0.16,strategy committee,True
+6,T4,DR-004,market_growth,-0.0472,0.06,0.16,strategy committee,True
+7,T4,DR-004,market_growth,-0.038,0.06,0.16,strategy committee,True
+8,T4,DR-004,market_growth,0.0275,0.06,0.16,strategy committee,True
+9,T4,DR-004,market_growth,0.0785,0.06,0.16,strategy committee,False
+10,T4,DR-004,market_growth,0.1065,0.06,0.16,strategy committee,False
+11,T4,DR-004,market_growth,0.1585,0.06,0.16,strategy committee,False
+12,T4,DR-004,market_growth,0.1968,0.06,0.16,strategy committee,True
+1,T5,DR-005,flood_frequency_index,0.3298,0.0,0.45,climate adaptation steering group,False
+2,T5,DR-005,flood_frequency_index,0.2725,0.0,0.45,climate adaptation steering group,False
+3,T5,DR-005,flood_frequency_index,0.2349,0.0,0.45,climate adaptation steering group,False
+4,T5,DR-005,flood_frequency_index,0.2748,0.0,0.45,climate adaptation steering group,False
+5,T5,DR-005,flood_frequency_index,0.2548,0.0,0.45,climate adaptation steering group,False
+6,T5,DR-005,flood_frequency_index,0.4417,0.0,0.45,climate adaptation steering group,False
+7,T5,DR-005,flood_frequency_index,0.3761,0.0,0.45,climate adaptation steering group,False
+8,T5,DR-005,flood_frequency_index,0.2882,0.0,0.45,climate adaptation steering group,False
+9,T5,DR-005,flood_frequency_index,0.3497,0.0,0.45,climate adaptation steering group,False
+10,T5,DR-005,flood_frequency_index,0.4634,0.0,0.45,climate adaptation steering group,True
+11,T5,DR-005,flood_frequency_index,0.5039,0.0,0.45,climate adaptation steering group,True
+12,T5,DR-005,flood_frequency_index,0.5707,0.0,0.45,climate adaptation steering group,True

@@ -1,0 +1,6 @@
+"trigger_id","record_id","indicator","baseline","lower_bound","upper_bound","current_value","review_owner","active_review_trigger"
+"T1","DR-001","model_drift",0.1,0,0.3,0.34,"AI governance board",TRUE
+"T2","DR-002","cost_escalation",0.05,0,0.15,0.12,"infrastructure review committee",FALSE
+"T3","DR-003","adverse_event_rate",0.02,0,0.04,0.05,"clinical governance lead",TRUE
+"T4","DR-004","market_growth",0.08,0.06,0.16,0.04,"strategy committee",TRUE
+"T5","DR-005","flood_frequency_index",0.2,0,0.45,0.38,"climate adaptation steering group",FALSE

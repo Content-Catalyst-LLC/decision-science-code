@@ -1,0 +1,11 @@
+assumption_id,record_id,assumption,confidence,criticality,monitored
+A1,DR-001,Model performance remains stable after deployment,0.62,0.86,true
+A2,DR-001,Human review capacity remains available,0.70,0.72,true
+A3,DR-002,Construction cost escalation remains below 15 percent,0.68,0.78,true
+A4,DR-002,Service demand follows medium-growth scenario,0.74,0.70,true
+A5,DR-003,Clinician adoption exceeds minimum threshold,0.80,0.66,true
+A6,DR-003,Adverse-event rate remains below safety threshold,0.76,0.82,false
+A7,DR-004,Market growth exceeds 8 percent,0.42,0.90,false
+A8,DR-004,Hiring capacity scales within two quarters,0.38,0.84,false
+A9,DR-005,Climate scenario remains within adaptation envelope,0.72,0.88,true
+A10,DR-005,Funding remains available for staged pathway,0.66,0.76,true

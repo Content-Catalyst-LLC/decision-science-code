@@ -1,0 +1,6 @@
+"record_id","decision_context","traceability_share","claim_evidence_quality"
+"DR-004","Strategic market entry",0,0.385
+"DR-003","Healthcare protocol change",0.5,0.705
+"DR-001","AI deployment approval",0.666666666666667,0.626666666666667
+"DR-005","Climate adaptation pathway",1,0.86
+"DR-002","Infrastructure investment",1,0.793333333333333

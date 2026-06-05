@@ -1,0 +1,12 @@
+component,weight,description
+frame_quality,0.09,Clarity of decision frame owner scope timing and objectives
+alternative_quality,0.08,Quality and diversity of alternatives considered
+evidence_quality,0.10,Relevance reliability and traceability of evidence
+assumption_clarity,0.10,Clarity and reviewability of assumptions
+uncertainty_quality,0.11,Honesty and usefulness of uncertainty representation
+tradeoff_transparency,0.09,Visibility of criteria values weights thresholds and sacrifices
+dissent_preservation,0.08,Quality of preserved disagreement and minority views
+rationale_quality,0.09,Coherence of the reason for the selected action
+monitoring_quality,0.08,Quality of monitoring indicators tied to assumptions
+review_trigger_quality,0.08,Specificity and usefulness of review triggers
+accountability_quality,0.10,Clarity of decision rights ownership and review responsibility

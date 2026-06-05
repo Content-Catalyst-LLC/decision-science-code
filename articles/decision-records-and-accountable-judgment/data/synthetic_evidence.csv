@@ -1,0 +1,7 @@
+evidence_id,claim_id,evidence_type,source_quality,uncertainty_note
+E1,C1,validation study,high,external performance may drift after deployment
+E2,C2,operations review,medium,review capacity depends on staffing
+E3,C4,demand forecast,medium,forecast sensitive to economic conditions
+E4,C5,climate scenario analysis,medium,tail scenarios remain uncertain
+E5,C7,clinical audit,high,local adoption may vary
+E6,C11,scenario pathway analysis,high,depends on funding continuity

@@ -1,0 +1,10 @@
+criterion,weight,description
+framing_quality,0.12,Clarity of decision frame objectives alternatives and constraints
+uncertainty_handling,0.14,Quality of uncertainty representation
+tradeoff_transparency,0.12,Clarity of criteria weights thresholds and value conflicts
+behavioral_safeguards,0.10,Protection against bias framing and group judgment failure
+systems_awareness,0.11,Attention to feedback delay spillovers and consequences
+robustness,0.14,Acceptable performance across plausible futures
+adaptability,0.12,Capacity to learn revise and preserve options
+evidence_quality,0.08,Strength relevance and traceability of evidence
+decision_record_completeness,0.07,Completeness of accountability and learning record

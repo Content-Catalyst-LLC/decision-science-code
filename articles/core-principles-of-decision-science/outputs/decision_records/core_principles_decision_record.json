@@ -1,0 +1,70 @@
+{
+  "article": "Core Principles of Decision Science",
+  "decision_context": "Adaptive decision-quality simulation under uncertainty.",
+  "selected_strategy": "Evidence-First Pilot",
+  "interpretation": "The selected strategy has the strongest simulated performance across uncertainty, learning, robustness, and review-trigger conditions.",
+  "modeling_principles": [
+    "Define the decision before modeling options.",
+    "Represent uncertainty honestly.",
+    "Surface trade-offs explicitly.",
+    "Use sensitivity and scenario comparison.",
+    "Account for systems consequences.",
+    "Prefer robustness and adaptability under deep uncertainty.",
+    "Document decision records for accountability and learning.",
+    "Treat computational models as supports for judgment."
+  ],
+  "summary": [
+    {
+      "strategy": "Evidence-First Pilot",
+      "final_value": 339.6981,
+      "minimum_value": 99.8739,
+      "average_value": 198.807,
+      "value_sd": 69.8525,
+      "average_growth_rate": 2.0707,
+      "review_trigger_frequency": 0.05
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "final_value": 259.0898,
+      "minimum_value": 98.3544,
+      "average_value": 163.6823,
+      "value_sd": 44.8486,
+      "average_growth_rate": 1.6102,
+      "review_trigger_frequency": 0.05
+    },
+    {
+      "strategy": "Adaptive Learning Strategy",
+      "final_value": 254.8544,
+      "minimum_value": 101.4396,
+      "average_value": 171.083,
+      "value_sd": 47.6149,
+      "average_growth_rate": 1.5813,
+      "review_trigger_frequency": 0.0167
+    },
+    {
+      "strategy": "Balanced Adaptation",
+      "final_value": 236.2447,
+      "minimum_value": 101.5541,
+      "average_value": 157.208,
+      "value_sd": 41.1787,
+      "average_growth_rate": 1.4561,
+      "review_trigger_frequency": 0.0667
+    },
+    {
+      "strategy": "Fast Expansion",
+      "final_value": 105.132,
+      "minimum_value": 92.1401,
+      "average_value": 100.076,
+      "value_sd": 4.6027,
+      "average_growth_rate": 0.1192,
+      "review_trigger_frequency": 0.1833
+    }
+  ],
+  "review_triggers": [
+    "performance falls below threshold",
+    "system stress rises above tolerance",
+    "belief quality deteriorates",
+    "new evidence changes assumptions",
+    "trade-off weights are contested"
+  ]
+}

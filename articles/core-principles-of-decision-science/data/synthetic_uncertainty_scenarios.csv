@@ -1,0 +1,6 @@
+scenario,probability,shock_mean,shock_sd,system_stress,learning_opportunity
+Stable baseline,0.38,0.15,1.00,0.12,0.20
+Moderate volatility,0.26,-0.10,1.80,0.32,0.45
+System stress,0.18,-0.45,2.20,0.68,0.70
+Rapid change,0.12,0.05,2.60,0.50,0.90
+Adverse shock,0.06,-1.20,3.20,0.88,0.75

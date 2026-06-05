@@ -1,0 +1,6 @@
+strategy,base_gain,uncertainty_load,robustness,learning_capacity,reversibility,evidence_quality,decision_record_completeness
+Fast Expansion,1.45,1.25,0.32,0.36,0.40,0.55,0.35
+Balanced Adaptation,1.20,0.82,0.72,0.76,0.70,0.78,0.74
+Resilient Strategy,1.02,0.64,0.92,0.80,0.78,0.82,0.80
+Adaptive Learning Strategy,1.12,0.70,0.84,0.94,0.90,0.86,0.92
+Evidence-First Pilot,0.92,0.52,0.78,0.88,0.94,0.95,0.96

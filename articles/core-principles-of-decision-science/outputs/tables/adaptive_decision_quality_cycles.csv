@@ -1,0 +1,301 @@
+cycle,strategy,environment,value,growth_rate,belief_quality,trigger_review
+1,Fast Expansion,Moderate volatility,101.7544,1.7544,0.5567,True
+2,Fast Expansion,Stable baseline,103.3088,1.5276,0.5617,True
+3,Fast Expansion,System stress,100.1037,-3.1024,0.5702,True
+4,Fast Expansion,Stable baseline,99.182,-0.9207,0.5752,True
+5,Fast Expansion,Moderate volatility,100.8197,1.6512,0.5819,True
+6,Fast Expansion,Moderate volatility,101.9133,1.0847,0.5886,True
+7,Fast Expansion,Stable baseline,103.6605,1.7145,0.5936,True
+8,Fast Expansion,Moderate volatility,106.0905,2.3441,0.6003,False
+9,Fast Expansion,Stable baseline,105.6012,-0.4612,0.6053,False
+10,Fast Expansion,Stable baseline,105.9118,0.2942,0.6102,False
+11,Fast Expansion,System stress,104.6094,-1.2297,0.6187,False
+12,Fast Expansion,Stable baseline,105.0612,0.4319,0.6237,False
+13,Fast Expansion,Adverse shock,102.0748,-2.8425,0.6326,True
+14,Fast Expansion,Stable baseline,103.7788,1.6693,0.6375,False
+15,Fast Expansion,Rapid change,99.5944,-4.032,0.6475,False
+16,Fast Expansion,System stress,96.0358,-3.5731,0.656,False
+17,Fast Expansion,Moderate volatility,97.8853,1.9259,0.6628,False
+18,Fast Expansion,Moderate volatility,98.363,0.488,0.6695,False
+19,Fast Expansion,Rapid change,94.3287,-4.1014,0.6795,False
+20,Fast Expansion,Moderate volatility,92.1401,-2.3202,0.6862,False
+21,Fast Expansion,System stress,92.8861,0.8097,0.6948,False
+22,Fast Expansion,Stable baseline,94.3461,1.5719,0.6997,False
+23,Fast Expansion,Stable baseline,95.7472,1.485,0.7047,False
+24,Fast Expansion,Stable baseline,97.3892,1.715,0.7096,False
+25,Fast Expansion,Moderate volatility,96.7763,-0.6294,0.7163,False
+26,Fast Expansion,Stable baseline,98.5793,1.8631,0.7213,False
+27,Fast Expansion,Stable baseline,100.7543,2.2063,0.7262,False
+28,Fast Expansion,Moderate volatility,100.2994,-0.4515,0.733,False
+29,Fast Expansion,Stable baseline,101.7167,1.413,0.7379,False
+30,Fast Expansion,Stable baseline,102.5202,0.79,0.7428,False
+31,Fast Expansion,Adverse shock,97.0777,-5.3087,0.7517,True
+32,Fast Expansion,System stress,93.9391,-3.2332,0.7603,False
+33,Fast Expansion,Rapid change,94.9185,1.0427,0.7703,False
+34,Fast Expansion,Stable baseline,95.519,0.6326,0.7752,False
+35,Fast Expansion,Stable baseline,96.8695,1.4139,0.7801,False
+36,Fast Expansion,Adverse shock,97.1193,0.2579,0.789,True
+37,Fast Expansion,Rapid change,96.0823,-1.0678,0.799,False
+38,Fast Expansion,Moderate volatility,98.3018,2.31,0.8058,False
+39,Fast Expansion,Rapid change,96.6414,-1.6891,0.8157,False
+40,Fast Expansion,Stable baseline,98.1585,1.5698,0.8207,False
+41,Fast Expansion,Moderate volatility,98.7724,0.6255,0.8274,False
+42,Fast Expansion,Rapid change,101.5415,2.8035,0.8374,False
+43,Fast Expansion,Moderate volatility,103.1911,1.6246,0.8441,False
+44,Fast Expansion,Moderate volatility,107.7281,4.3967,0.8509,False
+45,Fast Expansion,Stable baseline,109.5771,1.7163,0.8558,False
+46,Fast Expansion,Moderate volatility,110.7766,1.0947,0.8626,False
+47,Fast Expansion,System stress,109.3249,-1.3105,0.8711,False
+48,Fast Expansion,Moderate volatility,110.5544,1.1247,0.8778,False
+49,Fast Expansion,Adverse shock,96.2759,-12.9154,0.8867,True
+50,Fast Expansion,Rapid change,95.5539,-0.7499,0.8967,False
+51,Fast Expansion,Stable baseline,96.7058,1.2056,0.9017,False
+52,Fast Expansion,Moderate volatility,94.1421,-2.651,0.9084,False
+53,Fast Expansion,Stable baseline,95.2387,1.1648,0.9133,False
+54,Fast Expansion,Moderate volatility,95.2231,-0.0163,0.9201,False
+55,Fast Expansion,Moderate volatility,98.0171,2.9341,0.9268,False
+56,Fast Expansion,Stable baseline,98.8014,0.8002,0.9318,False
+57,Fast Expansion,Moderate volatility,100.6997,1.9213,0.9385,False
+58,Fast Expansion,Rapid change,104.5074,3.7812,0.9485,False
+59,Fast Expansion,Stable baseline,104.9361,0.4102,0.9534,False
+60,Fast Expansion,Stable baseline,105.132,0.1867,0.9584,False
+1,Balanced Adaptation,Stable baseline,101.5541,1.5541,0.7904,False
+2,Balanced Adaptation,Moderate volatility,102.184,0.6202,0.8047,False
+3,Balanced Adaptation,System stress,104.0877,1.8631,0.8227,False
+4,Balanced Adaptation,Moderate volatility,103.6578,-0.4131,0.837,False
+5,Balanced Adaptation,Stable baseline,104.4933,0.806,0.8474,False
+6,Balanced Adaptation,Rapid change,107.6313,3.0031,0.8685,False
+7,Balanced Adaptation,Moderate volatility,109.4707,1.709,0.8827,False
+8,Balanced Adaptation,Stable baseline,110.1326,0.6046,0.8932,False
+9,Balanced Adaptation,Rapid change,113.4743,3.0343,0.9142,False
+10,Balanced Adaptation,Stable baseline,114.3907,0.8076,0.9247,False
+11,Balanced Adaptation,Moderate volatility,112.4529,-1.694,0.9389,False
+12,Balanced Adaptation,Moderate volatility,114.3918,1.7242,0.9532,False
+13,Balanced Adaptation,Moderate volatility,114.3467,-0.0394,0.9674,False
+14,Balanced Adaptation,Stable baseline,115.8064,1.2766,0.9778,False
+15,Balanced Adaptation,Stable baseline,119.2478,2.9717,0.9883,False
+16,Balanced Adaptation,Stable baseline,120.462,1.0182,0.9987,False
+17,Balanced Adaptation,Rapid change,121.6555,0.9907,1.0,False
+18,Balanced Adaptation,Rapid change,124.2125,2.1019,1.0,False
+19,Balanced Adaptation,Moderate volatility,128.4875,3.4417,1.0,False
+20,Balanced Adaptation,Stable baseline,129.8847,1.0875,1.0,False
+21,Balanced Adaptation,Moderate volatility,132.8817,2.3074,1.0,False
+22,Balanced Adaptation,Stable baseline,132.2293,-0.491,1.0,False
+23,Balanced Adaptation,Moderate volatility,133.9299,1.2861,1.0,False
+24,Balanced Adaptation,Rapid change,134.8287,0.6711,1.0,False
+25,Balanced Adaptation,System stress,139.4117,3.3991,1.0,False
+26,Balanced Adaptation,Stable baseline,142.1914,1.9939,1.0,False
+27,Balanced Adaptation,Stable baseline,141.4841,-0.4974,1.0,False
+28,Balanced Adaptation,Moderate volatility,139.3884,-1.4813,1.0,False
+29,Balanced Adaptation,Stable baseline,139.2244,-0.1176,1.0,False
+30,Balanced Adaptation,Adverse shock,139.8855,0.4748,1.0,True
+31,Balanced Adaptation,System stress,147.377,5.3555,1.0,False
+32,Balanced Adaptation,Moderate volatility,151.114,2.5356,1.0,False
+33,Balanced Adaptation,Stable baseline,153.9999,1.9097,1.0,False
+34,Balanced Adaptation,System stress,156.8965,1.8809,1.0,False
+35,Balanced Adaptation,Stable baseline,159.7513,1.8195,1.0,False
+36,Balanced Adaptation,Moderate volatility,160.9795,0.7688,1.0,False
+37,Balanced Adaptation,Moderate volatility,163.8206,1.7649,1.0,False
+38,Balanced Adaptation,Rapid change,167.5832,2.2968,1.0,False
+39,Balanced Adaptation,Adverse shock,173.2136,3.3598,1.0,True
+40,Balanced Adaptation,Adverse shock,178.9943,3.3373,1.0,True
+41,Balanced Adaptation,Rapid change,185.3095,3.5281,1.0,False
+42,Balanced Adaptation,System stress,184.972,-0.1821,1.0,False
+43,Balanced Adaptation,Moderate volatility,191.4889,3.5232,1.0,False
+44,Balanced Adaptation,Rapid change,192.6571,0.6101,1.0,False
+45,Balanced Adaptation,Rapid change,190.6478,-1.0429,1.0,False
+46,Balanced Adaptation,Stable baseline,195.2992,2.4397,1.0,False
+47,Balanced Adaptation,Stable baseline,199.9235,2.3678,1.0,False
+48,Balanced Adaptation,System stress,200.5298,0.3033,1.0,False
+49,Balanced Adaptation,Moderate volatility,203.4836,1.473,1.0,False
+50,Balanced Adaptation,Rapid change,213.0952,4.7235,1.0,False
+51,Balanced Adaptation,Stable baseline,215.9888,1.3579,1.0,False
+52,Balanced Adaptation,Stable baseline,220.4671,2.0734,1.0,False
+53,Balanced Adaptation,Rapid change,221.1594,0.314,1.0,False
+54,Balanced Adaptation,System stress,210.843,-4.6647,1.0,False
+55,Balanced Adaptation,Adverse shock,212.2639,0.6739,1.0,True
+56,Balanced Adaptation,Stable baseline,216.8303,2.1513,1.0,False
+57,Balanced Adaptation,Moderate volatility,222.447,2.5904,1.0,False
+58,Balanced Adaptation,Moderate volatility,225.8938,1.5495,1.0,False
+59,Balanced Adaptation,Stable baseline,231.7247,2.5813,1.0,False
+60,Balanced Adaptation,Moderate volatility,236.2447,1.9506,1.0,False
+1,Resilient Strategy,Moderate volatility,98.3544,-1.6456,0.8352,False
+2,Resilient Strategy,Stable baseline,99.5115,1.1765,0.8464,False
+3,Resilient Strategy,Stable baseline,101.5396,2.0381,0.8576,False
+4,Resilient Strategy,Stable baseline,103.2945,1.7283,0.8688,False
+5,Resilient Strategy,Stable baseline,101.9649,-1.2871,0.88,False
+6,Resilient Strategy,System stress,103.1387,1.1511,0.8992,False
+7,Resilient Strategy,Stable baseline,103.5867,0.4344,0.9104,False
+8,Resilient Strategy,Stable baseline,105.9966,2.3265,0.9216,False
+9,Resilient Strategy,Stable baseline,108.3741,2.2429,0.9328,False
+10,Resilient Strategy,Stable baseline,108.9579,0.5388,0.944,False
+11,Resilient Strategy,Stable baseline,112.5343,3.2823,0.9552,False
+12,Resilient Strategy,Stable baseline,115.6361,2.7563,0.9664,False
+13,Resilient Strategy,Moderate volatility,118.1408,2.1661,0.9816,False
+14,Resilient Strategy,Moderate volatility,120.1353,1.6882,0.9968,False
+15,Resilient Strategy,Moderate volatility,123.238,2.5827,1.0,False
+16,Resilient Strategy,Stable baseline,124.9274,1.3709,1.0,False
+17,Resilient Strategy,Stable baseline,128.3808,2.7643,1.0,False
+18,Resilient Strategy,System stress,131.7067,2.5906,1.0,False
+19,Resilient Strategy,Moderate volatility,136.9047,3.9467,1.0,False
+20,Resilient Strategy,System stress,140.2574,2.4489,1.0,False
+21,Resilient Strategy,System stress,139.9356,-0.2294,1.0,False
+22,Resilient Strategy,Moderate volatility,145.6964,4.1168,1.0,False
+23,Resilient Strategy,Moderate volatility,146.4565,0.5217,1.0,False
+24,Resilient Strategy,Moderate volatility,148.5822,1.4514,1.0,False
+25,Resilient Strategy,System stress,149.9276,0.9055,1.0,False
+26,Resilient Strategy,System stress,149.7498,-0.1186,1.0,False
+27,Resilient Strategy,Rapid change,155.313,3.715,1.0,False
+28,Resilient Strategy,Stable baseline,158.079,1.7809,1.0,False
+29,Resilient Strategy,Stable baseline,160.7383,1.6823,1.0,False
+30,Resilient Strategy,Moderate volatility,159.4658,-0.7917,1.0,False
+31,Resilient Strategy,Adverse shock,158.9542,-0.3208,1.0,True
+32,Resilient Strategy,Stable baseline,162.2337,2.0632,1.0,False
+33,Resilient Strategy,Stable baseline,165.8273,2.2151,1.0,False
+34,Resilient Strategy,Stable baseline,166.7217,0.5393,1.0,False
+35,Resilient Strategy,Moderate volatility,172.8292,3.6633,1.0,False
+36,Resilient Strategy,Stable baseline,176.251,1.9799,1.0,False
+37,Resilient Strategy,Stable baseline,177.156,0.5135,1.0,False
+38,Resilient Strategy,Moderate volatility,175.6268,-0.8632,1.0,False
+39,Resilient Strategy,Stable baseline,177.748,1.2078,1.0,False
+40,Resilient Strategy,Stable baseline,179.6424,1.0658,1.0,False
+41,Resilient Strategy,Stable baseline,181.734,1.1644,1.0,False
+42,Resilient Strategy,Stable baseline,182.4683,0.404,1.0,False
+43,Resilient Strategy,Rapid change,188.6206,3.3717,1.0,False
+44,Resilient Strategy,Adverse shock,186.2598,-1.2516,1.0,True
+45,Resilient Strategy,Stable baseline,190.938,2.5117,1.0,False
+46,Resilient Strategy,Rapid change,197.6919,3.5372,1.0,False
+47,Resilient Strategy,Moderate volatility,197.3054,-0.1955,1.0,False
+48,Resilient Strategy,Stable baseline,199.9915,1.3614,1.0,False
+49,Resilient Strategy,Stable baseline,201.3275,0.668,1.0,False
+50,Resilient Strategy,Adverse shock,207.4376,3.0349,1.0,True
+51,Resilient Strategy,Stable baseline,210.8248,1.6329,1.0,False
+52,Resilient Strategy,System stress,223.2747,5.9053,1.0,False
+53,Resilient Strategy,Stable baseline,224.0544,0.3492,1.0,False
+54,Resilient Strategy,Rapid change,232.1845,3.6286,1.0,False
+55,Resilient Strategy,Stable baseline,238.5617,2.7466,1.0,False
+56,Resilient Strategy,Stable baseline,240.2586,0.7113,1.0,False
+57,Resilient Strategy,Moderate volatility,245.7264,2.2758,1.0,False
+58,Resilient Strategy,System stress,246.3908,0.2704,1.0,False
+59,Resilient Strategy,Moderate volatility,253.2832,2.7973,1.0,False
+60,Resilient Strategy,Moderate volatility,259.0898,2.2926,1.0,False
+1,Adaptive Learning Strategy,Stable baseline,101.4396,1.4396,0.873,False
+2,Adaptive Learning Strategy,Stable baseline,103.2979,1.8319,0.8859,False
+3,Adaptive Learning Strategy,Stable baseline,105.8017,2.4239,0.8989,False
+4,Adaptive Learning Strategy,Stable baseline,107.7603,1.8512,0.9118,False
+5,Adaptive Learning Strategy,Stable baseline,109.7001,1.8001,0.9248,False
+6,Adaptive Learning Strategy,Moderate volatility,111.3088,1.4665,0.9425,False
+7,Adaptive Learning Strategy,Stable baseline,113.7056,2.1532,0.9554,False
+8,Adaptive Learning Strategy,Stable baseline,114.0597,0.3115,0.9684,False
+9,Adaptive Learning Strategy,Rapid change,117.0397,2.6126,0.9945,False
+10,Adaptive Learning Strategy,Moderate volatility,118.5161,1.2615,1.0,False
+11,Adaptive Learning Strategy,System stress,121.8831,2.8409,1.0,False
+12,Adaptive Learning Strategy,Stable baseline,123.7875,1.5625,1.0,False
+13,Adaptive Learning Strategy,System stress,127.0727,2.6539,1.0,False
+14,Adaptive Learning Strategy,Stable baseline,129.2718,1.7306,1.0,False
+15,Adaptive Learning Strategy,System stress,130.5274,0.9713,1.0,False
+16,Adaptive Learning Strategy,Rapid change,136.5025,4.5776,1.0,False
+17,Adaptive Learning Strategy,System stress,135.8786,-0.457,1.0,False
+18,Adaptive Learning Strategy,System stress,133.4129,-1.8146,1.0,False
+19,Adaptive Learning Strategy,System stress,133.4796,0.05,1.0,False
+20,Adaptive Learning Strategy,Stable baseline,134.5703,0.8171,1.0,False
+21,Adaptive Learning Strategy,Rapid change,140.4357,4.3586,1.0,False
+22,Adaptive Learning Strategy,Moderate volatility,141.9525,1.0801,1.0,False
+23,Adaptive Learning Strategy,Stable baseline,142.6323,0.4789,1.0,False
+24,Adaptive Learning Strategy,Stable baseline,145.2121,1.8087,1.0,False
+25,Adaptive Learning Strategy,Moderate volatility,148.6223,2.3485,1.0,False
+26,Adaptive Learning Strategy,Moderate volatility,150.2579,1.1005,1.0,False
+27,Adaptive Learning Strategy,Stable baseline,150.7579,0.3328,1.0,False
+28,Adaptive Learning Strategy,Moderate volatility,156.5309,3.8294,1.0,False
+29,Adaptive Learning Strategy,Stable baseline,160.4543,2.5065,1.0,False
+30,Adaptive Learning Strategy,Moderate volatility,160.3647,-0.0559,1.0,False
+31,Adaptive Learning Strategy,Stable baseline,163.0056,1.6468,1.0,False
+32,Adaptive Learning Strategy,Moderate volatility,167.5399,2.7817,1.0,False
+33,Adaptive Learning Strategy,Stable baseline,171.1238,2.1391,1.0,False
+34,Adaptive Learning Strategy,Moderate volatility,173.9678,1.662,1.0,False
+35,Adaptive Learning Strategy,Moderate volatility,175.7435,1.0207,1.0,False
+36,Adaptive Learning Strategy,Moderate volatility,180.6599,2.7975,1.0,False
+37,Adaptive Learning Strategy,Stable baseline,185.8588,2.8777,1.0,False
+38,Adaptive Learning Strategy,Moderate volatility,188.6305,1.4913,1.0,False
+39,Adaptive Learning Strategy,System stress,189.8036,0.6219,1.0,False
+40,Adaptive Learning Strategy,Stable baseline,193.2679,1.8252,1.0,False
+41,Adaptive Learning Strategy,Adverse shock,196.8466,1.8517,1.0,True
+42,Adaptive Learning Strategy,Moderate volatility,199.3838,1.2889,1.0,False
+43,Adaptive Learning Strategy,System stress,204.1994,2.4152,1.0,False
+44,Adaptive Learning Strategy,Stable baseline,207.5108,1.6216,1.0,False
+45,Adaptive Learning Strategy,Moderate volatility,210.3274,1.3573,1.0,False
+46,Adaptive Learning Strategy,System stress,213.065,1.3016,1.0,False
+47,Adaptive Learning Strategy,System stress,208.5864,-2.102,1.0,False
+48,Adaptive Learning Strategy,Moderate volatility,214.4871,2.8289,1.0,False
+49,Adaptive Learning Strategy,Rapid change,216.4567,0.9183,1.0,False
+50,Adaptive Learning Strategy,Stable baseline,221.4895,2.3251,1.0,False
+51,Adaptive Learning Strategy,System stress,226.8363,2.414,1.0,False
+52,Adaptive Learning Strategy,Moderate volatility,230.2019,1.4837,1.0,False
+53,Adaptive Learning Strategy,Rapid change,235.1672,2.1569,1.0,False
+54,Adaptive Learning Strategy,Stable baseline,237.9333,1.1762,1.0,False
+55,Adaptive Learning Strategy,Rapid change,247.0805,3.8445,1.0,False
+56,Adaptive Learning Strategy,Moderate volatility,260.0665,5.2558,1.0,False
+57,Adaptive Learning Strategy,Moderate volatility,263.3155,1.2493,1.0,False
+58,Adaptive Learning Strategy,Moderate volatility,261.6764,-0.6225,1.0,False
+59,Adaptive Learning Strategy,Rapid change,259.6584,-0.7712,1.0,False
+60,Adaptive Learning Strategy,System stress,254.8544,-1.8501,1.0,False
+1,Evidence-First Pilot,Rapid change,99.8739,-0.1261,0.9754,False
+2,Evidence-First Pilot,Rapid change,103.9279,4.0592,1.0,False
+3,Evidence-First Pilot,Stable baseline,104.3474,0.4037,1.0,False
+4,Evidence-First Pilot,Adverse shock,104.658,0.2977,1.0,True
+5,Evidence-First Pilot,Stable baseline,106.9911,2.2293,1.0,False
+6,Evidence-First Pilot,Rapid change,110.3903,3.1771,1.0,False
+7,Evidence-First Pilot,Rapid change,116.5077,5.5416,1.0,False
+8,Evidence-First Pilot,Moderate volatility,121.3096,4.1215,1.0,False
+9,Evidence-First Pilot,Adverse shock,123.5315,1.8316,1.0,True
+10,Evidence-First Pilot,Adverse shock,123.7352,0.1649,1.0,True
+11,Evidence-First Pilot,Moderate volatility,126.8948,2.5536,1.0,False
+12,Evidence-First Pilot,Stable baseline,129.8617,2.3381,1.0,False
+13,Evidence-First Pilot,System stress,130.5376,0.5204,1.0,False
+14,Evidence-First Pilot,Stable baseline,132.4547,1.4686,1.0,False
+15,Evidence-First Pilot,Moderate volatility,134.901,1.8469,1.0,False
+16,Evidence-First Pilot,Stable baseline,136.0869,0.8791,1.0,False
+17,Evidence-First Pilot,Stable baseline,139.1465,2.2483,1.0,False
+18,Evidence-First Pilot,Rapid change,143.6008,3.2012,1.0,False
+19,Evidence-First Pilot,Stable baseline,145.1722,1.0943,1.0,False
+20,Evidence-First Pilot,Stable baseline,149.4002,2.9124,1.0,False
+21,Evidence-First Pilot,Stable baseline,151.7758,1.5901,1.0,False
+22,Evidence-First Pilot,System stress,157.7616,3.9439,1.0,False
+23,Evidence-First Pilot,System stress,162.2182,2.8248,1.0,False
+24,Evidence-First Pilot,Stable baseline,165.2046,1.841,1.0,False
+25,Evidence-First Pilot,Moderate volatility,164.9247,-0.1694,1.0,False
+26,Evidence-First Pilot,Moderate volatility,170.6479,3.4702,1.0,False
+27,Evidence-First Pilot,Moderate volatility,174.9277,2.5079,1.0,False
+28,Evidence-First Pilot,Stable baseline,179.2632,2.4785,1.0,False
+29,Evidence-First Pilot,Stable baseline,182.661,1.8954,1.0,False
+30,Evidence-First Pilot,Stable baseline,184.7734,1.1564,1.0,False
+31,Evidence-First Pilot,System stress,188.6052,2.0738,1.0,False
+32,Evidence-First Pilot,Moderate volatility,193.8511,2.7814,1.0,False
+33,Evidence-First Pilot,Rapid change,204.396,5.4397,1.0,False
+34,Evidence-First Pilot,Stable baseline,207.9707,1.7489,1.0,False
+35,Evidence-First Pilot,System stress,209.8002,0.8797,1.0,False
+36,Evidence-First Pilot,Moderate volatility,214.212,2.1029,1.0,False
+37,Evidence-First Pilot,System stress,219.8521,2.6329,1.0,False
+38,Evidence-First Pilot,System stress,226.0109,2.8014,1.0,False
+39,Evidence-First Pilot,System stress,228.5574,1.1267,1.0,False
+40,Evidence-First Pilot,System stress,226.7834,-0.7762,1.0,False
+41,Evidence-First Pilot,Stable baseline,229.0765,1.0112,1.0,False
+42,Evidence-First Pilot,Stable baseline,233.7723,2.0499,1.0,False
+43,Evidence-First Pilot,Stable baseline,242.392,3.6872,1.0,False
+44,Evidence-First Pilot,Stable baseline,247.9782,2.3046,1.0,False
+45,Evidence-First Pilot,Stable baseline,249.9265,0.7857,1.0,False
+46,Evidence-First Pilot,Rapid change,248.1066,-0.7282,1.0,False
+47,Evidence-First Pilot,Rapid change,257.7689,3.8944,1.0,False
+48,Evidence-First Pilot,Moderate volatility,262.9905,2.0257,1.0,False
+49,Evidence-First Pilot,Stable baseline,265.5193,0.9616,1.0,False
+50,Evidence-First Pilot,Rapid change,270.293,1.7979,1.0,False
+51,Evidence-First Pilot,Stable baseline,278.5172,3.0427,1.0,False
+52,Evidence-First Pilot,System stress,274.7451,-1.3543,1.0,False
+53,Evidence-First Pilot,Stable baseline,285.8944,4.0581,1.0,False
+54,Evidence-First Pilot,Rapid change,299.6001,4.794,1.0,False
+55,Evidence-First Pilot,Moderate volatility,311.4295,3.9484,1.0,False
+56,Evidence-First Pilot,Stable baseline,317.9587,2.0965,1.0,False
+57,Evidence-First Pilot,Moderate volatility,333.5453,4.9021,1.0,False
+58,Evidence-First Pilot,Rapid change,339.3404,1.7374,1.0,False
+59,Evidence-First Pilot,Stable baseline,342.3423,0.8846,1.0,False
+60,Evidence-First Pilot,System stress,339.6981,-0.7724,1.0,False

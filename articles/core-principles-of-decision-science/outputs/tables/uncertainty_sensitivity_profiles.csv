@@ -1,0 +1,46 @@
+"changed_dimension","alternative","revised_score"
+"adaptability","Adaptive Learning Strategy",0.868646616541354
+"behavioral_safeguards","Adaptive Learning Strategy",0.868872180451127
+"decision_record_completeness","Adaptive Learning Strategy",0.868771929824562
+"evidence_quality","Adaptive Learning Strategy",0.868872180451127
+"framing_quality","Adaptive Learning Strategy",0.868771929824562
+"robustness","Adaptive Learning Strategy",0.868822055137844
+"systems_awareness","Adaptive Learning Strategy",0.868822055137844
+"tradeoff_transparency","Adaptive Learning Strategy",0.868847117794486
+"uncertainty_handling","Adaptive Learning Strategy",0.868796992481203
+"adaptability","Balanced Adaptation",0.762606516290727
+"behavioral_safeguards","Balanced Adaptation",0.762731829573935
+"decision_record_completeness","Balanced Adaptation",0.762656641604011
+"evidence_quality","Balanced Adaptation",0.762556390977444
+"framing_quality","Balanced Adaptation",0.762481203007519
+"robustness","Balanced Adaptation",0.762656641604011
+"systems_awareness","Balanced Adaptation",0.76265664160401
+"tradeoff_transparency","Balanced Adaptation",0.762531328320802
+"uncertainty_handling","Balanced Adaptation",0.762556390977444
+"adaptability","Evidence-First Pilot",0.879273182957394
+"behavioral_safeguards","Evidence-First Pilot",0.879298245614035
+"decision_record_completeness","Evidence-First Pilot",0.879122807017544
+"evidence_quality","Evidence-First Pilot",0.879147869674185
+"framing_quality","Evidence-First Pilot",0.879197994987469
+"robustness","Evidence-First Pilot",0.879548872180452
+"systems_awareness","Evidence-First Pilot",0.879498746867168
+"tradeoff_transparency","Evidence-First Pilot",0.87922305764411
+"uncertainty_handling","Evidence-First Pilot",0.879248120300752
+"adaptability","Fast Expansion",0.425764411027569
+"behavioral_safeguards","Fast Expansion",0.425964912280702
+"decision_record_completeness","Fast Expansion",0.426115288220552
+"evidence_quality","Fast Expansion",0.425563909774436
+"framing_quality","Fast Expansion",0.425488721804511
+"robustness","Fast Expansion",0.425914786967419
+"systems_awareness","Fast Expansion",0.425764411027569
+"tradeoff_transparency","Fast Expansion",0.425864661654136
+"uncertainty_handling","Fast Expansion",0.425814536340853
+"adaptability","Resilient Strategy",0.820651629072682
+"behavioral_safeguards","Resilient Strategy",0.820751879699248
+"decision_record_completeness","Resilient Strategy",0.820701754385965
+"evidence_quality","Resilient Strategy",0.820651629072682
+"framing_quality","Resilient Strategy",0.820751879699248
+"robustness","Resilient Strategy",0.820375939849624
+"systems_awareness","Resilient Strategy",0.820451127819549
+"tradeoff_transparency","Resilient Strategy",0.820601503759399
+"uncertainty_handling","Resilient Strategy",0.820576441102757

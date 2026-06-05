@@ -1,0 +1,6 @@
+"alternative","composite_decision_quality","minimum_principle_score","robust_principle_score","decision_profile"
+"Evidence-First Pilot",0.8793,0.78,0.861897931624131,"strong integrated decision-science profile"
+"Adaptive Learning Strategy",0.8688,0.84,0.880852227674302,"strong integrated decision-science profile"
+"Resilient Strategy",0.8206,0.76,0.827998975239759,"strong systems and robustness profile"
+"Balanced Adaptation",0.7626,0.71,0.788019518772861,"comparison alternative"
+"Fast Expansion",0.4258,0.3,0.487472751379459,"comparison alternative"

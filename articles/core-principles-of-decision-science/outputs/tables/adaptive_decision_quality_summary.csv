@@ -1,0 +1,6 @@
+strategy,final_value,minimum_value,average_value,value_sd,average_growth_rate,review_trigger_frequency
+Evidence-First Pilot,339.6981,99.8739,198.807,69.8525,2.0707,0.05
+Resilient Strategy,259.0898,98.3544,163.6823,44.8486,1.6102,0.05
+Adaptive Learning Strategy,254.8544,101.4396,171.083,47.6149,1.5813,0.0167
+Balanced Adaptation,236.2447,101.5541,157.208,41.1787,1.4561,0.0667
+Fast Expansion,105.132,92.1401,100.076,4.6027,0.1192,0.1833

@@ -1,0 +1,46 @@
+"alternative","dimension","value"
+"Adaptive Learning Strategy","framing_quality",0.88
+"Evidence-First Pilot","framing_quality",0.92
+"Resilient Strategy","framing_quality",0.76
+"Balanced Adaptation","framing_quality",0.81
+"Fast Expansion","framing_quality",0.55
+"Adaptive Learning Strategy","uncertainty_handling",0.87
+"Evidence-First Pilot","uncertainty_handling",0.9
+"Resilient Strategy","uncertainty_handling",0.83
+"Balanced Adaptation","uncertainty_handling",0.78
+"Fast Expansion","uncertainty_handling",0.42
+"Adaptive Learning Strategy","tradeoff_transparency",0.85
+"Evidence-First Pilot","tradeoff_transparency",0.91
+"Resilient Strategy","tradeoff_transparency",0.82
+"Balanced Adaptation","tradeoff_transparency",0.79
+"Fast Expansion","tradeoff_transparency",0.4
+"Adaptive Learning Strategy","behavioral_safeguards",0.84
+"Evidence-First Pilot","behavioral_safeguards",0.88
+"Resilient Strategy","behavioral_safeguards",0.76
+"Balanced Adaptation","behavioral_safeguards",0.71
+"Fast Expansion","behavioral_safeguards",0.36
+"Adaptive Learning Strategy","systems_awareness",0.86
+"Evidence-First Pilot","systems_awareness",0.8
+"Resilient Strategy","systems_awareness",0.88
+"Balanced Adaptation","systems_awareness",0.74
+"Fast Expansion","systems_awareness",0.44
+"Adaptive Learning Strategy","robustness",0.86
+"Evidence-First Pilot","robustness",0.78
+"Resilient Strategy","robustness",0.91
+"Balanced Adaptation","robustness",0.74
+"Fast Expansion","robustness",0.38
+"Adaptive Learning Strategy","adaptability",0.93
+"Evidence-First Pilot","adaptability",0.89
+"Resilient Strategy","adaptability",0.8
+"Balanced Adaptation","adaptability",0.76
+"Fast Expansion","adaptability",0.44
+"Adaptive Learning Strategy","evidence_quality",0.84
+"Evidence-First Pilot","evidence_quality",0.94
+"Resilient Strategy","evidence_quality",0.8
+"Balanced Adaptation","evidence_quality",0.78
+"Fast Expansion","evidence_quality",0.52
+"Adaptive Learning Strategy","decision_record_completeness",0.88
+"Evidence-First Pilot","decision_record_completeness",0.95
+"Resilient Strategy","decision_record_completeness",0.78
+"Balanced Adaptation","decision_record_completeness",0.74
+"Fast Expansion","decision_record_completeness",0.3

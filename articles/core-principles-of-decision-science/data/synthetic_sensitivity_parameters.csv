@@ -1,0 +1,6 @@
+parameter,base_value,low_value,high_value,description
+robustness_weight,0.14,0.08,0.22,Weight placed on acceptable performance across futures
+adaptability_weight,0.12,0.06,0.20,Weight placed on learning revision and option value
+uncertainty_weight,0.14,0.08,0.22,Weight placed on explicit uncertainty representation
+record_weight,0.07,0.03,0.14,Weight placed on decision-record completeness
+systems_weight,0.11,0.05,0.18,Weight placed on feedback and systems awareness

@@ -1,0 +1,17 @@
+{
+  "article": "Bayesian Decision-Making",
+  "decision_context": "",
+  "hypotheses": [],
+  "prior_assumptions": [],
+  "evidence": [],
+  "likelihood_assumptions": [],
+  "posterior_updates": [],
+  "posterior_expected_utility": [],
+  "prior_sensitivity": [],
+  "likelihood_sensitivity": [],
+  "value_of_information": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "limitations": []
+}

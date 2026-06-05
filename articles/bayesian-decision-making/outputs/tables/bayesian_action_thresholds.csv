@@ -1,0 +1,6 @@
+"case","minimum_prior_for_action"
+"Diagnostic Case",0.04
+"Model Drift Case",0.05
+"Policy Pilot Case",0.08
+"Cybersecurity Case",0.04
+"Infrastructure Case",0.06

@@ -1,0 +1,226 @@
+{
+  "article": "Bayesian Decision-Making",
+  "decision_context": "Sequential belief updating and action selection under uncertainty.",
+  "modeling_principles": [
+    "Document the prior before observing new evidence.",
+    "Represent evidence strength through likelihoods.",
+    "Update beliefs using Bayes' theorem.",
+    "Evaluate actions under posterior expected utility.",
+    "Use sensitivity analysis when priors or likelihoods are contested.",
+    "Define review triggers when posterior beliefs cross decision thresholds.",
+    "Treat Bayesian models as supports for accountable judgment."
+  ],
+  "case_profiles": [
+    {
+      "case": "Diagnostic Case",
+      "description": "Clinical-style diagnosis and treatment decision",
+      "prior": 0.1,
+      "sensitivity": 0.86,
+      "false_positive_rate": 0.12,
+      "bayes_factor_positive": 7.166667,
+      "posterior_after_positive_signal": 0.443299,
+      "posterior_odds": 0.796296,
+      "action_utility": 25.979381,
+      "wait_utility": -27.113402,
+      "utility_difference": 53.092784,
+      "recommended_action": "Act",
+      "posterior_review_flag": "stable under baseline assumptions"
+    },
+    {
+      "case": "Model Drift Case",
+      "description": "AI model monitoring and drift response decision",
+      "prior": 0.18,
+      "sensitivity": 0.78,
+      "false_positive_rate": 0.16,
+      "bayes_factor_positive": 4.875,
+      "posterior_after_positive_signal": 0.516937,
+      "posterior_odds": 1.070122,
+      "action_utility": 30.07511,
+      "wait_utility": -30.388807,
+      "utility_difference": 60.463918,
+      "recommended_action": "Act",
+      "posterior_review_flag": "stable under baseline assumptions"
+    },
+    {
+      "case": "Policy Pilot Case",
+      "description": "Public policy pilot evidence and scale decision",
+      "prior": 0.35,
+      "sensitivity": 0.7,
+      "false_positive_rate": 0.22,
+      "bayes_factor_positive": 3.181818,
+      "posterior_after_positive_signal": 0.631443,
+      "posterior_odds": 1.713287,
+      "action_utility": 33.67268,
+      "wait_utility": -31.043814,
+      "utility_difference": 64.716495,
+      "recommended_action": "Act",
+      "posterior_review_flag": "stable under baseline assumptions"
+    },
+    {
+      "case": "Cybersecurity Case",
+      "description": "Security alert escalation and containment decision",
+      "prior": 0.08,
+      "sensitivity": 0.82,
+      "false_positive_rate": 0.1,
+      "bayes_factor_positive": 8.2,
+      "posterior_after_positive_signal": 0.416244,
+      "posterior_odds": 0.713043,
+      "action_utility": 17.86802,
+      "wait_utility": -26.954315,
+      "utility_difference": 44.822335,
+      "recommended_action": "Act",
+      "posterior_review_flag": "stable under baseline assumptions"
+    },
+    {
+      "case": "Infrastructure Case",
+      "description": "Asset inspection and maintenance decision",
+      "prior": 0.22,
+      "sensitivity": 0.74,
+      "false_positive_rate": 0.18,
+      "bayes_factor_positive": 4.111111,
+      "posterior_after_positive_signal": 0.536939,
+      "posterior_odds": 1.159544,
+      "action_utility": 27.398417,
+      "wait_utility": -33.787599,
+      "utility_difference": 61.186016,
+      "recommended_action": "Act",
+      "posterior_review_flag": "stable under baseline assumptions"
+    }
+  ],
+  "summary": [
+    {
+      "case": "Cybersecurity Case",
+      "initial_posterior": 0.017094,
+      "final_posterior": 0.0,
+      "average_posterior": 0.019674,
+      "maximum_posterior": 0.277227,
+      "minimum_posterior": 0.0,
+      "average_utility_difference": -43.612755,
+      "final_recommended_action": "Wait",
+      "review_trigger_rate": 0.0
+    },
+    {
+      "case": "Diagnostic Case",
+      "initial_posterior": 0.443299,
+      "final_posterior": 1.0,
+      "average_posterior": 0.969413,
+      "maximum_posterior": 1.0,
+      "minimum_posterior": 0.443299,
+      "average_utility_difference": 163.576641,
+      "final_recommended_action": "Act",
+      "review_trigger_rate": 0.958333
+    },
+    {
+      "case": "Infrastructure Case",
+      "initial_posterior": 0.08209,
+      "final_posterior": 0.999932,
+      "average_posterior": 0.857818,
+      "maximum_posterior": 0.999932,
+      "minimum_posterior": 0.08209,
+      "average_utility_difference": 119.265067,
+      "final_recommended_action": "Act",
+      "review_trigger_rate": 0.791667
+    },
+    {
+      "case": "Model Drift Case",
+      "initial_posterior": 0.516937,
+      "final_posterior": 0.0,
+      "average_posterior": 0.071065,
+      "maximum_posterior": 0.577402,
+      "minimum_posterior": 0.0,
+      "average_utility_difference": -17.563638,
+      "final_recommended_action": "Wait",
+      "review_trigger_rate": 0.0
+    },
+    {
+      "case": "Policy Pilot Case",
+      "initial_posterior": 0.631443,
+      "final_posterior": 1.0,
+      "average_posterior": 0.956514,
+      "maximum_posterior": 1.0,
+      "minimum_posterior": 0.631443,
+      "average_utility_difference": 113.477051,
+      "final_recommended_action": "Act",
+      "review_trigger_rate": 0.916667
+    }
+  ],
+  "value_of_information_proxy": [
+    {
+      "case": "Diagnostic Case",
+      "baseline_best_utility": 5.5,
+      "expected_utility_with_signal": 15.8,
+      "expected_value_of_sample_information_proxy": 10.3
+    },
+    {
+      "case": "Model Drift Case",
+      "baseline_best_utility": -1.26,
+      "expected_utility_with_signal": 13.662,
+      "expected_value_of_sample_information_proxy": 14.922
+    },
+    {
+      "case": "Policy Pilot Case",
+      "baseline_best_utility": 9.75,
+      "expected_utility_with_signal": 12.36,
+      "expected_value_of_sample_information_proxy": 2.61
+    },
+    {
+      "case": "Cybersecurity Case",
+      "baseline_best_utility": 9.36,
+      "expected_utility_with_signal": 16.424,
+      "expected_value_of_sample_information_proxy": 7.064
+    },
+    {
+      "case": "Infrastructure Case",
+      "baseline_best_utility": -1.76,
+      "expected_utility_with_signal": 12.9716,
+      "expected_value_of_sample_information_proxy": 14.7316
+    }
+  ],
+  "evidence_quality": [
+    {
+      "case": "Diagnostic Case",
+      "evidence": "positive diagnostic test",
+      "sensitivity": 0.86,
+      "false_positive_rate": 0.12,
+      "evidence_quality": "high",
+      "evidence_quality_score": 1.0,
+      "quality_flag": "acceptable"
+    },
+    {
+      "case": "Model Drift Case",
+      "evidence": "monitoring drift signal",
+      "sensitivity": 0.78,
+      "false_positive_rate": 0.16,
+      "evidence_quality": "medium",
+      "evidence_quality_score": 0.65,
+      "quality_flag": "acceptable"
+    },
+    {
+      "case": "Policy Pilot Case",
+      "evidence": "positive pilot effect signal",
+      "sensitivity": 0.7,
+      "false_positive_rate": 0.22,
+      "evidence_quality": "medium",
+      "evidence_quality_score": 0.65,
+      "quality_flag": "acceptable"
+    },
+    {
+      "case": "Cybersecurity Case",
+      "evidence": "high-confidence intrusion alert",
+      "sensitivity": 0.82,
+      "false_positive_rate": 0.1,
+      "evidence_quality": "medium",
+      "evidence_quality_score": 0.65,
+      "quality_flag": "acceptable"
+    },
+    {
+      "case": "Infrastructure Case",
+      "evidence": "inspection anomaly",
+      "sensitivity": 0.74,
+      "false_positive_rate": 0.18,
+      "evidence_quality": "medium",
+      "evidence_quality_score": 0.65,
+      "quality_flag": "acceptable"
+    }
+  ]
+}

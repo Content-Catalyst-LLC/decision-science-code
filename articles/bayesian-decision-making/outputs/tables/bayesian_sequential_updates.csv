@@ -1,0 +1,121 @@
+case,step,true_state,positive_signal,prior_before_update,posterior,posterior_odds,action_utility,wait_utility,utility_difference,recommended_action,review_trigger
+Diagnostic Case,1,True,True,0.1,0.443299,0.796296,25.979381,-27.113402,53.092784,Act,False
+Diagnostic Case,2,True,True,0.443299,0.850897,5.70679,72.853198,-65.835251,138.688449,Act,True
+Diagnostic Case,3,True,True,0.850897,0.976133,40.898663,87.255282,-77.732625,164.987907,Act,True
+Diagnostic Case,4,True,True,0.976133,0.9966,293.107082,89.608986,-79.676988,169.285974,Act,True
+Diagnostic Case,5,True,True,0.9966,0.999524,2100.600752,89.94528,-79.954796,169.900076,Act,True
+Diagnostic Case,6,True,True,0.999524,0.999934,15054.305386,89.992361,-79.99369,169.986051,Act,True
+Diagnostic Case,7,True,False,0.999934,0.999583,2395.00313,89.952003,-79.960351,169.912354,Act,True
+Diagnostic Case,8,True,True,0.999583,0.999942,17164.189096,89.9933,-79.994466,169.987766,Act,True
+Diagnostic Case,9,True,True,0.999942,0.999992,123010.021854,89.999065,-79.999228,169.998293,Act,True
+Diagnostic Case,10,True,True,0.999992,0.999999,881571.823344,89.99987,-79.999892,169.999762,Act,True
+Diagnostic Case,11,True,True,0.999999,1.0,6317931.402735,89.999982,-79.999985,169.999967,Act,True
+Diagnostic Case,12,True,True,1.0,1.0,45278508.555633,89.999997,-79.999998,169.999995,Act,True
+Diagnostic Case,13,True,True,1.0,1.0,324495984.148701,90.0,-80.0,169.999999,Act,True
+Diagnostic Case,14,True,True,1.0,1.0,2325554182.217443,90.0,-80.0,170.0,Act,True
+Diagnostic Case,15,True,True,1.0,1.0,16666480251.574749,90.0,-80.0,170.0,Act,True
+Diagnostic Case,16,True,True,1.0,1.0,119443034805.27228,90.0,-80.0,170.0,Act,True
+Diagnostic Case,17,True,True,1.0,1.0,856034903509.8337,90.0,-80.0,170.0,Act,True
+Diagnostic Case,18,True,True,1.0,1.0,6131517532157.605,90.0,-80.0,170.0,Act,True
+Diagnostic Case,19,True,True,1.0,1.0,43937557340198.96,90.0,-80.0,170.0,Act,True
+Diagnostic Case,20,True,True,1.0,1.0,310593077749688.4,90.0,-80.0,170.0,Act,True
+Diagnostic Case,21,True,True,1.0,1.0,3002399751580329.5,90.0,-80.0,170.0,Act,True
+Diagnostic Case,22,True,True,1.0,1.0,inf,90.0,-80.0,170.0,Act,True
+Diagnostic Case,23,True,True,1.0,1.0,inf,90.0,-80.0,170.0,Act,True
+Diagnostic Case,24,True,True,1.0,1.0,inf,90.0,-80.0,170.0,Act,True
+Model Drift Case,1,False,True,0.18,0.516937,1.070122,30.07511,-30.388807,60.463918,Act,False
+Model Drift Case,2,False,False,0.516937,0.218915,0.28027,2.359075,-5.951012,8.310087,Act,False
+Model Drift Case,3,False,True,0.218915,0.577402,1.366316,35.698409,-35.346984,71.045393,Act,False
+Model Drift Case,4,False,False,0.577402,0.263539,0.357845,6.509108,-9.610181,16.119289,Act,False
+Model Drift Case,5,False,False,0.263539,0.08569,0.093721,-10.030806,4.973399,-15.004206,Wait,False
+Model Drift Case,6,False,False,0.08569,0.023958,0.024546,-15.771909,10.035447,-25.807355,Wait,False
+Model Drift Case,7,False,False,0.023958,0.006388,0.006429,-17.405948,11.476212,-28.882159,Wait,False
+Model Drift Case,8,False,False,0.006388,0.001681,0.001684,-17.843678,11.862168,-29.705845,Wait,False
+Model Drift Case,9,False,True,0.001681,0.008141,0.008208,-17.242861,11.332415,-28.575276,Wait,False
+Model Drift Case,10,False,False,0.008141,0.002145,0.00215,-17.800503,11.824099,-29.624602,Wait,False
+Model Drift Case,11,False,False,0.002145,0.000563,0.000563,-17.947668,11.953858,-29.901526,Wait,False
+Model Drift Case,12,False,False,0.000563,0.000147,0.000147,-17.986288,11.98791,-29.974198,Wait,False
+Model Drift Case,13,False,False,0.000147,3.9e-05,3.9e-05,-17.996408,11.996833,-29.993242,Wait,False
+Model Drift Case,14,False,False,3.9e-05,1e-05,1e-05,-17.999059,11.999171,-29.99823,Wait,False
+Model Drift Case,15,False,False,1e-05,3e-06,3e-06,-17.999754,11.999783,-29.999536,Wait,False
+Model Drift Case,16,False,False,3e-06,1e-06,1e-06,-17.999935,11.999943,-29.999879,Wait,False
+Model Drift Case,17,False,False,1e-06,0.0,0.0,-17.999983,11.999985,-29.999968,Wait,False
+Model Drift Case,18,False,False,0.0,0.0,0.0,-17.999996,11.999996,-29.999992,Wait,False
+Model Drift Case,19,False,False,0.0,0.0,0.0,-17.999999,11.999999,-29.999998,Wait,False
+Model Drift Case,20,False,True,0.0,0.0,0.0,-17.999994,11.999995,-29.999989,Wait,False
+Model Drift Case,21,False,False,0.0,0.0,0.0,-17.999999,11.999999,-29.999997,Wait,False
+Model Drift Case,22,False,False,0.0,0.0,0.0,-18.0,12.0,-29.999999,Wait,False
+Model Drift Case,23,False,False,0.0,0.0,0.0,-18.0,12.0,-30.0,Wait,False
+Model Drift Case,24,False,False,0.0,0.0,0.0,-18.0,12.0,-30.0,Wait,False
+Policy Pilot Case,1,True,True,0.35,0.631443,1.713287,33.67268,-31.043814,64.716495,Act,False
+Policy Pilot Case,2,True,True,0.631443,0.844994,5.451367,51.824497,-44.924616,96.749113,Act,True
+Policy Pilot Case,3,True,False,0.844994,0.677073,2.09668,37.551244,-34.009775,71.56102,Act,False
+Policy Pilot Case,4,True,True,0.677073,0.869643,6.671253,53.919672,-46.526808,100.44648,Act,True
+Policy Pilot Case,5,True,True,0.869643,0.955009,21.226714,61.175773,-52.075591,113.251364,Act,True
+Policy Pilot Case,6,True,True,0.955009,0.98541,67.539546,63.75984,-54.051642,117.811482,Act,True
+Policy Pilot Case,7,True,True,0.98541,0.995368,214.898555,64.606297,-54.698933,119.305229,Act,True
+Policy Pilot Case,8,True,True,0.995368,0.99854,683.768129,64.87587,-54.905077,119.780948,Act,True
+Policy Pilot Case,9,True,True,0.99854,0.999541,2175.625865,64.960949,-54.970137,119.931086,Act,True
+Policy Pilot Case,10,True,True,0.999541,0.999856,6922.445934,64.987723,-54.990612,119.978334,Act,True
+Policy Pilot Case,11,True,False,0.999856,0.999625,2662.479205,64.968087,-54.975596,119.943683,Act,True
+Policy Pilot Case,12,True,True,0.999625,0.999882,8471.524744,64.989968,-54.992328,119.982296,Act,True
+Policy Pilot Case,13,True,True,0.999882,0.999963,26954.851458,64.996847,-54.997589,119.994435,Act,True
+Policy Pilot Case,14,True,True,0.999963,0.999988,85765.436458,64.999009,-54.999242,119.998251,Act,True
+Policy Pilot Case,15,True,True,0.999988,0.999996,272890.025091,64.999689,-54.999762,119.99945,Act,True
+Policy Pilot Case,16,True,True,0.999996,0.999999,868286.443455,64.999902,-54.999925,119.999827,Act,True
+Policy Pilot Case,17,True,True,0.999999,1.0,2762729.592507,64.999969,-54.999976,119.999946,Act,True
+Policy Pilot Case,18,True,False,1.0,0.999999,1062588.304742,64.99992,-54.999939,119.999859,Act,True
+Policy Pilot Case,19,True,True,0.999999,1.0,3380962.788761,64.999975,-54.999981,119.999956,Act,True
+Policy Pilot Case,20,True,True,1.0,1.0,10757608.86692,64.999992,-54.999994,119.999986,Act,True
+Policy Pilot Case,21,True,True,1.0,1.0,34228755.419041,64.999998,-54.999998,119.999996,Act,True
+Policy Pilot Case,22,True,True,1.0,1.0,108909677.085385,64.999999,-54.999999,119.999999,Act,True
+Policy Pilot Case,23,True,False,1.0,1.0,41888337.153715,64.999998,-54.999998,119.999996,Act,True
+Policy Pilot Case,24,True,True,1.0,1.0,133281071.506407,64.999999,-55.0,119.999999,Act,True
+Cybersecurity Case,1,False,False,0.08,0.017094,0.017391,-28.034188,16.153846,-44.188034,Wait,False
+Cybersecurity Case,2,False,False,0.017094,0.003466,0.003478,-29.601386,17.62565,-47.227036,Wait,False
+Cybersecurity Case,3,False,True,0.003466,0.027731,0.028522,-26.810957,15.005073,-41.81603,Wait,False
+Cybersecurity Case,4,False,False,0.027731,0.005672,0.005704,-29.347721,17.387425,-46.735146,Wait,False
+Cybersecurity Case,5,False,True,0.005672,0.044685,0.046776,-24.861172,13.17397,-38.035142,Wait,False
+Cybersecurity Case,6,False,True,0.044685,0.277227,0.38356,1.88111,-11.940521,13.821631,Act,False
+Cybersecurity Case,7,False,False,0.277227,0.071247,0.076712,-21.806641,10.305368,-32.112009,Wait,False
+Cybersecurity Case,8,False,False,0.071247,0.015111,0.015342,-28.262283,16.368057,-44.63034,Wait,False
+Cybersecurity Case,9,False,False,0.015111,0.003059,0.003068,-29.648204,17.669618,-47.317822,Wait,False
+Cybersecurity Case,10,False,False,0.003059,0.000613,0.000614,-29.929468,17.933761,-47.86323,Wait,False
+Cybersecurity Case,11,False,True,0.000613,0.005007,0.005032,-29.424182,17.459232,-46.883413,Wait,False
+Cybersecurity Case,12,False,False,0.005007,0.001005,0.001006,-29.884373,17.891411,-47.775785,Wait,False
+Cybersecurity Case,13,False,False,0.001005,0.000201,0.000201,-29.976856,17.978265,-47.955121,Wait,False
+Cybersecurity Case,14,False,False,0.000201,4e-05,4e-05,-29.99537,17.995652,-47.991023,Wait,False
+Cybersecurity Case,15,False,False,4e-05,8e-06,8e-06,-29.999074,17.99913,-47.998204,Wait,False
+Cybersecurity Case,16,False,False,8e-06,2e-06,2e-06,-29.999815,17.999826,-47.999641,Wait,False
+Cybersecurity Case,17,False,False,2e-06,0.0,0.0,-29.999963,17.999965,-47.999928,Wait,False
+Cybersecurity Case,18,False,False,0.0,0.0,0.0,-29.999993,17.999993,-47.999986,Wait,False
+Cybersecurity Case,19,False,True,0.0,1e-06,1e-06,-29.999939,17.999943,-47.999882,Wait,False
+Cybersecurity Case,20,False,False,1e-06,0.0,0.0,-29.999988,17.999989,-47.999976,Wait,False
+Cybersecurity Case,21,False,False,0.0,0.0,0.0,-29.999998,17.999998,-47.999995,Wait,False
+Cybersecurity Case,22,False,False,0.0,0.0,0.0,-30.0,18.0,-47.999999,Wait,False
+Cybersecurity Case,23,False,False,0.0,0.0,0.0,-30.0,18.0,-48.0,Wait,False
+Cybersecurity Case,24,False,False,0.0,0.0,0.0,-30.0,18.0,-48.0,Wait,False
+Infrastructure Case,1,True,False,0.22,0.08209,0.089431,-14.447761,6.69403,-21.141791,Wait,False
+Infrastructure Case,2,True,True,0.08209,0.268824,0.36766,2.731836,-9.925363,12.657199,Act,False
+Infrastructure Case,3,True,True,0.268824,0.60183,1.511493,33.368396,-39.562905,72.9313,Act,False
+Infrastructure Case,4,True,False,0.60183,0.323983,0.479254,7.806477,-14.834527,22.641005,Act,False
+Infrastructure Case,5,True,True,0.323983,0.66333,1.970265,39.026336,-45.036347,84.062683,Act,False
+Infrastructure Case,6,True,True,0.66333,0.89011,8.09998,59.890087,-65.219758,125.109846,Act,True
+Infrastructure Case,7,True,True,0.89011,0.970845,33.299916,67.317778,-72.405241,139.723019,Act,True
+Infrastructure Case,8,True,False,0.970845,0.913484,10.55851,62.040497,-67.300046,129.340542,Act,True
+Infrastructure Case,9,True,True,0.913484,0.977481,43.407208,67.928264,-72.995821,140.924085,Act,True
+Infrastructure Case,10,True,True,0.977481,0.994427,178.451855,69.487328,-74.504045,143.991373,Act,True
+Infrastructure Case,11,True,True,0.994427,0.998639,733.635405,69.874768,-74.878851,144.753619,Act,True
+Infrastructure Case,12,True,False,0.998639,0.995719,232.616104,69.606192,-74.619033,144.225225,Act,True
+Infrastructure Case,13,True,False,0.995719,0.986623,73.756326,68.769335,-73.809465,142.5788,Act,True
+Infrastructure Case,14,True,True,0.986623,0.996713,303.22045,69.697588,-74.707449,144.405037,Act,True
+Infrastructure Case,15,True,False,0.996713,0.989706,96.143069,69.052943,-74.083826,143.136769,Act,True
+Infrastructure Case,16,True,True,0.989706,0.997476,395.254841,69.767826,-74.775397,144.543223,Act,True
+Infrastructure Case,17,True,False,0.997476,0.992084,125.324706,69.271718,-74.295466,143.567184,Act,True
+Infrastructure Case,18,True,False,0.992084,0.975452,39.737102,67.741616,-72.815259,140.556876,Act,True
+Infrastructure Case,19,True,True,0.975452,0.993916,163.363641,69.440266,-74.458518,143.898783,Act,True
+Infrastructure Case,20,True,False,0.993916,0.98106,51.798228,68.257517,-73.314337,141.571855,Act,True
+Infrastructure Case,21,True,True,0.98106,0.995326,212.948269,69.56999,-74.584012,144.154001,Act,True
+Infrastructure Case,22,True,True,0.995326,0.998859,875.453994,69.895032,-74.898454,144.793486,Act,True
+Infrastructure Case,23,True,True,0.998859,0.999722,3599.088643,69.974445,-74.975278,144.949723,Act,True
+Infrastructure Case,24,True,True,0.999722,0.999932,14796.253312,69.993783,-74.993985,144.987768,Act,True

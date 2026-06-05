@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,posterior_probability,above,0.70,decision owner
+RT2,utility_difference_absolute,below,8,decision review group
+RT3,prior_sensitivity_action_flip,equals,1,model governance lead
+RT4,evidence_quality_score,below,0.60,analysis lead
+RT5,false_positive_rate,above,0.25,risk committee

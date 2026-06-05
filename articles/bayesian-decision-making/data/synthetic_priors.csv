@@ -1,0 +1,6 @@
+case,prior_type,prior,source,confidence
+Diagnostic Case,empirical,0.10,base rate and patient context,0.72
+Model Drift Case,monitoring,0.18,prior monitoring history,0.64
+Policy Pilot Case,expert,0.35,expert elicitation and prior studies,0.58
+Cybersecurity Case,empirical,0.08,alert history and base rates,0.62
+Infrastructure Case,inspection,0.22,asset history and inspection context,0.67

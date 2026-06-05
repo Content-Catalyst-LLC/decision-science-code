@@ -1,0 +1,6 @@
+"case","baseline_best_utility","expected_utility_with_signal","expected_value_of_sample_information_proxy"
+"Model Drift Case",-1.26,13.662,14.922
+"Infrastructure Case",-1.76,12.9716,14.7316
+"Diagnostic Case",5.5,15.8,10.3
+"Cybersecurity Case",9.36,16.424,7.06399999999999
+"Policy Pilot Case",9.75,12.36,2.60999999999999

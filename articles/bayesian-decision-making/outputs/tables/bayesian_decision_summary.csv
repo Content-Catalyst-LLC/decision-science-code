@@ -1,0 +1,6 @@
+case,initial_posterior,final_posterior,average_posterior,maximum_posterior,minimum_posterior,average_utility_difference,final_recommended_action,review_trigger_rate
+Cybersecurity Case,0.017094,0.0,0.019674,0.277227,0.0,-43.612755,Wait,0.0
+Diagnostic Case,0.443299,1.0,0.969413,1.0,0.443299,163.576641,Act,0.958333
+Infrastructure Case,0.08209,0.999932,0.857818,0.999932,0.08209,119.265067,Act,0.791667
+Model Drift Case,0.516937,0.0,0.071065,0.577402,0.0,-17.563638,Wait,0.0
+Policy Pilot Case,0.631443,1.0,0.956514,1.0,0.631443,113.477051,Act,0.916667

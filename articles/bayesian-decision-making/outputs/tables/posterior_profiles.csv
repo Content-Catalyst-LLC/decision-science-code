@@ -1,0 +1,6 @@
+"case","prior","posterior","bayes_factor","recommended_action"
+"Policy Pilot Case",0.35,0.631443298969072,3.18181818181818,"Act"
+"Infrastructure Case",0.22,0.536939313984169,4.11111111111111,"Act"
+"Model Drift Case",0.18,0.516936671575847,4.875,"Act"
+"Diagnostic Case",0.1,0.443298969072165,7.16666666666667,"Act"
+"Cybersecurity Case",0.08,0.416243654822335,8.2,"Act"

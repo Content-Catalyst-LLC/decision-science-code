@@ -1,0 +1,16 @@
+case,step,signal
+Diagnostic Case,1,positive
+Diagnostic Case,2,positive
+Diagnostic Case,3,negative
+Model Drift Case,1,negative
+Model Drift Case,2,positive
+Model Drift Case,3,positive
+Policy Pilot Case,1,positive
+Policy Pilot Case,2,negative
+Policy Pilot Case,3,positive
+Cybersecurity Case,1,positive
+Cybersecurity Case,2,positive
+Cybersecurity Case,3,positive
+Infrastructure Case,1,negative
+Infrastructure Case,2,positive
+Infrastructure Case,3,negative

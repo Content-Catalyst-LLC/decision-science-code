@@ -1,0 +1,6 @@
+case,evidence,sensitivity,false_positive_rate,evidence_quality
+Diagnostic Case,positive diagnostic test,0.86,0.12,high
+Model Drift Case,monitoring drift signal,0.78,0.16,medium
+Policy Pilot Case,positive pilot effect signal,0.70,0.22,medium
+Cybersecurity Case,high-confidence intrusion alert,0.82,0.10,medium
+Infrastructure Case,inspection anomaly,0.74,0.18,medium

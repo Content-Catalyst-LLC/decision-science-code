@@ -1,0 +1,6 @@
+case,prior,sensitivity,false_positive_rate,action_success_utility,action_false_positive_cost,inaction_miss_cost,inaction_true_negative_utility,description
+Diagnostic Case,0.10,0.86,0.12,90,-25,-80,15,Clinical-style diagnosis and treatment decision
+Model Drift Case,0.18,0.78,0.16,75,-18,-70,12,AI model monitoring and drift response decision
+Policy Pilot Case,0.35,0.70,0.22,65,-20,-55,10,Public policy pilot evidence and scale decision
+Cybersecurity Case,0.08,0.82,0.10,85,-30,-90,18,Security alert escalation and containment decision
+Infrastructure Case,0.22,0.74,0.18,70,-22,-75,14,Asset inspection and maintenance decision

@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Bayesian decision-making under sequential evidence,Act when posterior expected utility exceeds waiting utility,Action is selected under posterior beliefs and reviewed when utility difference is small,review if posterior crosses threshold or action flips under sensitivity analysis

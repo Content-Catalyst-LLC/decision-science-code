@@ -1,0 +1,21 @@
+case,action,state,utility
+Diagnostic Case,Act,hypothesis_true,90
+Diagnostic Case,Act,hypothesis_false,-25
+Diagnostic Case,Wait,hypothesis_true,-80
+Diagnostic Case,Wait,hypothesis_false,15
+Model Drift Case,Act,hypothesis_true,75
+Model Drift Case,Act,hypothesis_false,-18
+Model Drift Case,Wait,hypothesis_true,-70
+Model Drift Case,Wait,hypothesis_false,12
+Policy Pilot Case,Act,hypothesis_true,65
+Policy Pilot Case,Act,hypothesis_false,-20
+Policy Pilot Case,Wait,hypothesis_true,-55
+Policy Pilot Case,Wait,hypothesis_false,10
+Cybersecurity Case,Act,hypothesis_true,85
+Cybersecurity Case,Act,hypothesis_false,-30
+Cybersecurity Case,Wait,hypothesis_true,-90
+Cybersecurity Case,Wait,hypothesis_false,18
+Infrastructure Case,Act,hypothesis_true,70
+Infrastructure Case,Act,hypothesis_false,-22
+Infrastructure Case,Wait,hypothesis_true,-75
+Infrastructure Case,Wait,hypothesis_false,14

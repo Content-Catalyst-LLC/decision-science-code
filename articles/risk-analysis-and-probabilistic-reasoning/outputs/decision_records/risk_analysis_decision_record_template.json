@@ -1,0 +1,20 @@
+{
+  "article": "Risk Analysis and Probabilistic Reasoning",
+  "decision_context": "",
+  "risk_owner": "",
+  "alternatives": [],
+  "hazards": [],
+  "exposures": [],
+  "vulnerabilities": [],
+  "probability_assumptions": [],
+  "consequence_assumptions": [],
+  "expected_loss_results": [],
+  "tail_risk_results": [],
+  "stress_test_results": [],
+  "bayesian_updates": [],
+  "model_limitations": [],
+  "risk_response": "",
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": []
+}

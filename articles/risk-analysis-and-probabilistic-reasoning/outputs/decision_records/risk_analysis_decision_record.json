@@ -1,0 +1,272 @@
+{
+  "article": "Risk Analysis and Probabilistic Reasoning",
+  "decision_context": "Comparison of strategies across expected loss, volatility, tail exposure, and scenario stress.",
+  "modeling_principles": [
+    "Risk combines likelihood, consequence, exposure, vulnerability, and response capacity.",
+    "Expected loss is useful but incomplete.",
+    "Variance, threshold breach, VaR, and CVaR reveal distributional risk.",
+    "Stress tests reveal exposure under severe plausible conditions.",
+    "Probability assumptions and model limits should be documented.",
+    "Bayesian updating can revise risk estimates as evidence changes.",
+    "Risk analysis supports judgment; it does not replace responsibility."
+  ],
+  "risk_summary": [
+    {
+      "strategy": "Resilient Strategy",
+      "mean_return": 0.104694,
+      "expected_loss": 0.000481,
+      "volatility": 0.050643,
+      "downside_breach_probability": 0.0,
+      "value_at_risk_5pct": 0.022191,
+      "conditional_value_at_risk_5pct": -0.002502,
+      "minimum_return": -0.097846,
+      "maximum_return": 0.304246,
+      "risk_penalty_score": 0.011047,
+      "risk_adjusted_score": 0.093647
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "mean_return": 0.100394,
+      "expected_loss": 0.007172,
+      "volatility": 0.093456,
+      "downside_breach_probability": 0.0197,
+      "value_at_risk_5pct": -0.05533,
+      "conditional_value_at_risk_5pct": -0.100248,
+      "minimum_return": -0.304458,
+      "maximum_return": 0.402824,
+      "risk_penalty_score": 0.054231,
+      "risk_adjusted_score": 0.046164
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "mean_return": 0.077777,
+      "expected_loss": 0.005343,
+      "volatility": 0.07179,
+      "downside_breach_probability": 0.0074,
+      "value_at_risk_5pct": -0.042976,
+      "conditional_value_at_risk_5pct": -0.074021,
+      "minimum_return": -0.282114,
+      "maximum_return": 0.329336,
+      "risk_penalty_score": 0.039544,
+      "risk_adjusted_score": 0.038233
+    },
+    {
+      "strategy": "Conservative Strategy",
+      "mean_return": 0.044271,
+      "expected_loss": 0.000484,
+      "volatility": 0.025648,
+      "downside_breach_probability": 0.0,
+      "value_at_risk_5pct": 0.001652,
+      "conditional_value_at_risk_5pct": -0.009592,
+      "minimum_return": -0.075445,
+      "maximum_return": 0.140761,
+      "risk_penalty_score": 0.008177,
+      "risk_adjusted_score": 0.036094
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "mean_return": 0.091271,
+      "expected_loss": 0.034307,
+      "volatility": 0.176719,
+      "downside_breach_probability": 0.1374,
+      "value_at_risk_5pct": -0.205188,
+      "conditional_value_at_risk_5pct": -0.297659,
+      "minimum_return": -0.620835,
+      "maximum_return": 0.735131,
+      "risk_penalty_score": 0.157259,
+      "risk_adjusted_score": -0.065988
+    }
+  ],
+  "stress_results": [
+    {
+      "strategy": "Conservative Strategy",
+      "scenario": "baseline",
+      "expected_stress_return": 0.04455,
+      "stressed_volatility": 0.025,
+      "stressed_shock": -0.045
+    },
+    {
+      "strategy": "Conservative Strategy",
+      "scenario": "moderate stress",
+      "expected_stress_return": -0.005562,
+      "stressed_volatility": 0.03125,
+      "stressed_shock": -0.05625
+    },
+    {
+      "strategy": "Conservative Strategy",
+      "scenario": "severe stress",
+      "expected_stress_return": -0.075787,
+      "stressed_volatility": 0.04375,
+      "stressed_shock": -0.07875
+    },
+    {
+      "strategy": "Conservative Strategy",
+      "scenario": "compound stress",
+      "expected_stress_return": -0.136125,
+      "stressed_volatility": 0.055,
+      "stressed_shock": -0.1125
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "scenario": "baseline",
+      "expected_stress_return": 0.0775,
+      "stressed_volatility": 0.07,
+      "stressed_shock": -0.1
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "scenario": "moderate stress",
+      "expected_stress_return": 0.026875,
+      "stressed_volatility": 0.0875,
+      "stressed_shock": -0.125
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "scenario": "severe stress",
+      "expected_stress_return": -0.044375,
+      "stressed_volatility": 0.1225,
+      "stressed_shock": -0.175
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "scenario": "compound stress",
+      "expected_stress_return": -0.10625,
+      "stressed_volatility": 0.154,
+      "stressed_shock": -0.25
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "scenario": "baseline",
+      "expected_stress_return": 0.0907,
+      "stressed_volatility": 0.165,
+      "stressed_shock": -0.26
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "scenario": "moderate stress",
+      "expected_stress_return": 0.037125,
+      "stressed_volatility": 0.20625,
+      "stressed_shock": -0.325
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "scenario": "severe stress",
+      "expected_stress_return": -0.040025,
+      "stressed_volatility": 0.28875,
+      "stressed_shock": -0.455
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "scenario": "compound stress",
+      "expected_stress_return": -0.11075,
+      "stressed_volatility": 0.363,
+      "stressed_shock": -0.65
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "scenario": "baseline",
+      "expected_stress_return": 0.1008,
+      "stressed_volatility": 0.09,
+      "stressed_shock": -0.14
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "scenario": "moderate stress",
+      "expected_stress_return": 0.04975,
+      "stressed_volatility": 0.1125,
+      "stressed_shock": -0.175
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "scenario": "severe stress",
+      "expected_stress_return": -0.02235,
+      "stressed_volatility": 0.1575,
+      "stressed_shock": -0.245
+    },
+    {
+      "strategy": "Adaptive Strategy",
+      "scenario": "compound stress",
+      "expected_stress_return": -0.0855,
+      "stressed_volatility": 0.198,
+      "stressed_shock": -0.35
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "scenario": "baseline",
+      "expected_stress_return": 0.10395,
+      "stressed_volatility": 0.05,
+      "stressed_shock": -0.07
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "scenario": "moderate stress",
+      "expected_stress_return": 0.053687,
+      "stressed_volatility": 0.0625,
+      "stressed_shock": -0.0875
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "scenario": "severe stress",
+      "expected_stress_return": -0.016837,
+      "stressed_volatility": 0.0875,
+      "stressed_shock": -0.1225
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "scenario": "compound stress",
+      "expected_stress_return": -0.077625,
+      "stressed_volatility": 0.11,
+      "stressed_shock": -0.175
+    }
+  ],
+  "probability_quality": [
+    {
+      "strategy": "Adaptive Strategy",
+      "probability_quality_score": 0.575,
+      "probability_quality_flag": "review"
+    },
+    {
+      "strategy": "Balanced Strategy",
+      "probability_quality_score": 0.575,
+      "probability_quality_flag": "review"
+    },
+    {
+      "strategy": "Conservative Strategy",
+      "probability_quality_score": 0.575,
+      "probability_quality_flag": "review"
+    },
+    {
+      "strategy": "High-Risk Strategy",
+      "probability_quality_score": 0.35,
+      "probability_quality_flag": "review"
+    },
+    {
+      "strategy": "Resilient Strategy",
+      "probability_quality_score": 0.575,
+      "probability_quality_flag": "review"
+    }
+  ],
+  "bayesian_updates": [
+    {
+      "case": "model drift signal",
+      "prior": 0.1,
+      "sensitivity": 0.82,
+      "false_positive_rate": 0.12,
+      "posterior_after_positive_signal": 0.431579
+    },
+    {
+      "case": "cost escalation alert",
+      "prior": 0.15,
+      "sensitivity": 0.76,
+      "false_positive_rate": 0.18,
+      "posterior_after_positive_signal": 0.426966
+    },
+    {
+      "case": "compound stress indicator",
+      "prior": 0.06,
+      "sensitivity": 0.7,
+      "false_positive_rate": 0.1,
+      "posterior_after_positive_signal": 0.308824
+    }
+  ]
+}

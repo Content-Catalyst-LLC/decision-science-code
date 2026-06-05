@@ -1,0 +1,21 @@
+hazard_id,strategy,loss,consequence_category
+H1,Conservative Strategy,0.035,financial
+H1,Balanced Strategy,0.080,financial
+H1,High-Risk Strategy,0.180,financial
+H1,Adaptive Strategy,0.090,financial
+H1,Resilient Strategy,0.055,financial
+H2,Conservative Strategy,0.040,technical
+H2,Balanced Strategy,0.090,technical
+H2,High-Risk Strategy,0.210,technical
+H2,Adaptive Strategy,0.080,technical
+H2,Resilient Strategy,0.050,technical
+H3,Conservative Strategy,0.030,market
+H3,Balanced Strategy,0.095,market
+H3,High-Risk Strategy,0.260,market
+H3,Adaptive Strategy,0.110,market
+H3,Resilient Strategy,0.060,market
+H6,Conservative Strategy,0.075,systemic
+H6,Balanced Strategy,0.180,systemic
+H6,High-Risk Strategy,0.420,systemic
+H6,Adaptive Strategy,0.210,systemic
+H6,Resilient Strategy,0.110,systemic

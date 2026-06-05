@@ -1,0 +1,6 @@
+"strategy","probability_quality_score","probability_quality_flag"
+"High-Risk Strategy",0.35,"review"
+"Adaptive Strategy",0.575,"review"
+"Balanced Strategy",0.575,"review"
+"Conservative Strategy",0.575,"review"
+"Resilient Strategy",0.575,"review"

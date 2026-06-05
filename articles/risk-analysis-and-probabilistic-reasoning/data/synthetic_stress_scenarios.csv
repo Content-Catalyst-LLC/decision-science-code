@@ -1,0 +1,5 @@
+scenario,return_shift,volatility_multiplier,shock_multiplier,description
+baseline,0.00,1.00,1.00,Baseline conditions
+moderate stress,-0.05,1.25,1.25,Moderate adverse conditions
+severe stress,-0.12,1.75,1.75,Severe adverse conditions
+compound stress,-0.18,2.20,2.50,Multiple adverse risks occur together

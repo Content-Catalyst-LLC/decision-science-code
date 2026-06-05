@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,rationale,review_trigger
+DR1,Risk analysis and probabilistic comparison of strategies,Resilient Strategy,Selected for balanced performance with lower tail exposure and stronger recovery capacity,review if expected loss or compound stress exposure exceeds threshold

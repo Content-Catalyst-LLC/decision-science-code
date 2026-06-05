@@ -1,0 +1,21 @@
+"strategy","scenario","expected_stress_return","stressed_volatility","stressed_shock"
+"Conservative Strategy","baseline",0.04455,0.025,-0.045
+"Conservative Strategy","moderate stress",-0.0055625,0.03125,-0.05625
+"Conservative Strategy","severe stress",-0.0757875,0.04375,-0.07875
+"Conservative Strategy","compound stress",-0.136125,0.055,-0.1125
+"Balanced Strategy","baseline",0.0775,0.07,-0.1
+"Balanced Strategy","moderate stress",0.026875,0.0875,-0.125
+"Balanced Strategy","severe stress",-0.044375,0.1225,-0.175
+"Balanced Strategy","compound stress",-0.10625,0.154,-0.25
+"High-Risk Strategy","baseline",0.0907,0.165,-0.26
+"High-Risk Strategy","moderate stress",0.037125,0.20625,-0.325
+"High-Risk Strategy","severe stress",-0.040025,0.28875,-0.455
+"High-Risk Strategy","compound stress",-0.11075,0.363,-0.65
+"Adaptive Strategy","baseline",0.1008,0.09,-0.14
+"Adaptive Strategy","moderate stress",0.04975,0.1125,-0.175
+"Adaptive Strategy","severe stress",-0.02235,0.1575,-0.245
+"Adaptive Strategy","compound stress",-0.0855,0.198,-0.35
+"Resilient Strategy","baseline",0.10395,0.05,-0.07
+"Resilient Strategy","moderate stress",0.0536875,0.0625,-0.0875
+"Resilient Strategy","severe stress",-0.0168375,0.0875,-0.1225
+"Resilient Strategy","compound stress",-0.077625,0.11,-0.175

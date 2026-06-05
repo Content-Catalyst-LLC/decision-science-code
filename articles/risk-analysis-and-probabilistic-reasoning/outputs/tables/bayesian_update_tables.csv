@@ -1,0 +1,4 @@
+"case","prior","sensitivity","false_positive_rate","posterior_after_positive_signal","posterior_lift"
+"model drift signal",0.1,0.82,0.12,0.431578947368421,0.331578947368421
+"cost escalation alert",0.15,0.76,0.18,0.426966292134831,0.276966292134831
+"compound stress indicator",0.06,0.7,0.1,0.308823529411765,0.248823529411765

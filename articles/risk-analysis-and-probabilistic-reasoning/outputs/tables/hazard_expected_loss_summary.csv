@@ -1,0 +1,21 @@
+"hazard_id","strategy","probability","quality","source_type","confidence","probability_quality_score","loss","consequence_category","hazard_expected_loss"
+"H1","Adaptive Strategy",0.14,"medium","model estimate",0.66,0.65,0.09,"financial",0.0126
+"H1","Balanced Strategy",0.12,"medium","expert estimate",0.64,0.65,0.08,"financial",0.0096
+"H1","Conservative Strategy",0.08,"medium","expert estimate",0.7,0.65,0.035,"financial",0.0028
+"H1","High-Risk Strategy",0.22,"low","scenario estimate",0.46,0.35,0.18,"financial",0.0396
+"H1","Resilient Strategy",0.09,"medium","model estimate",0.72,0.65,0.055,"financial",0.00495
+"H2","Adaptive Strategy",0.11,"medium","monitoring estimate",0.7,0.65,0.08,"technical",0.0088
+"H2","Balanced Strategy",0.1,"medium","historical analogy",0.62,0.65,0.09,"technical",0.009
+"H2","Conservative Strategy",0.06,"medium","historical analogy",0.68,0.65,0.04,"technical",0.0024
+"H2","High-Risk Strategy",0.18,"low","expert estimate",0.44,0.35,0.21,"technical",0.0378
+"H2","Resilient Strategy",0.07,"medium","monitoring estimate",0.74,0.65,0.05,"technical",0.0035
+"H3","Adaptive Strategy",0.16,"medium","scenario estimate",0.62,0.65,0.11,"market",0.0176
+"H3","Balanced Strategy",0.18,"medium","scenario estimate",0.56,0.65,0.095,"market",0.0171
+"H3","Conservative Strategy",0.1,"medium","scenario estimate",0.6,0.65,0.03,"market",0.003
+"H3","High-Risk Strategy",0.28,"low","scenario estimate",0.38,0.35,0.26,"market",0.0728
+"H3","Resilient Strategy",0.12,"medium","scenario estimate",0.66,0.65,0.06,"market",0.0072
+"H6","Adaptive Strategy",0.07,"low","stress scenario",0.44,0.35,0.21,"systemic",0.0147
+"H6","Balanced Strategy",0.06,"low","stress scenario",0.38,0.35,0.18,"systemic",0.0108
+"H6","Conservative Strategy",0.03,"low","stress scenario",0.42,0.35,0.075,"systemic",0.00225
+"H6","High-Risk Strategy",0.12,"low","stress scenario",0.3,0.35,0.42,"systemic",0.0504
+"H6","Resilient Strategy",0.04,"low","stress scenario",0.5,0.35,0.11,"systemic",0.0044

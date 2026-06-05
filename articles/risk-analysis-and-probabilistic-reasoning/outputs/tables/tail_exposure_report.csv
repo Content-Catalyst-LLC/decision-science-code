@@ -1,0 +1,6 @@
+"strategy","value_at_risk_5pct","conditional_value_at_risk_5pct","downside_breach_probability"
+"High-Risk Strategy",-0.20802079235109,-0.293171532090355,0.1363
+"Adaptive Strategy",-0.0548286802516077,-0.0994546388873931,0.0186
+"Balanced Strategy",-0.041517732961172,-0.0762901141164236,0.0091
+"Conservative Strategy",0.00154483587473103,-0.00976714591898878,0
+"Resilient Strategy",0.0206940101772506,-0.00146689909458577,0

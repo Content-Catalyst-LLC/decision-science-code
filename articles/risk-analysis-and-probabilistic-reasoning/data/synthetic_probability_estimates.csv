@@ -1,0 +1,21 @@
+hazard_id,strategy,probability,quality,source_type,confidence
+H1,Conservative Strategy,0.08,medium,expert estimate,0.70
+H1,Balanced Strategy,0.12,medium,expert estimate,0.64
+H1,High-Risk Strategy,0.22,low,scenario estimate,0.46
+H1,Adaptive Strategy,0.14,medium,model estimate,0.66
+H1,Resilient Strategy,0.09,medium,model estimate,0.72
+H2,Conservative Strategy,0.06,medium,historical analogy,0.68
+H2,Balanced Strategy,0.10,medium,historical analogy,0.62
+H2,High-Risk Strategy,0.18,low,expert estimate,0.44
+H2,Adaptive Strategy,0.11,medium,monitoring estimate,0.70
+H2,Resilient Strategy,0.07,medium,monitoring estimate,0.74
+H3,Conservative Strategy,0.10,medium,scenario estimate,0.60
+H3,Balanced Strategy,0.18,medium,scenario estimate,0.56
+H3,High-Risk Strategy,0.28,low,scenario estimate,0.38
+H3,Adaptive Strategy,0.16,medium,scenario estimate,0.62
+H3,Resilient Strategy,0.12,medium,scenario estimate,0.66
+H6,Conservative Strategy,0.03,low,stress scenario,0.42
+H6,Balanced Strategy,0.06,low,stress scenario,0.38
+H6,High-Risk Strategy,0.12,low,stress scenario,0.30
+H6,Adaptive Strategy,0.07,low,stress scenario,0.44
+H6,Resilient Strategy,0.04,low,stress scenario,0.50

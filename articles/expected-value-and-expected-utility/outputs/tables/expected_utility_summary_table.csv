@@ -1,0 +1,6 @@
+"prospect","expected_value","expected_utility_rank_range","average_risk_premium"
+"Resilient Moderate Upside",126,0,3.10243557237322
+"Balanced Gamble",124,0,10.8417447106526
+"High-Risk Gamble",100,0,42.9695096261911
+"Safe Option",100,0,-4.06430444854777e-12
+"Catastrophic Downside",51,0,99.1495650330078

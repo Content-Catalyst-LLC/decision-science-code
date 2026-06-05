@@ -1,0 +1,6 @@
+risk_aversion,description
+0.25,low risk aversion
+0.75,moderate-low risk aversion
+1.00,log utility case
+1.50,moderate-high risk aversion
+2.25,high risk aversion

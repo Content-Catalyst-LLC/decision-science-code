@@ -1,0 +1,6 @@
+utility_model,description,parameter
+linear,Risk-neutral utility,0.00
+log,Log utility with diminishing marginal value,1.00
+crra_low,Low CRRA risk aversion,0.25
+crra_moderate,Moderate CRRA risk aversion,1.00
+crra_high,High CRRA risk aversion,2.25

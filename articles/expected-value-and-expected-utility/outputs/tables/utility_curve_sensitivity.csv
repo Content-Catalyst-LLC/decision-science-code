@@ -1,0 +1,26 @@
+"risk_aversion","prospect","expected_utility","expected_utility_rank"
+0.25,"Resilient Moderate Upside",89.0408808039348,1
+0.25,"Balanced Gamble",88.1494555087268,2
+0.25,"Safe Option",82.7469231305579,3
+0.25,"High-Risk Gamble",79.6514131809203,4
+0.25,"Catastrophic Downside",63.0697460455525,5
+0.75,"Resilient Moderate Upside",12.2894997449551,1
+0.75,"Balanced Gamble",12.1849956625725,2
+0.75,"Safe Option",11.9212961873108,3
+0.75,"High-Risk Gamble",11.3612955205463,4
+0.75,"Catastrophic Downside",9.29577000164879,5
+1,"Resilient Moderate Upside",5.61442599577954,1
+1,"Balanced Gamble",5.58218039644489,2
+1,"Safe Option",5.52545293913178,3
+1,"High-Risk Gamble",5.34089357989942,4
+1,"Catastrophic Downside",4.59705990899014,5
+1.5,"Resilient Moderate Upside",1.87894497388163,1
+1.5,"Balanced Gamble",1.87615606638509,2
+1.5,"Safe Option",1.87376111938044,3
+1.5,"High-Risk Gamble",1.85663101504221,4
+1.5,"Catastrophic Downside",1.75804044164052,5
+2.25,"Resilient Moderate Upside",0.799271679845779,1
+2.25,"Balanced Gamble",0.799209348143052,2
+2.25,"Safe Option",0.799199248363068,3
+2.25,"High-Risk Gamble",0.798791558960251,4
+2.25,"Catastrophic Downside",0.793790257141352,5

@@ -1,0 +1,10 @@
+probability_set,prospect,outcome_state,probability,quality,source_type
+baseline,Safe Option,certain,1.00,high,guaranteed
+baseline,Balanced Gamble,upside,0.60,medium,expert estimate
+baseline,Balanced Gamble,downside,0.40,medium,expert estimate
+baseline,High-Risk Gamble,upside,0.25,medium,historical analogy
+baseline,High-Risk Gamble,downside,0.75,medium,historical analogy
+baseline,Catastrophic Downside,upside,0.45,low,scenario estimate
+baseline,Catastrophic Downside,downside,0.55,low,scenario estimate
+baseline,Resilient Moderate Upside,upside,0.70,medium,model estimate
+baseline,Resilient Moderate Upside,downside,0.30,medium,model estimate

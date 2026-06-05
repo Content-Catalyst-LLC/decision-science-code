@@ -1,0 +1,10 @@
+prospect,outcome_state,outcome,probability
+Safe Option,certain,100,1.00
+Balanced Gamble,upside,180,0.60
+Balanced Gamble,downside,40,0.40
+High-Risk Gamble,upside,400,0.25
+High-Risk Gamble,downside,0,0.75
+Catastrophic Downside,upside,260,0.45
+Catastrophic Downside,downside,-120,0.55
+Resilient Moderate Upside,upside,150,0.70
+Resilient Moderate Upside,downside,70,0.30

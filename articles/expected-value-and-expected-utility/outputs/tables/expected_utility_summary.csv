@@ -1,0 +1,6 @@
+prospect,expected_value,best_expected_utility_rank,worst_expected_utility_rank,rank_range,average_certainty_equivalent,average_risk_premium
+Resilient Moderate Upside,126.0,1,1,0,122.8976,3.1024
+Balanced Gamble,124.0,2,2,0,113.1583,10.8417
+Safe Option,100.0,3,3,0,100.0,0.0
+High-Risk Gamble,100.0,4,4,0,57.0305,42.9695
+Catastrophic Downside,51.0,5,5,0,-48.1496,99.1496

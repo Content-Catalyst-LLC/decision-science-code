@@ -1,0 +1,59 @@
+{
+  "article": "Expected Value and Expected Utility",
+  "decision_context": "Comparison of uncertain prospects under expected value and expected utility.",
+  "modeling_principles": [
+    "Expected value is a risk-neutral benchmark.",
+    "Expected utility incorporates risk attitude through utility curvature.",
+    "Certainty equivalents translate expected utility into interpretable outcome terms.",
+    "Risk premiums measure willingness to give up expected value for certainty.",
+    "Choice rankings can change when risk aversion changes.",
+    "Probability and utility assumptions should be documented and sensitivity-tested."
+  ],
+  "summary": [
+    {
+      "prospect": "Resilient Moderate Upside",
+      "expected_value": 126.0,
+      "best_expected_utility_rank": 1,
+      "worst_expected_utility_rank": 1,
+      "rank_range": 0,
+      "average_certainty_equivalent": 122.8976,
+      "average_risk_premium": 3.1024
+    },
+    {
+      "prospect": "Balanced Gamble",
+      "expected_value": 124.0,
+      "best_expected_utility_rank": 2,
+      "worst_expected_utility_rank": 2,
+      "rank_range": 0,
+      "average_certainty_equivalent": 113.1583,
+      "average_risk_premium": 10.8417
+    },
+    {
+      "prospect": "Safe Option",
+      "expected_value": 100.0,
+      "best_expected_utility_rank": 3,
+      "worst_expected_utility_rank": 3,
+      "rank_range": 0,
+      "average_certainty_equivalent": 100.0,
+      "average_risk_premium": 0.0
+    },
+    {
+      "prospect": "High-Risk Gamble",
+      "expected_value": 100.0,
+      "best_expected_utility_rank": 4,
+      "worst_expected_utility_rank": 4,
+      "rank_range": 0,
+      "average_certainty_equivalent": 57.0305,
+      "average_risk_premium": 42.9695
+    },
+    {
+      "prospect": "Catastrophic Downside",
+      "expected_value": 51.0,
+      "best_expected_utility_rank": 5,
+      "worst_expected_utility_rank": 5,
+      "rank_range": 0,
+      "average_certainty_equivalent": -48.1496,
+      "average_risk_premium": 99.1496
+    }
+  ]
+}

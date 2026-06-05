@@ -1,0 +1,2 @@
+record_id,decision_context,selected_prospect,rationale,review_trigger
+DR1,Expected value and expected utility comparison,Resilient Moderate Upside,Selected because it balances expected value downside protection and risk-sensitive utility,review if downside probability or risk aversion assumption changes materially

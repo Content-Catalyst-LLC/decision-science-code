@@ -1,0 +1,9 @@
+-- prospects.sql
+
+INSERT INTO prospects (prospect_name, description)
+VALUES
+('Safe Option', 'Guaranteed moderate outcome'),
+('Balanced Gamble', 'Higher upside with moderate downside'),
+('High-Risk Gamble', 'Large upside with high probability of low outcome'),
+('Catastrophic Downside', 'Attractive upside paired with severe loss state'),
+('Resilient Moderate Upside', 'Moderate upside with protected downside');

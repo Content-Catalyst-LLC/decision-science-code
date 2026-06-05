@@ -1,0 +1,26 @@
+risk_aversion,prospect,expected_value,expected_utility,certainty_equivalent,risk_premium,expected_value_rank,expected_utility_rank,certainty_equivalent_rank
+0.25,Safe Option,100.0,82.74692313,100.0,0.0,3,3,3
+0.25,Balanced Gamble,124.0,88.14945551,121.7309,2.2691,2,2,2
+0.25,High-Risk Gamble,100.0,79.65141318,87.7551,12.2449,4,4,4
+0.25,Catastrophic Downside,51.0,63.06974605,24.91,26.09,5,5,5
+0.25,Resilient Moderate Upside,126.0,89.0408808,125.3595,0.6405,1,1,1
+0.75,Safe Option,100.0,11.92129619,100.0,0.0,3,3,3
+0.75,Balanced Gamble,124.0,12.18499566,117.0467,6.9533,2,2,2
+0.75,High-Risk Gamble,100.0,11.36129552,66.5061,33.4939,4,4,4
+0.75,Catastrophic Downside,51.0,9.29577,-28.9286,79.9286,5,5,5
+0.75,Resilient Moderate Upside,126.0,12.28949974,124.0369,1.9631,1,1,1
+1.0,Safe Option,100.0,5.52545294,100.0,0.0,3,3,3
+1.0,Balanced Gamble,124.0,5.5821804,114.6502,9.3498,2,2,2
+1.0,High-Risk Gamble,100.0,5.34089358,57.6991,42.3009,4,4,4
+1.0,Catastrophic Downside,51.0,4.59705991,-51.8077,102.8077,5,5,5
+1.0,Resilient Moderate Upside,126.0,5.614426,123.3559,2.6441,1,1,1
+1.5,Safe Option,100.0,1.87376112,100.0,0.0,3,3,3
+1.5,Balanced Gamble,124.0,1.87615607,109.8018,14.1982,2,2,2
+1.5,High-Risk Gamble,100.0,1.85663102,43.603,56.397,4,4,4
+1.5,Catastrophic Downside,51.0,1.75804044,-82.6758,133.6758,5,5,5
+1.5,Resilient Moderate Upside,126.0,1.87894497,121.9571,4.0429,1,1,1
+2.25,Safe Option,100.0,0.79919925,100.0,-0.0,3,3,3
+2.25,Balanced Gamble,124.0,0.79920935,102.5618,21.4382,2,2,2
+2.25,High-Risk Gamble,100.0,0.79879156,29.5891,70.4109,4,4,4
+2.25,Catastrophic Downside,51.0,0.79379026,-102.2457,153.2457,5,5,5
+2.25,Resilient Moderate Upside,126.0,0.79927168,119.7785,6.2215,1,1,1

@@ -1,0 +1,119 @@
+{
+  "article": "What Is Decision Science?",
+  "decision": "Illustrative strategic resource-allocation decision under uncertainty",
+  "selected_alternative": "Evidence-first staged pilot",
+  "rationale": "requires further evidence or redesign",
+  "modeling_principles": [
+    "Define the decision before modeling options.",
+    "Distinguish outcome quality from decision-process quality.",
+    "Make alternatives explicit.",
+    "Represent uncertainty honestly.",
+    "Surface values and trade-offs.",
+    "Use sensitivity analysis to test assumption dependence.",
+    "Prefer robustness over fragile optimization under deep uncertainty.",
+    "Document decision records for accountability and learning.",
+    "Treat computational models as supports for judgment, not replacements for responsibility."
+  ],
+  "criteria": [
+    {
+      "name": "net_benefit",
+      "weight": 0.24,
+      "direction": "benefit"
+    },
+    {
+      "name": "flexibility",
+      "weight": 0.16,
+      "direction": "benefit"
+    },
+    {
+      "name": "resilience",
+      "weight": 0.18,
+      "direction": "benefit"
+    },
+    {
+      "name": "implementation_capacity",
+      "weight": 0.14,
+      "direction": "benefit"
+    },
+    {
+      "name": "equity_score",
+      "weight": 0.12,
+      "direction": "benefit"
+    },
+    {
+      "name": "evidence_quality",
+      "weight": 0.1,
+      "direction": "benefit"
+    },
+    {
+      "name": "reversibility",
+      "weight": 0.06,
+      "direction": "benefit"
+    }
+  ],
+  "summary": [
+    {
+      "alternative": "Evidence-first staged pilot",
+      "expected_value": 37.6312,
+      "expected_utility": 0.476866,
+      "minimum_outcome": 19.187,
+      "maximum_outcome": 57.79,
+      "average_outcome": 38.2662,
+      "maximum_regret": 3.855,
+      "average_regret": 1.446,
+      "robustness_share": 0.6,
+      "mcda_score": 0.6283,
+      "evidence_quality": 0.92,
+      "decision_note": "requires further evidence or redesign"
+    },
+    {
+      "alternative": "Robust adaptive pathway",
+      "expected_value": 35.9012,
+      "expected_utility": 0.451757,
+      "minimum_outcome": 16.437,
+      "maximum_outcome": 60.995,
+      "average_outcome": 37.2702,
+      "maximum_regret": 6.94,
+      "average_regret": 2.442,
+      "robustness_share": 0.6,
+      "mcda_score": 0.6023,
+      "evidence_quality": 0.76,
+      "decision_note": "requires further evidence or redesign"
+    },
+    {
+      "alternative": "Incremental improvement",
+      "expected_value": 34.1445,
+      "expected_utility": 0.434726,
+      "minimum_outcome": 7.04,
+      "maximum_outcome": 56.2925,
+      "average_outcome": 34.021,
+      "maximum_regret": 12.147,
+      "average_regret": 5.6912,
+      "robustness_share": 0.6,
+      "mcda_score": 0.3713,
+      "evidence_quality": 0.88,
+      "decision_note": "requires further evidence or redesign"
+    },
+    {
+      "alternative": "High-upside optimization",
+      "expected_value": 31.051,
+      "expected_utility": 0.376022,
+      "minimum_outcome": -5.815,
+      "maximum_outcome": 61.645,
+      "average_outcome": 31.131,
+      "maximum_regret": 25.002,
+      "average_regret": 8.5812,
+      "robustness_share": 0.6,
+      "mcda_score": 0.274,
+      "evidence_quality": 0.64,
+      "decision_note": "requires further evidence or redesign"
+    }
+  ],
+  "review_triggers": [
+    "probability assumptions materially change",
+    "maximum regret exceeds tolerance",
+    "implementation capacity drops below threshold",
+    "stakeholder legitimacy concerns emerge",
+    "new evidence changes expected value or robustness ranking"
+  ]
+}

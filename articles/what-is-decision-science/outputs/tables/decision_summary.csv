@@ -1,0 +1,5 @@
+alternative,expected_value,expected_utility,minimum_outcome,maximum_outcome,average_outcome,maximum_regret,average_regret,robustness_share,mcda_score,evidence_quality,decision_note
+Evidence-first staged pilot,37.6312,0.476866,19.187,57.79,38.2662,3.855,1.446,0.6,0.6283,0.92,requires further evidence or redesign
+Robust adaptive pathway,35.9012,0.451757,16.437,60.995,37.2702,6.94,2.442,0.6,0.6023,0.76,requires further evidence or redesign
+Incremental improvement,34.1445,0.434726,7.04,56.2925,34.021,12.147,5.6912,0.6,0.3713,0.88,requires further evidence or redesign
+High-upside optimization,31.051,0.376022,-5.815,61.645,31.131,25.002,8.5812,0.6,0.274,0.64,requires further evidence or redesign

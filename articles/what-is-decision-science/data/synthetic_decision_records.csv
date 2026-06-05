@@ -1,0 +1,2 @@
+record_id,decision,selected_alternative,rationale,review_trigger
+DR1,Illustrative strategic allocation under uncertainty,Robust adaptive pathway,High robustness and low regret across scenarios,scenario probabilities or implementation capacity change

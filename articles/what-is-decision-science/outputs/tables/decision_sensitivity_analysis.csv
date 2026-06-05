@@ -1,0 +1,15 @@
+changed_criterion,delta,base_top_alternative,revised_top_alternative,ranking_changed,top_expected_value,top_maximum_regret,top_robustness_share,top_mcda_score
+net_benefit,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6981
+net_benefit,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.5712
+flexibility,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6106
+flexibility,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6427
+resilience,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6359
+resilience,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6221
+implementation_capacity,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.587
+implementation_capacity,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6621
+equity_score,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6041
+equity_score,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6481
+evidence_quality,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.5915
+evidence_quality,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6621
+reversibility,-0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6087
+reversibility,0.1,Evidence-first staged pilot,Evidence-first staged pilot,False,37.6312,3.855,0.6,0.6621

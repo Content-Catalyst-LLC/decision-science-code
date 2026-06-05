@@ -1,0 +1,5 @@
+"alternative","mcda_score","net_benefit","flexibility","resilience","implementation_capacity","equity_score","evidence_quality","reversibility"
+"Evidence-first staged pilot",0.6283,42,0.72,0.66,0.86,0.74,0.92,0.9
+"Robust adaptive pathway",0.6023,42,0.82,0.88,0.7,0.78,0.76,0.84
+"Incremental improvement",0.3713,44,0.35,0.45,0.82,0.58,0.88,0.7
+"High-upside optimization",0.274,48,0.45,0.38,0.62,0.52,0.64,0.4

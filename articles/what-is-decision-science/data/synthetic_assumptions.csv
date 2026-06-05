@@ -1,0 +1,6 @@
+assumption_id,assumption,category,confidence,review_trigger
+A1,Scenario probabilities are plausible but uncertain,uncertainty,medium,new evidence changes scenario likelihood
+A2,Implementation capacity can be scored consistently,organization,medium,delivery capacity changes
+A3,Equity score captures stakeholder legitimacy only partially,values,low,stakeholder review disputes criteria
+A4,Disruption penalties reflect system stress,model,medium,stress tests reveal nonlinear failure
+A5,Reversibility matters under deep uncertainty,decision principle,high,decision becomes irreversible

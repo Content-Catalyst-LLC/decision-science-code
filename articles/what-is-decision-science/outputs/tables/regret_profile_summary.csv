@@ -1,0 +1,5 @@
+"alternative","average_regret","maximum_regret","regret_sd"
+"Evidence-first staged pilot",1.446,3.855,1.98727640251677
+"High-upside optimization",8.5812,25.002,10.588561432036
+"Incremental improvement",5.6912,12.147,4.3724862864279
+"Robust adaptive pathway",2.442,6.94,2.73078193929871

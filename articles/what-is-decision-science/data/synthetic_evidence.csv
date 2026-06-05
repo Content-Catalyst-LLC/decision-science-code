@@ -1,0 +1,6 @@
+evidence_id,claim,evidence_type,quality,notes
+E1,Robust alternatives reduce downside exposure,decision analysis,medium,Synthetic scenario demonstration
+E2,Staged pilots preserve option value,decision process,medium,Depends on ability to learn
+E3,High-upside optimization can produce high regret,regret analysis,high,Visible in payoff matrix
+E4,MCDA results depend on weights,multi-criteria analysis,high,Sensitivity analysis required
+E5,Decision records support accountability,governance,high,Preserves assumptions and rationale

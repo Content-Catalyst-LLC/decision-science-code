@@ -1,0 +1,21 @@
+alternative,scenario,best_scenario_outcome,outcome_value,regret
+Incremental improvement,Stable baseline,39.826,39.455,0.371
+Robust adaptive pathway,Stable baseline,39.826,37.956,1.87
+High-upside optimization,Stable baseline,39.826,39.04,0.786
+Evidence-first staged pilot,Stable baseline,39.826,39.826,0.0
+Incremental improvement,Cost pressure,25.297,21.745,3.552
+Robust adaptive pathway,Cost pressure,25.297,18.357,6.94
+High-upside optimization,Cost pressure,25.297,12.025,13.272
+Evidence-first staged pilot,Cost pressure,25.297,25.297,0.0
+Incremental improvement,High demand,61.645,56.2925,5.3525
+Robust adaptive pathway,High demand,61.645,60.995,0.65
+High-upside optimization,High demand,61.645,61.645,0.0
+Evidence-first staged pilot,High demand,61.645,57.79,3.855
+Incremental improvement,System disruption,19.187,7.04,12.147
+Robust adaptive pathway,System disruption,19.187,16.437,2.75
+High-upside optimization,System disruption,19.187,-5.815,25.002
+Evidence-first staged pilot,System disruption,19.187,19.187,0.0
+Incremental improvement,Rapid transition,52.606,45.5725,7.0335
+Robust adaptive pathway,Rapid transition,52.606,52.606,0.0
+High-upside optimization,Rapid transition,52.606,48.76,3.846
+Evidence-first staged pilot,Rapid transition,52.606,49.231,3.375

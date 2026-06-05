@@ -1,0 +1,8 @@
+criterion,weight,direction,description
+net_benefit,0.24,benefit,Expected net benefit after base cost
+flexibility,0.16,benefit,Capacity to adjust under changing conditions
+resilience,0.18,benefit,Performance under disruption
+implementation_capacity,0.14,benefit,Feasibility of execution
+equity_score,0.12,benefit,Distributional and stakeholder legitimacy
+evidence_quality,0.10,benefit,Strength of evidence supporting assumptions
+reversibility,0.06,benefit,Ability to revise or exit the decision

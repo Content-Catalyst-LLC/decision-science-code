@@ -1,0 +1,5 @@
+alternative,base_benefit,base_cost,flexibility,resilience,implementation_capacity,equity_score,evidence_quality,reversibility
+Incremental improvement,82,38,0.35,0.45,0.82,0.58,0.88,0.70
+Robust adaptive pathway,94,52,0.82,0.88,0.70,0.78,0.76,0.84
+High-upside optimization,112,64,0.45,0.38,0.62,0.52,0.64,0.40
+Evidence-first staged pilot,76,34,0.72,0.66,0.86,0.74,0.92,0.90

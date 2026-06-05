@@ -1,0 +1,6 @@
+"alternative","decision_quality_score","minimum_component_score","balance_score","architecture_score","process_profile"
+"Staged Learning Decision",0.903,0.82,0.95590414481559,0.892830828963118,"high-quality judgment architecture"
+"Robust Adaptive Pathway",0.8707,0.82,0.97,0.877885,"high-quality judgment architecture"
+"Evidence-Guided Choice",0.7922,0.72,0.950896933791146,0.805889386758229,"solid but uneven decision process"
+"Consensus Shortcut",0.402,0.28,0.929289321881345,0.476957864376269,"fragile decision process"
+"Fast Commitment",0.3998,0.28,0.906325030024024,0.471155006004805,"fragile decision process"

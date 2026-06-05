@@ -1,0 +1,80 @@
+{
+  "article": "Decision Quality and the Architecture of Judgment",
+  "decision_context": "Simulation separating decision-process quality from realized outcome quality.",
+  "highest_architecture_score": "Staged Learning Decision",
+  "interpretation": "Decision quality is evaluated as a process standard rather than a guarantee of favorable outcome.",
+  "modeling_principles": [
+    "Separate decision quality from outcome quality.",
+    "Evaluate framing, alternatives, evidence, uncertainty, trade-offs, safeguards, systems awareness, accountability, and learning.",
+    "Treat favorable outcomes from weak processes as possible luck.",
+    "Treat unfavorable outcomes from strong processes as opportunities for assumption review, not automatic blame.",
+    "Use decision records to reduce hindsight bias and support institutional learning."
+  ],
+  "summary": [
+    {
+      "alternative": "Staged Learning Decision",
+      "decision_quality_score": 0.903,
+      "architecture_score": 0.8781,
+      "minimum_component_score": 0.82,
+      "mean_outcome": 109.2632,
+      "minimum_outcome": 36.989,
+      "maximum_outcome": 179.9249,
+      "outcome_sd": 22.7751,
+      "favorable_outcome_rate": 0.935,
+      "review_trigger_rate": 0.013,
+      "interpretation": "process and outcome broadly aligned"
+    },
+    {
+      "alternative": "Robust Adaptive Pathway",
+      "decision_quality_score": 0.8707,
+      "architecture_score": 0.8555,
+      "minimum_component_score": 0.82,
+      "mean_outcome": 109.9344,
+      "minimum_outcome": 38.5841,
+      "maximum_outcome": 178.1092,
+      "outcome_sd": 23.6955,
+      "favorable_outcome_rate": 0.93,
+      "review_trigger_rate": 0.018,
+      "interpretation": "process and outcome broadly aligned"
+    },
+    {
+      "alternative": "Evidence-Guided Choice",
+      "decision_quality_score": 0.7922,
+      "architecture_score": 0.7705,
+      "minimum_component_score": 0.72,
+      "mean_outcome": 105.4635,
+      "minimum_outcome": 20.6203,
+      "maximum_outcome": 188.6722,
+      "outcome_sd": 23.8834,
+      "favorable_outcome_rate": 0.894,
+      "review_trigger_rate": 0.025,
+      "interpretation": "process and outcome broadly aligned"
+    },
+    {
+      "alternative": "Consensus Shortcut",
+      "decision_quality_score": 0.402,
+      "architecture_score": 0.3654,
+      "minimum_component_score": 0.28,
+      "mean_outcome": 80.6686,
+      "minimum_outcome": -8.5704,
+      "maximum_outcome": 168.5377,
+      "outcome_sd": 24.9446,
+      "favorable_outcome_rate": 0.612,
+      "review_trigger_rate": 1.0,
+      "interpretation": "possible luck masking weak process"
+    },
+    {
+      "alternative": "Fast Commitment",
+      "decision_quality_score": 0.3998,
+      "architecture_score": 0.3639,
+      "minimum_component_score": 0.28,
+      "mean_outcome": 86.1541,
+      "minimum_outcome": 3.9526,
+      "maximum_outcome": 155.0864,
+      "outcome_sd": 24.741,
+      "favorable_outcome_rate": 0.673,
+      "review_trigger_rate": 1.0,
+      "interpretation": "possible luck masking weak process"
+    }
+  ]
+}

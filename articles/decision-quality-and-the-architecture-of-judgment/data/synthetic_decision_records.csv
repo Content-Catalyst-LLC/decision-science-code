@@ -1,0 +1,2 @@
+record_id,decision_context,selected_alternative,rationale,review_trigger
+DR1,Decision-quality architecture comparison under uncertainty,Staged Learning Decision,Highest process quality and learning design with low downside exposure,new evidence or outcome threshold breach triggers review

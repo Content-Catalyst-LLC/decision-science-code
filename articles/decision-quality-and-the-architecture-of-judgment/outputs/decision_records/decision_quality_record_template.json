@@ -1,0 +1,22 @@
+{
+  "article": "Decision Quality and the Architecture of Judgment",
+  "decision_context": "",
+  "decision_owner": "",
+  "alternatives": [],
+  "evidence": [],
+  "uncertainties": [],
+  "criteria": [],
+  "tradeoffs": [],
+  "behavioral_safeguards": [],
+  "systems_consequences": [],
+  "selected_action": "",
+  "rationale": "",
+  "dissent": [],
+  "monitoring_indicators": [],
+  "review_triggers": [],
+  "process_review": {
+    "decision_quality_score": null,
+    "outcome_quality": null,
+    "outcome_bias_warning": ""
+  }
+}

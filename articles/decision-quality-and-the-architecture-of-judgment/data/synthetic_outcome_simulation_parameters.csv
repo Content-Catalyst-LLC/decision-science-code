@@ -1,0 +1,9 @@
+parameter,value,description
+trials,1000,Number of Monte Carlo trials per alternative
+outcome_threshold,75,Threshold for favorable outcome
+external_shock_sd,22,Standard deviation of external shock
+implementation_noise_sd,8,Standard deviation of implementation noise
+downside_penalty_scale,45,Penalty multiplier for downside exposure
+learning_credit_scale,18,Credit multiplier for learning design
+accountability_credit_scale,14,Credit multiplier for accountability
+safeguards_credit_scale,10,Credit multiplier for behavioral safeguards

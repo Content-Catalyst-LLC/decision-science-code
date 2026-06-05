@@ -1,0 +1,10 @@
+component,weight,description
+framing_quality,0.11,Clarity of decision statement owner scope objectives and timing
+alternative_quality,0.10,Strength diversity feasibility and creativity of options
+evidence_quality,0.12,Relevance reliability and applicability of evidence
+uncertainty_quality,0.13,Honesty and usefulness of uncertainty representation
+tradeoff_clarity,0.11,Visibility of values criteria weights and thresholds
+behavioral_safeguards,0.10,Protection against predictable judgment errors
+systems_awareness,0.11,Attention to feedback delay spillovers incentives and lock-in
+accountability,0.11,Clarity of decision rights rationale and review responsibility
+learning_design,0.11,Quality of monitoring records review triggers and revision pathways

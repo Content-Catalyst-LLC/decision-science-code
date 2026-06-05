@@ -1,0 +1,6 @@
+trigger,threshold,interpretation
+low_outcome,60,Review when realized outcome falls below minimum acceptable level
+low_quality_score,0.65,Review when process quality score is weak
+weak_uncertainty_quality,0.55,Review when uncertainty representation is inadequate
+weak_accountability,0.55,Review when decision rights and review responsibility are unclear
+high_downside_exposure,0.65,Review when downside exposure is high

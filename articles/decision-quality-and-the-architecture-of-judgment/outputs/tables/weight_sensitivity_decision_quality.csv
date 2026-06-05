@@ -1,0 +1,46 @@
+"changed_component","alternative","revised_decision_quality_score"
+"accountability","Consensus Shortcut",0.401954887218045
+"alternative_quality","Consensus Shortcut",0.401904761904762
+"behavioral_safeguards","Consensus Shortcut",0.402305764411027
+"evidence_quality","Consensus Shortcut",0.40170426065163
+"framing_quality","Consensus Shortcut",0.401854636591479
+"learning_design","Consensus Shortcut",0.402155388471178
+"systems_awareness","Consensus Shortcut",0.402105263157895
+"tradeoff_clarity","Consensus Shortcut",0.402055137844611
+"uncertainty_quality","Consensus Shortcut",0.402005012531328
+"accountability","Evidence-Guided Choice",0.792180451127819
+"alternative_quality","Evidence-Guided Choice",0.79218045112782
+"behavioral_safeguards","Evidence-Guided Choice",0.79233082706767
+"evidence_quality","Evidence-Guided Choice",0.791979949874686
+"framing_quality","Evidence-Guided Choice",0.792080200501253
+"learning_design","Evidence-Guided Choice",0.792280701754386
+"systems_awareness","Evidence-Guided Choice",0.792380952380953
+"tradeoff_clarity","Evidence-Guided Choice",0.792180451127819
+"uncertainty_quality","Evidence-Guided Choice",0.792230576441103
+"accountability","Fast Commitment",0.399949874686717
+"alternative_quality","Fast Commitment",0.399548872180452
+"behavioral_safeguards","Fast Commitment",0.400050125313283
+"evidence_quality","Fast Commitment",0.399598997493735
+"framing_quality","Fast Commitment",0.399423558897243
+"learning_design","Fast Commitment",0.400100250626567
+"systems_awareness","Fast Commitment",0.39984962406015
+"tradeoff_clarity","Fast Commitment",0.399749373433584
+"uncertainty_quality","Fast Commitment",0.399924812030075
+"accountability","Robust Adaptive Pathway",0.870726817042606
+"alternative_quality","Robust Adaptive Pathway",0.870726817042606
+"behavioral_safeguards","Robust Adaptive Pathway",0.87077694235589
+"evidence_quality","Robust Adaptive Pathway",0.870827067669173
+"framing_quality","Robust Adaptive Pathway",0.870676691729323
+"learning_design","Robust Adaptive Pathway",0.87062656641604
+"systems_awareness","Robust Adaptive Pathway",0.87062656641604
+"tradeoff_clarity","Robust Adaptive Pathway",0.870726817042606
+"uncertainty_quality","Robust Adaptive Pathway",0.870601503759398
+"accountability","Staged Learning Decision",0.902907268170426
+"alternative_quality","Staged Learning Decision",0.903007518796993
+"behavioral_safeguards","Staged Learning Decision",0.903107769423559
+"evidence_quality","Staged Learning Decision",0.902907268170426
+"framing_quality","Staged Learning Decision",0.902957393483709
+"learning_design","Staged Learning Decision",0.902857142857143
+"systems_awareness","Staged Learning Decision",0.903208020050126
+"tradeoff_clarity","Staged Learning Decision",0.903057644110276
+"uncertainty_quality","Staged Learning Decision",0.903007518796993

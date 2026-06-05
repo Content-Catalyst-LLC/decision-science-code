@@ -1,0 +1,6 @@
+"alternative","decision_quality_score","architecture_score","mean_outcome","favorable_outcome_rate","outcome_bias_warning"
+"Staged Learning Decision",0.903,0.892830828963118,108.445001215266,0.917,"process and outcome broadly aligned"
+"Robust Adaptive Pathway",0.8707,0.877885,110.537667400357,0.921,"process and outcome broadly aligned"
+"Evidence-Guided Choice",0.7922,0.805889386758229,105.904650988117,0.916,"process and outcome broadly aligned"
+"Consensus Shortcut",0.402,0.476957864376269,81.014702625083,0.592,"possible luck masking weak process"
+"Fast Commitment",0.3998,0.471155006004805,85.5360917163802,0.67,"possible luck masking weak process"

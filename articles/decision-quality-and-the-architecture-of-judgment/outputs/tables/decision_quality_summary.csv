@@ -1,0 +1,6 @@
+alternative,decision_quality_score,architecture_score,minimum_component_score,mean_outcome,minimum_outcome,maximum_outcome,outcome_sd,favorable_outcome_rate,review_trigger_rate,interpretation
+Staged Learning Decision,0.903,0.8781,0.82,109.2632,36.989,179.9249,22.7751,0.935,0.013,process and outcome broadly aligned
+Robust Adaptive Pathway,0.8707,0.8555,0.82,109.9344,38.5841,178.1092,23.6955,0.93,0.018,process and outcome broadly aligned
+Evidence-Guided Choice,0.7922,0.7705,0.72,105.4635,20.6203,188.6722,23.8834,0.894,0.025,process and outcome broadly aligned
+Consensus Shortcut,0.402,0.3654,0.28,80.6686,-8.5704,168.5377,24.9446,0.612,1.0,possible luck masking weak process
+Fast Commitment,0.3998,0.3639,0.28,86.1541,3.9526,155.0864,24.741,0.673,1.0,possible luck masking weak process

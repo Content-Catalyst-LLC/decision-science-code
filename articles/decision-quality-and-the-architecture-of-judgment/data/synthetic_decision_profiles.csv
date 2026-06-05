@@ -1,0 +1,6 @@
+alternative,framing_quality,alternative_quality,evidence_quality,uncertainty_quality,tradeoff_clarity,behavioral_safeguards,systems_awareness,accountability,learning_design,expected_value,downside_exposure
+Fast Commitment,0.55,0.50,0.48,0.35,0.42,0.30,0.38,0.34,0.28,88,0.72
+Evidence-Guided Choice,0.84,0.80,0.88,0.78,0.80,0.74,0.72,0.80,0.76,82,0.42
+Robust Adaptive Pathway,0.88,0.86,0.82,0.91,0.86,0.84,0.90,0.86,0.90,78,0.22
+Consensus Shortcut,0.46,0.44,0.52,0.40,0.38,0.28,0.36,0.42,0.34,80,0.68
+Staged Learning Decision,0.92,0.90,0.94,0.90,0.88,0.86,0.82,0.94,0.96,74,0.18

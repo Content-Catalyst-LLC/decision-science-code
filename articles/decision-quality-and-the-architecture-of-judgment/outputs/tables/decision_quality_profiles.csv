@@ -1,0 +1,6 @@
+"alternative","framing_quality","alternative_quality","evidence_quality","uncertainty_quality","tradeoff_clarity","behavioral_safeguards","systems_awareness","accountability","learning_design","expected_value","downside_exposure","decision_quality_score","minimum_component_score","balance_score","architecture_score","process_profile"
+"Fast Commitment",0.55,0.5,0.48,0.35,0.42,0.3,0.38,0.34,0.28,88,0.72,0.3998,0.28,0.906325030024024,0.471155006004805,"fragile decision process"
+"Evidence-Guided Choice",0.84,0.8,0.88,0.78,0.8,0.74,0.72,0.8,0.76,82,0.42,0.7922,0.72,0.950896933791146,0.805889386758229,"solid but uneven decision process"
+"Robust Adaptive Pathway",0.88,0.86,0.82,0.91,0.86,0.84,0.9,0.86,0.9,78,0.22,0.8707,0.82,0.97,0.877885,"high-quality judgment architecture"
+"Consensus Shortcut",0.46,0.44,0.52,0.4,0.38,0.28,0.36,0.42,0.34,80,0.68,0.402,0.28,0.929289321881345,0.476957864376269,"fragile decision process"
+"Staged Learning Decision",0.92,0.9,0.94,0.9,0.88,0.86,0.82,0.94,0.96,74,0.18,0.903,0.82,0.95590414481559,0.892830828963118,"high-quality judgment architecture"

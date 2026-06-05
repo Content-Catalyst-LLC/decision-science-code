@@ -1,0 +1,2 @@
+record_id,decision_context,forecast_probability,decision_threshold,selected_action,rationale,review_trigger
+DR1,Forecasting and decision support threshold audit,0.68,0.45,Act,Forecast exceeds decision threshold and action has high false-negative cost,review if calibration gap or drift signal exceeds tolerance

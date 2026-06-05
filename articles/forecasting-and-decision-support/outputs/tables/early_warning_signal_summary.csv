@@ -1,0 +1,7 @@
+"signal_id","domain","indicator","current_value","review_threshold","direction","interpretation","triggered"
+"EWS1","Public Policy","participation shortfall",0.18,0.15,"above","participation lag exceeds review tolerance",TRUE
+"EWS2","Healthcare","risk score volatility",0.22,0.25,"above","volatility approaching review tolerance",FALSE
+"EWS3","Financial Risk","liquidity stress signal",0.48,0.45,"above","stress signal exceeds escalation threshold",TRUE
+"EWS4","Infrastructure","asset anomaly rate",0.13,0.12,"above","inspection anomaly rate requires review",TRUE
+"EWS5","AI Governance","model drift signal",0.64,0.6,"above","drift signal exceeds governance trigger",TRUE
+"EWS6","Organizational Strategy","implementation delay probability",0.41,0.4,"above","delay probability exceeds review threshold",TRUE

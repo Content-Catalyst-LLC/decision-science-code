@@ -1,0 +1,7 @@
+"domain","average_forecast_probability","observed_frequency","base_rate","n_cases","evidence_quality","description","forecast_minus_base_rate","observed_minus_base_rate"
+"AI Governance",0.470859187236895,0.510791366906475,0.4,220,"medium","Comparable drift and model governance forecasts",0.0708591872368947,0.110791366906475
+"Financial Risk",0.489438115590483,0.482758620689655,0.3,480,"medium","Comparable risk-event and stress forecasts",0.189438115590483,0.182758620689655
+"Healthcare",0.494087094276888,0.540697674418605,0.62,520,"high","Comparable diagnostic and treatment-risk forecasts",-0.125912905723112,-0.0793023255813954
+"Infrastructure",0.518396911834609,0.496503496503497,0.39,260,"medium","Comparable asset-risk and demand forecasts",0.128396911834609,0.106503496503496
+"Organizational Strategy",0.522465935547933,0.524475524475524,0.58,160,"medium","Comparable strategic implementation forecasts",-0.0575340644520671,-0.0555244755244755
+"Public Policy",0.490462214339337,0.443037974683544,0.46,180,"medium","Comparable policy adoption and implementation forecasts",0.0304622143393372,-0.0169620253164557

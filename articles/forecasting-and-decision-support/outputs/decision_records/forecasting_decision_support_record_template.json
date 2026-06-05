@@ -1,0 +1,23 @@
+{
+  "article": "Forecasting and Decision Support",
+  "decision_context": "",
+  "forecast_target": "",
+  "time_horizon": "",
+  "resolution_criteria": "",
+  "base_rate": null,
+  "reference_class": "",
+  "forecast_probability": null,
+  "forecast_range": [],
+  "forecast_method": "",
+  "uncertainty_representation": "",
+  "decision_threshold": null,
+  "selected_action": "",
+  "expected_loss_with_forecast": null,
+  "expected_loss_without_forecast": null,
+  "forecast_value": null,
+  "model_risk_notes": "",
+  "early_warning_signals": [],
+  "review_triggers": [],
+  "outcome": null,
+  "post_decision_learning": []
+}

@@ -1,0 +1,7 @@
+signal_id,domain,indicator,current_value,review_threshold,direction,interpretation
+EWS1,Public Policy,participation shortfall,0.18,0.15,above,participation lag exceeds review tolerance
+EWS2,Healthcare,risk score volatility,0.22,0.25,above,volatility approaching review tolerance
+EWS3,Financial Risk,liquidity stress signal,0.48,0.45,above,stress signal exceeds escalation threshold
+EWS4,Infrastructure,asset anomaly rate,0.13,0.12,above,inspection anomaly rate requires review
+EWS5,AI Governance,model drift signal,0.64,0.60,above,drift signal exceeds governance trigger
+EWS6,Organizational Strategy,implementation delay probability,0.41,0.40,above,delay probability exceeds review threshold

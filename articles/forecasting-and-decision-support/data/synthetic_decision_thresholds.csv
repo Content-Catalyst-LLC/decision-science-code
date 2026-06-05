@@ -1,0 +1,7 @@
+threshold_id,domain,decision_context,probability_threshold,false_positive_cost,false_negative_cost,review_owner
+TH1,Public Policy,scale or revise intervention,0.62,18,55,policy review group
+TH2,Healthcare,treat or monitor patient risk,0.55,24,80,clinical review lead
+TH3,Financial Risk,escalate risk controls,0.35,12,70,risk committee
+TH4,Infrastructure,prioritize investment or inspection,0.50,28,65,infrastructure planning lead
+TH5,AI Governance,audit or retrain model,0.45,15,85,model governance lead
+TH6,Organizational Strategy,commit or preserve option value,0.60,22,48,strategy review group

@@ -1,0 +1,6 @@
+horizon_days,horizon_type,typical_use,decision_caution
+7,short term,operations and incident response,highly sensitive to data freshness
+30,short term,near-term staffing and risk monitoring,requires frequent updating
+90,medium term,budgeting and resource allocation,requires uncertainty ranges
+180,medium term,program planning and strategic review,requires sensitivity analysis
+365,long term,strategy infrastructure and governance,requires scenarios and robustness

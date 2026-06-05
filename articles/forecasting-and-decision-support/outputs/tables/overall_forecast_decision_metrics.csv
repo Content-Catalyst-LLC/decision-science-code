@@ -1,0 +1,8 @@
+"metric","value"
+"overall_brier_score",0.206398009493005
+"overall_log_loss",0.594200409216714
+"expected_calibration_error",0.0575182949645632
+"average_forecast_value_proxy",-5.74005410500357
+"positive_forecast_value_rate",0.08
+"forecast_action_rate",0.821111111111111
+"base_rate_action_rate",0.826666666666667

@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,expected_calibration_error,above,0.08,analysis lead
+RT2,forecast_value_proxy,below,0,decision review group
+RT3,horizon_brier_score,above,0.24,forecasting lead
+RT4,threshold_action_gap,above,0.15,risk committee
+RT5,model_drift_signal,above,0.60,model governance lead

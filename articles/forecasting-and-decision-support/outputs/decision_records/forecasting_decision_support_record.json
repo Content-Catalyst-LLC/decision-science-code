@@ -1,0 +1,327 @@
+{
+  "article": "Forecasting and Decision Support",
+  "decision_context": "Using probabilistic forecasts to support threshold decisions, expected-loss reduction, monitoring, and accountable decision records.",
+  "modeling_principles": [
+    "Forecasts should be tied to explicit decisions.",
+    "Forecasts should represent uncertainty rather than only point estimates.",
+    "Forecast quality should include calibration, error, horizon, and decision value.",
+    "Thresholds should connect forecast probabilities to action.",
+    "Forecast value depends on whether the forecast improves decisions after accounting for cost.",
+    "Decision records should preserve forecasts, assumptions, thresholds, outcomes, and review triggers."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "overall_brier_score",
+      "value": 0.204511
+    },
+    {
+      "metric": "overall_log_loss",
+      "value": 0.597949
+    },
+    {
+      "metric": "expected_calibration_error",
+      "value": 0.037579
+    },
+    {
+      "metric": "average_forecast_value_proxy",
+      "value": -5.369142
+    },
+    {
+      "metric": "positive_forecast_value_rate",
+      "value": 0.115556
+    },
+    {
+      "metric": "forecast_action_rate",
+      "value": 0.823333
+    },
+    {
+      "metric": "base_rate_action_rate",
+      "value": 0.815556
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_forecasts": 146,
+      "average_forecast_probability": 0.494124,
+      "observed_frequency": 0.445205,
+      "brier_score": 0.192617,
+      "log_loss": 0.57452,
+      "average_forecast_value_proxy": -4.998215,
+      "positive_forecast_value_rate": 0.150685,
+      "forecast_action_rate": 0.828767,
+      "base_rate_action_rate": 0.794521
+    },
+    {
+      "domain": "Financial Risk",
+      "n_forecasts": 131,
+      "average_forecast_probability": 0.515552,
+      "observed_frequency": 0.51145,
+      "brier_score": 0.20261,
+      "log_loss": 0.600652,
+      "average_forecast_value_proxy": -5.52737,
+      "positive_forecast_value_rate": 0.076336,
+      "forecast_action_rate": 0.824427,
+      "base_rate_action_rate": 0.847328
+    },
+    {
+      "domain": "Healthcare",
+      "n_forecasts": 157,
+      "average_forecast_probability": 0.507195,
+      "observed_frequency": 0.522293,
+      "brier_score": 0.210195,
+      "log_loss": 0.600219,
+      "average_forecast_value_proxy": -5.8747,
+      "positive_forecast_value_rate": 0.11465,
+      "forecast_action_rate": 0.808917,
+      "base_rate_action_rate": 0.745223
+    },
+    {
+      "domain": "Infrastructure",
+      "n_forecasts": 163,
+      "average_forecast_probability": 0.49327,
+      "observed_frequency": 0.527607,
+      "brier_score": 0.213889,
+      "log_loss": 0.63083,
+      "average_forecast_value_proxy": -5.500329,
+      "positive_forecast_value_rate": 0.134969,
+      "forecast_action_rate": 0.797546,
+      "base_rate_action_rate": 0.828221
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_forecasts": 172,
+      "average_forecast_probability": 0.538196,
+      "observed_frequency": 0.523256,
+      "brier_score": 0.189203,
+      "log_loss": 0.548823,
+      "average_forecast_value_proxy": -5.427833,
+      "positive_forecast_value_rate": 0.093023,
+      "forecast_action_rate": 0.860465,
+      "base_rate_action_rate": 0.872093
+    },
+    {
+      "domain": "Public Policy",
+      "n_forecasts": 131,
+      "average_forecast_probability": 0.521253,
+      "observed_frequency": 0.549618,
+      "brier_score": 0.221286,
+      "log_loss": 0.642225,
+      "average_forecast_value_proxy": -4.778121,
+      "positive_forecast_value_rate": 0.122137,
+      "forecast_action_rate": 0.816794,
+      "base_rate_action_rate": 0.801527
+    }
+  ],
+  "horizon_summary": [
+    {
+      "forecast_horizon_days": 7,
+      "n_forecasts": 178,
+      "average_forecast_probability": 0.499818,
+      "observed_frequency": 0.522472,
+      "brier_score": 0.186562,
+      "log_loss": 0.553213,
+      "average_forecast_value_proxy": -5.278897,
+      "positive_forecast_value_rate": 0.140449,
+      "forecast_action_rate": 0.780899,
+      "base_rate_action_rate": 0.758427
+    },
+    {
+      "forecast_horizon_days": 30,
+      "n_forecasts": 159,
+      "average_forecast_probability": 0.519956,
+      "observed_frequency": 0.534591,
+      "brier_score": 0.207524,
+      "log_loss": 0.619032,
+      "average_forecast_value_proxy": -5.739142,
+      "positive_forecast_value_rate": 0.106918,
+      "forecast_action_rate": 0.867925,
+      "base_rate_action_rate": 0.842767
+    },
+    {
+      "forecast_horizon_days": 90,
+      "n_forecasts": 179,
+      "average_forecast_probability": 0.506401,
+      "observed_frequency": 0.47486,
+      "brier_score": 0.203045,
+      "log_loss": 0.594462,
+      "average_forecast_value_proxy": -5.752725,
+      "positive_forecast_value_rate": 0.083799,
+      "forecast_action_rate": 0.843575,
+      "base_rate_action_rate": 0.826816
+    },
+    {
+      "forecast_horizon_days": 180,
+      "n_forecasts": 204,
+      "average_forecast_probability": 0.52207,
+      "observed_frequency": 0.509804,
+      "brier_score": 0.214291,
+      "log_loss": 0.60862,
+      "average_forecast_value_proxy": -4.995443,
+      "positive_forecast_value_rate": 0.137255,
+      "forecast_action_rate": 0.823529,
+      "base_rate_action_rate": 0.823529
+    },
+    {
+      "forecast_horizon_days": 365,
+      "n_forecasts": 180,
+      "average_forecast_probability": 0.509873,
+      "observed_frequency": 0.527778,
+      "brier_score": 0.209971,
+      "log_loss": 0.614939,
+      "average_forecast_value_proxy": -5.173624,
+      "positive_forecast_value_rate": 0.105556,
+      "forecast_action_rate": 0.805556,
+      "base_rate_action_rate": 0.827778
+    }
+  ],
+  "threshold_summary": [
+    {
+      "threshold": 0.25,
+      "action_rate": 0.855556,
+      "observed_frequency_among_acted": 0.572727,
+      "average_probability_among_acted": 0.574075,
+      "average_brier_among_acted": 0.217335
+    },
+    {
+      "threshold": 0.4,
+      "action_rate": 0.668889,
+      "observed_frequency_among_acted": 0.641196,
+      "average_probability_among_acted": 0.643662,
+      "average_brier_among_acted": 0.21605
+    },
+    {
+      "threshold": 0.55,
+      "action_rate": 0.442222,
+      "observed_frequency_among_acted": 0.701005,
+      "average_probability_among_acted": 0.728991,
+      "average_brier_among_acted": 0.197753
+    },
+    {
+      "threshold": 0.7,
+      "action_rate": 0.232222,
+      "observed_frequency_among_acted": 0.803828,
+      "average_probability_among_acted": 0.823155,
+      "average_brier_among_acted": 0.155512
+    },
+    {
+      "threshold": 0.85,
+      "action_rate": 0.081111,
+      "observed_frequency_among_acted": 0.890411,
+      "average_probability_among_acted": 0.924342,
+      "average_brier_among_acted": 0.103983
+    }
+  ],
+  "base_rate_reference_checks": [
+    {
+      "domain": "AI Governance",
+      "reference_class_base_rate": 0.4,
+      "average_forecast_probability": 0.494124,
+      "observed_frequency": 0.445205,
+      "forecast_minus_base_rate": 0.094124,
+      "observed_minus_base_rate": 0.045205
+    },
+    {
+      "domain": "Financial Risk",
+      "reference_class_base_rate": 0.3,
+      "average_forecast_probability": 0.515552,
+      "observed_frequency": 0.51145,
+      "forecast_minus_base_rate": 0.215552,
+      "observed_minus_base_rate": 0.21145
+    },
+    {
+      "domain": "Healthcare",
+      "reference_class_base_rate": 0.62,
+      "average_forecast_probability": 0.507195,
+      "observed_frequency": 0.522293,
+      "forecast_minus_base_rate": -0.112805,
+      "observed_minus_base_rate": -0.097707
+    },
+    {
+      "domain": "Infrastructure",
+      "reference_class_base_rate": 0.39,
+      "average_forecast_probability": 0.49327,
+      "observed_frequency": 0.527607,
+      "forecast_minus_base_rate": 0.10327,
+      "observed_minus_base_rate": 0.137607
+    },
+    {
+      "domain": "Organizational Strategy",
+      "reference_class_base_rate": 0.58,
+      "average_forecast_probability": 0.538196,
+      "observed_frequency": 0.523256,
+      "forecast_minus_base_rate": -0.041804,
+      "observed_minus_base_rate": -0.056744
+    },
+    {
+      "domain": "Public Policy",
+      "reference_class_base_rate": 0.46,
+      "average_forecast_probability": 0.521253,
+      "observed_frequency": 0.549618,
+      "forecast_minus_base_rate": 0.061253,
+      "observed_minus_base_rate": 0.089618
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "signal_id": "EWS1",
+      "domain": "Public Policy",
+      "indicator": "participation shortfall",
+      "current_value": 0.18,
+      "review_threshold": 0.15,
+      "direction": "above",
+      "triggered": true,
+      "interpretation": "participation lag exceeds review tolerance"
+    },
+    {
+      "signal_id": "EWS2",
+      "domain": "Healthcare",
+      "indicator": "risk score volatility",
+      "current_value": 0.22,
+      "review_threshold": 0.25,
+      "direction": "above",
+      "triggered": false,
+      "interpretation": "volatility approaching review tolerance"
+    },
+    {
+      "signal_id": "EWS3",
+      "domain": "Financial Risk",
+      "indicator": "liquidity stress signal",
+      "current_value": 0.48,
+      "review_threshold": 0.45,
+      "direction": "above",
+      "triggered": true,
+      "interpretation": "stress signal exceeds escalation threshold"
+    },
+    {
+      "signal_id": "EWS4",
+      "domain": "Infrastructure",
+      "indicator": "asset anomaly rate",
+      "current_value": 0.13,
+      "review_threshold": 0.12,
+      "direction": "above",
+      "triggered": true,
+      "interpretation": "inspection anomaly rate requires review"
+    },
+    {
+      "signal_id": "EWS5",
+      "domain": "AI Governance",
+      "indicator": "model drift signal",
+      "current_value": 0.64,
+      "review_threshold": 0.6,
+      "direction": "above",
+      "triggered": true,
+      "interpretation": "drift signal exceeds governance trigger"
+    },
+    {
+      "signal_id": "EWS6",
+      "domain": "Organizational Strategy",
+      "indicator": "implementation delay probability",
+      "current_value": 0.41,
+      "review_threshold": 0.4,
+      "direction": "above",
+      "triggered": true,
+      "interpretation": "delay probability exceeds review threshold"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+reference_class,base_rate,n_cases,evidence_quality,description
+Public Policy,0.46,180,medium,Comparable policy adoption and implementation forecasts
+Healthcare,0.62,520,high,Comparable diagnostic and treatment-risk forecasts
+Financial Risk,0.30,480,medium,Comparable risk-event and stress forecasts
+Infrastructure,0.39,260,medium,Comparable asset-risk and demand forecasts
+AI Governance,0.40,220,medium,Comparable drift and model governance forecasts
+Organizational Strategy,0.58,160,medium,Comparable strategic implementation forecasts

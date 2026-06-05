@@ -1,0 +1,26 @@
+"scenario","probability","strategy","payoff"
+"Expansion",0.22,"Optimize",145
+"Baseline",0.34,"Optimize",92
+"Cost pressure",0.18,"Optimize",30
+"System shock",0.16,"Optimize",-95
+"Institutional constraint",0.1,"Optimize",-40
+"Expansion",0.22,"Balanced",112
+"Baseline",0.34,"Balanced",84
+"Cost pressure",0.18,"Balanced",58
+"System shock",0.16,"Balanced",12
+"Institutional constraint",0.1,"Balanced",30
+"Expansion",0.22,"Robust",78
+"Baseline",0.34,"Robust",72
+"Cost pressure",0.18,"Robust",65
+"System shock",0.16,"Robust",48
+"Institutional constraint",0.1,"Robust",55
+"Expansion",0.22,"Adaptive",98
+"Baseline",0.34,"Adaptive",80
+"Cost pressure",0.18,"Adaptive",62
+"System shock",0.16,"Adaptive",38
+"Institutional constraint",0.1,"Adaptive",68
+"Expansion",0.22,"StagedPilot",82
+"Baseline",0.34,"StagedPilot",70
+"Cost pressure",0.18,"StagedPilot",60
+"System shock",0.16,"StagedPilot",42
+"Institutional constraint",0.1,"StagedPilot",74

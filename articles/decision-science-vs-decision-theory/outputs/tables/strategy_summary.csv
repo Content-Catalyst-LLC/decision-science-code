@@ -1,0 +1,6 @@
+strategy,expected_value,expected_utility,minimum_payoff,maximum_payoff,payoff_sd,maximum_regret,average_regret,robustness_share,implementation_capacity,evidence_quality,legitimacy
+Balanced,43.6111,0.466179,-6.455,88.035,32.3438,29.385,17.9805,0.4,0.72,0.78,0.66
+Adaptive,47.1287,0.530979,11.865,83.25,24.8826,34.17,12.7132,0.4,0.74,0.8,0.82
+Optimize,54.9267,0.4793,-20.75,117.42,47.1546,36.365,10.128,0.4,0.55,0.68,0.48
+Staged Pilot,45.3374,0.530095,15.615,74.6,20.1221,42.82,13.2254,0.4,0.88,0.92,0.86
+Robust,37.4477,0.462364,12.1,65.59,19.0613,51.83,21.168,0.2,0.82,0.84,0.76

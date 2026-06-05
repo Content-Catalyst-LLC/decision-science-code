@@ -1,0 +1,5 @@
+agent,average_payoff,minimum_payoff,maximum_payoff,payoff_sd,loss_frequency,acceptable_frequency
+Expected Utility,46.0463,11.865,83.25,23.8214,0.0,0.544
+Robust Adaptive,46.0463,11.865,83.25,23.8214,0.0,0.544
+Minimax Regret,42.2599,-6.455,88.035,30.9532,0.165,0.544
+Satisficing,37.5135,-20.75,74.6,30.7221,0.165,0.544

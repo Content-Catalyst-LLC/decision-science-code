@@ -1,0 +1,123 @@
+{
+  "article": "Decision Science vs. Decision Theory",
+  "decision_context": "Comparison of formal decision-theoretic and applied decision-science criteria.",
+  "selected_by_robust_diagnostic": "Balanced",
+  "interpretive_warning": "The preferred strategy depends on whether the decision-maker prioritizes expected utility, regret avoidance, robustness, or institutional feasibility.",
+  "modeling_principles": [
+    "Use expected utility when probabilities and utilities are defensible.",
+    "Use regret and robustness when futures are uncertain or contested.",
+    "Use satisficing models when bounded rationality and search constraints matter.",
+    "Evaluate implementation capacity, evidence quality, and legitimacy alongside formal payoff.",
+    "Treat computation as support for judgment, not a replacement for responsibility."
+  ],
+  "strategy_summary": [
+    {
+      "strategy": "Balanced",
+      "expected_value": 43.6111,
+      "expected_utility": 0.466179,
+      "minimum_payoff": -6.455,
+      "maximum_payoff": 88.035,
+      "payoff_sd": 32.3438,
+      "maximum_regret": 29.385,
+      "average_regret": 17.9805,
+      "robustness_share": 0.4,
+      "implementation_capacity": 0.72,
+      "evidence_quality": 0.78,
+      "legitimacy": 0.66
+    },
+    {
+      "strategy": "Adaptive",
+      "expected_value": 47.1287,
+      "expected_utility": 0.530979,
+      "minimum_payoff": 11.865,
+      "maximum_payoff": 83.25,
+      "payoff_sd": 24.8826,
+      "maximum_regret": 34.17,
+      "average_regret": 12.7132,
+      "robustness_share": 0.4,
+      "implementation_capacity": 0.74,
+      "evidence_quality": 0.8,
+      "legitimacy": 0.82
+    },
+    {
+      "strategy": "Optimize",
+      "expected_value": 54.9267,
+      "expected_utility": 0.4793,
+      "minimum_payoff": -20.75,
+      "maximum_payoff": 117.42,
+      "payoff_sd": 47.1546,
+      "maximum_regret": 36.365,
+      "average_regret": 10.128,
+      "robustness_share": 0.4,
+      "implementation_capacity": 0.55,
+      "evidence_quality": 0.68,
+      "legitimacy": 0.48
+    },
+    {
+      "strategy": "Staged Pilot",
+      "expected_value": 45.3374,
+      "expected_utility": 0.530095,
+      "minimum_payoff": 15.615,
+      "maximum_payoff": 74.6,
+      "payoff_sd": 20.1221,
+      "maximum_regret": 42.82,
+      "average_regret": 13.2254,
+      "robustness_share": 0.4,
+      "implementation_capacity": 0.88,
+      "evidence_quality": 0.92,
+      "legitimacy": 0.86
+    },
+    {
+      "strategy": "Robust",
+      "expected_value": 37.4477,
+      "expected_utility": 0.462364,
+      "minimum_payoff": 12.1,
+      "maximum_payoff": 65.59,
+      "payoff_sd": 19.0613,
+      "maximum_regret": 51.83,
+      "average_regret": 21.168,
+      "robustness_share": 0.2,
+      "implementation_capacity": 0.82,
+      "evidence_quality": 0.84,
+      "legitimacy": 0.76
+    }
+  ],
+  "simulation_summary": [
+    {
+      "agent": "Expected Utility",
+      "average_payoff": 46.0463,
+      "minimum_payoff": 11.865,
+      "maximum_payoff": 83.25,
+      "payoff_sd": 23.8214,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.544
+    },
+    {
+      "agent": "Robust Adaptive",
+      "average_payoff": 46.0463,
+      "minimum_payoff": 11.865,
+      "maximum_payoff": 83.25,
+      "payoff_sd": 23.8214,
+      "loss_frequency": 0.0,
+      "acceptable_frequency": 0.544
+    },
+    {
+      "agent": "Minimax Regret",
+      "average_payoff": 42.2599,
+      "minimum_payoff": -6.455,
+      "maximum_payoff": 88.035,
+      "payoff_sd": 30.9532,
+      "loss_frequency": 0.165,
+      "acceptable_frequency": 0.544
+    },
+    {
+      "agent": "Satisficing",
+      "average_payoff": 37.5135,
+      "minimum_payoff": -20.75,
+      "maximum_payoff": 74.6,
+      "payoff_sd": 30.7221,
+      "loss_frequency": 0.165,
+      "acceptable_frequency": 0.544
+    }
+  ]
+}

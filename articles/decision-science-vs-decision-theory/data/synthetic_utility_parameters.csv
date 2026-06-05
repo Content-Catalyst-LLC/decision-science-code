@@ -1,0 +1,5 @@
+parameter,value,description
+risk_aversion,0.018,Exponential utility risk-aversion coefficient
+satisficing_threshold,50,Minimum acceptable payoff for satisficing
+robustness_threshold,45,Payoff threshold for robust acceptability
+simulation_trials,1000,Number of Monte Carlo simulation trials

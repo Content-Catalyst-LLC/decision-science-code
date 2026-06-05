@@ -1,0 +1,6 @@
+scenario,base_probability,low_probability,high_probability
+Expansion,0.22,0.12,0.32
+Baseline,0.34,0.24,0.44
+Cost pressure,0.18,0.10,0.28
+System shock,0.16,0.05,0.30
+Institutional constraint,0.10,0.04,0.18

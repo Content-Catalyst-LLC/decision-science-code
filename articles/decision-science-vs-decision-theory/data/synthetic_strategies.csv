@@ -1,0 +1,6 @@
+strategy,upside_value,base_cost,resilience,flexibility,implementation_capacity,evidence_quality,legitimacy
+Optimize,145,52,0.35,0.30,0.55,0.68,0.48
+Balanced,112,46,0.58,0.55,0.72,0.78,0.66
+Robust,84,38,0.88,0.70,0.82,0.84,0.76
+Adaptive,104,44,0.72,0.88,0.74,0.80,0.82
+Staged Pilot,86,32,0.66,0.82,0.88,0.92,0.86

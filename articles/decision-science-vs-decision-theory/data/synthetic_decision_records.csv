@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,rationale,review_trigger
+DR1,Comparison of formal and applied decision criteria,Robust,Best robustness and downside protection under synthetic uncertainty,probability or legitimacy assumptions change

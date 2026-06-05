@@ -1,0 +1,6 @@
+scenario,probability,Optimize,Balanced,Robust,Adaptive,StagedPilot
+Expansion,0.22,145,112,78,98,82
+Baseline,0.34,92,84,72,80,70
+Cost pressure,0.18,30,58,65,62,60
+System shock,0.16,-95,12,48,38,42
+Institutional constraint,0.10,-40,30,55,68,74

@@ -1,0 +1,6 @@
+"strategy","minimum_payoff","max_regret","robustness_share","decision_profile"
+"Robust",48,67,1,"robust applied decision-science candidate"
+"Adaptive",38,47,0.8,"comparison strategy"
+"StagedPilot",42,63,0.8,"comparison strategy"
+"Balanced",12,44,0.6,"comparison strategy"
+"Optimize",-95,143,0.4,"comparison strategy"

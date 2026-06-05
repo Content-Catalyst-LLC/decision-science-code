@@ -1,0 +1,6 @@
+scenario,probability,demand_multiplier,cost_pressure,disruption,institutional_friction
+Expansion,0.22,1.25,0.95,0.10,0.10
+Baseline,0.34,1.00,1.00,0.20,0.18
+Cost pressure,0.18,0.92,1.28,0.30,0.25
+System shock,0.16,0.75,1.35,0.80,0.45
+Institutional constraint,0.10,0.88,1.10,0.35,0.75

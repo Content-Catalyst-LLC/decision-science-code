@@ -1,0 +1,6 @@
+"strategy","average_regret","maximum_regret","regret_sd"
+"Adaptive",15.6,47,17.8969271105405
+"Balanced",25.6,44,17.0088212407562
+"Optimize",58.4,143,66.3649003615616
+"Robust",21.2,67,27.3989050876125
+"StagedPilot",19.2,63,25.8398916406397

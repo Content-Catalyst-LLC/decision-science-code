@@ -1,0 +1,6 @@
+"strategy","expected_value","expected_utility","ev_rank","eu_rank"
+"Adaptive",72.8,0.71263974213274,1,1
+"Balanced",68.56,0.645179166032496,2,4
+"StagedPilot",66.76,0.69062800480194,3,3
+"Robust",66.52,0.692473675788484,4,2
+"Optimize",49.38,-0.276055802655162,5,5

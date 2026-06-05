@@ -1,0 +1,26 @@
+scenario,strategy,payoff,best_payoff,regret
+Expansion,Optimize,117.42,117.42,0.0
+Expansion,Balanced,88.035,117.42,29.385
+Expansion,Robust,65.59,117.42,51.83
+Expansion,Adaptive,83.25,117.42,34.17
+Expansion,Staged Pilot,74.6,117.42,42.82
+Baseline,Optimize,70.804,70.804,0.0
+Baseline,Balanced,54.004,70.804,16.8
+Baseline,Robust,42.644,70.804,28.16
+Baseline,Adaptive,54.138,70.804,16.666
+Baseline,Staged Pilot,50.682,70.804,20.122
+Cost pressure,Optimize,37.33,37.33,0.0
+Cost pressure,Balanced,28.72,37.33,8.61
+Cost pressure,Robust,25.43,37.33,11.9
+Cost pressure,Adaptive,32.805,37.33,4.525
+Cost pressure,Staged Pilot,34.145,37.33,3.185
+System shock,Optimize,-20.75,15.615,36.365
+System shock,Balanced,-6.455,15.615,22.07
+System shock,Robust,12.1,15.615,3.515
+System shock,Adaptive,11.865,15.615,3.75
+System shock,Staged Pilot,15.615,15.615,0.0
+Institutional constraint,Optimize,16.215,30.49,14.275
+Institutional constraint,Balanced,17.4525,30.49,13.0375
+Institutional constraint,Robust,20.055,30.49,10.435
+Institutional constraint,Adaptive,26.035,30.49,4.455
+Institutional constraint,Staged Pilot,30.49,30.49,0.0

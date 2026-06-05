@@ -1,0 +1,6 @@
+"strategy","expected_value","expected_utility","minimum_payoff","maximum_payoff","payoff_range","max_regret","mean_regret","robustness_share","ev_rank","eu_rank","maximin_rank","minimax_regret_rank","robustness_rank","decision_profile"
+"Robust",66.52,0.692473675788484,48,78,30,67,21.2,1,4,2,1,4,1,"robust applied decision-science candidate"
+"Adaptive",72.8,0.71263974213274,38,98,60,47,15.6,0.8,1,1,3,2,2,"comparison strategy"
+"StagedPilot",66.76,0.69062800480194,42,82,40,63,19.2,0.8,3,3,2,3,2,"comparison strategy"
+"Balanced",68.56,0.645179166032496,12,112,100,44,25.6,0.6,2,4,4,1,4,"comparison strategy"
+"Optimize",49.38,-0.276055802655162,-95,145,240,143,58.4,0.4,5,5,5,5,5,"comparison strategy"

@@ -1,0 +1,15 @@
+{
+  "article": "Decision Science vs. Decision Theory",
+  "formal_model": {
+    "actions": [],
+    "states": [],
+    "probabilities": [],
+    "utilities": []
+  },
+  "applied_context": {
+    "evidence_quality": [],
+    "implementation_constraints": [],
+    "stakeholder_legitimacy": [],
+    "review_triggers": []
+  }
+}

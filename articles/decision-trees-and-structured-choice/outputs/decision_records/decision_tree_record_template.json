@@ -1,0 +1,21 @@
+{
+  "article": "Decision Trees and Structured Choice",
+  "decision_context": "",
+  "decision_owner": "",
+  "tree_structure": {
+    "decision_nodes": [],
+    "chance_nodes": [],
+    "terminal_nodes": [],
+    "branches": []
+  },
+  "probability_assumptions": [],
+  "terminal_values": [],
+  "rollback_results": [],
+  "sensitivity_results": [],
+  "value_of_information": {},
+  "regret_analysis": [],
+  "selected_strategy": "",
+  "rationale": "",
+  "review_triggers": [],
+  "limitations": []
+}

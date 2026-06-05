@@ -1,0 +1,9 @@
+strategy,outcome_state,terminal_value
+Immediate Action,success,125
+Immediate Action,failure,-35
+Staged Learning,success,145
+Staged Learning,failure,-20
+Delay Without Learning,success,95
+Delay Without Learning,failure,20
+Conservative Baseline,success,70
+Conservative Baseline,failure,55

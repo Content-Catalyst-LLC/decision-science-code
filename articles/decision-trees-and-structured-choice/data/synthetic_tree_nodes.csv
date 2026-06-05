@@ -1,0 +1,14 @@
+node_id,node_type,label
+N0,decision,Initial strategy choice
+N1,chance,Immediate action outcome
+N2,chance,Staged learning outcome
+N3,chance,Delay outcome
+N4,chance,Conservative baseline outcome
+T1,terminal,Immediate success
+T2,terminal,Immediate failure
+T3,terminal,Staged success
+T4,terminal,Staged failure
+T5,terminal,Delay success
+T6,terminal,Delay failure
+T7,terminal,Baseline success
+T8,terminal,Baseline failure

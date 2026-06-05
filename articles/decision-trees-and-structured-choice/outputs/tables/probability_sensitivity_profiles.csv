@@ -1,0 +1,5 @@
+"strategy","expected_value_sensitivity_range"
+"Staged Learning",90.75
+"Immediate Action",88
+"Delay Without Learning",41.25
+"Conservative Baseline",8.25

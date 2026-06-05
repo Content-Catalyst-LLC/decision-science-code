@@ -1,0 +1,5 @@
+"strategy","average_regret_across_states"
+"Immediate Action",59.5
+"Delay Without Learning",47
+"Conservative Baseline",39
+"Staged Learning",36

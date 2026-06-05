@@ -1,0 +1,4001 @@
+trial,strategy,realized_value,best_trial_value,regret,review_trigger
+1,Immediate Action,-35.0,151.0,186.0,True
+1,Staged Learning,151.0,151.0,0.0,False
+1,Delay Without Learning,95.0,151.0,56.0,False
+1,Conservative Baseline,73.0,151.0,78.0,False
+2,Immediate Action,125.0,125.0,0.0,True
+2,Staged Learning,-14.0,125.0,139.0,True
+2,Delay Without Learning,95.0,125.0,30.0,False
+2,Conservative Baseline,73.0,125.0,52.0,False
+3,Immediate Action,125.0,151.0,26.0,True
+3,Staged Learning,151.0,151.0,0.0,False
+3,Delay Without Learning,20.0,151.0,131.0,True
+3,Conservative Baseline,73.0,151.0,78.0,False
+4,Immediate Action,125.0,151.0,26.0,True
+4,Staged Learning,151.0,151.0,0.0,False
+4,Delay Without Learning,95.0,151.0,56.0,False
+4,Conservative Baseline,73.0,151.0,78.0,False
+5,Immediate Action,-35.0,95.0,130.0,True
+5,Staged Learning,-14.0,95.0,109.0,True
+5,Delay Without Learning,95.0,95.0,0.0,False
+5,Conservative Baseline,73.0,95.0,22.0,False
+6,Immediate Action,-35.0,95.0,130.0,True
+6,Staged Learning,-14.0,95.0,109.0,True
+6,Delay Without Learning,95.0,95.0,0.0,False
+6,Conservative Baseline,73.0,95.0,22.0,False
+7,Immediate Action,-35.0,151.0,186.0,True
+7,Staged Learning,151.0,151.0,0.0,False
+7,Delay Without Learning,95.0,151.0,56.0,False
+7,Conservative Baseline,73.0,151.0,78.0,False
+8,Immediate Action,125.0,151.0,26.0,True
+8,Staged Learning,151.0,151.0,0.0,False
+8,Delay Without Learning,95.0,151.0,56.0,False
+8,Conservative Baseline,73.0,151.0,78.0,False
+9,Immediate Action,125.0,151.0,26.0,True
+9,Staged Learning,151.0,151.0,0.0,False
+9,Delay Without Learning,95.0,151.0,56.0,False
+9,Conservative Baseline,73.0,151.0,78.0,False
+10,Immediate Action,125.0,151.0,26.0,True
+10,Staged Learning,151.0,151.0,0.0,False
+10,Delay Without Learning,95.0,151.0,56.0,False
+10,Conservative Baseline,73.0,151.0,78.0,False
+11,Immediate Action,125.0,151.0,26.0,True
+11,Staged Learning,151.0,151.0,0.0,False
+11,Delay Without Learning,20.0,151.0,131.0,True
+11,Conservative Baseline,73.0,151.0,78.0,False
+12,Immediate Action,125.0,125.0,0.0,True
+12,Staged Learning,-14.0,125.0,139.0,True
+12,Delay Without Learning,20.0,125.0,105.0,True
+12,Conservative Baseline,73.0,125.0,52.0,False
+13,Immediate Action,125.0,125.0,0.0,True
+13,Staged Learning,-14.0,125.0,139.0,True
+13,Delay Without Learning,95.0,125.0,30.0,False
+13,Conservative Baseline,73.0,125.0,52.0,False
+14,Immediate Action,125.0,125.0,0.0,True
+14,Staged Learning,-14.0,125.0,139.0,True
+14,Delay Without Learning,95.0,125.0,30.0,False
+14,Conservative Baseline,73.0,125.0,52.0,False
+15,Immediate Action,-35.0,151.0,186.0,True
+15,Staged Learning,151.0,151.0,0.0,False
+15,Delay Without Learning,20.0,151.0,131.0,True
+15,Conservative Baseline,73.0,151.0,78.0,False
+16,Immediate Action,125.0,151.0,26.0,True
+16,Staged Learning,151.0,151.0,0.0,False
+16,Delay Without Learning,95.0,151.0,56.0,False
+16,Conservative Baseline,73.0,151.0,78.0,False
+17,Immediate Action,125.0,125.0,0.0,True
+17,Staged Learning,-14.0,125.0,139.0,True
+17,Delay Without Learning,95.0,125.0,30.0,False
+17,Conservative Baseline,73.0,125.0,52.0,False
+18,Immediate Action,-35.0,73.0,108.0,True
+18,Staged Learning,-14.0,73.0,87.0,True
+18,Delay Without Learning,20.0,73.0,53.0,True
+18,Conservative Baseline,73.0,73.0,0.0,False
+19,Immediate Action,-35.0,151.0,186.0,True
+19,Staged Learning,151.0,151.0,0.0,False
+19,Delay Without Learning,95.0,151.0,56.0,False
+19,Conservative Baseline,73.0,151.0,78.0,False
+20,Immediate Action,125.0,151.0,26.0,True
+20,Staged Learning,151.0,151.0,0.0,False
+20,Delay Without Learning,95.0,151.0,56.0,False
+20,Conservative Baseline,73.0,151.0,78.0,False
+21,Immediate Action,-35.0,151.0,186.0,True
+21,Staged Learning,151.0,151.0,0.0,False
+21,Delay Without Learning,95.0,151.0,56.0,False
+21,Conservative Baseline,73.0,151.0,78.0,False
+22,Immediate Action,-35.0,151.0,186.0,True
+22,Staged Learning,151.0,151.0,0.0,False
+22,Delay Without Learning,95.0,151.0,56.0,False
+22,Conservative Baseline,58.0,151.0,93.0,True
+23,Immediate Action,125.0,125.0,0.0,True
+23,Staged Learning,-14.0,125.0,139.0,True
+23,Delay Without Learning,20.0,125.0,105.0,True
+23,Conservative Baseline,73.0,125.0,52.0,False
+24,Immediate Action,125.0,125.0,0.0,True
+24,Staged Learning,-14.0,125.0,139.0,True
+24,Delay Without Learning,95.0,125.0,30.0,False
+24,Conservative Baseline,73.0,125.0,52.0,False
+25,Immediate Action,-35.0,151.0,186.0,True
+25,Staged Learning,151.0,151.0,0.0,False
+25,Delay Without Learning,20.0,151.0,131.0,True
+25,Conservative Baseline,73.0,151.0,78.0,False
+26,Immediate Action,125.0,125.0,0.0,True
+26,Staged Learning,-14.0,125.0,139.0,True
+26,Delay Without Learning,20.0,125.0,105.0,True
+26,Conservative Baseline,58.0,125.0,67.0,True
+27,Immediate Action,125.0,151.0,26.0,True
+27,Staged Learning,151.0,151.0,0.0,False
+27,Delay Without Learning,95.0,151.0,56.0,False
+27,Conservative Baseline,73.0,151.0,78.0,False
+28,Immediate Action,125.0,151.0,26.0,True
+28,Staged Learning,151.0,151.0,0.0,False
+28,Delay Without Learning,95.0,151.0,56.0,False
+28,Conservative Baseline,73.0,151.0,78.0,False
+29,Immediate Action,-35.0,151.0,186.0,True
+29,Staged Learning,151.0,151.0,0.0,False
+29,Delay Without Learning,95.0,151.0,56.0,False
+29,Conservative Baseline,73.0,151.0,78.0,False
+30,Immediate Action,-35.0,73.0,108.0,True
+30,Staged Learning,-14.0,73.0,87.0,True
+30,Delay Without Learning,20.0,73.0,53.0,True
+30,Conservative Baseline,73.0,73.0,0.0,False
+31,Immediate Action,-35.0,95.0,130.0,True
+31,Staged Learning,-14.0,95.0,109.0,True
+31,Delay Without Learning,95.0,95.0,0.0,False
+31,Conservative Baseline,73.0,95.0,22.0,False
+32,Immediate Action,-35.0,151.0,186.0,True
+32,Staged Learning,151.0,151.0,0.0,False
+32,Delay Without Learning,95.0,151.0,56.0,False
+32,Conservative Baseline,73.0,151.0,78.0,False
+33,Immediate Action,125.0,125.0,0.0,True
+33,Staged Learning,-14.0,125.0,139.0,True
+33,Delay Without Learning,95.0,125.0,30.0,False
+33,Conservative Baseline,73.0,125.0,52.0,False
+34,Immediate Action,-35.0,151.0,186.0,True
+34,Staged Learning,151.0,151.0,0.0,False
+34,Delay Without Learning,95.0,151.0,56.0,False
+34,Conservative Baseline,73.0,151.0,78.0,False
+35,Immediate Action,125.0,151.0,26.0,True
+35,Staged Learning,151.0,151.0,0.0,False
+35,Delay Without Learning,20.0,151.0,131.0,True
+35,Conservative Baseline,73.0,151.0,78.0,False
+36,Immediate Action,125.0,125.0,0.0,True
+36,Staged Learning,-14.0,125.0,139.0,True
+36,Delay Without Learning,20.0,125.0,105.0,True
+36,Conservative Baseline,73.0,125.0,52.0,False
+37,Immediate Action,-35.0,95.0,130.0,True
+37,Staged Learning,-14.0,95.0,109.0,True
+37,Delay Without Learning,95.0,95.0,0.0,False
+37,Conservative Baseline,73.0,95.0,22.0,False
+38,Immediate Action,-35.0,95.0,130.0,True
+38,Staged Learning,-14.0,95.0,109.0,True
+38,Delay Without Learning,95.0,95.0,0.0,False
+38,Conservative Baseline,73.0,95.0,22.0,False
+39,Immediate Action,-35.0,73.0,108.0,True
+39,Staged Learning,-14.0,73.0,87.0,True
+39,Delay Without Learning,20.0,73.0,53.0,True
+39,Conservative Baseline,73.0,73.0,0.0,False
+40,Immediate Action,125.0,151.0,26.0,True
+40,Staged Learning,151.0,151.0,0.0,False
+40,Delay Without Learning,20.0,151.0,131.0,True
+40,Conservative Baseline,73.0,151.0,78.0,False
+41,Immediate Action,-35.0,58.0,93.0,True
+41,Staged Learning,-14.0,58.0,72.0,True
+41,Delay Without Learning,20.0,58.0,38.0,True
+41,Conservative Baseline,58.0,58.0,0.0,True
+42,Immediate Action,125.0,125.0,0.0,True
+42,Staged Learning,-14.0,125.0,139.0,True
+42,Delay Without Learning,95.0,125.0,30.0,False
+42,Conservative Baseline,58.0,125.0,67.0,True
+43,Immediate Action,125.0,125.0,0.0,True
+43,Staged Learning,-14.0,125.0,139.0,True
+43,Delay Without Learning,20.0,125.0,105.0,True
+43,Conservative Baseline,73.0,125.0,52.0,False
+44,Immediate Action,125.0,151.0,26.0,True
+44,Staged Learning,151.0,151.0,0.0,False
+44,Delay Without Learning,20.0,151.0,131.0,True
+44,Conservative Baseline,73.0,151.0,78.0,False
+45,Immediate Action,125.0,151.0,26.0,True
+45,Staged Learning,151.0,151.0,0.0,False
+45,Delay Without Learning,95.0,151.0,56.0,False
+45,Conservative Baseline,73.0,151.0,78.0,False
+46,Immediate Action,125.0,125.0,0.0,True
+46,Staged Learning,-14.0,125.0,139.0,True
+46,Delay Without Learning,95.0,125.0,30.0,False
+46,Conservative Baseline,73.0,125.0,52.0,False
+47,Immediate Action,125.0,151.0,26.0,True
+47,Staged Learning,151.0,151.0,0.0,False
+47,Delay Without Learning,95.0,151.0,56.0,False
+47,Conservative Baseline,73.0,151.0,78.0,False
+48,Immediate Action,125.0,125.0,0.0,True
+48,Staged Learning,-14.0,125.0,139.0,True
+48,Delay Without Learning,95.0,125.0,30.0,False
+48,Conservative Baseline,73.0,125.0,52.0,False
+49,Immediate Action,-35.0,73.0,108.0,True
+49,Staged Learning,-14.0,73.0,87.0,True
+49,Delay Without Learning,20.0,73.0,53.0,True
+49,Conservative Baseline,73.0,73.0,0.0,False
+50,Immediate Action,125.0,151.0,26.0,True
+50,Staged Learning,151.0,151.0,0.0,False
+50,Delay Without Learning,20.0,151.0,131.0,True
+50,Conservative Baseline,73.0,151.0,78.0,False
+51,Immediate Action,125.0,125.0,0.0,True
+51,Staged Learning,-14.0,125.0,139.0,True
+51,Delay Without Learning,95.0,125.0,30.0,False
+51,Conservative Baseline,73.0,125.0,52.0,False
+52,Immediate Action,125.0,151.0,26.0,True
+52,Staged Learning,151.0,151.0,0.0,False
+52,Delay Without Learning,20.0,151.0,131.0,True
+52,Conservative Baseline,73.0,151.0,78.0,False
+53,Immediate Action,125.0,151.0,26.0,True
+53,Staged Learning,151.0,151.0,0.0,False
+53,Delay Without Learning,20.0,151.0,131.0,True
+53,Conservative Baseline,73.0,151.0,78.0,False
+54,Immediate Action,-35.0,95.0,130.0,True
+54,Staged Learning,-14.0,95.0,109.0,True
+54,Delay Without Learning,95.0,95.0,0.0,False
+54,Conservative Baseline,73.0,95.0,22.0,False
+55,Immediate Action,-35.0,95.0,130.0,True
+55,Staged Learning,-14.0,95.0,109.0,True
+55,Delay Without Learning,95.0,95.0,0.0,False
+55,Conservative Baseline,58.0,95.0,37.0,True
+56,Immediate Action,-35.0,95.0,130.0,True
+56,Staged Learning,-14.0,95.0,109.0,True
+56,Delay Without Learning,95.0,95.0,0.0,False
+56,Conservative Baseline,73.0,95.0,22.0,False
+57,Immediate Action,125.0,151.0,26.0,True
+57,Staged Learning,151.0,151.0,0.0,False
+57,Delay Without Learning,95.0,151.0,56.0,False
+57,Conservative Baseline,73.0,151.0,78.0,False
+58,Immediate Action,-35.0,151.0,186.0,True
+58,Staged Learning,151.0,151.0,0.0,False
+58,Delay Without Learning,20.0,151.0,131.0,True
+58,Conservative Baseline,73.0,151.0,78.0,False
+59,Immediate Action,125.0,125.0,0.0,True
+59,Staged Learning,-14.0,125.0,139.0,True
+59,Delay Without Learning,20.0,125.0,105.0,True
+59,Conservative Baseline,73.0,125.0,52.0,False
+60,Immediate Action,125.0,125.0,0.0,True
+60,Staged Learning,-14.0,125.0,139.0,True
+60,Delay Without Learning,95.0,125.0,30.0,False
+60,Conservative Baseline,73.0,125.0,52.0,False
+61,Immediate Action,-35.0,73.0,108.0,True
+61,Staged Learning,-14.0,73.0,87.0,True
+61,Delay Without Learning,20.0,73.0,53.0,True
+61,Conservative Baseline,73.0,73.0,0.0,False
+62,Immediate Action,-35.0,151.0,186.0,True
+62,Staged Learning,151.0,151.0,0.0,False
+62,Delay Without Learning,95.0,151.0,56.0,False
+62,Conservative Baseline,73.0,151.0,78.0,False
+63,Immediate Action,125.0,125.0,0.0,True
+63,Staged Learning,-14.0,125.0,139.0,True
+63,Delay Without Learning,95.0,125.0,30.0,False
+63,Conservative Baseline,73.0,125.0,52.0,False
+64,Immediate Action,-35.0,95.0,130.0,True
+64,Staged Learning,-14.0,95.0,109.0,True
+64,Delay Without Learning,95.0,95.0,0.0,False
+64,Conservative Baseline,73.0,95.0,22.0,False
+65,Immediate Action,-35.0,151.0,186.0,True
+65,Staged Learning,151.0,151.0,0.0,False
+65,Delay Without Learning,95.0,151.0,56.0,False
+65,Conservative Baseline,73.0,151.0,78.0,False
+66,Immediate Action,-35.0,151.0,186.0,True
+66,Staged Learning,151.0,151.0,0.0,False
+66,Delay Without Learning,20.0,151.0,131.0,True
+66,Conservative Baseline,58.0,151.0,93.0,True
+67,Immediate Action,125.0,151.0,26.0,True
+67,Staged Learning,151.0,151.0,0.0,False
+67,Delay Without Learning,95.0,151.0,56.0,False
+67,Conservative Baseline,73.0,151.0,78.0,False
+68,Immediate Action,125.0,125.0,0.0,True
+68,Staged Learning,-14.0,125.0,139.0,True
+68,Delay Without Learning,95.0,125.0,30.0,False
+68,Conservative Baseline,73.0,125.0,52.0,False
+69,Immediate Action,125.0,151.0,26.0,True
+69,Staged Learning,151.0,151.0,0.0,False
+69,Delay Without Learning,95.0,151.0,56.0,False
+69,Conservative Baseline,73.0,151.0,78.0,False
+70,Immediate Action,125.0,125.0,0.0,True
+70,Staged Learning,-14.0,125.0,139.0,True
+70,Delay Without Learning,95.0,125.0,30.0,False
+70,Conservative Baseline,73.0,125.0,52.0,False
+71,Immediate Action,125.0,151.0,26.0,True
+71,Staged Learning,151.0,151.0,0.0,False
+71,Delay Without Learning,20.0,151.0,131.0,True
+71,Conservative Baseline,73.0,151.0,78.0,False
+72,Immediate Action,-35.0,151.0,186.0,True
+72,Staged Learning,151.0,151.0,0.0,False
+72,Delay Without Learning,95.0,151.0,56.0,False
+72,Conservative Baseline,73.0,151.0,78.0,False
+73,Immediate Action,-35.0,151.0,186.0,True
+73,Staged Learning,151.0,151.0,0.0,False
+73,Delay Without Learning,95.0,151.0,56.0,False
+73,Conservative Baseline,73.0,151.0,78.0,False
+74,Immediate Action,125.0,151.0,26.0,True
+74,Staged Learning,151.0,151.0,0.0,False
+74,Delay Without Learning,20.0,151.0,131.0,True
+74,Conservative Baseline,58.0,151.0,93.0,True
+75,Immediate Action,-35.0,151.0,186.0,True
+75,Staged Learning,151.0,151.0,0.0,False
+75,Delay Without Learning,20.0,151.0,131.0,True
+75,Conservative Baseline,73.0,151.0,78.0,False
+76,Immediate Action,125.0,125.0,0.0,True
+76,Staged Learning,-14.0,125.0,139.0,True
+76,Delay Without Learning,95.0,125.0,30.0,False
+76,Conservative Baseline,73.0,125.0,52.0,False
+77,Immediate Action,-35.0,95.0,130.0,True
+77,Staged Learning,-14.0,95.0,109.0,True
+77,Delay Without Learning,95.0,95.0,0.0,False
+77,Conservative Baseline,73.0,95.0,22.0,False
+78,Immediate Action,125.0,151.0,26.0,True
+78,Staged Learning,151.0,151.0,0.0,False
+78,Delay Without Learning,20.0,151.0,131.0,True
+78,Conservative Baseline,73.0,151.0,78.0,False
+79,Immediate Action,125.0,125.0,0.0,True
+79,Staged Learning,-14.0,125.0,139.0,True
+79,Delay Without Learning,95.0,125.0,30.0,False
+79,Conservative Baseline,73.0,125.0,52.0,False
+80,Immediate Action,125.0,125.0,0.0,True
+80,Staged Learning,-14.0,125.0,139.0,True
+80,Delay Without Learning,95.0,125.0,30.0,False
+80,Conservative Baseline,73.0,125.0,52.0,False
+81,Immediate Action,125.0,125.0,0.0,True
+81,Staged Learning,-14.0,125.0,139.0,True
+81,Delay Without Learning,95.0,125.0,30.0,False
+81,Conservative Baseline,58.0,125.0,67.0,True
+82,Immediate Action,125.0,125.0,0.0,True
+82,Staged Learning,-14.0,125.0,139.0,True
+82,Delay Without Learning,20.0,125.0,105.0,True
+82,Conservative Baseline,73.0,125.0,52.0,False
+83,Immediate Action,-35.0,151.0,186.0,True
+83,Staged Learning,151.0,151.0,0.0,False
+83,Delay Without Learning,20.0,151.0,131.0,True
+83,Conservative Baseline,73.0,151.0,78.0,False
+84,Immediate Action,-35.0,95.0,130.0,True
+84,Staged Learning,-14.0,95.0,109.0,True
+84,Delay Without Learning,95.0,95.0,0.0,False
+84,Conservative Baseline,73.0,95.0,22.0,False
+85,Immediate Action,125.0,151.0,26.0,True
+85,Staged Learning,151.0,151.0,0.0,False
+85,Delay Without Learning,20.0,151.0,131.0,True
+85,Conservative Baseline,73.0,151.0,78.0,False
+86,Immediate Action,125.0,125.0,0.0,True
+86,Staged Learning,-14.0,125.0,139.0,True
+86,Delay Without Learning,20.0,125.0,105.0,True
+86,Conservative Baseline,58.0,125.0,67.0,True
+87,Immediate Action,-35.0,95.0,130.0,True
+87,Staged Learning,-14.0,95.0,109.0,True
+87,Delay Without Learning,95.0,95.0,0.0,False
+87,Conservative Baseline,73.0,95.0,22.0,False
+88,Immediate Action,125.0,125.0,0.0,True
+88,Staged Learning,-14.0,125.0,139.0,True
+88,Delay Without Learning,20.0,125.0,105.0,True
+88,Conservative Baseline,73.0,125.0,52.0,False
+89,Immediate Action,125.0,125.0,0.0,True
+89,Staged Learning,-14.0,125.0,139.0,True
+89,Delay Without Learning,95.0,125.0,30.0,False
+89,Conservative Baseline,73.0,125.0,52.0,False
+90,Immediate Action,125.0,151.0,26.0,True
+90,Staged Learning,151.0,151.0,0.0,False
+90,Delay Without Learning,95.0,151.0,56.0,False
+90,Conservative Baseline,73.0,151.0,78.0,False
+91,Immediate Action,125.0,125.0,0.0,True
+91,Staged Learning,-14.0,125.0,139.0,True
+91,Delay Without Learning,95.0,125.0,30.0,False
+91,Conservative Baseline,73.0,125.0,52.0,False
+92,Immediate Action,-35.0,151.0,186.0,True
+92,Staged Learning,151.0,151.0,0.0,False
+92,Delay Without Learning,20.0,151.0,131.0,True
+92,Conservative Baseline,73.0,151.0,78.0,False
+93,Immediate Action,-35.0,151.0,186.0,True
+93,Staged Learning,151.0,151.0,0.0,False
+93,Delay Without Learning,95.0,151.0,56.0,False
+93,Conservative Baseline,73.0,151.0,78.0,False
+94,Immediate Action,125.0,125.0,0.0,True
+94,Staged Learning,-14.0,125.0,139.0,True
+94,Delay Without Learning,95.0,125.0,30.0,False
+94,Conservative Baseline,73.0,125.0,52.0,False
+95,Immediate Action,125.0,151.0,26.0,True
+95,Staged Learning,151.0,151.0,0.0,False
+95,Delay Without Learning,95.0,151.0,56.0,False
+95,Conservative Baseline,73.0,151.0,78.0,False
+96,Immediate Action,125.0,125.0,0.0,True
+96,Staged Learning,-14.0,125.0,139.0,True
+96,Delay Without Learning,95.0,125.0,30.0,False
+96,Conservative Baseline,73.0,125.0,52.0,False
+97,Immediate Action,-35.0,95.0,130.0,True
+97,Staged Learning,-14.0,95.0,109.0,True
+97,Delay Without Learning,95.0,95.0,0.0,False
+97,Conservative Baseline,73.0,95.0,22.0,False
+98,Immediate Action,125.0,151.0,26.0,True
+98,Staged Learning,151.0,151.0,0.0,False
+98,Delay Without Learning,95.0,151.0,56.0,False
+98,Conservative Baseline,73.0,151.0,78.0,False
+99,Immediate Action,-35.0,95.0,130.0,True
+99,Staged Learning,-14.0,95.0,109.0,True
+99,Delay Without Learning,95.0,95.0,0.0,False
+99,Conservative Baseline,73.0,95.0,22.0,False
+100,Immediate Action,-35.0,73.0,108.0,True
+100,Staged Learning,-14.0,73.0,87.0,True
+100,Delay Without Learning,20.0,73.0,53.0,True
+100,Conservative Baseline,73.0,73.0,0.0,False
+101,Immediate Action,125.0,151.0,26.0,True
+101,Staged Learning,151.0,151.0,0.0,False
+101,Delay Without Learning,95.0,151.0,56.0,False
+101,Conservative Baseline,73.0,151.0,78.0,False
+102,Immediate Action,-35.0,151.0,186.0,True
+102,Staged Learning,151.0,151.0,0.0,False
+102,Delay Without Learning,95.0,151.0,56.0,False
+102,Conservative Baseline,58.0,151.0,93.0,True
+103,Immediate Action,-35.0,151.0,186.0,True
+103,Staged Learning,151.0,151.0,0.0,False
+103,Delay Without Learning,20.0,151.0,131.0,True
+103,Conservative Baseline,73.0,151.0,78.0,False
+104,Immediate Action,125.0,151.0,26.0,True
+104,Staged Learning,151.0,151.0,0.0,False
+104,Delay Without Learning,20.0,151.0,131.0,True
+104,Conservative Baseline,73.0,151.0,78.0,False
+105,Immediate Action,125.0,125.0,0.0,True
+105,Staged Learning,-14.0,125.0,139.0,True
+105,Delay Without Learning,95.0,125.0,30.0,False
+105,Conservative Baseline,73.0,125.0,52.0,False
+106,Immediate Action,-35.0,95.0,130.0,True
+106,Staged Learning,-14.0,95.0,109.0,True
+106,Delay Without Learning,95.0,95.0,0.0,False
+106,Conservative Baseline,73.0,95.0,22.0,False
+107,Immediate Action,125.0,125.0,0.0,True
+107,Staged Learning,-14.0,125.0,139.0,True
+107,Delay Without Learning,20.0,125.0,105.0,True
+107,Conservative Baseline,73.0,125.0,52.0,False
+108,Immediate Action,125.0,125.0,0.0,True
+108,Staged Learning,-14.0,125.0,139.0,True
+108,Delay Without Learning,20.0,125.0,105.0,True
+108,Conservative Baseline,73.0,125.0,52.0,False
+109,Immediate Action,125.0,125.0,0.0,True
+109,Staged Learning,-14.0,125.0,139.0,True
+109,Delay Without Learning,95.0,125.0,30.0,False
+109,Conservative Baseline,58.0,125.0,67.0,True
+110,Immediate Action,-35.0,151.0,186.0,True
+110,Staged Learning,151.0,151.0,0.0,False
+110,Delay Without Learning,20.0,151.0,131.0,True
+110,Conservative Baseline,73.0,151.0,78.0,False
+111,Immediate Action,-35.0,151.0,186.0,True
+111,Staged Learning,151.0,151.0,0.0,False
+111,Delay Without Learning,20.0,151.0,131.0,True
+111,Conservative Baseline,58.0,151.0,93.0,True
+112,Immediate Action,125.0,151.0,26.0,True
+112,Staged Learning,151.0,151.0,0.0,False
+112,Delay Without Learning,95.0,151.0,56.0,False
+112,Conservative Baseline,73.0,151.0,78.0,False
+113,Immediate Action,125.0,151.0,26.0,True
+113,Staged Learning,151.0,151.0,0.0,False
+113,Delay Without Learning,95.0,151.0,56.0,False
+113,Conservative Baseline,73.0,151.0,78.0,False
+114,Immediate Action,125.0,125.0,0.0,True
+114,Staged Learning,-14.0,125.0,139.0,True
+114,Delay Without Learning,20.0,125.0,105.0,True
+114,Conservative Baseline,73.0,125.0,52.0,False
+115,Immediate Action,-35.0,151.0,186.0,True
+115,Staged Learning,151.0,151.0,0.0,False
+115,Delay Without Learning,95.0,151.0,56.0,False
+115,Conservative Baseline,73.0,151.0,78.0,False
+116,Immediate Action,-35.0,151.0,186.0,True
+116,Staged Learning,151.0,151.0,0.0,False
+116,Delay Without Learning,20.0,151.0,131.0,True
+116,Conservative Baseline,73.0,151.0,78.0,False
+117,Immediate Action,125.0,151.0,26.0,True
+117,Staged Learning,151.0,151.0,0.0,False
+117,Delay Without Learning,95.0,151.0,56.0,False
+117,Conservative Baseline,73.0,151.0,78.0,False
+118,Immediate Action,-35.0,151.0,186.0,True
+118,Staged Learning,151.0,151.0,0.0,False
+118,Delay Without Learning,95.0,151.0,56.0,False
+118,Conservative Baseline,73.0,151.0,78.0,False
+119,Immediate Action,-35.0,95.0,130.0,True
+119,Staged Learning,-14.0,95.0,109.0,True
+119,Delay Without Learning,95.0,95.0,0.0,False
+119,Conservative Baseline,58.0,95.0,37.0,True
+120,Immediate Action,125.0,125.0,0.0,True
+120,Staged Learning,-14.0,125.0,139.0,True
+120,Delay Without Learning,95.0,125.0,30.0,False
+120,Conservative Baseline,73.0,125.0,52.0,False
+121,Immediate Action,-35.0,151.0,186.0,True
+121,Staged Learning,151.0,151.0,0.0,False
+121,Delay Without Learning,95.0,151.0,56.0,False
+121,Conservative Baseline,73.0,151.0,78.0,False
+122,Immediate Action,125.0,125.0,0.0,True
+122,Staged Learning,-14.0,125.0,139.0,True
+122,Delay Without Learning,20.0,125.0,105.0,True
+122,Conservative Baseline,73.0,125.0,52.0,False
+123,Immediate Action,-35.0,95.0,130.0,True
+123,Staged Learning,-14.0,95.0,109.0,True
+123,Delay Without Learning,95.0,95.0,0.0,False
+123,Conservative Baseline,58.0,95.0,37.0,True
+124,Immediate Action,125.0,125.0,0.0,True
+124,Staged Learning,-14.0,125.0,139.0,True
+124,Delay Without Learning,95.0,125.0,30.0,False
+124,Conservative Baseline,73.0,125.0,52.0,False
+125,Immediate Action,125.0,125.0,0.0,True
+125,Staged Learning,-14.0,125.0,139.0,True
+125,Delay Without Learning,95.0,125.0,30.0,False
+125,Conservative Baseline,73.0,125.0,52.0,False
+126,Immediate Action,125.0,151.0,26.0,True
+126,Staged Learning,151.0,151.0,0.0,False
+126,Delay Without Learning,95.0,151.0,56.0,False
+126,Conservative Baseline,73.0,151.0,78.0,False
+127,Immediate Action,125.0,151.0,26.0,True
+127,Staged Learning,151.0,151.0,0.0,False
+127,Delay Without Learning,95.0,151.0,56.0,False
+127,Conservative Baseline,73.0,151.0,78.0,False
+128,Immediate Action,-35.0,95.0,130.0,True
+128,Staged Learning,-14.0,95.0,109.0,True
+128,Delay Without Learning,95.0,95.0,0.0,False
+128,Conservative Baseline,73.0,95.0,22.0,False
+129,Immediate Action,-35.0,151.0,186.0,True
+129,Staged Learning,151.0,151.0,0.0,False
+129,Delay Without Learning,95.0,151.0,56.0,False
+129,Conservative Baseline,73.0,151.0,78.0,False
+130,Immediate Action,-35.0,151.0,186.0,True
+130,Staged Learning,151.0,151.0,0.0,False
+130,Delay Without Learning,20.0,151.0,131.0,True
+130,Conservative Baseline,73.0,151.0,78.0,False
+131,Immediate Action,125.0,125.0,0.0,True
+131,Staged Learning,-14.0,125.0,139.0,True
+131,Delay Without Learning,95.0,125.0,30.0,False
+131,Conservative Baseline,58.0,125.0,67.0,True
+132,Immediate Action,125.0,151.0,26.0,True
+132,Staged Learning,151.0,151.0,0.0,False
+132,Delay Without Learning,20.0,151.0,131.0,True
+132,Conservative Baseline,73.0,151.0,78.0,False
+133,Immediate Action,-35.0,73.0,108.0,True
+133,Staged Learning,-14.0,73.0,87.0,True
+133,Delay Without Learning,20.0,73.0,53.0,True
+133,Conservative Baseline,73.0,73.0,0.0,False
+134,Immediate Action,-35.0,151.0,186.0,True
+134,Staged Learning,151.0,151.0,0.0,False
+134,Delay Without Learning,20.0,151.0,131.0,True
+134,Conservative Baseline,73.0,151.0,78.0,False
+135,Immediate Action,125.0,151.0,26.0,True
+135,Staged Learning,151.0,151.0,0.0,False
+135,Delay Without Learning,20.0,151.0,131.0,True
+135,Conservative Baseline,73.0,151.0,78.0,False
+136,Immediate Action,125.0,151.0,26.0,True
+136,Staged Learning,151.0,151.0,0.0,False
+136,Delay Without Learning,95.0,151.0,56.0,False
+136,Conservative Baseline,73.0,151.0,78.0,False
+137,Immediate Action,125.0,151.0,26.0,True
+137,Staged Learning,151.0,151.0,0.0,False
+137,Delay Without Learning,20.0,151.0,131.0,True
+137,Conservative Baseline,58.0,151.0,93.0,True
+138,Immediate Action,-35.0,151.0,186.0,True
+138,Staged Learning,151.0,151.0,0.0,False
+138,Delay Without Learning,20.0,151.0,131.0,True
+138,Conservative Baseline,73.0,151.0,78.0,False
+139,Immediate Action,-35.0,151.0,186.0,True
+139,Staged Learning,151.0,151.0,0.0,False
+139,Delay Without Learning,20.0,151.0,131.0,True
+139,Conservative Baseline,58.0,151.0,93.0,True
+140,Immediate Action,125.0,151.0,26.0,True
+140,Staged Learning,151.0,151.0,0.0,False
+140,Delay Without Learning,95.0,151.0,56.0,False
+140,Conservative Baseline,73.0,151.0,78.0,False
+141,Immediate Action,125.0,125.0,0.0,True
+141,Staged Learning,-14.0,125.0,139.0,True
+141,Delay Without Learning,95.0,125.0,30.0,False
+141,Conservative Baseline,73.0,125.0,52.0,False
+142,Immediate Action,125.0,125.0,0.0,True
+142,Staged Learning,-14.0,125.0,139.0,True
+142,Delay Without Learning,20.0,125.0,105.0,True
+142,Conservative Baseline,73.0,125.0,52.0,False
+143,Immediate Action,125.0,151.0,26.0,True
+143,Staged Learning,151.0,151.0,0.0,False
+143,Delay Without Learning,20.0,151.0,131.0,True
+143,Conservative Baseline,73.0,151.0,78.0,False
+144,Immediate Action,-35.0,151.0,186.0,True
+144,Staged Learning,151.0,151.0,0.0,False
+144,Delay Without Learning,95.0,151.0,56.0,False
+144,Conservative Baseline,73.0,151.0,78.0,False
+145,Immediate Action,125.0,151.0,26.0,True
+145,Staged Learning,151.0,151.0,0.0,False
+145,Delay Without Learning,95.0,151.0,56.0,False
+145,Conservative Baseline,73.0,151.0,78.0,False
+146,Immediate Action,125.0,125.0,0.0,True
+146,Staged Learning,-14.0,125.0,139.0,True
+146,Delay Without Learning,95.0,125.0,30.0,False
+146,Conservative Baseline,73.0,125.0,52.0,False
+147,Immediate Action,125.0,151.0,26.0,True
+147,Staged Learning,151.0,151.0,0.0,False
+147,Delay Without Learning,95.0,151.0,56.0,False
+147,Conservative Baseline,73.0,151.0,78.0,False
+148,Immediate Action,-35.0,95.0,130.0,True
+148,Staged Learning,-14.0,95.0,109.0,True
+148,Delay Without Learning,95.0,95.0,0.0,False
+148,Conservative Baseline,73.0,95.0,22.0,False
+149,Immediate Action,125.0,151.0,26.0,True
+149,Staged Learning,151.0,151.0,0.0,False
+149,Delay Without Learning,95.0,151.0,56.0,False
+149,Conservative Baseline,73.0,151.0,78.0,False
+150,Immediate Action,125.0,125.0,0.0,True
+150,Staged Learning,-14.0,125.0,139.0,True
+150,Delay Without Learning,95.0,125.0,30.0,False
+150,Conservative Baseline,73.0,125.0,52.0,False
+151,Immediate Action,-35.0,151.0,186.0,True
+151,Staged Learning,151.0,151.0,0.0,False
+151,Delay Without Learning,95.0,151.0,56.0,False
+151,Conservative Baseline,73.0,151.0,78.0,False
+152,Immediate Action,-35.0,151.0,186.0,True
+152,Staged Learning,151.0,151.0,0.0,False
+152,Delay Without Learning,95.0,151.0,56.0,False
+152,Conservative Baseline,73.0,151.0,78.0,False
+153,Immediate Action,125.0,125.0,0.0,True
+153,Staged Learning,-14.0,125.0,139.0,True
+153,Delay Without Learning,95.0,125.0,30.0,False
+153,Conservative Baseline,73.0,125.0,52.0,False
+154,Immediate Action,125.0,151.0,26.0,True
+154,Staged Learning,151.0,151.0,0.0,False
+154,Delay Without Learning,20.0,151.0,131.0,True
+154,Conservative Baseline,73.0,151.0,78.0,False
+155,Immediate Action,125.0,125.0,0.0,True
+155,Staged Learning,-14.0,125.0,139.0,True
+155,Delay Without Learning,95.0,125.0,30.0,False
+155,Conservative Baseline,73.0,125.0,52.0,False
+156,Immediate Action,125.0,151.0,26.0,True
+156,Staged Learning,151.0,151.0,0.0,False
+156,Delay Without Learning,95.0,151.0,56.0,False
+156,Conservative Baseline,73.0,151.0,78.0,False
+157,Immediate Action,125.0,125.0,0.0,True
+157,Staged Learning,-14.0,125.0,139.0,True
+157,Delay Without Learning,20.0,125.0,105.0,True
+157,Conservative Baseline,73.0,125.0,52.0,False
+158,Immediate Action,-35.0,151.0,186.0,True
+158,Staged Learning,151.0,151.0,0.0,False
+158,Delay Without Learning,20.0,151.0,131.0,True
+158,Conservative Baseline,73.0,151.0,78.0,False
+159,Immediate Action,125.0,151.0,26.0,True
+159,Staged Learning,151.0,151.0,0.0,False
+159,Delay Without Learning,20.0,151.0,131.0,True
+159,Conservative Baseline,73.0,151.0,78.0,False
+160,Immediate Action,125.0,151.0,26.0,True
+160,Staged Learning,151.0,151.0,0.0,False
+160,Delay Without Learning,20.0,151.0,131.0,True
+160,Conservative Baseline,73.0,151.0,78.0,False
+161,Immediate Action,125.0,125.0,0.0,True
+161,Staged Learning,-14.0,125.0,139.0,True
+161,Delay Without Learning,95.0,125.0,30.0,False
+161,Conservative Baseline,73.0,125.0,52.0,False
+162,Immediate Action,-35.0,95.0,130.0,True
+162,Staged Learning,-14.0,95.0,109.0,True
+162,Delay Without Learning,95.0,95.0,0.0,False
+162,Conservative Baseline,58.0,95.0,37.0,True
+163,Immediate Action,125.0,125.0,0.0,True
+163,Staged Learning,-14.0,125.0,139.0,True
+163,Delay Without Learning,95.0,125.0,30.0,False
+163,Conservative Baseline,73.0,125.0,52.0,False
+164,Immediate Action,-35.0,58.0,93.0,True
+164,Staged Learning,-14.0,58.0,72.0,True
+164,Delay Without Learning,20.0,58.0,38.0,True
+164,Conservative Baseline,58.0,58.0,0.0,True
+165,Immediate Action,-35.0,73.0,108.0,True
+165,Staged Learning,-14.0,73.0,87.0,True
+165,Delay Without Learning,20.0,73.0,53.0,True
+165,Conservative Baseline,73.0,73.0,0.0,False
+166,Immediate Action,125.0,125.0,0.0,True
+166,Staged Learning,-14.0,125.0,139.0,True
+166,Delay Without Learning,95.0,125.0,30.0,False
+166,Conservative Baseline,73.0,125.0,52.0,False
+167,Immediate Action,125.0,151.0,26.0,True
+167,Staged Learning,151.0,151.0,0.0,False
+167,Delay Without Learning,20.0,151.0,131.0,True
+167,Conservative Baseline,73.0,151.0,78.0,False
+168,Immediate Action,-35.0,95.0,130.0,True
+168,Staged Learning,-14.0,95.0,109.0,True
+168,Delay Without Learning,95.0,95.0,0.0,False
+168,Conservative Baseline,73.0,95.0,22.0,False
+169,Immediate Action,125.0,151.0,26.0,True
+169,Staged Learning,151.0,151.0,0.0,False
+169,Delay Without Learning,95.0,151.0,56.0,False
+169,Conservative Baseline,73.0,151.0,78.0,False
+170,Immediate Action,125.0,125.0,0.0,True
+170,Staged Learning,-14.0,125.0,139.0,True
+170,Delay Without Learning,95.0,125.0,30.0,False
+170,Conservative Baseline,73.0,125.0,52.0,False
+171,Immediate Action,-35.0,95.0,130.0,True
+171,Staged Learning,-14.0,95.0,109.0,True
+171,Delay Without Learning,95.0,95.0,0.0,False
+171,Conservative Baseline,73.0,95.0,22.0,False
+172,Immediate Action,125.0,125.0,0.0,True
+172,Staged Learning,-14.0,125.0,139.0,True
+172,Delay Without Learning,20.0,125.0,105.0,True
+172,Conservative Baseline,73.0,125.0,52.0,False
+173,Immediate Action,125.0,125.0,0.0,True
+173,Staged Learning,-14.0,125.0,139.0,True
+173,Delay Without Learning,20.0,125.0,105.0,True
+173,Conservative Baseline,73.0,125.0,52.0,False
+174,Immediate Action,-35.0,151.0,186.0,True
+174,Staged Learning,151.0,151.0,0.0,False
+174,Delay Without Learning,95.0,151.0,56.0,False
+174,Conservative Baseline,58.0,151.0,93.0,True
+175,Immediate Action,-35.0,151.0,186.0,True
+175,Staged Learning,151.0,151.0,0.0,False
+175,Delay Without Learning,95.0,151.0,56.0,False
+175,Conservative Baseline,73.0,151.0,78.0,False
+176,Immediate Action,125.0,125.0,0.0,True
+176,Staged Learning,-14.0,125.0,139.0,True
+176,Delay Without Learning,20.0,125.0,105.0,True
+176,Conservative Baseline,73.0,125.0,52.0,False
+177,Immediate Action,125.0,125.0,0.0,True
+177,Staged Learning,-14.0,125.0,139.0,True
+177,Delay Without Learning,20.0,125.0,105.0,True
+177,Conservative Baseline,73.0,125.0,52.0,False
+178,Immediate Action,125.0,125.0,0.0,True
+178,Staged Learning,-14.0,125.0,139.0,True
+178,Delay Without Learning,20.0,125.0,105.0,True
+178,Conservative Baseline,73.0,125.0,52.0,False
+179,Immediate Action,125.0,125.0,0.0,True
+179,Staged Learning,-14.0,125.0,139.0,True
+179,Delay Without Learning,95.0,125.0,30.0,False
+179,Conservative Baseline,73.0,125.0,52.0,False
+180,Immediate Action,125.0,151.0,26.0,True
+180,Staged Learning,151.0,151.0,0.0,False
+180,Delay Without Learning,95.0,151.0,56.0,False
+180,Conservative Baseline,73.0,151.0,78.0,False
+181,Immediate Action,-35.0,95.0,130.0,True
+181,Staged Learning,-14.0,95.0,109.0,True
+181,Delay Without Learning,95.0,95.0,0.0,False
+181,Conservative Baseline,73.0,95.0,22.0,False
+182,Immediate Action,-35.0,95.0,130.0,True
+182,Staged Learning,-14.0,95.0,109.0,True
+182,Delay Without Learning,95.0,95.0,0.0,False
+182,Conservative Baseline,73.0,95.0,22.0,False
+183,Immediate Action,-35.0,95.0,130.0,True
+183,Staged Learning,-14.0,95.0,109.0,True
+183,Delay Without Learning,95.0,95.0,0.0,False
+183,Conservative Baseline,73.0,95.0,22.0,False
+184,Immediate Action,125.0,151.0,26.0,True
+184,Staged Learning,151.0,151.0,0.0,False
+184,Delay Without Learning,20.0,151.0,131.0,True
+184,Conservative Baseline,73.0,151.0,78.0,False
+185,Immediate Action,125.0,151.0,26.0,True
+185,Staged Learning,151.0,151.0,0.0,False
+185,Delay Without Learning,20.0,151.0,131.0,True
+185,Conservative Baseline,73.0,151.0,78.0,False
+186,Immediate Action,125.0,151.0,26.0,True
+186,Staged Learning,151.0,151.0,0.0,False
+186,Delay Without Learning,95.0,151.0,56.0,False
+186,Conservative Baseline,73.0,151.0,78.0,False
+187,Immediate Action,-35.0,151.0,186.0,True
+187,Staged Learning,151.0,151.0,0.0,False
+187,Delay Without Learning,95.0,151.0,56.0,False
+187,Conservative Baseline,73.0,151.0,78.0,False
+188,Immediate Action,125.0,151.0,26.0,True
+188,Staged Learning,151.0,151.0,0.0,False
+188,Delay Without Learning,95.0,151.0,56.0,False
+188,Conservative Baseline,73.0,151.0,78.0,False
+189,Immediate Action,125.0,151.0,26.0,True
+189,Staged Learning,151.0,151.0,0.0,False
+189,Delay Without Learning,20.0,151.0,131.0,True
+189,Conservative Baseline,58.0,151.0,93.0,True
+190,Immediate Action,125.0,151.0,26.0,True
+190,Staged Learning,151.0,151.0,0.0,False
+190,Delay Without Learning,95.0,151.0,56.0,False
+190,Conservative Baseline,73.0,151.0,78.0,False
+191,Immediate Action,125.0,151.0,26.0,True
+191,Staged Learning,151.0,151.0,0.0,False
+191,Delay Without Learning,20.0,151.0,131.0,True
+191,Conservative Baseline,73.0,151.0,78.0,False
+192,Immediate Action,125.0,151.0,26.0,True
+192,Staged Learning,151.0,151.0,0.0,False
+192,Delay Without Learning,20.0,151.0,131.0,True
+192,Conservative Baseline,73.0,151.0,78.0,False
+193,Immediate Action,125.0,125.0,0.0,True
+193,Staged Learning,-14.0,125.0,139.0,True
+193,Delay Without Learning,20.0,125.0,105.0,True
+193,Conservative Baseline,73.0,125.0,52.0,False
+194,Immediate Action,-35.0,151.0,186.0,True
+194,Staged Learning,151.0,151.0,0.0,False
+194,Delay Without Learning,95.0,151.0,56.0,False
+194,Conservative Baseline,58.0,151.0,93.0,True
+195,Immediate Action,125.0,151.0,26.0,True
+195,Staged Learning,151.0,151.0,0.0,False
+195,Delay Without Learning,95.0,151.0,56.0,False
+195,Conservative Baseline,73.0,151.0,78.0,False
+196,Immediate Action,-35.0,95.0,130.0,True
+196,Staged Learning,-14.0,95.0,109.0,True
+196,Delay Without Learning,95.0,95.0,0.0,False
+196,Conservative Baseline,73.0,95.0,22.0,False
+197,Immediate Action,125.0,125.0,0.0,True
+197,Staged Learning,-14.0,125.0,139.0,True
+197,Delay Without Learning,20.0,125.0,105.0,True
+197,Conservative Baseline,73.0,125.0,52.0,False
+198,Immediate Action,125.0,151.0,26.0,True
+198,Staged Learning,151.0,151.0,0.0,False
+198,Delay Without Learning,95.0,151.0,56.0,False
+198,Conservative Baseline,73.0,151.0,78.0,False
+199,Immediate Action,-35.0,151.0,186.0,True
+199,Staged Learning,151.0,151.0,0.0,False
+199,Delay Without Learning,95.0,151.0,56.0,False
+199,Conservative Baseline,73.0,151.0,78.0,False
+200,Immediate Action,-35.0,73.0,108.0,True
+200,Staged Learning,-14.0,73.0,87.0,True
+200,Delay Without Learning,20.0,73.0,53.0,True
+200,Conservative Baseline,73.0,73.0,0.0,False
+201,Immediate Action,-35.0,151.0,186.0,True
+201,Staged Learning,151.0,151.0,0.0,False
+201,Delay Without Learning,95.0,151.0,56.0,False
+201,Conservative Baseline,58.0,151.0,93.0,True
+202,Immediate Action,-35.0,151.0,186.0,True
+202,Staged Learning,151.0,151.0,0.0,False
+202,Delay Without Learning,20.0,151.0,131.0,True
+202,Conservative Baseline,73.0,151.0,78.0,False
+203,Immediate Action,-35.0,151.0,186.0,True
+203,Staged Learning,151.0,151.0,0.0,False
+203,Delay Without Learning,95.0,151.0,56.0,False
+203,Conservative Baseline,73.0,151.0,78.0,False
+204,Immediate Action,125.0,125.0,0.0,True
+204,Staged Learning,-14.0,125.0,139.0,True
+204,Delay Without Learning,95.0,125.0,30.0,False
+204,Conservative Baseline,73.0,125.0,52.0,False
+205,Immediate Action,125.0,151.0,26.0,True
+205,Staged Learning,151.0,151.0,0.0,False
+205,Delay Without Learning,95.0,151.0,56.0,False
+205,Conservative Baseline,73.0,151.0,78.0,False
+206,Immediate Action,125.0,125.0,0.0,True
+206,Staged Learning,-14.0,125.0,139.0,True
+206,Delay Without Learning,95.0,125.0,30.0,False
+206,Conservative Baseline,73.0,125.0,52.0,False
+207,Immediate Action,125.0,151.0,26.0,True
+207,Staged Learning,151.0,151.0,0.0,False
+207,Delay Without Learning,95.0,151.0,56.0,False
+207,Conservative Baseline,58.0,151.0,93.0,True
+208,Immediate Action,125.0,151.0,26.0,True
+208,Staged Learning,151.0,151.0,0.0,False
+208,Delay Without Learning,95.0,151.0,56.0,False
+208,Conservative Baseline,73.0,151.0,78.0,False
+209,Immediate Action,125.0,151.0,26.0,True
+209,Staged Learning,151.0,151.0,0.0,False
+209,Delay Without Learning,20.0,151.0,131.0,True
+209,Conservative Baseline,73.0,151.0,78.0,False
+210,Immediate Action,-35.0,95.0,130.0,True
+210,Staged Learning,-14.0,95.0,109.0,True
+210,Delay Without Learning,95.0,95.0,0.0,False
+210,Conservative Baseline,58.0,95.0,37.0,True
+211,Immediate Action,125.0,125.0,0.0,True
+211,Staged Learning,-14.0,125.0,139.0,True
+211,Delay Without Learning,95.0,125.0,30.0,False
+211,Conservative Baseline,73.0,125.0,52.0,False
+212,Immediate Action,-35.0,151.0,186.0,True
+212,Staged Learning,151.0,151.0,0.0,False
+212,Delay Without Learning,20.0,151.0,131.0,True
+212,Conservative Baseline,73.0,151.0,78.0,False
+213,Immediate Action,125.0,151.0,26.0,True
+213,Staged Learning,151.0,151.0,0.0,False
+213,Delay Without Learning,95.0,151.0,56.0,False
+213,Conservative Baseline,73.0,151.0,78.0,False
+214,Immediate Action,125.0,125.0,0.0,True
+214,Staged Learning,-14.0,125.0,139.0,True
+214,Delay Without Learning,95.0,125.0,30.0,False
+214,Conservative Baseline,73.0,125.0,52.0,False
+215,Immediate Action,-35.0,73.0,108.0,True
+215,Staged Learning,-14.0,73.0,87.0,True
+215,Delay Without Learning,20.0,73.0,53.0,True
+215,Conservative Baseline,73.0,73.0,0.0,False
+216,Immediate Action,-35.0,73.0,108.0,True
+216,Staged Learning,-14.0,73.0,87.0,True
+216,Delay Without Learning,20.0,73.0,53.0,True
+216,Conservative Baseline,73.0,73.0,0.0,False
+217,Immediate Action,125.0,125.0,0.0,True
+217,Staged Learning,-14.0,125.0,139.0,True
+217,Delay Without Learning,95.0,125.0,30.0,False
+217,Conservative Baseline,73.0,125.0,52.0,False
+218,Immediate Action,-35.0,151.0,186.0,True
+218,Staged Learning,151.0,151.0,0.0,False
+218,Delay Without Learning,20.0,151.0,131.0,True
+218,Conservative Baseline,73.0,151.0,78.0,False
+219,Immediate Action,125.0,151.0,26.0,True
+219,Staged Learning,151.0,151.0,0.0,False
+219,Delay Without Learning,20.0,151.0,131.0,True
+219,Conservative Baseline,73.0,151.0,78.0,False
+220,Immediate Action,125.0,125.0,0.0,True
+220,Staged Learning,-14.0,125.0,139.0,True
+220,Delay Without Learning,95.0,125.0,30.0,False
+220,Conservative Baseline,73.0,125.0,52.0,False
+221,Immediate Action,-35.0,151.0,186.0,True
+221,Staged Learning,151.0,151.0,0.0,False
+221,Delay Without Learning,95.0,151.0,56.0,False
+221,Conservative Baseline,73.0,151.0,78.0,False
+222,Immediate Action,125.0,151.0,26.0,True
+222,Staged Learning,151.0,151.0,0.0,False
+222,Delay Without Learning,95.0,151.0,56.0,False
+222,Conservative Baseline,73.0,151.0,78.0,False
+223,Immediate Action,125.0,125.0,0.0,True
+223,Staged Learning,-14.0,125.0,139.0,True
+223,Delay Without Learning,95.0,125.0,30.0,False
+223,Conservative Baseline,73.0,125.0,52.0,False
+224,Immediate Action,-35.0,95.0,130.0,True
+224,Staged Learning,-14.0,95.0,109.0,True
+224,Delay Without Learning,95.0,95.0,0.0,False
+224,Conservative Baseline,73.0,95.0,22.0,False
+225,Immediate Action,125.0,151.0,26.0,True
+225,Staged Learning,151.0,151.0,0.0,False
+225,Delay Without Learning,20.0,151.0,131.0,True
+225,Conservative Baseline,73.0,151.0,78.0,False
+226,Immediate Action,-35.0,151.0,186.0,True
+226,Staged Learning,151.0,151.0,0.0,False
+226,Delay Without Learning,20.0,151.0,131.0,True
+226,Conservative Baseline,73.0,151.0,78.0,False
+227,Immediate Action,125.0,125.0,0.0,True
+227,Staged Learning,-14.0,125.0,139.0,True
+227,Delay Without Learning,95.0,125.0,30.0,False
+227,Conservative Baseline,73.0,125.0,52.0,False
+228,Immediate Action,-35.0,151.0,186.0,True
+228,Staged Learning,151.0,151.0,0.0,False
+228,Delay Without Learning,20.0,151.0,131.0,True
+228,Conservative Baseline,73.0,151.0,78.0,False
+229,Immediate Action,125.0,125.0,0.0,True
+229,Staged Learning,-14.0,125.0,139.0,True
+229,Delay Without Learning,20.0,125.0,105.0,True
+229,Conservative Baseline,58.0,125.0,67.0,True
+230,Immediate Action,-35.0,151.0,186.0,True
+230,Staged Learning,151.0,151.0,0.0,False
+230,Delay Without Learning,95.0,151.0,56.0,False
+230,Conservative Baseline,73.0,151.0,78.0,False
+231,Immediate Action,125.0,151.0,26.0,True
+231,Staged Learning,151.0,151.0,0.0,False
+231,Delay Without Learning,20.0,151.0,131.0,True
+231,Conservative Baseline,73.0,151.0,78.0,False
+232,Immediate Action,125.0,125.0,0.0,True
+232,Staged Learning,-14.0,125.0,139.0,True
+232,Delay Without Learning,95.0,125.0,30.0,False
+232,Conservative Baseline,73.0,125.0,52.0,False
+233,Immediate Action,-35.0,151.0,186.0,True
+233,Staged Learning,151.0,151.0,0.0,False
+233,Delay Without Learning,20.0,151.0,131.0,True
+233,Conservative Baseline,58.0,151.0,93.0,True
+234,Immediate Action,-35.0,151.0,186.0,True
+234,Staged Learning,151.0,151.0,0.0,False
+234,Delay Without Learning,95.0,151.0,56.0,False
+234,Conservative Baseline,73.0,151.0,78.0,False
+235,Immediate Action,125.0,151.0,26.0,True
+235,Staged Learning,151.0,151.0,0.0,False
+235,Delay Without Learning,95.0,151.0,56.0,False
+235,Conservative Baseline,73.0,151.0,78.0,False
+236,Immediate Action,125.0,151.0,26.0,True
+236,Staged Learning,151.0,151.0,0.0,False
+236,Delay Without Learning,95.0,151.0,56.0,False
+236,Conservative Baseline,58.0,151.0,93.0,True
+237,Immediate Action,-35.0,151.0,186.0,True
+237,Staged Learning,151.0,151.0,0.0,False
+237,Delay Without Learning,95.0,151.0,56.0,False
+237,Conservative Baseline,73.0,151.0,78.0,False
+238,Immediate Action,125.0,125.0,0.0,True
+238,Staged Learning,-14.0,125.0,139.0,True
+238,Delay Without Learning,20.0,125.0,105.0,True
+238,Conservative Baseline,73.0,125.0,52.0,False
+239,Immediate Action,-35.0,151.0,186.0,True
+239,Staged Learning,151.0,151.0,0.0,False
+239,Delay Without Learning,95.0,151.0,56.0,False
+239,Conservative Baseline,73.0,151.0,78.0,False
+240,Immediate Action,-35.0,95.0,130.0,True
+240,Staged Learning,-14.0,95.0,109.0,True
+240,Delay Without Learning,95.0,95.0,0.0,False
+240,Conservative Baseline,73.0,95.0,22.0,False
+241,Immediate Action,125.0,151.0,26.0,True
+241,Staged Learning,151.0,151.0,0.0,False
+241,Delay Without Learning,20.0,151.0,131.0,True
+241,Conservative Baseline,73.0,151.0,78.0,False
+242,Immediate Action,-35.0,95.0,130.0,True
+242,Staged Learning,-14.0,95.0,109.0,True
+242,Delay Without Learning,95.0,95.0,0.0,False
+242,Conservative Baseline,73.0,95.0,22.0,False
+243,Immediate Action,125.0,151.0,26.0,True
+243,Staged Learning,151.0,151.0,0.0,False
+243,Delay Without Learning,95.0,151.0,56.0,False
+243,Conservative Baseline,73.0,151.0,78.0,False
+244,Immediate Action,-35.0,73.0,108.0,True
+244,Staged Learning,-14.0,73.0,87.0,True
+244,Delay Without Learning,20.0,73.0,53.0,True
+244,Conservative Baseline,73.0,73.0,0.0,False
+245,Immediate Action,125.0,151.0,26.0,True
+245,Staged Learning,151.0,151.0,0.0,False
+245,Delay Without Learning,95.0,151.0,56.0,False
+245,Conservative Baseline,73.0,151.0,78.0,False
+246,Immediate Action,-35.0,73.0,108.0,True
+246,Staged Learning,-14.0,73.0,87.0,True
+246,Delay Without Learning,20.0,73.0,53.0,True
+246,Conservative Baseline,73.0,73.0,0.0,False
+247,Immediate Action,125.0,125.0,0.0,True
+247,Staged Learning,-14.0,125.0,139.0,True
+247,Delay Without Learning,95.0,125.0,30.0,False
+247,Conservative Baseline,58.0,125.0,67.0,True
+248,Immediate Action,125.0,125.0,0.0,True
+248,Staged Learning,-14.0,125.0,139.0,True
+248,Delay Without Learning,20.0,125.0,105.0,True
+248,Conservative Baseline,58.0,125.0,67.0,True
+249,Immediate Action,-35.0,151.0,186.0,True
+249,Staged Learning,151.0,151.0,0.0,False
+249,Delay Without Learning,95.0,151.0,56.0,False
+249,Conservative Baseline,73.0,151.0,78.0,False
+250,Immediate Action,125.0,125.0,0.0,True
+250,Staged Learning,-14.0,125.0,139.0,True
+250,Delay Without Learning,95.0,125.0,30.0,False
+250,Conservative Baseline,73.0,125.0,52.0,False
+251,Immediate Action,125.0,151.0,26.0,True
+251,Staged Learning,151.0,151.0,0.0,False
+251,Delay Without Learning,20.0,151.0,131.0,True
+251,Conservative Baseline,73.0,151.0,78.0,False
+252,Immediate Action,-35.0,151.0,186.0,True
+252,Staged Learning,151.0,151.0,0.0,False
+252,Delay Without Learning,95.0,151.0,56.0,False
+252,Conservative Baseline,73.0,151.0,78.0,False
+253,Immediate Action,125.0,151.0,26.0,True
+253,Staged Learning,151.0,151.0,0.0,False
+253,Delay Without Learning,95.0,151.0,56.0,False
+253,Conservative Baseline,73.0,151.0,78.0,False
+254,Immediate Action,125.0,151.0,26.0,True
+254,Staged Learning,151.0,151.0,0.0,False
+254,Delay Without Learning,95.0,151.0,56.0,False
+254,Conservative Baseline,73.0,151.0,78.0,False
+255,Immediate Action,-35.0,95.0,130.0,True
+255,Staged Learning,-14.0,95.0,109.0,True
+255,Delay Without Learning,95.0,95.0,0.0,False
+255,Conservative Baseline,58.0,95.0,37.0,True
+256,Immediate Action,-35.0,73.0,108.0,True
+256,Staged Learning,-14.0,73.0,87.0,True
+256,Delay Without Learning,20.0,73.0,53.0,True
+256,Conservative Baseline,73.0,73.0,0.0,False
+257,Immediate Action,125.0,151.0,26.0,True
+257,Staged Learning,151.0,151.0,0.0,False
+257,Delay Without Learning,20.0,151.0,131.0,True
+257,Conservative Baseline,73.0,151.0,78.0,False
+258,Immediate Action,125.0,125.0,0.0,True
+258,Staged Learning,-14.0,125.0,139.0,True
+258,Delay Without Learning,95.0,125.0,30.0,False
+258,Conservative Baseline,73.0,125.0,52.0,False
+259,Immediate Action,125.0,151.0,26.0,True
+259,Staged Learning,151.0,151.0,0.0,False
+259,Delay Without Learning,20.0,151.0,131.0,True
+259,Conservative Baseline,73.0,151.0,78.0,False
+260,Immediate Action,-35.0,73.0,108.0,True
+260,Staged Learning,-14.0,73.0,87.0,True
+260,Delay Without Learning,20.0,73.0,53.0,True
+260,Conservative Baseline,73.0,73.0,0.0,False
+261,Immediate Action,-35.0,151.0,186.0,True
+261,Staged Learning,151.0,151.0,0.0,False
+261,Delay Without Learning,20.0,151.0,131.0,True
+261,Conservative Baseline,58.0,151.0,93.0,True
+262,Immediate Action,-35.0,151.0,186.0,True
+262,Staged Learning,151.0,151.0,0.0,False
+262,Delay Without Learning,95.0,151.0,56.0,False
+262,Conservative Baseline,73.0,151.0,78.0,False
+263,Immediate Action,125.0,125.0,0.0,True
+263,Staged Learning,-14.0,125.0,139.0,True
+263,Delay Without Learning,95.0,125.0,30.0,False
+263,Conservative Baseline,73.0,125.0,52.0,False
+264,Immediate Action,125.0,151.0,26.0,True
+264,Staged Learning,151.0,151.0,0.0,False
+264,Delay Without Learning,20.0,151.0,131.0,True
+264,Conservative Baseline,73.0,151.0,78.0,False
+265,Immediate Action,-35.0,95.0,130.0,True
+265,Staged Learning,-14.0,95.0,109.0,True
+265,Delay Without Learning,95.0,95.0,0.0,False
+265,Conservative Baseline,58.0,95.0,37.0,True
+266,Immediate Action,-35.0,73.0,108.0,True
+266,Staged Learning,-14.0,73.0,87.0,True
+266,Delay Without Learning,20.0,73.0,53.0,True
+266,Conservative Baseline,73.0,73.0,0.0,False
+267,Immediate Action,-35.0,95.0,130.0,True
+267,Staged Learning,-14.0,95.0,109.0,True
+267,Delay Without Learning,95.0,95.0,0.0,False
+267,Conservative Baseline,73.0,95.0,22.0,False
+268,Immediate Action,-35.0,151.0,186.0,True
+268,Staged Learning,151.0,151.0,0.0,False
+268,Delay Without Learning,20.0,151.0,131.0,True
+268,Conservative Baseline,73.0,151.0,78.0,False
+269,Immediate Action,-35.0,73.0,108.0,True
+269,Staged Learning,-14.0,73.0,87.0,True
+269,Delay Without Learning,20.0,73.0,53.0,True
+269,Conservative Baseline,73.0,73.0,0.0,False
+270,Immediate Action,125.0,151.0,26.0,True
+270,Staged Learning,151.0,151.0,0.0,False
+270,Delay Without Learning,20.0,151.0,131.0,True
+270,Conservative Baseline,73.0,151.0,78.0,False
+271,Immediate Action,-35.0,151.0,186.0,True
+271,Staged Learning,151.0,151.0,0.0,False
+271,Delay Without Learning,95.0,151.0,56.0,False
+271,Conservative Baseline,73.0,151.0,78.0,False
+272,Immediate Action,125.0,151.0,26.0,True
+272,Staged Learning,151.0,151.0,0.0,False
+272,Delay Without Learning,95.0,151.0,56.0,False
+272,Conservative Baseline,73.0,151.0,78.0,False
+273,Immediate Action,-35.0,151.0,186.0,True
+273,Staged Learning,151.0,151.0,0.0,False
+273,Delay Without Learning,95.0,151.0,56.0,False
+273,Conservative Baseline,73.0,151.0,78.0,False
+274,Immediate Action,-35.0,73.0,108.0,True
+274,Staged Learning,-14.0,73.0,87.0,True
+274,Delay Without Learning,20.0,73.0,53.0,True
+274,Conservative Baseline,73.0,73.0,0.0,False
+275,Immediate Action,125.0,125.0,0.0,True
+275,Staged Learning,-14.0,125.0,139.0,True
+275,Delay Without Learning,95.0,125.0,30.0,False
+275,Conservative Baseline,73.0,125.0,52.0,False
+276,Immediate Action,125.0,125.0,0.0,True
+276,Staged Learning,-14.0,125.0,139.0,True
+276,Delay Without Learning,95.0,125.0,30.0,False
+276,Conservative Baseline,73.0,125.0,52.0,False
+277,Immediate Action,125.0,125.0,0.0,True
+277,Staged Learning,-14.0,125.0,139.0,True
+277,Delay Without Learning,95.0,125.0,30.0,False
+277,Conservative Baseline,73.0,125.0,52.0,False
+278,Immediate Action,125.0,151.0,26.0,True
+278,Staged Learning,151.0,151.0,0.0,False
+278,Delay Without Learning,95.0,151.0,56.0,False
+278,Conservative Baseline,73.0,151.0,78.0,False
+279,Immediate Action,125.0,151.0,26.0,True
+279,Staged Learning,151.0,151.0,0.0,False
+279,Delay Without Learning,20.0,151.0,131.0,True
+279,Conservative Baseline,73.0,151.0,78.0,False
+280,Immediate Action,-35.0,95.0,130.0,True
+280,Staged Learning,-14.0,95.0,109.0,True
+280,Delay Without Learning,95.0,95.0,0.0,False
+280,Conservative Baseline,58.0,95.0,37.0,True
+281,Immediate Action,-35.0,95.0,130.0,True
+281,Staged Learning,-14.0,95.0,109.0,True
+281,Delay Without Learning,95.0,95.0,0.0,False
+281,Conservative Baseline,58.0,95.0,37.0,True
+282,Immediate Action,125.0,125.0,0.0,True
+282,Staged Learning,-14.0,125.0,139.0,True
+282,Delay Without Learning,95.0,125.0,30.0,False
+282,Conservative Baseline,73.0,125.0,52.0,False
+283,Immediate Action,-35.0,151.0,186.0,True
+283,Staged Learning,151.0,151.0,0.0,False
+283,Delay Without Learning,20.0,151.0,131.0,True
+283,Conservative Baseline,73.0,151.0,78.0,False
+284,Immediate Action,125.0,125.0,0.0,True
+284,Staged Learning,-14.0,125.0,139.0,True
+284,Delay Without Learning,95.0,125.0,30.0,False
+284,Conservative Baseline,73.0,125.0,52.0,False
+285,Immediate Action,125.0,151.0,26.0,True
+285,Staged Learning,151.0,151.0,0.0,False
+285,Delay Without Learning,95.0,151.0,56.0,False
+285,Conservative Baseline,73.0,151.0,78.0,False
+286,Immediate Action,-35.0,95.0,130.0,True
+286,Staged Learning,-14.0,95.0,109.0,True
+286,Delay Without Learning,95.0,95.0,0.0,False
+286,Conservative Baseline,73.0,95.0,22.0,False
+287,Immediate Action,-35.0,73.0,108.0,True
+287,Staged Learning,-14.0,73.0,87.0,True
+287,Delay Without Learning,20.0,73.0,53.0,True
+287,Conservative Baseline,73.0,73.0,0.0,False
+288,Immediate Action,125.0,125.0,0.0,True
+288,Staged Learning,-14.0,125.0,139.0,True
+288,Delay Without Learning,95.0,125.0,30.0,False
+288,Conservative Baseline,73.0,125.0,52.0,False
+289,Immediate Action,125.0,151.0,26.0,True
+289,Staged Learning,151.0,151.0,0.0,False
+289,Delay Without Learning,95.0,151.0,56.0,False
+289,Conservative Baseline,73.0,151.0,78.0,False
+290,Immediate Action,125.0,125.0,0.0,True
+290,Staged Learning,-14.0,125.0,139.0,True
+290,Delay Without Learning,95.0,125.0,30.0,False
+290,Conservative Baseline,73.0,125.0,52.0,False
+291,Immediate Action,125.0,151.0,26.0,True
+291,Staged Learning,151.0,151.0,0.0,False
+291,Delay Without Learning,95.0,151.0,56.0,False
+291,Conservative Baseline,73.0,151.0,78.0,False
+292,Immediate Action,-35.0,151.0,186.0,True
+292,Staged Learning,151.0,151.0,0.0,False
+292,Delay Without Learning,95.0,151.0,56.0,False
+292,Conservative Baseline,73.0,151.0,78.0,False
+293,Immediate Action,-35.0,95.0,130.0,True
+293,Staged Learning,-14.0,95.0,109.0,True
+293,Delay Without Learning,95.0,95.0,0.0,False
+293,Conservative Baseline,73.0,95.0,22.0,False
+294,Immediate Action,125.0,151.0,26.0,True
+294,Staged Learning,151.0,151.0,0.0,False
+294,Delay Without Learning,95.0,151.0,56.0,False
+294,Conservative Baseline,73.0,151.0,78.0,False
+295,Immediate Action,-35.0,151.0,186.0,True
+295,Staged Learning,151.0,151.0,0.0,False
+295,Delay Without Learning,95.0,151.0,56.0,False
+295,Conservative Baseline,73.0,151.0,78.0,False
+296,Immediate Action,125.0,125.0,0.0,True
+296,Staged Learning,-14.0,125.0,139.0,True
+296,Delay Without Learning,95.0,125.0,30.0,False
+296,Conservative Baseline,73.0,125.0,52.0,False
+297,Immediate Action,125.0,151.0,26.0,True
+297,Staged Learning,151.0,151.0,0.0,False
+297,Delay Without Learning,95.0,151.0,56.0,False
+297,Conservative Baseline,58.0,151.0,93.0,True
+298,Immediate Action,125.0,151.0,26.0,True
+298,Staged Learning,151.0,151.0,0.0,False
+298,Delay Without Learning,20.0,151.0,131.0,True
+298,Conservative Baseline,73.0,151.0,78.0,False
+299,Immediate Action,125.0,125.0,0.0,True
+299,Staged Learning,-14.0,125.0,139.0,True
+299,Delay Without Learning,95.0,125.0,30.0,False
+299,Conservative Baseline,73.0,125.0,52.0,False
+300,Immediate Action,-35.0,95.0,130.0,True
+300,Staged Learning,-14.0,95.0,109.0,True
+300,Delay Without Learning,95.0,95.0,0.0,False
+300,Conservative Baseline,73.0,95.0,22.0,False
+301,Immediate Action,-35.0,151.0,186.0,True
+301,Staged Learning,151.0,151.0,0.0,False
+301,Delay Without Learning,95.0,151.0,56.0,False
+301,Conservative Baseline,73.0,151.0,78.0,False
+302,Immediate Action,125.0,151.0,26.0,True
+302,Staged Learning,151.0,151.0,0.0,False
+302,Delay Without Learning,95.0,151.0,56.0,False
+302,Conservative Baseline,73.0,151.0,78.0,False
+303,Immediate Action,-35.0,151.0,186.0,True
+303,Staged Learning,151.0,151.0,0.0,False
+303,Delay Without Learning,20.0,151.0,131.0,True
+303,Conservative Baseline,73.0,151.0,78.0,False
+304,Immediate Action,-35.0,151.0,186.0,True
+304,Staged Learning,151.0,151.0,0.0,False
+304,Delay Without Learning,20.0,151.0,131.0,True
+304,Conservative Baseline,73.0,151.0,78.0,False
+305,Immediate Action,125.0,125.0,0.0,True
+305,Staged Learning,-14.0,125.0,139.0,True
+305,Delay Without Learning,20.0,125.0,105.0,True
+305,Conservative Baseline,73.0,125.0,52.0,False
+306,Immediate Action,125.0,151.0,26.0,True
+306,Staged Learning,151.0,151.0,0.0,False
+306,Delay Without Learning,20.0,151.0,131.0,True
+306,Conservative Baseline,73.0,151.0,78.0,False
+307,Immediate Action,125.0,125.0,0.0,True
+307,Staged Learning,-14.0,125.0,139.0,True
+307,Delay Without Learning,95.0,125.0,30.0,False
+307,Conservative Baseline,58.0,125.0,67.0,True
+308,Immediate Action,-35.0,151.0,186.0,True
+308,Staged Learning,151.0,151.0,0.0,False
+308,Delay Without Learning,20.0,151.0,131.0,True
+308,Conservative Baseline,73.0,151.0,78.0,False
+309,Immediate Action,-35.0,151.0,186.0,True
+309,Staged Learning,151.0,151.0,0.0,False
+309,Delay Without Learning,95.0,151.0,56.0,False
+309,Conservative Baseline,73.0,151.0,78.0,False
+310,Immediate Action,-35.0,151.0,186.0,True
+310,Staged Learning,151.0,151.0,0.0,False
+310,Delay Without Learning,95.0,151.0,56.0,False
+310,Conservative Baseline,73.0,151.0,78.0,False
+311,Immediate Action,-35.0,73.0,108.0,True
+311,Staged Learning,-14.0,73.0,87.0,True
+311,Delay Without Learning,20.0,73.0,53.0,True
+311,Conservative Baseline,73.0,73.0,0.0,False
+312,Immediate Action,125.0,151.0,26.0,True
+312,Staged Learning,151.0,151.0,0.0,False
+312,Delay Without Learning,95.0,151.0,56.0,False
+312,Conservative Baseline,73.0,151.0,78.0,False
+313,Immediate Action,125.0,151.0,26.0,True
+313,Staged Learning,151.0,151.0,0.0,False
+313,Delay Without Learning,95.0,151.0,56.0,False
+313,Conservative Baseline,73.0,151.0,78.0,False
+314,Immediate Action,125.0,151.0,26.0,True
+314,Staged Learning,151.0,151.0,0.0,False
+314,Delay Without Learning,20.0,151.0,131.0,True
+314,Conservative Baseline,73.0,151.0,78.0,False
+315,Immediate Action,-35.0,151.0,186.0,True
+315,Staged Learning,151.0,151.0,0.0,False
+315,Delay Without Learning,95.0,151.0,56.0,False
+315,Conservative Baseline,73.0,151.0,78.0,False
+316,Immediate Action,-35.0,151.0,186.0,True
+316,Staged Learning,151.0,151.0,0.0,False
+316,Delay Without Learning,95.0,151.0,56.0,False
+316,Conservative Baseline,73.0,151.0,78.0,False
+317,Immediate Action,125.0,151.0,26.0,True
+317,Staged Learning,151.0,151.0,0.0,False
+317,Delay Without Learning,20.0,151.0,131.0,True
+317,Conservative Baseline,73.0,151.0,78.0,False
+318,Immediate Action,-35.0,151.0,186.0,True
+318,Staged Learning,151.0,151.0,0.0,False
+318,Delay Without Learning,20.0,151.0,131.0,True
+318,Conservative Baseline,73.0,151.0,78.0,False
+319,Immediate Action,125.0,151.0,26.0,True
+319,Staged Learning,151.0,151.0,0.0,False
+319,Delay Without Learning,95.0,151.0,56.0,False
+319,Conservative Baseline,73.0,151.0,78.0,False
+320,Immediate Action,-35.0,151.0,186.0,True
+320,Staged Learning,151.0,151.0,0.0,False
+320,Delay Without Learning,95.0,151.0,56.0,False
+320,Conservative Baseline,73.0,151.0,78.0,False
+321,Immediate Action,-35.0,95.0,130.0,True
+321,Staged Learning,-14.0,95.0,109.0,True
+321,Delay Without Learning,95.0,95.0,0.0,False
+321,Conservative Baseline,73.0,95.0,22.0,False
+322,Immediate Action,-35.0,151.0,186.0,True
+322,Staged Learning,151.0,151.0,0.0,False
+322,Delay Without Learning,95.0,151.0,56.0,False
+322,Conservative Baseline,73.0,151.0,78.0,False
+323,Immediate Action,-35.0,73.0,108.0,True
+323,Staged Learning,-14.0,73.0,87.0,True
+323,Delay Without Learning,20.0,73.0,53.0,True
+323,Conservative Baseline,73.0,73.0,0.0,False
+324,Immediate Action,-35.0,95.0,130.0,True
+324,Staged Learning,-14.0,95.0,109.0,True
+324,Delay Without Learning,95.0,95.0,0.0,False
+324,Conservative Baseline,73.0,95.0,22.0,False
+325,Immediate Action,125.0,125.0,0.0,True
+325,Staged Learning,-14.0,125.0,139.0,True
+325,Delay Without Learning,20.0,125.0,105.0,True
+325,Conservative Baseline,73.0,125.0,52.0,False
+326,Immediate Action,-35.0,95.0,130.0,True
+326,Staged Learning,-14.0,95.0,109.0,True
+326,Delay Without Learning,95.0,95.0,0.0,False
+326,Conservative Baseline,73.0,95.0,22.0,False
+327,Immediate Action,125.0,125.0,0.0,True
+327,Staged Learning,-14.0,125.0,139.0,True
+327,Delay Without Learning,20.0,125.0,105.0,True
+327,Conservative Baseline,73.0,125.0,52.0,False
+328,Immediate Action,-35.0,151.0,186.0,True
+328,Staged Learning,151.0,151.0,0.0,False
+328,Delay Without Learning,20.0,151.0,131.0,True
+328,Conservative Baseline,73.0,151.0,78.0,False
+329,Immediate Action,-35.0,58.0,93.0,True
+329,Staged Learning,-14.0,58.0,72.0,True
+329,Delay Without Learning,20.0,58.0,38.0,True
+329,Conservative Baseline,58.0,58.0,0.0,True
+330,Immediate Action,-35.0,151.0,186.0,True
+330,Staged Learning,151.0,151.0,0.0,False
+330,Delay Without Learning,95.0,151.0,56.0,False
+330,Conservative Baseline,58.0,151.0,93.0,True
+331,Immediate Action,-35.0,151.0,186.0,True
+331,Staged Learning,151.0,151.0,0.0,False
+331,Delay Without Learning,20.0,151.0,131.0,True
+331,Conservative Baseline,73.0,151.0,78.0,False
+332,Immediate Action,125.0,151.0,26.0,True
+332,Staged Learning,151.0,151.0,0.0,False
+332,Delay Without Learning,95.0,151.0,56.0,False
+332,Conservative Baseline,73.0,151.0,78.0,False
+333,Immediate Action,-35.0,151.0,186.0,True
+333,Staged Learning,151.0,151.0,0.0,False
+333,Delay Without Learning,95.0,151.0,56.0,False
+333,Conservative Baseline,73.0,151.0,78.0,False
+334,Immediate Action,125.0,125.0,0.0,True
+334,Staged Learning,-14.0,125.0,139.0,True
+334,Delay Without Learning,20.0,125.0,105.0,True
+334,Conservative Baseline,73.0,125.0,52.0,False
+335,Immediate Action,-35.0,151.0,186.0,True
+335,Staged Learning,151.0,151.0,0.0,False
+335,Delay Without Learning,95.0,151.0,56.0,False
+335,Conservative Baseline,73.0,151.0,78.0,False
+336,Immediate Action,-35.0,73.0,108.0,True
+336,Staged Learning,-14.0,73.0,87.0,True
+336,Delay Without Learning,20.0,73.0,53.0,True
+336,Conservative Baseline,73.0,73.0,0.0,False
+337,Immediate Action,125.0,151.0,26.0,True
+337,Staged Learning,151.0,151.0,0.0,False
+337,Delay Without Learning,95.0,151.0,56.0,False
+337,Conservative Baseline,73.0,151.0,78.0,False
+338,Immediate Action,-35.0,151.0,186.0,True
+338,Staged Learning,151.0,151.0,0.0,False
+338,Delay Without Learning,95.0,151.0,56.0,False
+338,Conservative Baseline,73.0,151.0,78.0,False
+339,Immediate Action,125.0,151.0,26.0,True
+339,Staged Learning,151.0,151.0,0.0,False
+339,Delay Without Learning,95.0,151.0,56.0,False
+339,Conservative Baseline,73.0,151.0,78.0,False
+340,Immediate Action,125.0,125.0,0.0,True
+340,Staged Learning,-14.0,125.0,139.0,True
+340,Delay Without Learning,95.0,125.0,30.0,False
+340,Conservative Baseline,73.0,125.0,52.0,False
+341,Immediate Action,-35.0,151.0,186.0,True
+341,Staged Learning,151.0,151.0,0.0,False
+341,Delay Without Learning,95.0,151.0,56.0,False
+341,Conservative Baseline,73.0,151.0,78.0,False
+342,Immediate Action,125.0,151.0,26.0,True
+342,Staged Learning,151.0,151.0,0.0,False
+342,Delay Without Learning,95.0,151.0,56.0,False
+342,Conservative Baseline,73.0,151.0,78.0,False
+343,Immediate Action,125.0,151.0,26.0,True
+343,Staged Learning,151.0,151.0,0.0,False
+343,Delay Without Learning,95.0,151.0,56.0,False
+343,Conservative Baseline,73.0,151.0,78.0,False
+344,Immediate Action,125.0,151.0,26.0,True
+344,Staged Learning,151.0,151.0,0.0,False
+344,Delay Without Learning,20.0,151.0,131.0,True
+344,Conservative Baseline,58.0,151.0,93.0,True
+345,Immediate Action,125.0,125.0,0.0,True
+345,Staged Learning,-14.0,125.0,139.0,True
+345,Delay Without Learning,95.0,125.0,30.0,False
+345,Conservative Baseline,73.0,125.0,52.0,False
+346,Immediate Action,-35.0,151.0,186.0,True
+346,Staged Learning,151.0,151.0,0.0,False
+346,Delay Without Learning,95.0,151.0,56.0,False
+346,Conservative Baseline,73.0,151.0,78.0,False
+347,Immediate Action,-35.0,151.0,186.0,True
+347,Staged Learning,151.0,151.0,0.0,False
+347,Delay Without Learning,95.0,151.0,56.0,False
+347,Conservative Baseline,73.0,151.0,78.0,False
+348,Immediate Action,125.0,151.0,26.0,True
+348,Staged Learning,151.0,151.0,0.0,False
+348,Delay Without Learning,20.0,151.0,131.0,True
+348,Conservative Baseline,73.0,151.0,78.0,False
+349,Immediate Action,-35.0,151.0,186.0,True
+349,Staged Learning,151.0,151.0,0.0,False
+349,Delay Without Learning,20.0,151.0,131.0,True
+349,Conservative Baseline,73.0,151.0,78.0,False
+350,Immediate Action,125.0,125.0,0.0,True
+350,Staged Learning,-14.0,125.0,139.0,True
+350,Delay Without Learning,20.0,125.0,105.0,True
+350,Conservative Baseline,73.0,125.0,52.0,False
+351,Immediate Action,-35.0,151.0,186.0,True
+351,Staged Learning,151.0,151.0,0.0,False
+351,Delay Without Learning,95.0,151.0,56.0,False
+351,Conservative Baseline,73.0,151.0,78.0,False
+352,Immediate Action,125.0,151.0,26.0,True
+352,Staged Learning,151.0,151.0,0.0,False
+352,Delay Without Learning,20.0,151.0,131.0,True
+352,Conservative Baseline,73.0,151.0,78.0,False
+353,Immediate Action,-35.0,151.0,186.0,True
+353,Staged Learning,151.0,151.0,0.0,False
+353,Delay Without Learning,95.0,151.0,56.0,False
+353,Conservative Baseline,73.0,151.0,78.0,False
+354,Immediate Action,125.0,125.0,0.0,True
+354,Staged Learning,-14.0,125.0,139.0,True
+354,Delay Without Learning,95.0,125.0,30.0,False
+354,Conservative Baseline,73.0,125.0,52.0,False
+355,Immediate Action,-35.0,151.0,186.0,True
+355,Staged Learning,151.0,151.0,0.0,False
+355,Delay Without Learning,95.0,151.0,56.0,False
+355,Conservative Baseline,73.0,151.0,78.0,False
+356,Immediate Action,125.0,151.0,26.0,True
+356,Staged Learning,151.0,151.0,0.0,False
+356,Delay Without Learning,20.0,151.0,131.0,True
+356,Conservative Baseline,73.0,151.0,78.0,False
+357,Immediate Action,-35.0,151.0,186.0,True
+357,Staged Learning,151.0,151.0,0.0,False
+357,Delay Without Learning,95.0,151.0,56.0,False
+357,Conservative Baseline,73.0,151.0,78.0,False
+358,Immediate Action,125.0,125.0,0.0,True
+358,Staged Learning,-14.0,125.0,139.0,True
+358,Delay Without Learning,20.0,125.0,105.0,True
+358,Conservative Baseline,73.0,125.0,52.0,False
+359,Immediate Action,125.0,125.0,0.0,True
+359,Staged Learning,-14.0,125.0,139.0,True
+359,Delay Without Learning,95.0,125.0,30.0,False
+359,Conservative Baseline,73.0,125.0,52.0,False
+360,Immediate Action,125.0,151.0,26.0,True
+360,Staged Learning,151.0,151.0,0.0,False
+360,Delay Without Learning,95.0,151.0,56.0,False
+360,Conservative Baseline,73.0,151.0,78.0,False
+361,Immediate Action,-35.0,151.0,186.0,True
+361,Staged Learning,151.0,151.0,0.0,False
+361,Delay Without Learning,95.0,151.0,56.0,False
+361,Conservative Baseline,73.0,151.0,78.0,False
+362,Immediate Action,125.0,151.0,26.0,True
+362,Staged Learning,151.0,151.0,0.0,False
+362,Delay Without Learning,20.0,151.0,131.0,True
+362,Conservative Baseline,58.0,151.0,93.0,True
+363,Immediate Action,-35.0,95.0,130.0,True
+363,Staged Learning,-14.0,95.0,109.0,True
+363,Delay Without Learning,95.0,95.0,0.0,False
+363,Conservative Baseline,73.0,95.0,22.0,False
+364,Immediate Action,125.0,125.0,0.0,True
+364,Staged Learning,-14.0,125.0,139.0,True
+364,Delay Without Learning,95.0,125.0,30.0,False
+364,Conservative Baseline,73.0,125.0,52.0,False
+365,Immediate Action,125.0,151.0,26.0,True
+365,Staged Learning,151.0,151.0,0.0,False
+365,Delay Without Learning,20.0,151.0,131.0,True
+365,Conservative Baseline,73.0,151.0,78.0,False
+366,Immediate Action,125.0,125.0,0.0,True
+366,Staged Learning,-14.0,125.0,139.0,True
+366,Delay Without Learning,95.0,125.0,30.0,False
+366,Conservative Baseline,58.0,125.0,67.0,True
+367,Immediate Action,125.0,151.0,26.0,True
+367,Staged Learning,151.0,151.0,0.0,False
+367,Delay Without Learning,20.0,151.0,131.0,True
+367,Conservative Baseline,73.0,151.0,78.0,False
+368,Immediate Action,-35.0,151.0,186.0,True
+368,Staged Learning,151.0,151.0,0.0,False
+368,Delay Without Learning,20.0,151.0,131.0,True
+368,Conservative Baseline,73.0,151.0,78.0,False
+369,Immediate Action,125.0,151.0,26.0,True
+369,Staged Learning,151.0,151.0,0.0,False
+369,Delay Without Learning,95.0,151.0,56.0,False
+369,Conservative Baseline,73.0,151.0,78.0,False
+370,Immediate Action,-35.0,95.0,130.0,True
+370,Staged Learning,-14.0,95.0,109.0,True
+370,Delay Without Learning,95.0,95.0,0.0,False
+370,Conservative Baseline,73.0,95.0,22.0,False
+371,Immediate Action,125.0,125.0,0.0,True
+371,Staged Learning,-14.0,125.0,139.0,True
+371,Delay Without Learning,95.0,125.0,30.0,False
+371,Conservative Baseline,73.0,125.0,52.0,False
+372,Immediate Action,-35.0,151.0,186.0,True
+372,Staged Learning,151.0,151.0,0.0,False
+372,Delay Without Learning,95.0,151.0,56.0,False
+372,Conservative Baseline,73.0,151.0,78.0,False
+373,Immediate Action,-35.0,151.0,186.0,True
+373,Staged Learning,151.0,151.0,0.0,False
+373,Delay Without Learning,95.0,151.0,56.0,False
+373,Conservative Baseline,58.0,151.0,93.0,True
+374,Immediate Action,-35.0,95.0,130.0,True
+374,Staged Learning,-14.0,95.0,109.0,True
+374,Delay Without Learning,95.0,95.0,0.0,False
+374,Conservative Baseline,73.0,95.0,22.0,False
+375,Immediate Action,125.0,151.0,26.0,True
+375,Staged Learning,151.0,151.0,0.0,False
+375,Delay Without Learning,95.0,151.0,56.0,False
+375,Conservative Baseline,73.0,151.0,78.0,False
+376,Immediate Action,125.0,151.0,26.0,True
+376,Staged Learning,151.0,151.0,0.0,False
+376,Delay Without Learning,95.0,151.0,56.0,False
+376,Conservative Baseline,73.0,151.0,78.0,False
+377,Immediate Action,-35.0,95.0,130.0,True
+377,Staged Learning,-14.0,95.0,109.0,True
+377,Delay Without Learning,95.0,95.0,0.0,False
+377,Conservative Baseline,58.0,95.0,37.0,True
+378,Immediate Action,125.0,125.0,0.0,True
+378,Staged Learning,-14.0,125.0,139.0,True
+378,Delay Without Learning,20.0,125.0,105.0,True
+378,Conservative Baseline,73.0,125.0,52.0,False
+379,Immediate Action,125.0,151.0,26.0,True
+379,Staged Learning,151.0,151.0,0.0,False
+379,Delay Without Learning,95.0,151.0,56.0,False
+379,Conservative Baseline,73.0,151.0,78.0,False
+380,Immediate Action,-35.0,151.0,186.0,True
+380,Staged Learning,151.0,151.0,0.0,False
+380,Delay Without Learning,20.0,151.0,131.0,True
+380,Conservative Baseline,73.0,151.0,78.0,False
+381,Immediate Action,-35.0,95.0,130.0,True
+381,Staged Learning,-14.0,95.0,109.0,True
+381,Delay Without Learning,95.0,95.0,0.0,False
+381,Conservative Baseline,58.0,95.0,37.0,True
+382,Immediate Action,125.0,151.0,26.0,True
+382,Staged Learning,151.0,151.0,0.0,False
+382,Delay Without Learning,20.0,151.0,131.0,True
+382,Conservative Baseline,73.0,151.0,78.0,False
+383,Immediate Action,125.0,125.0,0.0,True
+383,Staged Learning,-14.0,125.0,139.0,True
+383,Delay Without Learning,20.0,125.0,105.0,True
+383,Conservative Baseline,73.0,125.0,52.0,False
+384,Immediate Action,125.0,151.0,26.0,True
+384,Staged Learning,151.0,151.0,0.0,False
+384,Delay Without Learning,95.0,151.0,56.0,False
+384,Conservative Baseline,58.0,151.0,93.0,True
+385,Immediate Action,125.0,151.0,26.0,True
+385,Staged Learning,151.0,151.0,0.0,False
+385,Delay Without Learning,20.0,151.0,131.0,True
+385,Conservative Baseline,58.0,151.0,93.0,True
+386,Immediate Action,125.0,151.0,26.0,True
+386,Staged Learning,151.0,151.0,0.0,False
+386,Delay Without Learning,95.0,151.0,56.0,False
+386,Conservative Baseline,58.0,151.0,93.0,True
+387,Immediate Action,125.0,125.0,0.0,True
+387,Staged Learning,-14.0,125.0,139.0,True
+387,Delay Without Learning,20.0,125.0,105.0,True
+387,Conservative Baseline,58.0,125.0,67.0,True
+388,Immediate Action,125.0,151.0,26.0,True
+388,Staged Learning,151.0,151.0,0.0,False
+388,Delay Without Learning,95.0,151.0,56.0,False
+388,Conservative Baseline,58.0,151.0,93.0,True
+389,Immediate Action,-35.0,151.0,186.0,True
+389,Staged Learning,151.0,151.0,0.0,False
+389,Delay Without Learning,95.0,151.0,56.0,False
+389,Conservative Baseline,73.0,151.0,78.0,False
+390,Immediate Action,-35.0,151.0,186.0,True
+390,Staged Learning,151.0,151.0,0.0,False
+390,Delay Without Learning,95.0,151.0,56.0,False
+390,Conservative Baseline,73.0,151.0,78.0,False
+391,Immediate Action,-35.0,95.0,130.0,True
+391,Staged Learning,-14.0,95.0,109.0,True
+391,Delay Without Learning,95.0,95.0,0.0,False
+391,Conservative Baseline,58.0,95.0,37.0,True
+392,Immediate Action,-35.0,95.0,130.0,True
+392,Staged Learning,-14.0,95.0,109.0,True
+392,Delay Without Learning,95.0,95.0,0.0,False
+392,Conservative Baseline,73.0,95.0,22.0,False
+393,Immediate Action,125.0,151.0,26.0,True
+393,Staged Learning,151.0,151.0,0.0,False
+393,Delay Without Learning,95.0,151.0,56.0,False
+393,Conservative Baseline,58.0,151.0,93.0,True
+394,Immediate Action,125.0,125.0,0.0,True
+394,Staged Learning,-14.0,125.0,139.0,True
+394,Delay Without Learning,95.0,125.0,30.0,False
+394,Conservative Baseline,73.0,125.0,52.0,False
+395,Immediate Action,125.0,125.0,0.0,True
+395,Staged Learning,-14.0,125.0,139.0,True
+395,Delay Without Learning,20.0,125.0,105.0,True
+395,Conservative Baseline,73.0,125.0,52.0,False
+396,Immediate Action,125.0,151.0,26.0,True
+396,Staged Learning,151.0,151.0,0.0,False
+396,Delay Without Learning,95.0,151.0,56.0,False
+396,Conservative Baseline,73.0,151.0,78.0,False
+397,Immediate Action,125.0,125.0,0.0,True
+397,Staged Learning,-14.0,125.0,139.0,True
+397,Delay Without Learning,20.0,125.0,105.0,True
+397,Conservative Baseline,73.0,125.0,52.0,False
+398,Immediate Action,125.0,151.0,26.0,True
+398,Staged Learning,151.0,151.0,0.0,False
+398,Delay Without Learning,20.0,151.0,131.0,True
+398,Conservative Baseline,73.0,151.0,78.0,False
+399,Immediate Action,-35.0,95.0,130.0,True
+399,Staged Learning,-14.0,95.0,109.0,True
+399,Delay Without Learning,95.0,95.0,0.0,False
+399,Conservative Baseline,58.0,95.0,37.0,True
+400,Immediate Action,125.0,125.0,0.0,True
+400,Staged Learning,-14.0,125.0,139.0,True
+400,Delay Without Learning,20.0,125.0,105.0,True
+400,Conservative Baseline,73.0,125.0,52.0,False
+401,Immediate Action,125.0,151.0,26.0,True
+401,Staged Learning,151.0,151.0,0.0,False
+401,Delay Without Learning,95.0,151.0,56.0,False
+401,Conservative Baseline,73.0,151.0,78.0,False
+402,Immediate Action,125.0,125.0,0.0,True
+402,Staged Learning,-14.0,125.0,139.0,True
+402,Delay Without Learning,95.0,125.0,30.0,False
+402,Conservative Baseline,73.0,125.0,52.0,False
+403,Immediate Action,125.0,151.0,26.0,True
+403,Staged Learning,151.0,151.0,0.0,False
+403,Delay Without Learning,95.0,151.0,56.0,False
+403,Conservative Baseline,73.0,151.0,78.0,False
+404,Immediate Action,-35.0,73.0,108.0,True
+404,Staged Learning,-14.0,73.0,87.0,True
+404,Delay Without Learning,20.0,73.0,53.0,True
+404,Conservative Baseline,73.0,73.0,0.0,False
+405,Immediate Action,-35.0,151.0,186.0,True
+405,Staged Learning,151.0,151.0,0.0,False
+405,Delay Without Learning,95.0,151.0,56.0,False
+405,Conservative Baseline,58.0,151.0,93.0,True
+406,Immediate Action,125.0,125.0,0.0,True
+406,Staged Learning,-14.0,125.0,139.0,True
+406,Delay Without Learning,95.0,125.0,30.0,False
+406,Conservative Baseline,73.0,125.0,52.0,False
+407,Immediate Action,125.0,151.0,26.0,True
+407,Staged Learning,151.0,151.0,0.0,False
+407,Delay Without Learning,20.0,151.0,131.0,True
+407,Conservative Baseline,73.0,151.0,78.0,False
+408,Immediate Action,125.0,125.0,0.0,True
+408,Staged Learning,-14.0,125.0,139.0,True
+408,Delay Without Learning,95.0,125.0,30.0,False
+408,Conservative Baseline,73.0,125.0,52.0,False
+409,Immediate Action,-35.0,151.0,186.0,True
+409,Staged Learning,151.0,151.0,0.0,False
+409,Delay Without Learning,95.0,151.0,56.0,False
+409,Conservative Baseline,73.0,151.0,78.0,False
+410,Immediate Action,125.0,125.0,0.0,True
+410,Staged Learning,-14.0,125.0,139.0,True
+410,Delay Without Learning,20.0,125.0,105.0,True
+410,Conservative Baseline,58.0,125.0,67.0,True
+411,Immediate Action,-35.0,151.0,186.0,True
+411,Staged Learning,151.0,151.0,0.0,False
+411,Delay Without Learning,95.0,151.0,56.0,False
+411,Conservative Baseline,58.0,151.0,93.0,True
+412,Immediate Action,-35.0,151.0,186.0,True
+412,Staged Learning,151.0,151.0,0.0,False
+412,Delay Without Learning,95.0,151.0,56.0,False
+412,Conservative Baseline,73.0,151.0,78.0,False
+413,Immediate Action,-35.0,151.0,186.0,True
+413,Staged Learning,151.0,151.0,0.0,False
+413,Delay Without Learning,95.0,151.0,56.0,False
+413,Conservative Baseline,73.0,151.0,78.0,False
+414,Immediate Action,125.0,151.0,26.0,True
+414,Staged Learning,151.0,151.0,0.0,False
+414,Delay Without Learning,95.0,151.0,56.0,False
+414,Conservative Baseline,73.0,151.0,78.0,False
+415,Immediate Action,125.0,151.0,26.0,True
+415,Staged Learning,151.0,151.0,0.0,False
+415,Delay Without Learning,95.0,151.0,56.0,False
+415,Conservative Baseline,73.0,151.0,78.0,False
+416,Immediate Action,125.0,151.0,26.0,True
+416,Staged Learning,151.0,151.0,0.0,False
+416,Delay Without Learning,95.0,151.0,56.0,False
+416,Conservative Baseline,73.0,151.0,78.0,False
+417,Immediate Action,125.0,151.0,26.0,True
+417,Staged Learning,151.0,151.0,0.0,False
+417,Delay Without Learning,20.0,151.0,131.0,True
+417,Conservative Baseline,73.0,151.0,78.0,False
+418,Immediate Action,125.0,125.0,0.0,True
+418,Staged Learning,-14.0,125.0,139.0,True
+418,Delay Without Learning,95.0,125.0,30.0,False
+418,Conservative Baseline,73.0,125.0,52.0,False
+419,Immediate Action,-35.0,95.0,130.0,True
+419,Staged Learning,-14.0,95.0,109.0,True
+419,Delay Without Learning,95.0,95.0,0.0,False
+419,Conservative Baseline,73.0,95.0,22.0,False
+420,Immediate Action,125.0,151.0,26.0,True
+420,Staged Learning,151.0,151.0,0.0,False
+420,Delay Without Learning,20.0,151.0,131.0,True
+420,Conservative Baseline,73.0,151.0,78.0,False
+421,Immediate Action,125.0,125.0,0.0,True
+421,Staged Learning,-14.0,125.0,139.0,True
+421,Delay Without Learning,95.0,125.0,30.0,False
+421,Conservative Baseline,73.0,125.0,52.0,False
+422,Immediate Action,-35.0,151.0,186.0,True
+422,Staged Learning,151.0,151.0,0.0,False
+422,Delay Without Learning,20.0,151.0,131.0,True
+422,Conservative Baseline,73.0,151.0,78.0,False
+423,Immediate Action,125.0,125.0,0.0,True
+423,Staged Learning,-14.0,125.0,139.0,True
+423,Delay Without Learning,95.0,125.0,30.0,False
+423,Conservative Baseline,73.0,125.0,52.0,False
+424,Immediate Action,-35.0,151.0,186.0,True
+424,Staged Learning,151.0,151.0,0.0,False
+424,Delay Without Learning,95.0,151.0,56.0,False
+424,Conservative Baseline,73.0,151.0,78.0,False
+425,Immediate Action,125.0,151.0,26.0,True
+425,Staged Learning,151.0,151.0,0.0,False
+425,Delay Without Learning,95.0,151.0,56.0,False
+425,Conservative Baseline,73.0,151.0,78.0,False
+426,Immediate Action,125.0,151.0,26.0,True
+426,Staged Learning,151.0,151.0,0.0,False
+426,Delay Without Learning,20.0,151.0,131.0,True
+426,Conservative Baseline,73.0,151.0,78.0,False
+427,Immediate Action,-35.0,151.0,186.0,True
+427,Staged Learning,151.0,151.0,0.0,False
+427,Delay Without Learning,20.0,151.0,131.0,True
+427,Conservative Baseline,58.0,151.0,93.0,True
+428,Immediate Action,125.0,125.0,0.0,True
+428,Staged Learning,-14.0,125.0,139.0,True
+428,Delay Without Learning,20.0,125.0,105.0,True
+428,Conservative Baseline,73.0,125.0,52.0,False
+429,Immediate Action,-35.0,95.0,130.0,True
+429,Staged Learning,-14.0,95.0,109.0,True
+429,Delay Without Learning,95.0,95.0,0.0,False
+429,Conservative Baseline,73.0,95.0,22.0,False
+430,Immediate Action,-35.0,95.0,130.0,True
+430,Staged Learning,-14.0,95.0,109.0,True
+430,Delay Without Learning,95.0,95.0,0.0,False
+430,Conservative Baseline,73.0,95.0,22.0,False
+431,Immediate Action,125.0,151.0,26.0,True
+431,Staged Learning,151.0,151.0,0.0,False
+431,Delay Without Learning,20.0,151.0,131.0,True
+431,Conservative Baseline,73.0,151.0,78.0,False
+432,Immediate Action,125.0,151.0,26.0,True
+432,Staged Learning,151.0,151.0,0.0,False
+432,Delay Without Learning,20.0,151.0,131.0,True
+432,Conservative Baseline,73.0,151.0,78.0,False
+433,Immediate Action,125.0,151.0,26.0,True
+433,Staged Learning,151.0,151.0,0.0,False
+433,Delay Without Learning,20.0,151.0,131.0,True
+433,Conservative Baseline,73.0,151.0,78.0,False
+434,Immediate Action,-35.0,151.0,186.0,True
+434,Staged Learning,151.0,151.0,0.0,False
+434,Delay Without Learning,95.0,151.0,56.0,False
+434,Conservative Baseline,73.0,151.0,78.0,False
+435,Immediate Action,125.0,151.0,26.0,True
+435,Staged Learning,151.0,151.0,0.0,False
+435,Delay Without Learning,95.0,151.0,56.0,False
+435,Conservative Baseline,73.0,151.0,78.0,False
+436,Immediate Action,125.0,125.0,0.0,True
+436,Staged Learning,-14.0,125.0,139.0,True
+436,Delay Without Learning,95.0,125.0,30.0,False
+436,Conservative Baseline,73.0,125.0,52.0,False
+437,Immediate Action,125.0,151.0,26.0,True
+437,Staged Learning,151.0,151.0,0.0,False
+437,Delay Without Learning,20.0,151.0,131.0,True
+437,Conservative Baseline,73.0,151.0,78.0,False
+438,Immediate Action,-35.0,73.0,108.0,True
+438,Staged Learning,-14.0,73.0,87.0,True
+438,Delay Without Learning,20.0,73.0,53.0,True
+438,Conservative Baseline,73.0,73.0,0.0,False
+439,Immediate Action,125.0,125.0,0.0,True
+439,Staged Learning,-14.0,125.0,139.0,True
+439,Delay Without Learning,95.0,125.0,30.0,False
+439,Conservative Baseline,73.0,125.0,52.0,False
+440,Immediate Action,-35.0,73.0,108.0,True
+440,Staged Learning,-14.0,73.0,87.0,True
+440,Delay Without Learning,20.0,73.0,53.0,True
+440,Conservative Baseline,73.0,73.0,0.0,False
+441,Immediate Action,-35.0,95.0,130.0,True
+441,Staged Learning,-14.0,95.0,109.0,True
+441,Delay Without Learning,95.0,95.0,0.0,False
+441,Conservative Baseline,73.0,95.0,22.0,False
+442,Immediate Action,-35.0,73.0,108.0,True
+442,Staged Learning,-14.0,73.0,87.0,True
+442,Delay Without Learning,20.0,73.0,53.0,True
+442,Conservative Baseline,73.0,73.0,0.0,False
+443,Immediate Action,-35.0,95.0,130.0,True
+443,Staged Learning,-14.0,95.0,109.0,True
+443,Delay Without Learning,95.0,95.0,0.0,False
+443,Conservative Baseline,73.0,95.0,22.0,False
+444,Immediate Action,-35.0,151.0,186.0,True
+444,Staged Learning,151.0,151.0,0.0,False
+444,Delay Without Learning,20.0,151.0,131.0,True
+444,Conservative Baseline,73.0,151.0,78.0,False
+445,Immediate Action,-35.0,95.0,130.0,True
+445,Staged Learning,-14.0,95.0,109.0,True
+445,Delay Without Learning,95.0,95.0,0.0,False
+445,Conservative Baseline,73.0,95.0,22.0,False
+446,Immediate Action,-35.0,95.0,130.0,True
+446,Staged Learning,-14.0,95.0,109.0,True
+446,Delay Without Learning,95.0,95.0,0.0,False
+446,Conservative Baseline,73.0,95.0,22.0,False
+447,Immediate Action,-35.0,151.0,186.0,True
+447,Staged Learning,151.0,151.0,0.0,False
+447,Delay Without Learning,95.0,151.0,56.0,False
+447,Conservative Baseline,73.0,151.0,78.0,False
+448,Immediate Action,125.0,125.0,0.0,True
+448,Staged Learning,-14.0,125.0,139.0,True
+448,Delay Without Learning,95.0,125.0,30.0,False
+448,Conservative Baseline,73.0,125.0,52.0,False
+449,Immediate Action,-35.0,95.0,130.0,True
+449,Staged Learning,-14.0,95.0,109.0,True
+449,Delay Without Learning,95.0,95.0,0.0,False
+449,Conservative Baseline,73.0,95.0,22.0,False
+450,Immediate Action,125.0,125.0,0.0,True
+450,Staged Learning,-14.0,125.0,139.0,True
+450,Delay Without Learning,95.0,125.0,30.0,False
+450,Conservative Baseline,73.0,125.0,52.0,False
+451,Immediate Action,-35.0,151.0,186.0,True
+451,Staged Learning,151.0,151.0,0.0,False
+451,Delay Without Learning,95.0,151.0,56.0,False
+451,Conservative Baseline,73.0,151.0,78.0,False
+452,Immediate Action,-35.0,73.0,108.0,True
+452,Staged Learning,-14.0,73.0,87.0,True
+452,Delay Without Learning,20.0,73.0,53.0,True
+452,Conservative Baseline,73.0,73.0,0.0,False
+453,Immediate Action,125.0,125.0,0.0,True
+453,Staged Learning,-14.0,125.0,139.0,True
+453,Delay Without Learning,20.0,125.0,105.0,True
+453,Conservative Baseline,73.0,125.0,52.0,False
+454,Immediate Action,125.0,151.0,26.0,True
+454,Staged Learning,151.0,151.0,0.0,False
+454,Delay Without Learning,20.0,151.0,131.0,True
+454,Conservative Baseline,73.0,151.0,78.0,False
+455,Immediate Action,125.0,125.0,0.0,True
+455,Staged Learning,-14.0,125.0,139.0,True
+455,Delay Without Learning,95.0,125.0,30.0,False
+455,Conservative Baseline,73.0,125.0,52.0,False
+456,Immediate Action,-35.0,151.0,186.0,True
+456,Staged Learning,151.0,151.0,0.0,False
+456,Delay Without Learning,95.0,151.0,56.0,False
+456,Conservative Baseline,73.0,151.0,78.0,False
+457,Immediate Action,-35.0,58.0,93.0,True
+457,Staged Learning,-14.0,58.0,72.0,True
+457,Delay Without Learning,20.0,58.0,38.0,True
+457,Conservative Baseline,58.0,58.0,0.0,True
+458,Immediate Action,125.0,151.0,26.0,True
+458,Staged Learning,151.0,151.0,0.0,False
+458,Delay Without Learning,20.0,151.0,131.0,True
+458,Conservative Baseline,73.0,151.0,78.0,False
+459,Immediate Action,-35.0,151.0,186.0,True
+459,Staged Learning,151.0,151.0,0.0,False
+459,Delay Without Learning,95.0,151.0,56.0,False
+459,Conservative Baseline,73.0,151.0,78.0,False
+460,Immediate Action,125.0,151.0,26.0,True
+460,Staged Learning,151.0,151.0,0.0,False
+460,Delay Without Learning,20.0,151.0,131.0,True
+460,Conservative Baseline,73.0,151.0,78.0,False
+461,Immediate Action,125.0,125.0,0.0,True
+461,Staged Learning,-14.0,125.0,139.0,True
+461,Delay Without Learning,20.0,125.0,105.0,True
+461,Conservative Baseline,73.0,125.0,52.0,False
+462,Immediate Action,125.0,151.0,26.0,True
+462,Staged Learning,151.0,151.0,0.0,False
+462,Delay Without Learning,20.0,151.0,131.0,True
+462,Conservative Baseline,73.0,151.0,78.0,False
+463,Immediate Action,125.0,151.0,26.0,True
+463,Staged Learning,151.0,151.0,0.0,False
+463,Delay Without Learning,20.0,151.0,131.0,True
+463,Conservative Baseline,73.0,151.0,78.0,False
+464,Immediate Action,125.0,125.0,0.0,True
+464,Staged Learning,-14.0,125.0,139.0,True
+464,Delay Without Learning,95.0,125.0,30.0,False
+464,Conservative Baseline,58.0,125.0,67.0,True
+465,Immediate Action,125.0,151.0,26.0,True
+465,Staged Learning,151.0,151.0,0.0,False
+465,Delay Without Learning,20.0,151.0,131.0,True
+465,Conservative Baseline,73.0,151.0,78.0,False
+466,Immediate Action,125.0,151.0,26.0,True
+466,Staged Learning,151.0,151.0,0.0,False
+466,Delay Without Learning,95.0,151.0,56.0,False
+466,Conservative Baseline,58.0,151.0,93.0,True
+467,Immediate Action,125.0,151.0,26.0,True
+467,Staged Learning,151.0,151.0,0.0,False
+467,Delay Without Learning,20.0,151.0,131.0,True
+467,Conservative Baseline,73.0,151.0,78.0,False
+468,Immediate Action,-35.0,151.0,186.0,True
+468,Staged Learning,151.0,151.0,0.0,False
+468,Delay Without Learning,20.0,151.0,131.0,True
+468,Conservative Baseline,58.0,151.0,93.0,True
+469,Immediate Action,-35.0,151.0,186.0,True
+469,Staged Learning,151.0,151.0,0.0,False
+469,Delay Without Learning,95.0,151.0,56.0,False
+469,Conservative Baseline,73.0,151.0,78.0,False
+470,Immediate Action,125.0,151.0,26.0,True
+470,Staged Learning,151.0,151.0,0.0,False
+470,Delay Without Learning,95.0,151.0,56.0,False
+470,Conservative Baseline,73.0,151.0,78.0,False
+471,Immediate Action,125.0,151.0,26.0,True
+471,Staged Learning,151.0,151.0,0.0,False
+471,Delay Without Learning,20.0,151.0,131.0,True
+471,Conservative Baseline,73.0,151.0,78.0,False
+472,Immediate Action,125.0,151.0,26.0,True
+472,Staged Learning,151.0,151.0,0.0,False
+472,Delay Without Learning,20.0,151.0,131.0,True
+472,Conservative Baseline,73.0,151.0,78.0,False
+473,Immediate Action,125.0,151.0,26.0,True
+473,Staged Learning,151.0,151.0,0.0,False
+473,Delay Without Learning,95.0,151.0,56.0,False
+473,Conservative Baseline,73.0,151.0,78.0,False
+474,Immediate Action,125.0,125.0,0.0,True
+474,Staged Learning,-14.0,125.0,139.0,True
+474,Delay Without Learning,95.0,125.0,30.0,False
+474,Conservative Baseline,73.0,125.0,52.0,False
+475,Immediate Action,125.0,151.0,26.0,True
+475,Staged Learning,151.0,151.0,0.0,False
+475,Delay Without Learning,95.0,151.0,56.0,False
+475,Conservative Baseline,73.0,151.0,78.0,False
+476,Immediate Action,-35.0,151.0,186.0,True
+476,Staged Learning,151.0,151.0,0.0,False
+476,Delay Without Learning,20.0,151.0,131.0,True
+476,Conservative Baseline,73.0,151.0,78.0,False
+477,Immediate Action,-35.0,95.0,130.0,True
+477,Staged Learning,-14.0,95.0,109.0,True
+477,Delay Without Learning,95.0,95.0,0.0,False
+477,Conservative Baseline,73.0,95.0,22.0,False
+478,Immediate Action,-35.0,151.0,186.0,True
+478,Staged Learning,151.0,151.0,0.0,False
+478,Delay Without Learning,20.0,151.0,131.0,True
+478,Conservative Baseline,73.0,151.0,78.0,False
+479,Immediate Action,-35.0,95.0,130.0,True
+479,Staged Learning,-14.0,95.0,109.0,True
+479,Delay Without Learning,95.0,95.0,0.0,False
+479,Conservative Baseline,73.0,95.0,22.0,False
+480,Immediate Action,-35.0,58.0,93.0,True
+480,Staged Learning,-14.0,58.0,72.0,True
+480,Delay Without Learning,20.0,58.0,38.0,True
+480,Conservative Baseline,58.0,58.0,0.0,True
+481,Immediate Action,125.0,151.0,26.0,True
+481,Staged Learning,151.0,151.0,0.0,False
+481,Delay Without Learning,95.0,151.0,56.0,False
+481,Conservative Baseline,58.0,151.0,93.0,True
+482,Immediate Action,125.0,151.0,26.0,True
+482,Staged Learning,151.0,151.0,0.0,False
+482,Delay Without Learning,95.0,151.0,56.0,False
+482,Conservative Baseline,73.0,151.0,78.0,False
+483,Immediate Action,125.0,125.0,0.0,True
+483,Staged Learning,-14.0,125.0,139.0,True
+483,Delay Without Learning,95.0,125.0,30.0,False
+483,Conservative Baseline,73.0,125.0,52.0,False
+484,Immediate Action,-35.0,151.0,186.0,True
+484,Staged Learning,151.0,151.0,0.0,False
+484,Delay Without Learning,20.0,151.0,131.0,True
+484,Conservative Baseline,73.0,151.0,78.0,False
+485,Immediate Action,-35.0,151.0,186.0,True
+485,Staged Learning,151.0,151.0,0.0,False
+485,Delay Without Learning,20.0,151.0,131.0,True
+485,Conservative Baseline,73.0,151.0,78.0,False
+486,Immediate Action,-35.0,151.0,186.0,True
+486,Staged Learning,151.0,151.0,0.0,False
+486,Delay Without Learning,95.0,151.0,56.0,False
+486,Conservative Baseline,58.0,151.0,93.0,True
+487,Immediate Action,125.0,125.0,0.0,True
+487,Staged Learning,-14.0,125.0,139.0,True
+487,Delay Without Learning,95.0,125.0,30.0,False
+487,Conservative Baseline,73.0,125.0,52.0,False
+488,Immediate Action,-35.0,73.0,108.0,True
+488,Staged Learning,-14.0,73.0,87.0,True
+488,Delay Without Learning,20.0,73.0,53.0,True
+488,Conservative Baseline,73.0,73.0,0.0,False
+489,Immediate Action,125.0,151.0,26.0,True
+489,Staged Learning,151.0,151.0,0.0,False
+489,Delay Without Learning,95.0,151.0,56.0,False
+489,Conservative Baseline,73.0,151.0,78.0,False
+490,Immediate Action,-35.0,151.0,186.0,True
+490,Staged Learning,151.0,151.0,0.0,False
+490,Delay Without Learning,20.0,151.0,131.0,True
+490,Conservative Baseline,73.0,151.0,78.0,False
+491,Immediate Action,125.0,125.0,0.0,True
+491,Staged Learning,-14.0,125.0,139.0,True
+491,Delay Without Learning,20.0,125.0,105.0,True
+491,Conservative Baseline,73.0,125.0,52.0,False
+492,Immediate Action,125.0,151.0,26.0,True
+492,Staged Learning,151.0,151.0,0.0,False
+492,Delay Without Learning,20.0,151.0,131.0,True
+492,Conservative Baseline,58.0,151.0,93.0,True
+493,Immediate Action,125.0,125.0,0.0,True
+493,Staged Learning,-14.0,125.0,139.0,True
+493,Delay Without Learning,95.0,125.0,30.0,False
+493,Conservative Baseline,73.0,125.0,52.0,False
+494,Immediate Action,125.0,125.0,0.0,True
+494,Staged Learning,-14.0,125.0,139.0,True
+494,Delay Without Learning,95.0,125.0,30.0,False
+494,Conservative Baseline,73.0,125.0,52.0,False
+495,Immediate Action,125.0,151.0,26.0,True
+495,Staged Learning,151.0,151.0,0.0,False
+495,Delay Without Learning,20.0,151.0,131.0,True
+495,Conservative Baseline,73.0,151.0,78.0,False
+496,Immediate Action,-35.0,95.0,130.0,True
+496,Staged Learning,-14.0,95.0,109.0,True
+496,Delay Without Learning,95.0,95.0,0.0,False
+496,Conservative Baseline,73.0,95.0,22.0,False
+497,Immediate Action,125.0,151.0,26.0,True
+497,Staged Learning,151.0,151.0,0.0,False
+497,Delay Without Learning,95.0,151.0,56.0,False
+497,Conservative Baseline,73.0,151.0,78.0,False
+498,Immediate Action,125.0,125.0,0.0,True
+498,Staged Learning,-14.0,125.0,139.0,True
+498,Delay Without Learning,95.0,125.0,30.0,False
+498,Conservative Baseline,73.0,125.0,52.0,False
+499,Immediate Action,125.0,125.0,0.0,True
+499,Staged Learning,-14.0,125.0,139.0,True
+499,Delay Without Learning,95.0,125.0,30.0,False
+499,Conservative Baseline,73.0,125.0,52.0,False
+500,Immediate Action,125.0,125.0,0.0,True
+500,Staged Learning,-14.0,125.0,139.0,True
+500,Delay Without Learning,95.0,125.0,30.0,False
+500,Conservative Baseline,73.0,125.0,52.0,False
+501,Immediate Action,-35.0,95.0,130.0,True
+501,Staged Learning,-14.0,95.0,109.0,True
+501,Delay Without Learning,95.0,95.0,0.0,False
+501,Conservative Baseline,73.0,95.0,22.0,False
+502,Immediate Action,125.0,125.0,0.0,True
+502,Staged Learning,-14.0,125.0,139.0,True
+502,Delay Without Learning,20.0,125.0,105.0,True
+502,Conservative Baseline,73.0,125.0,52.0,False
+503,Immediate Action,125.0,125.0,0.0,True
+503,Staged Learning,-14.0,125.0,139.0,True
+503,Delay Without Learning,95.0,125.0,30.0,False
+503,Conservative Baseline,73.0,125.0,52.0,False
+504,Immediate Action,125.0,151.0,26.0,True
+504,Staged Learning,151.0,151.0,0.0,False
+504,Delay Without Learning,95.0,151.0,56.0,False
+504,Conservative Baseline,73.0,151.0,78.0,False
+505,Immediate Action,125.0,151.0,26.0,True
+505,Staged Learning,151.0,151.0,0.0,False
+505,Delay Without Learning,20.0,151.0,131.0,True
+505,Conservative Baseline,73.0,151.0,78.0,False
+506,Immediate Action,-35.0,73.0,108.0,True
+506,Staged Learning,-14.0,73.0,87.0,True
+506,Delay Without Learning,20.0,73.0,53.0,True
+506,Conservative Baseline,73.0,73.0,0.0,False
+507,Immediate Action,125.0,151.0,26.0,True
+507,Staged Learning,151.0,151.0,0.0,False
+507,Delay Without Learning,20.0,151.0,131.0,True
+507,Conservative Baseline,58.0,151.0,93.0,True
+508,Immediate Action,125.0,151.0,26.0,True
+508,Staged Learning,151.0,151.0,0.0,False
+508,Delay Without Learning,95.0,151.0,56.0,False
+508,Conservative Baseline,73.0,151.0,78.0,False
+509,Immediate Action,125.0,125.0,0.0,True
+509,Staged Learning,-14.0,125.0,139.0,True
+509,Delay Without Learning,95.0,125.0,30.0,False
+509,Conservative Baseline,73.0,125.0,52.0,False
+510,Immediate Action,125.0,151.0,26.0,True
+510,Staged Learning,151.0,151.0,0.0,False
+510,Delay Without Learning,20.0,151.0,131.0,True
+510,Conservative Baseline,73.0,151.0,78.0,False
+511,Immediate Action,125.0,151.0,26.0,True
+511,Staged Learning,151.0,151.0,0.0,False
+511,Delay Without Learning,20.0,151.0,131.0,True
+511,Conservative Baseline,73.0,151.0,78.0,False
+512,Immediate Action,125.0,125.0,0.0,True
+512,Staged Learning,-14.0,125.0,139.0,True
+512,Delay Without Learning,20.0,125.0,105.0,True
+512,Conservative Baseline,73.0,125.0,52.0,False
+513,Immediate Action,-35.0,151.0,186.0,True
+513,Staged Learning,151.0,151.0,0.0,False
+513,Delay Without Learning,20.0,151.0,131.0,True
+513,Conservative Baseline,58.0,151.0,93.0,True
+514,Immediate Action,125.0,125.0,0.0,True
+514,Staged Learning,-14.0,125.0,139.0,True
+514,Delay Without Learning,95.0,125.0,30.0,False
+514,Conservative Baseline,73.0,125.0,52.0,False
+515,Immediate Action,-35.0,73.0,108.0,True
+515,Staged Learning,-14.0,73.0,87.0,True
+515,Delay Without Learning,20.0,73.0,53.0,True
+515,Conservative Baseline,73.0,73.0,0.0,False
+516,Immediate Action,-35.0,151.0,186.0,True
+516,Staged Learning,151.0,151.0,0.0,False
+516,Delay Without Learning,20.0,151.0,131.0,True
+516,Conservative Baseline,73.0,151.0,78.0,False
+517,Immediate Action,125.0,151.0,26.0,True
+517,Staged Learning,151.0,151.0,0.0,False
+517,Delay Without Learning,95.0,151.0,56.0,False
+517,Conservative Baseline,73.0,151.0,78.0,False
+518,Immediate Action,125.0,151.0,26.0,True
+518,Staged Learning,151.0,151.0,0.0,False
+518,Delay Without Learning,95.0,151.0,56.0,False
+518,Conservative Baseline,73.0,151.0,78.0,False
+519,Immediate Action,125.0,151.0,26.0,True
+519,Staged Learning,151.0,151.0,0.0,False
+519,Delay Without Learning,20.0,151.0,131.0,True
+519,Conservative Baseline,73.0,151.0,78.0,False
+520,Immediate Action,125.0,125.0,0.0,True
+520,Staged Learning,-14.0,125.0,139.0,True
+520,Delay Without Learning,95.0,125.0,30.0,False
+520,Conservative Baseline,73.0,125.0,52.0,False
+521,Immediate Action,-35.0,95.0,130.0,True
+521,Staged Learning,-14.0,95.0,109.0,True
+521,Delay Without Learning,95.0,95.0,0.0,False
+521,Conservative Baseline,73.0,95.0,22.0,False
+522,Immediate Action,125.0,125.0,0.0,True
+522,Staged Learning,-14.0,125.0,139.0,True
+522,Delay Without Learning,95.0,125.0,30.0,False
+522,Conservative Baseline,73.0,125.0,52.0,False
+523,Immediate Action,-35.0,95.0,130.0,True
+523,Staged Learning,-14.0,95.0,109.0,True
+523,Delay Without Learning,95.0,95.0,0.0,False
+523,Conservative Baseline,73.0,95.0,22.0,False
+524,Immediate Action,-35.0,151.0,186.0,True
+524,Staged Learning,151.0,151.0,0.0,False
+524,Delay Without Learning,20.0,151.0,131.0,True
+524,Conservative Baseline,73.0,151.0,78.0,False
+525,Immediate Action,-35.0,151.0,186.0,True
+525,Staged Learning,151.0,151.0,0.0,False
+525,Delay Without Learning,20.0,151.0,131.0,True
+525,Conservative Baseline,73.0,151.0,78.0,False
+526,Immediate Action,-35.0,151.0,186.0,True
+526,Staged Learning,151.0,151.0,0.0,False
+526,Delay Without Learning,95.0,151.0,56.0,False
+526,Conservative Baseline,73.0,151.0,78.0,False
+527,Immediate Action,-35.0,95.0,130.0,True
+527,Staged Learning,-14.0,95.0,109.0,True
+527,Delay Without Learning,95.0,95.0,0.0,False
+527,Conservative Baseline,58.0,95.0,37.0,True
+528,Immediate Action,125.0,151.0,26.0,True
+528,Staged Learning,151.0,151.0,0.0,False
+528,Delay Without Learning,95.0,151.0,56.0,False
+528,Conservative Baseline,58.0,151.0,93.0,True
+529,Immediate Action,125.0,151.0,26.0,True
+529,Staged Learning,151.0,151.0,0.0,False
+529,Delay Without Learning,20.0,151.0,131.0,True
+529,Conservative Baseline,73.0,151.0,78.0,False
+530,Immediate Action,125.0,151.0,26.0,True
+530,Staged Learning,151.0,151.0,0.0,False
+530,Delay Without Learning,95.0,151.0,56.0,False
+530,Conservative Baseline,73.0,151.0,78.0,False
+531,Immediate Action,125.0,151.0,26.0,True
+531,Staged Learning,151.0,151.0,0.0,False
+531,Delay Without Learning,95.0,151.0,56.0,False
+531,Conservative Baseline,73.0,151.0,78.0,False
+532,Immediate Action,-35.0,151.0,186.0,True
+532,Staged Learning,151.0,151.0,0.0,False
+532,Delay Without Learning,20.0,151.0,131.0,True
+532,Conservative Baseline,73.0,151.0,78.0,False
+533,Immediate Action,125.0,151.0,26.0,True
+533,Staged Learning,151.0,151.0,0.0,False
+533,Delay Without Learning,20.0,151.0,131.0,True
+533,Conservative Baseline,58.0,151.0,93.0,True
+534,Immediate Action,125.0,151.0,26.0,True
+534,Staged Learning,151.0,151.0,0.0,False
+534,Delay Without Learning,95.0,151.0,56.0,False
+534,Conservative Baseline,73.0,151.0,78.0,False
+535,Immediate Action,-35.0,73.0,108.0,True
+535,Staged Learning,-14.0,73.0,87.0,True
+535,Delay Without Learning,20.0,73.0,53.0,True
+535,Conservative Baseline,73.0,73.0,0.0,False
+536,Immediate Action,-35.0,151.0,186.0,True
+536,Staged Learning,151.0,151.0,0.0,False
+536,Delay Without Learning,95.0,151.0,56.0,False
+536,Conservative Baseline,58.0,151.0,93.0,True
+537,Immediate Action,125.0,125.0,0.0,True
+537,Staged Learning,-14.0,125.0,139.0,True
+537,Delay Without Learning,20.0,125.0,105.0,True
+537,Conservative Baseline,73.0,125.0,52.0,False
+538,Immediate Action,-35.0,95.0,130.0,True
+538,Staged Learning,-14.0,95.0,109.0,True
+538,Delay Without Learning,95.0,95.0,0.0,False
+538,Conservative Baseline,73.0,95.0,22.0,False
+539,Immediate Action,-35.0,151.0,186.0,True
+539,Staged Learning,151.0,151.0,0.0,False
+539,Delay Without Learning,95.0,151.0,56.0,False
+539,Conservative Baseline,73.0,151.0,78.0,False
+540,Immediate Action,125.0,125.0,0.0,True
+540,Staged Learning,-14.0,125.0,139.0,True
+540,Delay Without Learning,20.0,125.0,105.0,True
+540,Conservative Baseline,73.0,125.0,52.0,False
+541,Immediate Action,-35.0,95.0,130.0,True
+541,Staged Learning,-14.0,95.0,109.0,True
+541,Delay Without Learning,95.0,95.0,0.0,False
+541,Conservative Baseline,73.0,95.0,22.0,False
+542,Immediate Action,-35.0,95.0,130.0,True
+542,Staged Learning,-14.0,95.0,109.0,True
+542,Delay Without Learning,95.0,95.0,0.0,False
+542,Conservative Baseline,73.0,95.0,22.0,False
+543,Immediate Action,125.0,125.0,0.0,True
+543,Staged Learning,-14.0,125.0,139.0,True
+543,Delay Without Learning,95.0,125.0,30.0,False
+543,Conservative Baseline,58.0,125.0,67.0,True
+544,Immediate Action,125.0,151.0,26.0,True
+544,Staged Learning,151.0,151.0,0.0,False
+544,Delay Without Learning,20.0,151.0,131.0,True
+544,Conservative Baseline,73.0,151.0,78.0,False
+545,Immediate Action,125.0,151.0,26.0,True
+545,Staged Learning,151.0,151.0,0.0,False
+545,Delay Without Learning,20.0,151.0,131.0,True
+545,Conservative Baseline,73.0,151.0,78.0,False
+546,Immediate Action,-35.0,73.0,108.0,True
+546,Staged Learning,-14.0,73.0,87.0,True
+546,Delay Without Learning,20.0,73.0,53.0,True
+546,Conservative Baseline,73.0,73.0,0.0,False
+547,Immediate Action,-35.0,151.0,186.0,True
+547,Staged Learning,151.0,151.0,0.0,False
+547,Delay Without Learning,95.0,151.0,56.0,False
+547,Conservative Baseline,73.0,151.0,78.0,False
+548,Immediate Action,125.0,125.0,0.0,True
+548,Staged Learning,-14.0,125.0,139.0,True
+548,Delay Without Learning,20.0,125.0,105.0,True
+548,Conservative Baseline,73.0,125.0,52.0,False
+549,Immediate Action,-35.0,151.0,186.0,True
+549,Staged Learning,151.0,151.0,0.0,False
+549,Delay Without Learning,95.0,151.0,56.0,False
+549,Conservative Baseline,58.0,151.0,93.0,True
+550,Immediate Action,125.0,125.0,0.0,True
+550,Staged Learning,-14.0,125.0,139.0,True
+550,Delay Without Learning,95.0,125.0,30.0,False
+550,Conservative Baseline,73.0,125.0,52.0,False
+551,Immediate Action,-35.0,95.0,130.0,True
+551,Staged Learning,-14.0,95.0,109.0,True
+551,Delay Without Learning,95.0,95.0,0.0,False
+551,Conservative Baseline,73.0,95.0,22.0,False
+552,Immediate Action,-35.0,151.0,186.0,True
+552,Staged Learning,151.0,151.0,0.0,False
+552,Delay Without Learning,95.0,151.0,56.0,False
+552,Conservative Baseline,73.0,151.0,78.0,False
+553,Immediate Action,125.0,125.0,0.0,True
+553,Staged Learning,-14.0,125.0,139.0,True
+553,Delay Without Learning,95.0,125.0,30.0,False
+553,Conservative Baseline,73.0,125.0,52.0,False
+554,Immediate Action,-35.0,95.0,130.0,True
+554,Staged Learning,-14.0,95.0,109.0,True
+554,Delay Without Learning,95.0,95.0,0.0,False
+554,Conservative Baseline,73.0,95.0,22.0,False
+555,Immediate Action,-35.0,151.0,186.0,True
+555,Staged Learning,151.0,151.0,0.0,False
+555,Delay Without Learning,20.0,151.0,131.0,True
+555,Conservative Baseline,73.0,151.0,78.0,False
+556,Immediate Action,-35.0,151.0,186.0,True
+556,Staged Learning,151.0,151.0,0.0,False
+556,Delay Without Learning,20.0,151.0,131.0,True
+556,Conservative Baseline,73.0,151.0,78.0,False
+557,Immediate Action,125.0,125.0,0.0,True
+557,Staged Learning,-14.0,125.0,139.0,True
+557,Delay Without Learning,20.0,125.0,105.0,True
+557,Conservative Baseline,73.0,125.0,52.0,False
+558,Immediate Action,-35.0,73.0,108.0,True
+558,Staged Learning,-14.0,73.0,87.0,True
+558,Delay Without Learning,20.0,73.0,53.0,True
+558,Conservative Baseline,73.0,73.0,0.0,False
+559,Immediate Action,-35.0,151.0,186.0,True
+559,Staged Learning,151.0,151.0,0.0,False
+559,Delay Without Learning,20.0,151.0,131.0,True
+559,Conservative Baseline,73.0,151.0,78.0,False
+560,Immediate Action,125.0,151.0,26.0,True
+560,Staged Learning,151.0,151.0,0.0,False
+560,Delay Without Learning,20.0,151.0,131.0,True
+560,Conservative Baseline,73.0,151.0,78.0,False
+561,Immediate Action,125.0,151.0,26.0,True
+561,Staged Learning,151.0,151.0,0.0,False
+561,Delay Without Learning,20.0,151.0,131.0,True
+561,Conservative Baseline,58.0,151.0,93.0,True
+562,Immediate Action,125.0,151.0,26.0,True
+562,Staged Learning,151.0,151.0,0.0,False
+562,Delay Without Learning,95.0,151.0,56.0,False
+562,Conservative Baseline,73.0,151.0,78.0,False
+563,Immediate Action,125.0,151.0,26.0,True
+563,Staged Learning,151.0,151.0,0.0,False
+563,Delay Without Learning,20.0,151.0,131.0,True
+563,Conservative Baseline,73.0,151.0,78.0,False
+564,Immediate Action,125.0,125.0,0.0,True
+564,Staged Learning,-14.0,125.0,139.0,True
+564,Delay Without Learning,95.0,125.0,30.0,False
+564,Conservative Baseline,73.0,125.0,52.0,False
+565,Immediate Action,-35.0,151.0,186.0,True
+565,Staged Learning,151.0,151.0,0.0,False
+565,Delay Without Learning,20.0,151.0,131.0,True
+565,Conservative Baseline,73.0,151.0,78.0,False
+566,Immediate Action,-35.0,58.0,93.0,True
+566,Staged Learning,-14.0,58.0,72.0,True
+566,Delay Without Learning,20.0,58.0,38.0,True
+566,Conservative Baseline,58.0,58.0,0.0,True
+567,Immediate Action,125.0,125.0,0.0,True
+567,Staged Learning,-14.0,125.0,139.0,True
+567,Delay Without Learning,20.0,125.0,105.0,True
+567,Conservative Baseline,73.0,125.0,52.0,False
+568,Immediate Action,-35.0,95.0,130.0,True
+568,Staged Learning,-14.0,95.0,109.0,True
+568,Delay Without Learning,95.0,95.0,0.0,False
+568,Conservative Baseline,73.0,95.0,22.0,False
+569,Immediate Action,-35.0,151.0,186.0,True
+569,Staged Learning,151.0,151.0,0.0,False
+569,Delay Without Learning,95.0,151.0,56.0,False
+569,Conservative Baseline,73.0,151.0,78.0,False
+570,Immediate Action,-35.0,95.0,130.0,True
+570,Staged Learning,-14.0,95.0,109.0,True
+570,Delay Without Learning,95.0,95.0,0.0,False
+570,Conservative Baseline,73.0,95.0,22.0,False
+571,Immediate Action,-35.0,73.0,108.0,True
+571,Staged Learning,-14.0,73.0,87.0,True
+571,Delay Without Learning,20.0,73.0,53.0,True
+571,Conservative Baseline,73.0,73.0,0.0,False
+572,Immediate Action,125.0,125.0,0.0,True
+572,Staged Learning,-14.0,125.0,139.0,True
+572,Delay Without Learning,95.0,125.0,30.0,False
+572,Conservative Baseline,73.0,125.0,52.0,False
+573,Immediate Action,-35.0,151.0,186.0,True
+573,Staged Learning,151.0,151.0,0.0,False
+573,Delay Without Learning,20.0,151.0,131.0,True
+573,Conservative Baseline,73.0,151.0,78.0,False
+574,Immediate Action,-35.0,151.0,186.0,True
+574,Staged Learning,151.0,151.0,0.0,False
+574,Delay Without Learning,95.0,151.0,56.0,False
+574,Conservative Baseline,73.0,151.0,78.0,False
+575,Immediate Action,125.0,151.0,26.0,True
+575,Staged Learning,151.0,151.0,0.0,False
+575,Delay Without Learning,20.0,151.0,131.0,True
+575,Conservative Baseline,73.0,151.0,78.0,False
+576,Immediate Action,-35.0,151.0,186.0,True
+576,Staged Learning,151.0,151.0,0.0,False
+576,Delay Without Learning,20.0,151.0,131.0,True
+576,Conservative Baseline,73.0,151.0,78.0,False
+577,Immediate Action,125.0,125.0,0.0,True
+577,Staged Learning,-14.0,125.0,139.0,True
+577,Delay Without Learning,95.0,125.0,30.0,False
+577,Conservative Baseline,73.0,125.0,52.0,False
+578,Immediate Action,125.0,151.0,26.0,True
+578,Staged Learning,151.0,151.0,0.0,False
+578,Delay Without Learning,95.0,151.0,56.0,False
+578,Conservative Baseline,73.0,151.0,78.0,False
+579,Immediate Action,125.0,125.0,0.0,True
+579,Staged Learning,-14.0,125.0,139.0,True
+579,Delay Without Learning,20.0,125.0,105.0,True
+579,Conservative Baseline,58.0,125.0,67.0,True
+580,Immediate Action,-35.0,151.0,186.0,True
+580,Staged Learning,151.0,151.0,0.0,False
+580,Delay Without Learning,95.0,151.0,56.0,False
+580,Conservative Baseline,73.0,151.0,78.0,False
+581,Immediate Action,125.0,151.0,26.0,True
+581,Staged Learning,151.0,151.0,0.0,False
+581,Delay Without Learning,20.0,151.0,131.0,True
+581,Conservative Baseline,73.0,151.0,78.0,False
+582,Immediate Action,-35.0,151.0,186.0,True
+582,Staged Learning,151.0,151.0,0.0,False
+582,Delay Without Learning,20.0,151.0,131.0,True
+582,Conservative Baseline,73.0,151.0,78.0,False
+583,Immediate Action,-35.0,151.0,186.0,True
+583,Staged Learning,151.0,151.0,0.0,False
+583,Delay Without Learning,95.0,151.0,56.0,False
+583,Conservative Baseline,73.0,151.0,78.0,False
+584,Immediate Action,125.0,151.0,26.0,True
+584,Staged Learning,151.0,151.0,0.0,False
+584,Delay Without Learning,20.0,151.0,131.0,True
+584,Conservative Baseline,73.0,151.0,78.0,False
+585,Immediate Action,-35.0,151.0,186.0,True
+585,Staged Learning,151.0,151.0,0.0,False
+585,Delay Without Learning,95.0,151.0,56.0,False
+585,Conservative Baseline,73.0,151.0,78.0,False
+586,Immediate Action,125.0,125.0,0.0,True
+586,Staged Learning,-14.0,125.0,139.0,True
+586,Delay Without Learning,20.0,125.0,105.0,True
+586,Conservative Baseline,73.0,125.0,52.0,False
+587,Immediate Action,125.0,151.0,26.0,True
+587,Staged Learning,151.0,151.0,0.0,False
+587,Delay Without Learning,95.0,151.0,56.0,False
+587,Conservative Baseline,58.0,151.0,93.0,True
+588,Immediate Action,-35.0,73.0,108.0,True
+588,Staged Learning,-14.0,73.0,87.0,True
+588,Delay Without Learning,20.0,73.0,53.0,True
+588,Conservative Baseline,73.0,73.0,0.0,False
+589,Immediate Action,125.0,151.0,26.0,True
+589,Staged Learning,151.0,151.0,0.0,False
+589,Delay Without Learning,95.0,151.0,56.0,False
+589,Conservative Baseline,73.0,151.0,78.0,False
+590,Immediate Action,125.0,151.0,26.0,True
+590,Staged Learning,151.0,151.0,0.0,False
+590,Delay Without Learning,95.0,151.0,56.0,False
+590,Conservative Baseline,73.0,151.0,78.0,False
+591,Immediate Action,-35.0,151.0,186.0,True
+591,Staged Learning,151.0,151.0,0.0,False
+591,Delay Without Learning,95.0,151.0,56.0,False
+591,Conservative Baseline,73.0,151.0,78.0,False
+592,Immediate Action,125.0,151.0,26.0,True
+592,Staged Learning,151.0,151.0,0.0,False
+592,Delay Without Learning,20.0,151.0,131.0,True
+592,Conservative Baseline,73.0,151.0,78.0,False
+593,Immediate Action,125.0,151.0,26.0,True
+593,Staged Learning,151.0,151.0,0.0,False
+593,Delay Without Learning,20.0,151.0,131.0,True
+593,Conservative Baseline,73.0,151.0,78.0,False
+594,Immediate Action,-35.0,151.0,186.0,True
+594,Staged Learning,151.0,151.0,0.0,False
+594,Delay Without Learning,95.0,151.0,56.0,False
+594,Conservative Baseline,73.0,151.0,78.0,False
+595,Immediate Action,125.0,125.0,0.0,True
+595,Staged Learning,-14.0,125.0,139.0,True
+595,Delay Without Learning,95.0,125.0,30.0,False
+595,Conservative Baseline,73.0,125.0,52.0,False
+596,Immediate Action,-35.0,73.0,108.0,True
+596,Staged Learning,-14.0,73.0,87.0,True
+596,Delay Without Learning,20.0,73.0,53.0,True
+596,Conservative Baseline,73.0,73.0,0.0,False
+597,Immediate Action,-35.0,73.0,108.0,True
+597,Staged Learning,-14.0,73.0,87.0,True
+597,Delay Without Learning,20.0,73.0,53.0,True
+597,Conservative Baseline,73.0,73.0,0.0,False
+598,Immediate Action,125.0,125.0,0.0,True
+598,Staged Learning,-14.0,125.0,139.0,True
+598,Delay Without Learning,95.0,125.0,30.0,False
+598,Conservative Baseline,73.0,125.0,52.0,False
+599,Immediate Action,125.0,151.0,26.0,True
+599,Staged Learning,151.0,151.0,0.0,False
+599,Delay Without Learning,95.0,151.0,56.0,False
+599,Conservative Baseline,73.0,151.0,78.0,False
+600,Immediate Action,-35.0,73.0,108.0,True
+600,Staged Learning,-14.0,73.0,87.0,True
+600,Delay Without Learning,20.0,73.0,53.0,True
+600,Conservative Baseline,73.0,73.0,0.0,False
+601,Immediate Action,125.0,125.0,0.0,True
+601,Staged Learning,-14.0,125.0,139.0,True
+601,Delay Without Learning,95.0,125.0,30.0,False
+601,Conservative Baseline,73.0,125.0,52.0,False
+602,Immediate Action,-35.0,151.0,186.0,True
+602,Staged Learning,151.0,151.0,0.0,False
+602,Delay Without Learning,95.0,151.0,56.0,False
+602,Conservative Baseline,73.0,151.0,78.0,False
+603,Immediate Action,125.0,151.0,26.0,True
+603,Staged Learning,151.0,151.0,0.0,False
+603,Delay Without Learning,95.0,151.0,56.0,False
+603,Conservative Baseline,73.0,151.0,78.0,False
+604,Immediate Action,-35.0,95.0,130.0,True
+604,Staged Learning,-14.0,95.0,109.0,True
+604,Delay Without Learning,95.0,95.0,0.0,False
+604,Conservative Baseline,58.0,95.0,37.0,True
+605,Immediate Action,-35.0,151.0,186.0,True
+605,Staged Learning,151.0,151.0,0.0,False
+605,Delay Without Learning,95.0,151.0,56.0,False
+605,Conservative Baseline,73.0,151.0,78.0,False
+606,Immediate Action,-35.0,151.0,186.0,True
+606,Staged Learning,151.0,151.0,0.0,False
+606,Delay Without Learning,95.0,151.0,56.0,False
+606,Conservative Baseline,73.0,151.0,78.0,False
+607,Immediate Action,125.0,125.0,0.0,True
+607,Staged Learning,-14.0,125.0,139.0,True
+607,Delay Without Learning,95.0,125.0,30.0,False
+607,Conservative Baseline,73.0,125.0,52.0,False
+608,Immediate Action,-35.0,151.0,186.0,True
+608,Staged Learning,151.0,151.0,0.0,False
+608,Delay Without Learning,20.0,151.0,131.0,True
+608,Conservative Baseline,73.0,151.0,78.0,False
+609,Immediate Action,125.0,125.0,0.0,True
+609,Staged Learning,-14.0,125.0,139.0,True
+609,Delay Without Learning,20.0,125.0,105.0,True
+609,Conservative Baseline,73.0,125.0,52.0,False
+610,Immediate Action,125.0,125.0,0.0,True
+610,Staged Learning,-14.0,125.0,139.0,True
+610,Delay Without Learning,20.0,125.0,105.0,True
+610,Conservative Baseline,73.0,125.0,52.0,False
+611,Immediate Action,-35.0,151.0,186.0,True
+611,Staged Learning,151.0,151.0,0.0,False
+611,Delay Without Learning,95.0,151.0,56.0,False
+611,Conservative Baseline,58.0,151.0,93.0,True
+612,Immediate Action,125.0,151.0,26.0,True
+612,Staged Learning,151.0,151.0,0.0,False
+612,Delay Without Learning,20.0,151.0,131.0,True
+612,Conservative Baseline,58.0,151.0,93.0,True
+613,Immediate Action,-35.0,151.0,186.0,True
+613,Staged Learning,151.0,151.0,0.0,False
+613,Delay Without Learning,20.0,151.0,131.0,True
+613,Conservative Baseline,73.0,151.0,78.0,False
+614,Immediate Action,125.0,151.0,26.0,True
+614,Staged Learning,151.0,151.0,0.0,False
+614,Delay Without Learning,95.0,151.0,56.0,False
+614,Conservative Baseline,73.0,151.0,78.0,False
+615,Immediate Action,125.0,151.0,26.0,True
+615,Staged Learning,151.0,151.0,0.0,False
+615,Delay Without Learning,95.0,151.0,56.0,False
+615,Conservative Baseline,58.0,151.0,93.0,True
+616,Immediate Action,125.0,151.0,26.0,True
+616,Staged Learning,151.0,151.0,0.0,False
+616,Delay Without Learning,95.0,151.0,56.0,False
+616,Conservative Baseline,73.0,151.0,78.0,False
+617,Immediate Action,-35.0,73.0,108.0,True
+617,Staged Learning,-14.0,73.0,87.0,True
+617,Delay Without Learning,20.0,73.0,53.0,True
+617,Conservative Baseline,73.0,73.0,0.0,False
+618,Immediate Action,125.0,125.0,0.0,True
+618,Staged Learning,-14.0,125.0,139.0,True
+618,Delay Without Learning,20.0,125.0,105.0,True
+618,Conservative Baseline,73.0,125.0,52.0,False
+619,Immediate Action,-35.0,151.0,186.0,True
+619,Staged Learning,151.0,151.0,0.0,False
+619,Delay Without Learning,95.0,151.0,56.0,False
+619,Conservative Baseline,73.0,151.0,78.0,False
+620,Immediate Action,125.0,151.0,26.0,True
+620,Staged Learning,151.0,151.0,0.0,False
+620,Delay Without Learning,20.0,151.0,131.0,True
+620,Conservative Baseline,73.0,151.0,78.0,False
+621,Immediate Action,125.0,151.0,26.0,True
+621,Staged Learning,151.0,151.0,0.0,False
+621,Delay Without Learning,95.0,151.0,56.0,False
+621,Conservative Baseline,73.0,151.0,78.0,False
+622,Immediate Action,125.0,125.0,0.0,True
+622,Staged Learning,-14.0,125.0,139.0,True
+622,Delay Without Learning,20.0,125.0,105.0,True
+622,Conservative Baseline,73.0,125.0,52.0,False
+623,Immediate Action,125.0,151.0,26.0,True
+623,Staged Learning,151.0,151.0,0.0,False
+623,Delay Without Learning,95.0,151.0,56.0,False
+623,Conservative Baseline,73.0,151.0,78.0,False
+624,Immediate Action,125.0,125.0,0.0,True
+624,Staged Learning,-14.0,125.0,139.0,True
+624,Delay Without Learning,95.0,125.0,30.0,False
+624,Conservative Baseline,73.0,125.0,52.0,False
+625,Immediate Action,125.0,125.0,0.0,True
+625,Staged Learning,-14.0,125.0,139.0,True
+625,Delay Without Learning,95.0,125.0,30.0,False
+625,Conservative Baseline,73.0,125.0,52.0,False
+626,Immediate Action,-35.0,151.0,186.0,True
+626,Staged Learning,151.0,151.0,0.0,False
+626,Delay Without Learning,20.0,151.0,131.0,True
+626,Conservative Baseline,73.0,151.0,78.0,False
+627,Immediate Action,125.0,151.0,26.0,True
+627,Staged Learning,151.0,151.0,0.0,False
+627,Delay Without Learning,95.0,151.0,56.0,False
+627,Conservative Baseline,73.0,151.0,78.0,False
+628,Immediate Action,125.0,125.0,0.0,True
+628,Staged Learning,-14.0,125.0,139.0,True
+628,Delay Without Learning,95.0,125.0,30.0,False
+628,Conservative Baseline,73.0,125.0,52.0,False
+629,Immediate Action,125.0,151.0,26.0,True
+629,Staged Learning,151.0,151.0,0.0,False
+629,Delay Without Learning,20.0,151.0,131.0,True
+629,Conservative Baseline,73.0,151.0,78.0,False
+630,Immediate Action,-35.0,151.0,186.0,True
+630,Staged Learning,151.0,151.0,0.0,False
+630,Delay Without Learning,95.0,151.0,56.0,False
+630,Conservative Baseline,58.0,151.0,93.0,True
+631,Immediate Action,-35.0,151.0,186.0,True
+631,Staged Learning,151.0,151.0,0.0,False
+631,Delay Without Learning,95.0,151.0,56.0,False
+631,Conservative Baseline,73.0,151.0,78.0,False
+632,Immediate Action,125.0,125.0,0.0,True
+632,Staged Learning,-14.0,125.0,139.0,True
+632,Delay Without Learning,20.0,125.0,105.0,True
+632,Conservative Baseline,73.0,125.0,52.0,False
+633,Immediate Action,125.0,151.0,26.0,True
+633,Staged Learning,151.0,151.0,0.0,False
+633,Delay Without Learning,95.0,151.0,56.0,False
+633,Conservative Baseline,73.0,151.0,78.0,False
+634,Immediate Action,125.0,125.0,0.0,True
+634,Staged Learning,-14.0,125.0,139.0,True
+634,Delay Without Learning,95.0,125.0,30.0,False
+634,Conservative Baseline,58.0,125.0,67.0,True
+635,Immediate Action,125.0,125.0,0.0,True
+635,Staged Learning,-14.0,125.0,139.0,True
+635,Delay Without Learning,95.0,125.0,30.0,False
+635,Conservative Baseline,73.0,125.0,52.0,False
+636,Immediate Action,125.0,125.0,0.0,True
+636,Staged Learning,-14.0,125.0,139.0,True
+636,Delay Without Learning,95.0,125.0,30.0,False
+636,Conservative Baseline,73.0,125.0,52.0,False
+637,Immediate Action,125.0,125.0,0.0,True
+637,Staged Learning,-14.0,125.0,139.0,True
+637,Delay Without Learning,95.0,125.0,30.0,False
+637,Conservative Baseline,73.0,125.0,52.0,False
+638,Immediate Action,125.0,125.0,0.0,True
+638,Staged Learning,-14.0,125.0,139.0,True
+638,Delay Without Learning,20.0,125.0,105.0,True
+638,Conservative Baseline,73.0,125.0,52.0,False
+639,Immediate Action,125.0,125.0,0.0,True
+639,Staged Learning,-14.0,125.0,139.0,True
+639,Delay Without Learning,95.0,125.0,30.0,False
+639,Conservative Baseline,58.0,125.0,67.0,True
+640,Immediate Action,125.0,125.0,0.0,True
+640,Staged Learning,-14.0,125.0,139.0,True
+640,Delay Without Learning,20.0,125.0,105.0,True
+640,Conservative Baseline,73.0,125.0,52.0,False
+641,Immediate Action,-35.0,151.0,186.0,True
+641,Staged Learning,151.0,151.0,0.0,False
+641,Delay Without Learning,95.0,151.0,56.0,False
+641,Conservative Baseline,73.0,151.0,78.0,False
+642,Immediate Action,125.0,151.0,26.0,True
+642,Staged Learning,151.0,151.0,0.0,False
+642,Delay Without Learning,20.0,151.0,131.0,True
+642,Conservative Baseline,73.0,151.0,78.0,False
+643,Immediate Action,-35.0,151.0,186.0,True
+643,Staged Learning,151.0,151.0,0.0,False
+643,Delay Without Learning,95.0,151.0,56.0,False
+643,Conservative Baseline,73.0,151.0,78.0,False
+644,Immediate Action,125.0,125.0,0.0,True
+644,Staged Learning,-14.0,125.0,139.0,True
+644,Delay Without Learning,95.0,125.0,30.0,False
+644,Conservative Baseline,73.0,125.0,52.0,False
+645,Immediate Action,-35.0,151.0,186.0,True
+645,Staged Learning,151.0,151.0,0.0,False
+645,Delay Without Learning,20.0,151.0,131.0,True
+645,Conservative Baseline,73.0,151.0,78.0,False
+646,Immediate Action,125.0,125.0,0.0,True
+646,Staged Learning,-14.0,125.0,139.0,True
+646,Delay Without Learning,95.0,125.0,30.0,False
+646,Conservative Baseline,73.0,125.0,52.0,False
+647,Immediate Action,-35.0,151.0,186.0,True
+647,Staged Learning,151.0,151.0,0.0,False
+647,Delay Without Learning,95.0,151.0,56.0,False
+647,Conservative Baseline,73.0,151.0,78.0,False
+648,Immediate Action,125.0,151.0,26.0,True
+648,Staged Learning,151.0,151.0,0.0,False
+648,Delay Without Learning,95.0,151.0,56.0,False
+648,Conservative Baseline,73.0,151.0,78.0,False
+649,Immediate Action,125.0,125.0,0.0,True
+649,Staged Learning,-14.0,125.0,139.0,True
+649,Delay Without Learning,95.0,125.0,30.0,False
+649,Conservative Baseline,58.0,125.0,67.0,True
+650,Immediate Action,125.0,125.0,0.0,True
+650,Staged Learning,-14.0,125.0,139.0,True
+650,Delay Without Learning,20.0,125.0,105.0,True
+650,Conservative Baseline,73.0,125.0,52.0,False
+651,Immediate Action,125.0,125.0,0.0,True
+651,Staged Learning,-14.0,125.0,139.0,True
+651,Delay Without Learning,95.0,125.0,30.0,False
+651,Conservative Baseline,58.0,125.0,67.0,True
+652,Immediate Action,125.0,151.0,26.0,True
+652,Staged Learning,151.0,151.0,0.0,False
+652,Delay Without Learning,20.0,151.0,131.0,True
+652,Conservative Baseline,73.0,151.0,78.0,False
+653,Immediate Action,-35.0,58.0,93.0,True
+653,Staged Learning,-14.0,58.0,72.0,True
+653,Delay Without Learning,20.0,58.0,38.0,True
+653,Conservative Baseline,58.0,58.0,0.0,True
+654,Immediate Action,125.0,125.0,0.0,True
+654,Staged Learning,-14.0,125.0,139.0,True
+654,Delay Without Learning,95.0,125.0,30.0,False
+654,Conservative Baseline,73.0,125.0,52.0,False
+655,Immediate Action,-35.0,151.0,186.0,True
+655,Staged Learning,151.0,151.0,0.0,False
+655,Delay Without Learning,20.0,151.0,131.0,True
+655,Conservative Baseline,73.0,151.0,78.0,False
+656,Immediate Action,125.0,151.0,26.0,True
+656,Staged Learning,151.0,151.0,0.0,False
+656,Delay Without Learning,95.0,151.0,56.0,False
+656,Conservative Baseline,58.0,151.0,93.0,True
+657,Immediate Action,125.0,151.0,26.0,True
+657,Staged Learning,151.0,151.0,0.0,False
+657,Delay Without Learning,95.0,151.0,56.0,False
+657,Conservative Baseline,73.0,151.0,78.0,False
+658,Immediate Action,-35.0,151.0,186.0,True
+658,Staged Learning,151.0,151.0,0.0,False
+658,Delay Without Learning,20.0,151.0,131.0,True
+658,Conservative Baseline,73.0,151.0,78.0,False
+659,Immediate Action,125.0,125.0,0.0,True
+659,Staged Learning,-14.0,125.0,139.0,True
+659,Delay Without Learning,95.0,125.0,30.0,False
+659,Conservative Baseline,73.0,125.0,52.0,False
+660,Immediate Action,125.0,151.0,26.0,True
+660,Staged Learning,151.0,151.0,0.0,False
+660,Delay Without Learning,20.0,151.0,131.0,True
+660,Conservative Baseline,73.0,151.0,78.0,False
+661,Immediate Action,125.0,125.0,0.0,True
+661,Staged Learning,-14.0,125.0,139.0,True
+661,Delay Without Learning,95.0,125.0,30.0,False
+661,Conservative Baseline,73.0,125.0,52.0,False
+662,Immediate Action,125.0,125.0,0.0,True
+662,Staged Learning,-14.0,125.0,139.0,True
+662,Delay Without Learning,20.0,125.0,105.0,True
+662,Conservative Baseline,73.0,125.0,52.0,False
+663,Immediate Action,-35.0,95.0,130.0,True
+663,Staged Learning,-14.0,95.0,109.0,True
+663,Delay Without Learning,95.0,95.0,0.0,False
+663,Conservative Baseline,73.0,95.0,22.0,False
+664,Immediate Action,125.0,151.0,26.0,True
+664,Staged Learning,151.0,151.0,0.0,False
+664,Delay Without Learning,95.0,151.0,56.0,False
+664,Conservative Baseline,73.0,151.0,78.0,False
+665,Immediate Action,-35.0,73.0,108.0,True
+665,Staged Learning,-14.0,73.0,87.0,True
+665,Delay Without Learning,20.0,73.0,53.0,True
+665,Conservative Baseline,73.0,73.0,0.0,False
+666,Immediate Action,-35.0,73.0,108.0,True
+666,Staged Learning,-14.0,73.0,87.0,True
+666,Delay Without Learning,20.0,73.0,53.0,True
+666,Conservative Baseline,73.0,73.0,0.0,False
+667,Immediate Action,-35.0,151.0,186.0,True
+667,Staged Learning,151.0,151.0,0.0,False
+667,Delay Without Learning,20.0,151.0,131.0,True
+667,Conservative Baseline,73.0,151.0,78.0,False
+668,Immediate Action,125.0,151.0,26.0,True
+668,Staged Learning,151.0,151.0,0.0,False
+668,Delay Without Learning,95.0,151.0,56.0,False
+668,Conservative Baseline,73.0,151.0,78.0,False
+669,Immediate Action,125.0,151.0,26.0,True
+669,Staged Learning,151.0,151.0,0.0,False
+669,Delay Without Learning,95.0,151.0,56.0,False
+669,Conservative Baseline,73.0,151.0,78.0,False
+670,Immediate Action,125.0,151.0,26.0,True
+670,Staged Learning,151.0,151.0,0.0,False
+670,Delay Without Learning,95.0,151.0,56.0,False
+670,Conservative Baseline,73.0,151.0,78.0,False
+671,Immediate Action,125.0,125.0,0.0,True
+671,Staged Learning,-14.0,125.0,139.0,True
+671,Delay Without Learning,20.0,125.0,105.0,True
+671,Conservative Baseline,58.0,125.0,67.0,True
+672,Immediate Action,-35.0,95.0,130.0,True
+672,Staged Learning,-14.0,95.0,109.0,True
+672,Delay Without Learning,95.0,95.0,0.0,False
+672,Conservative Baseline,73.0,95.0,22.0,False
+673,Immediate Action,-35.0,95.0,130.0,True
+673,Staged Learning,-14.0,95.0,109.0,True
+673,Delay Without Learning,95.0,95.0,0.0,False
+673,Conservative Baseline,73.0,95.0,22.0,False
+674,Immediate Action,125.0,151.0,26.0,True
+674,Staged Learning,151.0,151.0,0.0,False
+674,Delay Without Learning,95.0,151.0,56.0,False
+674,Conservative Baseline,73.0,151.0,78.0,False
+675,Immediate Action,-35.0,95.0,130.0,True
+675,Staged Learning,-14.0,95.0,109.0,True
+675,Delay Without Learning,95.0,95.0,0.0,False
+675,Conservative Baseline,73.0,95.0,22.0,False
+676,Immediate Action,-35.0,151.0,186.0,True
+676,Staged Learning,151.0,151.0,0.0,False
+676,Delay Without Learning,95.0,151.0,56.0,False
+676,Conservative Baseline,73.0,151.0,78.0,False
+677,Immediate Action,-35.0,151.0,186.0,True
+677,Staged Learning,151.0,151.0,0.0,False
+677,Delay Without Learning,95.0,151.0,56.0,False
+677,Conservative Baseline,73.0,151.0,78.0,False
+678,Immediate Action,-35.0,151.0,186.0,True
+678,Staged Learning,151.0,151.0,0.0,False
+678,Delay Without Learning,20.0,151.0,131.0,True
+678,Conservative Baseline,73.0,151.0,78.0,False
+679,Immediate Action,125.0,151.0,26.0,True
+679,Staged Learning,151.0,151.0,0.0,False
+679,Delay Without Learning,95.0,151.0,56.0,False
+679,Conservative Baseline,73.0,151.0,78.0,False
+680,Immediate Action,125.0,151.0,26.0,True
+680,Staged Learning,151.0,151.0,0.0,False
+680,Delay Without Learning,95.0,151.0,56.0,False
+680,Conservative Baseline,58.0,151.0,93.0,True
+681,Immediate Action,-35.0,95.0,130.0,True
+681,Staged Learning,-14.0,95.0,109.0,True
+681,Delay Without Learning,95.0,95.0,0.0,False
+681,Conservative Baseline,73.0,95.0,22.0,False
+682,Immediate Action,125.0,151.0,26.0,True
+682,Staged Learning,151.0,151.0,0.0,False
+682,Delay Without Learning,20.0,151.0,131.0,True
+682,Conservative Baseline,73.0,151.0,78.0,False
+683,Immediate Action,125.0,125.0,0.0,True
+683,Staged Learning,-14.0,125.0,139.0,True
+683,Delay Without Learning,95.0,125.0,30.0,False
+683,Conservative Baseline,73.0,125.0,52.0,False
+684,Immediate Action,125.0,125.0,0.0,True
+684,Staged Learning,-14.0,125.0,139.0,True
+684,Delay Without Learning,20.0,125.0,105.0,True
+684,Conservative Baseline,73.0,125.0,52.0,False
+685,Immediate Action,125.0,151.0,26.0,True
+685,Staged Learning,151.0,151.0,0.0,False
+685,Delay Without Learning,95.0,151.0,56.0,False
+685,Conservative Baseline,73.0,151.0,78.0,False
+686,Immediate Action,125.0,151.0,26.0,True
+686,Staged Learning,151.0,151.0,0.0,False
+686,Delay Without Learning,95.0,151.0,56.0,False
+686,Conservative Baseline,73.0,151.0,78.0,False
+687,Immediate Action,-35.0,151.0,186.0,True
+687,Staged Learning,151.0,151.0,0.0,False
+687,Delay Without Learning,95.0,151.0,56.0,False
+687,Conservative Baseline,73.0,151.0,78.0,False
+688,Immediate Action,125.0,151.0,26.0,True
+688,Staged Learning,151.0,151.0,0.0,False
+688,Delay Without Learning,95.0,151.0,56.0,False
+688,Conservative Baseline,73.0,151.0,78.0,False
+689,Immediate Action,125.0,151.0,26.0,True
+689,Staged Learning,151.0,151.0,0.0,False
+689,Delay Without Learning,95.0,151.0,56.0,False
+689,Conservative Baseline,58.0,151.0,93.0,True
+690,Immediate Action,-35.0,151.0,186.0,True
+690,Staged Learning,151.0,151.0,0.0,False
+690,Delay Without Learning,95.0,151.0,56.0,False
+690,Conservative Baseline,73.0,151.0,78.0,False
+691,Immediate Action,-35.0,95.0,130.0,True
+691,Staged Learning,-14.0,95.0,109.0,True
+691,Delay Without Learning,95.0,95.0,0.0,False
+691,Conservative Baseline,73.0,95.0,22.0,False
+692,Immediate Action,125.0,125.0,0.0,True
+692,Staged Learning,-14.0,125.0,139.0,True
+692,Delay Without Learning,20.0,125.0,105.0,True
+692,Conservative Baseline,73.0,125.0,52.0,False
+693,Immediate Action,-35.0,151.0,186.0,True
+693,Staged Learning,151.0,151.0,0.0,False
+693,Delay Without Learning,95.0,151.0,56.0,False
+693,Conservative Baseline,73.0,151.0,78.0,False
+694,Immediate Action,-35.0,151.0,186.0,True
+694,Staged Learning,151.0,151.0,0.0,False
+694,Delay Without Learning,95.0,151.0,56.0,False
+694,Conservative Baseline,73.0,151.0,78.0,False
+695,Immediate Action,-35.0,151.0,186.0,True
+695,Staged Learning,151.0,151.0,0.0,False
+695,Delay Without Learning,20.0,151.0,131.0,True
+695,Conservative Baseline,73.0,151.0,78.0,False
+696,Immediate Action,-35.0,151.0,186.0,True
+696,Staged Learning,151.0,151.0,0.0,False
+696,Delay Without Learning,95.0,151.0,56.0,False
+696,Conservative Baseline,58.0,151.0,93.0,True
+697,Immediate Action,-35.0,58.0,93.0,True
+697,Staged Learning,-14.0,58.0,72.0,True
+697,Delay Without Learning,20.0,58.0,38.0,True
+697,Conservative Baseline,58.0,58.0,0.0,True
+698,Immediate Action,-35.0,95.0,130.0,True
+698,Staged Learning,-14.0,95.0,109.0,True
+698,Delay Without Learning,95.0,95.0,0.0,False
+698,Conservative Baseline,73.0,95.0,22.0,False
+699,Immediate Action,125.0,151.0,26.0,True
+699,Staged Learning,151.0,151.0,0.0,False
+699,Delay Without Learning,20.0,151.0,131.0,True
+699,Conservative Baseline,73.0,151.0,78.0,False
+700,Immediate Action,125.0,125.0,0.0,True
+700,Staged Learning,-14.0,125.0,139.0,True
+700,Delay Without Learning,20.0,125.0,105.0,True
+700,Conservative Baseline,73.0,125.0,52.0,False
+701,Immediate Action,-35.0,151.0,186.0,True
+701,Staged Learning,151.0,151.0,0.0,False
+701,Delay Without Learning,95.0,151.0,56.0,False
+701,Conservative Baseline,73.0,151.0,78.0,False
+702,Immediate Action,-35.0,151.0,186.0,True
+702,Staged Learning,151.0,151.0,0.0,False
+702,Delay Without Learning,95.0,151.0,56.0,False
+702,Conservative Baseline,73.0,151.0,78.0,False
+703,Immediate Action,-35.0,73.0,108.0,True
+703,Staged Learning,-14.0,73.0,87.0,True
+703,Delay Without Learning,20.0,73.0,53.0,True
+703,Conservative Baseline,73.0,73.0,0.0,False
+704,Immediate Action,125.0,125.0,0.0,True
+704,Staged Learning,-14.0,125.0,139.0,True
+704,Delay Without Learning,95.0,125.0,30.0,False
+704,Conservative Baseline,73.0,125.0,52.0,False
+705,Immediate Action,125.0,151.0,26.0,True
+705,Staged Learning,151.0,151.0,0.0,False
+705,Delay Without Learning,95.0,151.0,56.0,False
+705,Conservative Baseline,73.0,151.0,78.0,False
+706,Immediate Action,125.0,125.0,0.0,True
+706,Staged Learning,-14.0,125.0,139.0,True
+706,Delay Without Learning,95.0,125.0,30.0,False
+706,Conservative Baseline,73.0,125.0,52.0,False
+707,Immediate Action,-35.0,73.0,108.0,True
+707,Staged Learning,-14.0,73.0,87.0,True
+707,Delay Without Learning,20.0,73.0,53.0,True
+707,Conservative Baseline,73.0,73.0,0.0,False
+708,Immediate Action,125.0,125.0,0.0,True
+708,Staged Learning,-14.0,125.0,139.0,True
+708,Delay Without Learning,95.0,125.0,30.0,False
+708,Conservative Baseline,73.0,125.0,52.0,False
+709,Immediate Action,125.0,151.0,26.0,True
+709,Staged Learning,151.0,151.0,0.0,False
+709,Delay Without Learning,20.0,151.0,131.0,True
+709,Conservative Baseline,73.0,151.0,78.0,False
+710,Immediate Action,125.0,151.0,26.0,True
+710,Staged Learning,151.0,151.0,0.0,False
+710,Delay Without Learning,95.0,151.0,56.0,False
+710,Conservative Baseline,73.0,151.0,78.0,False
+711,Immediate Action,-35.0,151.0,186.0,True
+711,Staged Learning,151.0,151.0,0.0,False
+711,Delay Without Learning,95.0,151.0,56.0,False
+711,Conservative Baseline,73.0,151.0,78.0,False
+712,Immediate Action,-35.0,95.0,130.0,True
+712,Staged Learning,-14.0,95.0,109.0,True
+712,Delay Without Learning,95.0,95.0,0.0,False
+712,Conservative Baseline,73.0,95.0,22.0,False
+713,Immediate Action,-35.0,151.0,186.0,True
+713,Staged Learning,151.0,151.0,0.0,False
+713,Delay Without Learning,20.0,151.0,131.0,True
+713,Conservative Baseline,73.0,151.0,78.0,False
+714,Immediate Action,125.0,125.0,0.0,True
+714,Staged Learning,-14.0,125.0,139.0,True
+714,Delay Without Learning,95.0,125.0,30.0,False
+714,Conservative Baseline,73.0,125.0,52.0,False
+715,Immediate Action,125.0,151.0,26.0,True
+715,Staged Learning,151.0,151.0,0.0,False
+715,Delay Without Learning,95.0,151.0,56.0,False
+715,Conservative Baseline,73.0,151.0,78.0,False
+716,Immediate Action,125.0,151.0,26.0,True
+716,Staged Learning,151.0,151.0,0.0,False
+716,Delay Without Learning,95.0,151.0,56.0,False
+716,Conservative Baseline,73.0,151.0,78.0,False
+717,Immediate Action,125.0,125.0,0.0,True
+717,Staged Learning,-14.0,125.0,139.0,True
+717,Delay Without Learning,20.0,125.0,105.0,True
+717,Conservative Baseline,58.0,125.0,67.0,True
+718,Immediate Action,125.0,151.0,26.0,True
+718,Staged Learning,151.0,151.0,0.0,False
+718,Delay Without Learning,95.0,151.0,56.0,False
+718,Conservative Baseline,73.0,151.0,78.0,False
+719,Immediate Action,125.0,151.0,26.0,True
+719,Staged Learning,151.0,151.0,0.0,False
+719,Delay Without Learning,20.0,151.0,131.0,True
+719,Conservative Baseline,73.0,151.0,78.0,False
+720,Immediate Action,125.0,125.0,0.0,True
+720,Staged Learning,-14.0,125.0,139.0,True
+720,Delay Without Learning,95.0,125.0,30.0,False
+720,Conservative Baseline,73.0,125.0,52.0,False
+721,Immediate Action,125.0,151.0,26.0,True
+721,Staged Learning,151.0,151.0,0.0,False
+721,Delay Without Learning,95.0,151.0,56.0,False
+721,Conservative Baseline,73.0,151.0,78.0,False
+722,Immediate Action,-35.0,151.0,186.0,True
+722,Staged Learning,151.0,151.0,0.0,False
+722,Delay Without Learning,95.0,151.0,56.0,False
+722,Conservative Baseline,73.0,151.0,78.0,False
+723,Immediate Action,-35.0,151.0,186.0,True
+723,Staged Learning,151.0,151.0,0.0,False
+723,Delay Without Learning,95.0,151.0,56.0,False
+723,Conservative Baseline,73.0,151.0,78.0,False
+724,Immediate Action,125.0,151.0,26.0,True
+724,Staged Learning,151.0,151.0,0.0,False
+724,Delay Without Learning,95.0,151.0,56.0,False
+724,Conservative Baseline,73.0,151.0,78.0,False
+725,Immediate Action,-35.0,151.0,186.0,True
+725,Staged Learning,151.0,151.0,0.0,False
+725,Delay Without Learning,95.0,151.0,56.0,False
+725,Conservative Baseline,58.0,151.0,93.0,True
+726,Immediate Action,-35.0,95.0,130.0,True
+726,Staged Learning,-14.0,95.0,109.0,True
+726,Delay Without Learning,95.0,95.0,0.0,False
+726,Conservative Baseline,73.0,95.0,22.0,False
+727,Immediate Action,-35.0,73.0,108.0,True
+727,Staged Learning,-14.0,73.0,87.0,True
+727,Delay Without Learning,20.0,73.0,53.0,True
+727,Conservative Baseline,73.0,73.0,0.0,False
+728,Immediate Action,125.0,125.0,0.0,True
+728,Staged Learning,-14.0,125.0,139.0,True
+728,Delay Without Learning,95.0,125.0,30.0,False
+728,Conservative Baseline,73.0,125.0,52.0,False
+729,Immediate Action,125.0,125.0,0.0,True
+729,Staged Learning,-14.0,125.0,139.0,True
+729,Delay Without Learning,20.0,125.0,105.0,True
+729,Conservative Baseline,73.0,125.0,52.0,False
+730,Immediate Action,-35.0,151.0,186.0,True
+730,Staged Learning,151.0,151.0,0.0,False
+730,Delay Without Learning,95.0,151.0,56.0,False
+730,Conservative Baseline,73.0,151.0,78.0,False
+731,Immediate Action,125.0,151.0,26.0,True
+731,Staged Learning,151.0,151.0,0.0,False
+731,Delay Without Learning,20.0,151.0,131.0,True
+731,Conservative Baseline,73.0,151.0,78.0,False
+732,Immediate Action,-35.0,151.0,186.0,True
+732,Staged Learning,151.0,151.0,0.0,False
+732,Delay Without Learning,20.0,151.0,131.0,True
+732,Conservative Baseline,73.0,151.0,78.0,False
+733,Immediate Action,-35.0,151.0,186.0,True
+733,Staged Learning,151.0,151.0,0.0,False
+733,Delay Without Learning,95.0,151.0,56.0,False
+733,Conservative Baseline,73.0,151.0,78.0,False
+734,Immediate Action,125.0,151.0,26.0,True
+734,Staged Learning,151.0,151.0,0.0,False
+734,Delay Without Learning,95.0,151.0,56.0,False
+734,Conservative Baseline,73.0,151.0,78.0,False
+735,Immediate Action,-35.0,151.0,186.0,True
+735,Staged Learning,151.0,151.0,0.0,False
+735,Delay Without Learning,95.0,151.0,56.0,False
+735,Conservative Baseline,73.0,151.0,78.0,False
+736,Immediate Action,-35.0,73.0,108.0,True
+736,Staged Learning,-14.0,73.0,87.0,True
+736,Delay Without Learning,20.0,73.0,53.0,True
+736,Conservative Baseline,73.0,73.0,0.0,False
+737,Immediate Action,125.0,125.0,0.0,True
+737,Staged Learning,-14.0,125.0,139.0,True
+737,Delay Without Learning,95.0,125.0,30.0,False
+737,Conservative Baseline,73.0,125.0,52.0,False
+738,Immediate Action,125.0,125.0,0.0,True
+738,Staged Learning,-14.0,125.0,139.0,True
+738,Delay Without Learning,95.0,125.0,30.0,False
+738,Conservative Baseline,73.0,125.0,52.0,False
+739,Immediate Action,125.0,125.0,0.0,True
+739,Staged Learning,-14.0,125.0,139.0,True
+739,Delay Without Learning,20.0,125.0,105.0,True
+739,Conservative Baseline,58.0,125.0,67.0,True
+740,Immediate Action,125.0,125.0,0.0,True
+740,Staged Learning,-14.0,125.0,139.0,True
+740,Delay Without Learning,95.0,125.0,30.0,False
+740,Conservative Baseline,73.0,125.0,52.0,False
+741,Immediate Action,-35.0,58.0,93.0,True
+741,Staged Learning,-14.0,58.0,72.0,True
+741,Delay Without Learning,20.0,58.0,38.0,True
+741,Conservative Baseline,58.0,58.0,0.0,True
+742,Immediate Action,-35.0,73.0,108.0,True
+742,Staged Learning,-14.0,73.0,87.0,True
+742,Delay Without Learning,20.0,73.0,53.0,True
+742,Conservative Baseline,73.0,73.0,0.0,False
+743,Immediate Action,125.0,125.0,0.0,True
+743,Staged Learning,-14.0,125.0,139.0,True
+743,Delay Without Learning,95.0,125.0,30.0,False
+743,Conservative Baseline,73.0,125.0,52.0,False
+744,Immediate Action,-35.0,58.0,93.0,True
+744,Staged Learning,-14.0,58.0,72.0,True
+744,Delay Without Learning,20.0,58.0,38.0,True
+744,Conservative Baseline,58.0,58.0,0.0,True
+745,Immediate Action,125.0,125.0,0.0,True
+745,Staged Learning,-14.0,125.0,139.0,True
+745,Delay Without Learning,95.0,125.0,30.0,False
+745,Conservative Baseline,73.0,125.0,52.0,False
+746,Immediate Action,-35.0,58.0,93.0,True
+746,Staged Learning,-14.0,58.0,72.0,True
+746,Delay Without Learning,20.0,58.0,38.0,True
+746,Conservative Baseline,58.0,58.0,0.0,True
+747,Immediate Action,-35.0,151.0,186.0,True
+747,Staged Learning,151.0,151.0,0.0,False
+747,Delay Without Learning,20.0,151.0,131.0,True
+747,Conservative Baseline,73.0,151.0,78.0,False
+748,Immediate Action,125.0,125.0,0.0,True
+748,Staged Learning,-14.0,125.0,139.0,True
+748,Delay Without Learning,95.0,125.0,30.0,False
+748,Conservative Baseline,73.0,125.0,52.0,False
+749,Immediate Action,125.0,125.0,0.0,True
+749,Staged Learning,-14.0,125.0,139.0,True
+749,Delay Without Learning,20.0,125.0,105.0,True
+749,Conservative Baseline,73.0,125.0,52.0,False
+750,Immediate Action,125.0,151.0,26.0,True
+750,Staged Learning,151.0,151.0,0.0,False
+750,Delay Without Learning,95.0,151.0,56.0,False
+750,Conservative Baseline,73.0,151.0,78.0,False
+751,Immediate Action,125.0,151.0,26.0,True
+751,Staged Learning,151.0,151.0,0.0,False
+751,Delay Without Learning,20.0,151.0,131.0,True
+751,Conservative Baseline,73.0,151.0,78.0,False
+752,Immediate Action,-35.0,95.0,130.0,True
+752,Staged Learning,-14.0,95.0,109.0,True
+752,Delay Without Learning,95.0,95.0,0.0,False
+752,Conservative Baseline,73.0,95.0,22.0,False
+753,Immediate Action,125.0,151.0,26.0,True
+753,Staged Learning,151.0,151.0,0.0,False
+753,Delay Without Learning,20.0,151.0,131.0,True
+753,Conservative Baseline,73.0,151.0,78.0,False
+754,Immediate Action,125.0,125.0,0.0,True
+754,Staged Learning,-14.0,125.0,139.0,True
+754,Delay Without Learning,95.0,125.0,30.0,False
+754,Conservative Baseline,73.0,125.0,52.0,False
+755,Immediate Action,-35.0,151.0,186.0,True
+755,Staged Learning,151.0,151.0,0.0,False
+755,Delay Without Learning,20.0,151.0,131.0,True
+755,Conservative Baseline,73.0,151.0,78.0,False
+756,Immediate Action,-35.0,151.0,186.0,True
+756,Staged Learning,151.0,151.0,0.0,False
+756,Delay Without Learning,95.0,151.0,56.0,False
+756,Conservative Baseline,73.0,151.0,78.0,False
+757,Immediate Action,125.0,125.0,0.0,True
+757,Staged Learning,-14.0,125.0,139.0,True
+757,Delay Without Learning,95.0,125.0,30.0,False
+757,Conservative Baseline,73.0,125.0,52.0,False
+758,Immediate Action,125.0,125.0,0.0,True
+758,Staged Learning,-14.0,125.0,139.0,True
+758,Delay Without Learning,95.0,125.0,30.0,False
+758,Conservative Baseline,73.0,125.0,52.0,False
+759,Immediate Action,125.0,151.0,26.0,True
+759,Staged Learning,151.0,151.0,0.0,False
+759,Delay Without Learning,20.0,151.0,131.0,True
+759,Conservative Baseline,73.0,151.0,78.0,False
+760,Immediate Action,125.0,151.0,26.0,True
+760,Staged Learning,151.0,151.0,0.0,False
+760,Delay Without Learning,20.0,151.0,131.0,True
+760,Conservative Baseline,73.0,151.0,78.0,False
+761,Immediate Action,-35.0,151.0,186.0,True
+761,Staged Learning,151.0,151.0,0.0,False
+761,Delay Without Learning,95.0,151.0,56.0,False
+761,Conservative Baseline,73.0,151.0,78.0,False
+762,Immediate Action,-35.0,151.0,186.0,True
+762,Staged Learning,151.0,151.0,0.0,False
+762,Delay Without Learning,95.0,151.0,56.0,False
+762,Conservative Baseline,73.0,151.0,78.0,False
+763,Immediate Action,-35.0,95.0,130.0,True
+763,Staged Learning,-14.0,95.0,109.0,True
+763,Delay Without Learning,95.0,95.0,0.0,False
+763,Conservative Baseline,73.0,95.0,22.0,False
+764,Immediate Action,125.0,125.0,0.0,True
+764,Staged Learning,-14.0,125.0,139.0,True
+764,Delay Without Learning,95.0,125.0,30.0,False
+764,Conservative Baseline,73.0,125.0,52.0,False
+765,Immediate Action,125.0,125.0,0.0,True
+765,Staged Learning,-14.0,125.0,139.0,True
+765,Delay Without Learning,20.0,125.0,105.0,True
+765,Conservative Baseline,58.0,125.0,67.0,True
+766,Immediate Action,-35.0,95.0,130.0,True
+766,Staged Learning,-14.0,95.0,109.0,True
+766,Delay Without Learning,95.0,95.0,0.0,False
+766,Conservative Baseline,73.0,95.0,22.0,False
+767,Immediate Action,125.0,151.0,26.0,True
+767,Staged Learning,151.0,151.0,0.0,False
+767,Delay Without Learning,95.0,151.0,56.0,False
+767,Conservative Baseline,73.0,151.0,78.0,False
+768,Immediate Action,-35.0,73.0,108.0,True
+768,Staged Learning,-14.0,73.0,87.0,True
+768,Delay Without Learning,20.0,73.0,53.0,True
+768,Conservative Baseline,73.0,73.0,0.0,False
+769,Immediate Action,125.0,151.0,26.0,True
+769,Staged Learning,151.0,151.0,0.0,False
+769,Delay Without Learning,20.0,151.0,131.0,True
+769,Conservative Baseline,58.0,151.0,93.0,True
+770,Immediate Action,-35.0,151.0,186.0,True
+770,Staged Learning,151.0,151.0,0.0,False
+770,Delay Without Learning,95.0,151.0,56.0,False
+770,Conservative Baseline,73.0,151.0,78.0,False
+771,Immediate Action,-35.0,151.0,186.0,True
+771,Staged Learning,151.0,151.0,0.0,False
+771,Delay Without Learning,20.0,151.0,131.0,True
+771,Conservative Baseline,73.0,151.0,78.0,False
+772,Immediate Action,125.0,151.0,26.0,True
+772,Staged Learning,151.0,151.0,0.0,False
+772,Delay Without Learning,20.0,151.0,131.0,True
+772,Conservative Baseline,58.0,151.0,93.0,True
+773,Immediate Action,125.0,151.0,26.0,True
+773,Staged Learning,151.0,151.0,0.0,False
+773,Delay Without Learning,95.0,151.0,56.0,False
+773,Conservative Baseline,73.0,151.0,78.0,False
+774,Immediate Action,125.0,151.0,26.0,True
+774,Staged Learning,151.0,151.0,0.0,False
+774,Delay Without Learning,95.0,151.0,56.0,False
+774,Conservative Baseline,73.0,151.0,78.0,False
+775,Immediate Action,125.0,125.0,0.0,True
+775,Staged Learning,-14.0,125.0,139.0,True
+775,Delay Without Learning,20.0,125.0,105.0,True
+775,Conservative Baseline,73.0,125.0,52.0,False
+776,Immediate Action,125.0,125.0,0.0,True
+776,Staged Learning,-14.0,125.0,139.0,True
+776,Delay Without Learning,95.0,125.0,30.0,False
+776,Conservative Baseline,73.0,125.0,52.0,False
+777,Immediate Action,-35.0,95.0,130.0,True
+777,Staged Learning,-14.0,95.0,109.0,True
+777,Delay Without Learning,95.0,95.0,0.0,False
+777,Conservative Baseline,73.0,95.0,22.0,False
+778,Immediate Action,-35.0,95.0,130.0,True
+778,Staged Learning,-14.0,95.0,109.0,True
+778,Delay Without Learning,95.0,95.0,0.0,False
+778,Conservative Baseline,73.0,95.0,22.0,False
+779,Immediate Action,125.0,151.0,26.0,True
+779,Staged Learning,151.0,151.0,0.0,False
+779,Delay Without Learning,20.0,151.0,131.0,True
+779,Conservative Baseline,73.0,151.0,78.0,False
+780,Immediate Action,125.0,151.0,26.0,True
+780,Staged Learning,151.0,151.0,0.0,False
+780,Delay Without Learning,95.0,151.0,56.0,False
+780,Conservative Baseline,73.0,151.0,78.0,False
+781,Immediate Action,-35.0,73.0,108.0,True
+781,Staged Learning,-14.0,73.0,87.0,True
+781,Delay Without Learning,20.0,73.0,53.0,True
+781,Conservative Baseline,73.0,73.0,0.0,False
+782,Immediate Action,125.0,125.0,0.0,True
+782,Staged Learning,-14.0,125.0,139.0,True
+782,Delay Without Learning,20.0,125.0,105.0,True
+782,Conservative Baseline,73.0,125.0,52.0,False
+783,Immediate Action,-35.0,151.0,186.0,True
+783,Staged Learning,151.0,151.0,0.0,False
+783,Delay Without Learning,95.0,151.0,56.0,False
+783,Conservative Baseline,73.0,151.0,78.0,False
+784,Immediate Action,125.0,151.0,26.0,True
+784,Staged Learning,151.0,151.0,0.0,False
+784,Delay Without Learning,95.0,151.0,56.0,False
+784,Conservative Baseline,73.0,151.0,78.0,False
+785,Immediate Action,125.0,125.0,0.0,True
+785,Staged Learning,-14.0,125.0,139.0,True
+785,Delay Without Learning,20.0,125.0,105.0,True
+785,Conservative Baseline,73.0,125.0,52.0,False
+786,Immediate Action,-35.0,151.0,186.0,True
+786,Staged Learning,151.0,151.0,0.0,False
+786,Delay Without Learning,20.0,151.0,131.0,True
+786,Conservative Baseline,58.0,151.0,93.0,True
+787,Immediate Action,-35.0,73.0,108.0,True
+787,Staged Learning,-14.0,73.0,87.0,True
+787,Delay Without Learning,20.0,73.0,53.0,True
+787,Conservative Baseline,73.0,73.0,0.0,False
+788,Immediate Action,125.0,151.0,26.0,True
+788,Staged Learning,151.0,151.0,0.0,False
+788,Delay Without Learning,95.0,151.0,56.0,False
+788,Conservative Baseline,73.0,151.0,78.0,False
+789,Immediate Action,125.0,151.0,26.0,True
+789,Staged Learning,151.0,151.0,0.0,False
+789,Delay Without Learning,20.0,151.0,131.0,True
+789,Conservative Baseline,73.0,151.0,78.0,False
+790,Immediate Action,125.0,125.0,0.0,True
+790,Staged Learning,-14.0,125.0,139.0,True
+790,Delay Without Learning,95.0,125.0,30.0,False
+790,Conservative Baseline,73.0,125.0,52.0,False
+791,Immediate Action,-35.0,73.0,108.0,True
+791,Staged Learning,-14.0,73.0,87.0,True
+791,Delay Without Learning,20.0,73.0,53.0,True
+791,Conservative Baseline,73.0,73.0,0.0,False
+792,Immediate Action,125.0,125.0,0.0,True
+792,Staged Learning,-14.0,125.0,139.0,True
+792,Delay Without Learning,95.0,125.0,30.0,False
+792,Conservative Baseline,73.0,125.0,52.0,False
+793,Immediate Action,-35.0,151.0,186.0,True
+793,Staged Learning,151.0,151.0,0.0,False
+793,Delay Without Learning,95.0,151.0,56.0,False
+793,Conservative Baseline,73.0,151.0,78.0,False
+794,Immediate Action,-35.0,151.0,186.0,True
+794,Staged Learning,151.0,151.0,0.0,False
+794,Delay Without Learning,95.0,151.0,56.0,False
+794,Conservative Baseline,73.0,151.0,78.0,False
+795,Immediate Action,125.0,125.0,0.0,True
+795,Staged Learning,-14.0,125.0,139.0,True
+795,Delay Without Learning,95.0,125.0,30.0,False
+795,Conservative Baseline,73.0,125.0,52.0,False
+796,Immediate Action,-35.0,151.0,186.0,True
+796,Staged Learning,151.0,151.0,0.0,False
+796,Delay Without Learning,20.0,151.0,131.0,True
+796,Conservative Baseline,73.0,151.0,78.0,False
+797,Immediate Action,125.0,151.0,26.0,True
+797,Staged Learning,151.0,151.0,0.0,False
+797,Delay Without Learning,95.0,151.0,56.0,False
+797,Conservative Baseline,73.0,151.0,78.0,False
+798,Immediate Action,-35.0,151.0,186.0,True
+798,Staged Learning,151.0,151.0,0.0,False
+798,Delay Without Learning,95.0,151.0,56.0,False
+798,Conservative Baseline,73.0,151.0,78.0,False
+799,Immediate Action,125.0,151.0,26.0,True
+799,Staged Learning,151.0,151.0,0.0,False
+799,Delay Without Learning,95.0,151.0,56.0,False
+799,Conservative Baseline,73.0,151.0,78.0,False
+800,Immediate Action,-35.0,151.0,186.0,True
+800,Staged Learning,151.0,151.0,0.0,False
+800,Delay Without Learning,95.0,151.0,56.0,False
+800,Conservative Baseline,73.0,151.0,78.0,False
+801,Immediate Action,125.0,125.0,0.0,True
+801,Staged Learning,-14.0,125.0,139.0,True
+801,Delay Without Learning,20.0,125.0,105.0,True
+801,Conservative Baseline,73.0,125.0,52.0,False
+802,Immediate Action,125.0,125.0,0.0,True
+802,Staged Learning,-14.0,125.0,139.0,True
+802,Delay Without Learning,95.0,125.0,30.0,False
+802,Conservative Baseline,73.0,125.0,52.0,False
+803,Immediate Action,-35.0,58.0,93.0,True
+803,Staged Learning,-14.0,58.0,72.0,True
+803,Delay Without Learning,20.0,58.0,38.0,True
+803,Conservative Baseline,58.0,58.0,0.0,True
+804,Immediate Action,-35.0,151.0,186.0,True
+804,Staged Learning,151.0,151.0,0.0,False
+804,Delay Without Learning,95.0,151.0,56.0,False
+804,Conservative Baseline,73.0,151.0,78.0,False
+805,Immediate Action,125.0,151.0,26.0,True
+805,Staged Learning,151.0,151.0,0.0,False
+805,Delay Without Learning,95.0,151.0,56.0,False
+805,Conservative Baseline,73.0,151.0,78.0,False
+806,Immediate Action,125.0,125.0,0.0,True
+806,Staged Learning,-14.0,125.0,139.0,True
+806,Delay Without Learning,95.0,125.0,30.0,False
+806,Conservative Baseline,73.0,125.0,52.0,False
+807,Immediate Action,125.0,151.0,26.0,True
+807,Staged Learning,151.0,151.0,0.0,False
+807,Delay Without Learning,20.0,151.0,131.0,True
+807,Conservative Baseline,58.0,151.0,93.0,True
+808,Immediate Action,125.0,125.0,0.0,True
+808,Staged Learning,-14.0,125.0,139.0,True
+808,Delay Without Learning,20.0,125.0,105.0,True
+808,Conservative Baseline,58.0,125.0,67.0,True
+809,Immediate Action,125.0,151.0,26.0,True
+809,Staged Learning,151.0,151.0,0.0,False
+809,Delay Without Learning,20.0,151.0,131.0,True
+809,Conservative Baseline,73.0,151.0,78.0,False
+810,Immediate Action,125.0,151.0,26.0,True
+810,Staged Learning,151.0,151.0,0.0,False
+810,Delay Without Learning,95.0,151.0,56.0,False
+810,Conservative Baseline,73.0,151.0,78.0,False
+811,Immediate Action,125.0,125.0,0.0,True
+811,Staged Learning,-14.0,125.0,139.0,True
+811,Delay Without Learning,95.0,125.0,30.0,False
+811,Conservative Baseline,73.0,125.0,52.0,False
+812,Immediate Action,125.0,125.0,0.0,True
+812,Staged Learning,-14.0,125.0,139.0,True
+812,Delay Without Learning,95.0,125.0,30.0,False
+812,Conservative Baseline,73.0,125.0,52.0,False
+813,Immediate Action,125.0,151.0,26.0,True
+813,Staged Learning,151.0,151.0,0.0,False
+813,Delay Without Learning,20.0,151.0,131.0,True
+813,Conservative Baseline,73.0,151.0,78.0,False
+814,Immediate Action,-35.0,151.0,186.0,True
+814,Staged Learning,151.0,151.0,0.0,False
+814,Delay Without Learning,20.0,151.0,131.0,True
+814,Conservative Baseline,73.0,151.0,78.0,False
+815,Immediate Action,125.0,125.0,0.0,True
+815,Staged Learning,-14.0,125.0,139.0,True
+815,Delay Without Learning,95.0,125.0,30.0,False
+815,Conservative Baseline,73.0,125.0,52.0,False
+816,Immediate Action,125.0,125.0,0.0,True
+816,Staged Learning,-14.0,125.0,139.0,True
+816,Delay Without Learning,95.0,125.0,30.0,False
+816,Conservative Baseline,73.0,125.0,52.0,False
+817,Immediate Action,-35.0,151.0,186.0,True
+817,Staged Learning,151.0,151.0,0.0,False
+817,Delay Without Learning,95.0,151.0,56.0,False
+817,Conservative Baseline,58.0,151.0,93.0,True
+818,Immediate Action,125.0,151.0,26.0,True
+818,Staged Learning,151.0,151.0,0.0,False
+818,Delay Without Learning,95.0,151.0,56.0,False
+818,Conservative Baseline,73.0,151.0,78.0,False
+819,Immediate Action,-35.0,151.0,186.0,True
+819,Staged Learning,151.0,151.0,0.0,False
+819,Delay Without Learning,20.0,151.0,131.0,True
+819,Conservative Baseline,73.0,151.0,78.0,False
+820,Immediate Action,-35.0,95.0,130.0,True
+820,Staged Learning,-14.0,95.0,109.0,True
+820,Delay Without Learning,95.0,95.0,0.0,False
+820,Conservative Baseline,73.0,95.0,22.0,False
+821,Immediate Action,-35.0,95.0,130.0,True
+821,Staged Learning,-14.0,95.0,109.0,True
+821,Delay Without Learning,95.0,95.0,0.0,False
+821,Conservative Baseline,73.0,95.0,22.0,False
+822,Immediate Action,125.0,151.0,26.0,True
+822,Staged Learning,151.0,151.0,0.0,False
+822,Delay Without Learning,95.0,151.0,56.0,False
+822,Conservative Baseline,73.0,151.0,78.0,False
+823,Immediate Action,-35.0,95.0,130.0,True
+823,Staged Learning,-14.0,95.0,109.0,True
+823,Delay Without Learning,95.0,95.0,0.0,False
+823,Conservative Baseline,73.0,95.0,22.0,False
+824,Immediate Action,-35.0,151.0,186.0,True
+824,Staged Learning,151.0,151.0,0.0,False
+824,Delay Without Learning,20.0,151.0,131.0,True
+824,Conservative Baseline,73.0,151.0,78.0,False
+825,Immediate Action,-35.0,151.0,186.0,True
+825,Staged Learning,151.0,151.0,0.0,False
+825,Delay Without Learning,20.0,151.0,131.0,True
+825,Conservative Baseline,73.0,151.0,78.0,False
+826,Immediate Action,125.0,151.0,26.0,True
+826,Staged Learning,151.0,151.0,0.0,False
+826,Delay Without Learning,20.0,151.0,131.0,True
+826,Conservative Baseline,58.0,151.0,93.0,True
+827,Immediate Action,125.0,125.0,0.0,True
+827,Staged Learning,-14.0,125.0,139.0,True
+827,Delay Without Learning,20.0,125.0,105.0,True
+827,Conservative Baseline,73.0,125.0,52.0,False
+828,Immediate Action,125.0,125.0,0.0,True
+828,Staged Learning,-14.0,125.0,139.0,True
+828,Delay Without Learning,20.0,125.0,105.0,True
+828,Conservative Baseline,73.0,125.0,52.0,False
+829,Immediate Action,-35.0,151.0,186.0,True
+829,Staged Learning,151.0,151.0,0.0,False
+829,Delay Without Learning,20.0,151.0,131.0,True
+829,Conservative Baseline,73.0,151.0,78.0,False
+830,Immediate Action,-35.0,73.0,108.0,True
+830,Staged Learning,-14.0,73.0,87.0,True
+830,Delay Without Learning,20.0,73.0,53.0,True
+830,Conservative Baseline,73.0,73.0,0.0,False
+831,Immediate Action,-35.0,73.0,108.0,True
+831,Staged Learning,-14.0,73.0,87.0,True
+831,Delay Without Learning,20.0,73.0,53.0,True
+831,Conservative Baseline,73.0,73.0,0.0,False
+832,Immediate Action,125.0,151.0,26.0,True
+832,Staged Learning,151.0,151.0,0.0,False
+832,Delay Without Learning,20.0,151.0,131.0,True
+832,Conservative Baseline,73.0,151.0,78.0,False
+833,Immediate Action,125.0,151.0,26.0,True
+833,Staged Learning,151.0,151.0,0.0,False
+833,Delay Without Learning,95.0,151.0,56.0,False
+833,Conservative Baseline,73.0,151.0,78.0,False
+834,Immediate Action,125.0,125.0,0.0,True
+834,Staged Learning,-14.0,125.0,139.0,True
+834,Delay Without Learning,95.0,125.0,30.0,False
+834,Conservative Baseline,73.0,125.0,52.0,False
+835,Immediate Action,-35.0,151.0,186.0,True
+835,Staged Learning,151.0,151.0,0.0,False
+835,Delay Without Learning,20.0,151.0,131.0,True
+835,Conservative Baseline,73.0,151.0,78.0,False
+836,Immediate Action,125.0,151.0,26.0,True
+836,Staged Learning,151.0,151.0,0.0,False
+836,Delay Without Learning,95.0,151.0,56.0,False
+836,Conservative Baseline,73.0,151.0,78.0,False
+837,Immediate Action,-35.0,95.0,130.0,True
+837,Staged Learning,-14.0,95.0,109.0,True
+837,Delay Without Learning,95.0,95.0,0.0,False
+837,Conservative Baseline,73.0,95.0,22.0,False
+838,Immediate Action,125.0,151.0,26.0,True
+838,Staged Learning,151.0,151.0,0.0,False
+838,Delay Without Learning,95.0,151.0,56.0,False
+838,Conservative Baseline,73.0,151.0,78.0,False
+839,Immediate Action,125.0,125.0,0.0,True
+839,Staged Learning,-14.0,125.0,139.0,True
+839,Delay Without Learning,20.0,125.0,105.0,True
+839,Conservative Baseline,73.0,125.0,52.0,False
+840,Immediate Action,-35.0,151.0,186.0,True
+840,Staged Learning,151.0,151.0,0.0,False
+840,Delay Without Learning,20.0,151.0,131.0,True
+840,Conservative Baseline,73.0,151.0,78.0,False
+841,Immediate Action,125.0,151.0,26.0,True
+841,Staged Learning,151.0,151.0,0.0,False
+841,Delay Without Learning,95.0,151.0,56.0,False
+841,Conservative Baseline,73.0,151.0,78.0,False
+842,Immediate Action,-35.0,151.0,186.0,True
+842,Staged Learning,151.0,151.0,0.0,False
+842,Delay Without Learning,95.0,151.0,56.0,False
+842,Conservative Baseline,73.0,151.0,78.0,False
+843,Immediate Action,-35.0,151.0,186.0,True
+843,Staged Learning,151.0,151.0,0.0,False
+843,Delay Without Learning,95.0,151.0,56.0,False
+843,Conservative Baseline,58.0,151.0,93.0,True
+844,Immediate Action,-35.0,151.0,186.0,True
+844,Staged Learning,151.0,151.0,0.0,False
+844,Delay Without Learning,95.0,151.0,56.0,False
+844,Conservative Baseline,73.0,151.0,78.0,False
+845,Immediate Action,-35.0,151.0,186.0,True
+845,Staged Learning,151.0,151.0,0.0,False
+845,Delay Without Learning,95.0,151.0,56.0,False
+845,Conservative Baseline,73.0,151.0,78.0,False
+846,Immediate Action,-35.0,151.0,186.0,True
+846,Staged Learning,151.0,151.0,0.0,False
+846,Delay Without Learning,20.0,151.0,131.0,True
+846,Conservative Baseline,73.0,151.0,78.0,False
+847,Immediate Action,125.0,125.0,0.0,True
+847,Staged Learning,-14.0,125.0,139.0,True
+847,Delay Without Learning,95.0,125.0,30.0,False
+847,Conservative Baseline,73.0,125.0,52.0,False
+848,Immediate Action,125.0,151.0,26.0,True
+848,Staged Learning,151.0,151.0,0.0,False
+848,Delay Without Learning,95.0,151.0,56.0,False
+848,Conservative Baseline,73.0,151.0,78.0,False
+849,Immediate Action,-35.0,151.0,186.0,True
+849,Staged Learning,151.0,151.0,0.0,False
+849,Delay Without Learning,20.0,151.0,131.0,True
+849,Conservative Baseline,73.0,151.0,78.0,False
+850,Immediate Action,-35.0,95.0,130.0,True
+850,Staged Learning,-14.0,95.0,109.0,True
+850,Delay Without Learning,95.0,95.0,0.0,False
+850,Conservative Baseline,73.0,95.0,22.0,False
+851,Immediate Action,-35.0,95.0,130.0,True
+851,Staged Learning,-14.0,95.0,109.0,True
+851,Delay Without Learning,95.0,95.0,0.0,False
+851,Conservative Baseline,73.0,95.0,22.0,False
+852,Immediate Action,125.0,151.0,26.0,True
+852,Staged Learning,151.0,151.0,0.0,False
+852,Delay Without Learning,95.0,151.0,56.0,False
+852,Conservative Baseline,73.0,151.0,78.0,False
+853,Immediate Action,125.0,151.0,26.0,True
+853,Staged Learning,151.0,151.0,0.0,False
+853,Delay Without Learning,20.0,151.0,131.0,True
+853,Conservative Baseline,73.0,151.0,78.0,False
+854,Immediate Action,-35.0,151.0,186.0,True
+854,Staged Learning,151.0,151.0,0.0,False
+854,Delay Without Learning,95.0,151.0,56.0,False
+854,Conservative Baseline,73.0,151.0,78.0,False
+855,Immediate Action,-35.0,95.0,130.0,True
+855,Staged Learning,-14.0,95.0,109.0,True
+855,Delay Without Learning,95.0,95.0,0.0,False
+855,Conservative Baseline,73.0,95.0,22.0,False
+856,Immediate Action,-35.0,95.0,130.0,True
+856,Staged Learning,-14.0,95.0,109.0,True
+856,Delay Without Learning,95.0,95.0,0.0,False
+856,Conservative Baseline,73.0,95.0,22.0,False
+857,Immediate Action,-35.0,151.0,186.0,True
+857,Staged Learning,151.0,151.0,0.0,False
+857,Delay Without Learning,20.0,151.0,131.0,True
+857,Conservative Baseline,73.0,151.0,78.0,False
+858,Immediate Action,125.0,151.0,26.0,True
+858,Staged Learning,151.0,151.0,0.0,False
+858,Delay Without Learning,20.0,151.0,131.0,True
+858,Conservative Baseline,73.0,151.0,78.0,False
+859,Immediate Action,125.0,125.0,0.0,True
+859,Staged Learning,-14.0,125.0,139.0,True
+859,Delay Without Learning,95.0,125.0,30.0,False
+859,Conservative Baseline,73.0,125.0,52.0,False
+860,Immediate Action,-35.0,73.0,108.0,True
+860,Staged Learning,-14.0,73.0,87.0,True
+860,Delay Without Learning,20.0,73.0,53.0,True
+860,Conservative Baseline,73.0,73.0,0.0,False
+861,Immediate Action,-35.0,151.0,186.0,True
+861,Staged Learning,151.0,151.0,0.0,False
+861,Delay Without Learning,20.0,151.0,131.0,True
+861,Conservative Baseline,73.0,151.0,78.0,False
+862,Immediate Action,125.0,151.0,26.0,True
+862,Staged Learning,151.0,151.0,0.0,False
+862,Delay Without Learning,20.0,151.0,131.0,True
+862,Conservative Baseline,73.0,151.0,78.0,False
+863,Immediate Action,-35.0,151.0,186.0,True
+863,Staged Learning,151.0,151.0,0.0,False
+863,Delay Without Learning,95.0,151.0,56.0,False
+863,Conservative Baseline,73.0,151.0,78.0,False
+864,Immediate Action,-35.0,95.0,130.0,True
+864,Staged Learning,-14.0,95.0,109.0,True
+864,Delay Without Learning,95.0,95.0,0.0,False
+864,Conservative Baseline,73.0,95.0,22.0,False
+865,Immediate Action,125.0,151.0,26.0,True
+865,Staged Learning,151.0,151.0,0.0,False
+865,Delay Without Learning,95.0,151.0,56.0,False
+865,Conservative Baseline,73.0,151.0,78.0,False
+866,Immediate Action,-35.0,95.0,130.0,True
+866,Staged Learning,-14.0,95.0,109.0,True
+866,Delay Without Learning,95.0,95.0,0.0,False
+866,Conservative Baseline,73.0,95.0,22.0,False
+867,Immediate Action,125.0,125.0,0.0,True
+867,Staged Learning,-14.0,125.0,139.0,True
+867,Delay Without Learning,95.0,125.0,30.0,False
+867,Conservative Baseline,73.0,125.0,52.0,False
+868,Immediate Action,125.0,125.0,0.0,True
+868,Staged Learning,-14.0,125.0,139.0,True
+868,Delay Without Learning,20.0,125.0,105.0,True
+868,Conservative Baseline,58.0,125.0,67.0,True
+869,Immediate Action,125.0,125.0,0.0,True
+869,Staged Learning,-14.0,125.0,139.0,True
+869,Delay Without Learning,95.0,125.0,30.0,False
+869,Conservative Baseline,73.0,125.0,52.0,False
+870,Immediate Action,125.0,151.0,26.0,True
+870,Staged Learning,151.0,151.0,0.0,False
+870,Delay Without Learning,95.0,151.0,56.0,False
+870,Conservative Baseline,73.0,151.0,78.0,False
+871,Immediate Action,125.0,151.0,26.0,True
+871,Staged Learning,151.0,151.0,0.0,False
+871,Delay Without Learning,95.0,151.0,56.0,False
+871,Conservative Baseline,73.0,151.0,78.0,False
+872,Immediate Action,-35.0,73.0,108.0,True
+872,Staged Learning,-14.0,73.0,87.0,True
+872,Delay Without Learning,20.0,73.0,53.0,True
+872,Conservative Baseline,73.0,73.0,0.0,False
+873,Immediate Action,125.0,151.0,26.0,True
+873,Staged Learning,151.0,151.0,0.0,False
+873,Delay Without Learning,95.0,151.0,56.0,False
+873,Conservative Baseline,73.0,151.0,78.0,False
+874,Immediate Action,125.0,151.0,26.0,True
+874,Staged Learning,151.0,151.0,0.0,False
+874,Delay Without Learning,95.0,151.0,56.0,False
+874,Conservative Baseline,58.0,151.0,93.0,True
+875,Immediate Action,-35.0,95.0,130.0,True
+875,Staged Learning,-14.0,95.0,109.0,True
+875,Delay Without Learning,95.0,95.0,0.0,False
+875,Conservative Baseline,73.0,95.0,22.0,False
+876,Immediate Action,-35.0,95.0,130.0,True
+876,Staged Learning,-14.0,95.0,109.0,True
+876,Delay Without Learning,95.0,95.0,0.0,False
+876,Conservative Baseline,73.0,95.0,22.0,False
+877,Immediate Action,125.0,125.0,0.0,True
+877,Staged Learning,-14.0,125.0,139.0,True
+877,Delay Without Learning,95.0,125.0,30.0,False
+877,Conservative Baseline,73.0,125.0,52.0,False
+878,Immediate Action,-35.0,151.0,186.0,True
+878,Staged Learning,151.0,151.0,0.0,False
+878,Delay Without Learning,20.0,151.0,131.0,True
+878,Conservative Baseline,73.0,151.0,78.0,False
+879,Immediate Action,125.0,125.0,0.0,True
+879,Staged Learning,-14.0,125.0,139.0,True
+879,Delay Without Learning,95.0,125.0,30.0,False
+879,Conservative Baseline,73.0,125.0,52.0,False
+880,Immediate Action,125.0,151.0,26.0,True
+880,Staged Learning,151.0,151.0,0.0,False
+880,Delay Without Learning,95.0,151.0,56.0,False
+880,Conservative Baseline,73.0,151.0,78.0,False
+881,Immediate Action,125.0,151.0,26.0,True
+881,Staged Learning,151.0,151.0,0.0,False
+881,Delay Without Learning,95.0,151.0,56.0,False
+881,Conservative Baseline,73.0,151.0,78.0,False
+882,Immediate Action,125.0,125.0,0.0,True
+882,Staged Learning,-14.0,125.0,139.0,True
+882,Delay Without Learning,95.0,125.0,30.0,False
+882,Conservative Baseline,73.0,125.0,52.0,False
+883,Immediate Action,125.0,125.0,0.0,True
+883,Staged Learning,-14.0,125.0,139.0,True
+883,Delay Without Learning,95.0,125.0,30.0,False
+883,Conservative Baseline,73.0,125.0,52.0,False
+884,Immediate Action,-35.0,151.0,186.0,True
+884,Staged Learning,151.0,151.0,0.0,False
+884,Delay Without Learning,20.0,151.0,131.0,True
+884,Conservative Baseline,73.0,151.0,78.0,False
+885,Immediate Action,-35.0,151.0,186.0,True
+885,Staged Learning,151.0,151.0,0.0,False
+885,Delay Without Learning,95.0,151.0,56.0,False
+885,Conservative Baseline,73.0,151.0,78.0,False
+886,Immediate Action,-35.0,151.0,186.0,True
+886,Staged Learning,151.0,151.0,0.0,False
+886,Delay Without Learning,20.0,151.0,131.0,True
+886,Conservative Baseline,73.0,151.0,78.0,False
+887,Immediate Action,125.0,125.0,0.0,True
+887,Staged Learning,-14.0,125.0,139.0,True
+887,Delay Without Learning,95.0,125.0,30.0,False
+887,Conservative Baseline,73.0,125.0,52.0,False
+888,Immediate Action,125.0,151.0,26.0,True
+888,Staged Learning,151.0,151.0,0.0,False
+888,Delay Without Learning,95.0,151.0,56.0,False
+888,Conservative Baseline,73.0,151.0,78.0,False
+889,Immediate Action,125.0,151.0,26.0,True
+889,Staged Learning,151.0,151.0,0.0,False
+889,Delay Without Learning,20.0,151.0,131.0,True
+889,Conservative Baseline,73.0,151.0,78.0,False
+890,Immediate Action,-35.0,73.0,108.0,True
+890,Staged Learning,-14.0,73.0,87.0,True
+890,Delay Without Learning,20.0,73.0,53.0,True
+890,Conservative Baseline,73.0,73.0,0.0,False
+891,Immediate Action,-35.0,151.0,186.0,True
+891,Staged Learning,151.0,151.0,0.0,False
+891,Delay Without Learning,20.0,151.0,131.0,True
+891,Conservative Baseline,73.0,151.0,78.0,False
+892,Immediate Action,125.0,125.0,0.0,True
+892,Staged Learning,-14.0,125.0,139.0,True
+892,Delay Without Learning,95.0,125.0,30.0,False
+892,Conservative Baseline,73.0,125.0,52.0,False
+893,Immediate Action,125.0,151.0,26.0,True
+893,Staged Learning,151.0,151.0,0.0,False
+893,Delay Without Learning,95.0,151.0,56.0,False
+893,Conservative Baseline,73.0,151.0,78.0,False
+894,Immediate Action,-35.0,151.0,186.0,True
+894,Staged Learning,151.0,151.0,0.0,False
+894,Delay Without Learning,95.0,151.0,56.0,False
+894,Conservative Baseline,58.0,151.0,93.0,True
+895,Immediate Action,125.0,125.0,0.0,True
+895,Staged Learning,-14.0,125.0,139.0,True
+895,Delay Without Learning,95.0,125.0,30.0,False
+895,Conservative Baseline,73.0,125.0,52.0,False
+896,Immediate Action,125.0,151.0,26.0,True
+896,Staged Learning,151.0,151.0,0.0,False
+896,Delay Without Learning,95.0,151.0,56.0,False
+896,Conservative Baseline,73.0,151.0,78.0,False
+897,Immediate Action,125.0,151.0,26.0,True
+897,Staged Learning,151.0,151.0,0.0,False
+897,Delay Without Learning,95.0,151.0,56.0,False
+897,Conservative Baseline,73.0,151.0,78.0,False
+898,Immediate Action,125.0,151.0,26.0,True
+898,Staged Learning,151.0,151.0,0.0,False
+898,Delay Without Learning,95.0,151.0,56.0,False
+898,Conservative Baseline,73.0,151.0,78.0,False
+899,Immediate Action,125.0,151.0,26.0,True
+899,Staged Learning,151.0,151.0,0.0,False
+899,Delay Without Learning,95.0,151.0,56.0,False
+899,Conservative Baseline,73.0,151.0,78.0,False
+900,Immediate Action,125.0,151.0,26.0,True
+900,Staged Learning,151.0,151.0,0.0,False
+900,Delay Without Learning,95.0,151.0,56.0,False
+900,Conservative Baseline,73.0,151.0,78.0,False
+901,Immediate Action,-35.0,151.0,186.0,True
+901,Staged Learning,151.0,151.0,0.0,False
+901,Delay Without Learning,95.0,151.0,56.0,False
+901,Conservative Baseline,73.0,151.0,78.0,False
+902,Immediate Action,125.0,125.0,0.0,True
+902,Staged Learning,-14.0,125.0,139.0,True
+902,Delay Without Learning,95.0,125.0,30.0,False
+902,Conservative Baseline,58.0,125.0,67.0,True
+903,Immediate Action,-35.0,151.0,186.0,True
+903,Staged Learning,151.0,151.0,0.0,False
+903,Delay Without Learning,20.0,151.0,131.0,True
+903,Conservative Baseline,73.0,151.0,78.0,False
+904,Immediate Action,-35.0,151.0,186.0,True
+904,Staged Learning,151.0,151.0,0.0,False
+904,Delay Without Learning,20.0,151.0,131.0,True
+904,Conservative Baseline,73.0,151.0,78.0,False
+905,Immediate Action,125.0,151.0,26.0,True
+905,Staged Learning,151.0,151.0,0.0,False
+905,Delay Without Learning,20.0,151.0,131.0,True
+905,Conservative Baseline,73.0,151.0,78.0,False
+906,Immediate Action,125.0,151.0,26.0,True
+906,Staged Learning,151.0,151.0,0.0,False
+906,Delay Without Learning,95.0,151.0,56.0,False
+906,Conservative Baseline,73.0,151.0,78.0,False
+907,Immediate Action,-35.0,95.0,130.0,True
+907,Staged Learning,-14.0,95.0,109.0,True
+907,Delay Without Learning,95.0,95.0,0.0,False
+907,Conservative Baseline,73.0,95.0,22.0,False
+908,Immediate Action,-35.0,95.0,130.0,True
+908,Staged Learning,-14.0,95.0,109.0,True
+908,Delay Without Learning,95.0,95.0,0.0,False
+908,Conservative Baseline,73.0,95.0,22.0,False
+909,Immediate Action,125.0,151.0,26.0,True
+909,Staged Learning,151.0,151.0,0.0,False
+909,Delay Without Learning,20.0,151.0,131.0,True
+909,Conservative Baseline,73.0,151.0,78.0,False
+910,Immediate Action,-35.0,73.0,108.0,True
+910,Staged Learning,-14.0,73.0,87.0,True
+910,Delay Without Learning,20.0,73.0,53.0,True
+910,Conservative Baseline,73.0,73.0,0.0,False
+911,Immediate Action,125.0,125.0,0.0,True
+911,Staged Learning,-14.0,125.0,139.0,True
+911,Delay Without Learning,95.0,125.0,30.0,False
+911,Conservative Baseline,73.0,125.0,52.0,False
+912,Immediate Action,-35.0,58.0,93.0,True
+912,Staged Learning,-14.0,58.0,72.0,True
+912,Delay Without Learning,20.0,58.0,38.0,True
+912,Conservative Baseline,58.0,58.0,0.0,True
+913,Immediate Action,125.0,125.0,0.0,True
+913,Staged Learning,-14.0,125.0,139.0,True
+913,Delay Without Learning,20.0,125.0,105.0,True
+913,Conservative Baseline,73.0,125.0,52.0,False
+914,Immediate Action,-35.0,151.0,186.0,True
+914,Staged Learning,151.0,151.0,0.0,False
+914,Delay Without Learning,95.0,151.0,56.0,False
+914,Conservative Baseline,73.0,151.0,78.0,False
+915,Immediate Action,-35.0,151.0,186.0,True
+915,Staged Learning,151.0,151.0,0.0,False
+915,Delay Without Learning,95.0,151.0,56.0,False
+915,Conservative Baseline,73.0,151.0,78.0,False
+916,Immediate Action,125.0,125.0,0.0,True
+916,Staged Learning,-14.0,125.0,139.0,True
+916,Delay Without Learning,20.0,125.0,105.0,True
+916,Conservative Baseline,73.0,125.0,52.0,False
+917,Immediate Action,-35.0,73.0,108.0,True
+917,Staged Learning,-14.0,73.0,87.0,True
+917,Delay Without Learning,20.0,73.0,53.0,True
+917,Conservative Baseline,73.0,73.0,0.0,False
+918,Immediate Action,-35.0,95.0,130.0,True
+918,Staged Learning,-14.0,95.0,109.0,True
+918,Delay Without Learning,95.0,95.0,0.0,False
+918,Conservative Baseline,73.0,95.0,22.0,False
+919,Immediate Action,-35.0,151.0,186.0,True
+919,Staged Learning,151.0,151.0,0.0,False
+919,Delay Without Learning,95.0,151.0,56.0,False
+919,Conservative Baseline,73.0,151.0,78.0,False
+920,Immediate Action,-35.0,95.0,130.0,True
+920,Staged Learning,-14.0,95.0,109.0,True
+920,Delay Without Learning,95.0,95.0,0.0,False
+920,Conservative Baseline,73.0,95.0,22.0,False
+921,Immediate Action,-35.0,95.0,130.0,True
+921,Staged Learning,-14.0,95.0,109.0,True
+921,Delay Without Learning,95.0,95.0,0.0,False
+921,Conservative Baseline,58.0,95.0,37.0,True
+922,Immediate Action,-35.0,95.0,130.0,True
+922,Staged Learning,-14.0,95.0,109.0,True
+922,Delay Without Learning,95.0,95.0,0.0,False
+922,Conservative Baseline,73.0,95.0,22.0,False
+923,Immediate Action,-35.0,95.0,130.0,True
+923,Staged Learning,-14.0,95.0,109.0,True
+923,Delay Without Learning,95.0,95.0,0.0,False
+923,Conservative Baseline,73.0,95.0,22.0,False
+924,Immediate Action,-35.0,151.0,186.0,True
+924,Staged Learning,151.0,151.0,0.0,False
+924,Delay Without Learning,95.0,151.0,56.0,False
+924,Conservative Baseline,73.0,151.0,78.0,False
+925,Immediate Action,-35.0,151.0,186.0,True
+925,Staged Learning,151.0,151.0,0.0,False
+925,Delay Without Learning,20.0,151.0,131.0,True
+925,Conservative Baseline,73.0,151.0,78.0,False
+926,Immediate Action,125.0,151.0,26.0,True
+926,Staged Learning,151.0,151.0,0.0,False
+926,Delay Without Learning,95.0,151.0,56.0,False
+926,Conservative Baseline,73.0,151.0,78.0,False
+927,Immediate Action,125.0,151.0,26.0,True
+927,Staged Learning,151.0,151.0,0.0,False
+927,Delay Without Learning,20.0,151.0,131.0,True
+927,Conservative Baseline,73.0,151.0,78.0,False
+928,Immediate Action,125.0,151.0,26.0,True
+928,Staged Learning,151.0,151.0,0.0,False
+928,Delay Without Learning,95.0,151.0,56.0,False
+928,Conservative Baseline,73.0,151.0,78.0,False
+929,Immediate Action,-35.0,151.0,186.0,True
+929,Staged Learning,151.0,151.0,0.0,False
+929,Delay Without Learning,20.0,151.0,131.0,True
+929,Conservative Baseline,73.0,151.0,78.0,False
+930,Immediate Action,125.0,125.0,0.0,True
+930,Staged Learning,-14.0,125.0,139.0,True
+930,Delay Without Learning,20.0,125.0,105.0,True
+930,Conservative Baseline,73.0,125.0,52.0,False
+931,Immediate Action,125.0,151.0,26.0,True
+931,Staged Learning,151.0,151.0,0.0,False
+931,Delay Without Learning,95.0,151.0,56.0,False
+931,Conservative Baseline,73.0,151.0,78.0,False
+932,Immediate Action,-35.0,95.0,130.0,True
+932,Staged Learning,-14.0,95.0,109.0,True
+932,Delay Without Learning,95.0,95.0,0.0,False
+932,Conservative Baseline,73.0,95.0,22.0,False
+933,Immediate Action,125.0,151.0,26.0,True
+933,Staged Learning,151.0,151.0,0.0,False
+933,Delay Without Learning,20.0,151.0,131.0,True
+933,Conservative Baseline,73.0,151.0,78.0,False
+934,Immediate Action,125.0,125.0,0.0,True
+934,Staged Learning,-14.0,125.0,139.0,True
+934,Delay Without Learning,20.0,125.0,105.0,True
+934,Conservative Baseline,73.0,125.0,52.0,False
+935,Immediate Action,125.0,125.0,0.0,True
+935,Staged Learning,-14.0,125.0,139.0,True
+935,Delay Without Learning,95.0,125.0,30.0,False
+935,Conservative Baseline,73.0,125.0,52.0,False
+936,Immediate Action,-35.0,151.0,186.0,True
+936,Staged Learning,151.0,151.0,0.0,False
+936,Delay Without Learning,20.0,151.0,131.0,True
+936,Conservative Baseline,73.0,151.0,78.0,False
+937,Immediate Action,125.0,125.0,0.0,True
+937,Staged Learning,-14.0,125.0,139.0,True
+937,Delay Without Learning,95.0,125.0,30.0,False
+937,Conservative Baseline,73.0,125.0,52.0,False
+938,Immediate Action,-35.0,151.0,186.0,True
+938,Staged Learning,151.0,151.0,0.0,False
+938,Delay Without Learning,95.0,151.0,56.0,False
+938,Conservative Baseline,73.0,151.0,78.0,False
+939,Immediate Action,-35.0,151.0,186.0,True
+939,Staged Learning,151.0,151.0,0.0,False
+939,Delay Without Learning,20.0,151.0,131.0,True
+939,Conservative Baseline,73.0,151.0,78.0,False
+940,Immediate Action,125.0,151.0,26.0,True
+940,Staged Learning,151.0,151.0,0.0,False
+940,Delay Without Learning,95.0,151.0,56.0,False
+940,Conservative Baseline,73.0,151.0,78.0,False
+941,Immediate Action,-35.0,73.0,108.0,True
+941,Staged Learning,-14.0,73.0,87.0,True
+941,Delay Without Learning,20.0,73.0,53.0,True
+941,Conservative Baseline,73.0,73.0,0.0,False
+942,Immediate Action,125.0,125.0,0.0,True
+942,Staged Learning,-14.0,125.0,139.0,True
+942,Delay Without Learning,95.0,125.0,30.0,False
+942,Conservative Baseline,73.0,125.0,52.0,False
+943,Immediate Action,-35.0,151.0,186.0,True
+943,Staged Learning,151.0,151.0,0.0,False
+943,Delay Without Learning,20.0,151.0,131.0,True
+943,Conservative Baseline,73.0,151.0,78.0,False
+944,Immediate Action,-35.0,151.0,186.0,True
+944,Staged Learning,151.0,151.0,0.0,False
+944,Delay Without Learning,20.0,151.0,131.0,True
+944,Conservative Baseline,73.0,151.0,78.0,False
+945,Immediate Action,125.0,151.0,26.0,True
+945,Staged Learning,151.0,151.0,0.0,False
+945,Delay Without Learning,20.0,151.0,131.0,True
+945,Conservative Baseline,73.0,151.0,78.0,False
+946,Immediate Action,125.0,151.0,26.0,True
+946,Staged Learning,151.0,151.0,0.0,False
+946,Delay Without Learning,95.0,151.0,56.0,False
+946,Conservative Baseline,73.0,151.0,78.0,False
+947,Immediate Action,-35.0,151.0,186.0,True
+947,Staged Learning,151.0,151.0,0.0,False
+947,Delay Without Learning,95.0,151.0,56.0,False
+947,Conservative Baseline,73.0,151.0,78.0,False
+948,Immediate Action,125.0,151.0,26.0,True
+948,Staged Learning,151.0,151.0,0.0,False
+948,Delay Without Learning,95.0,151.0,56.0,False
+948,Conservative Baseline,73.0,151.0,78.0,False
+949,Immediate Action,-35.0,95.0,130.0,True
+949,Staged Learning,-14.0,95.0,109.0,True
+949,Delay Without Learning,95.0,95.0,0.0,False
+949,Conservative Baseline,58.0,95.0,37.0,True
+950,Immediate Action,-35.0,95.0,130.0,True
+950,Staged Learning,-14.0,95.0,109.0,True
+950,Delay Without Learning,95.0,95.0,0.0,False
+950,Conservative Baseline,58.0,95.0,37.0,True
+951,Immediate Action,-35.0,151.0,186.0,True
+951,Staged Learning,151.0,151.0,0.0,False
+951,Delay Without Learning,95.0,151.0,56.0,False
+951,Conservative Baseline,58.0,151.0,93.0,True
+952,Immediate Action,-35.0,73.0,108.0,True
+952,Staged Learning,-14.0,73.0,87.0,True
+952,Delay Without Learning,20.0,73.0,53.0,True
+952,Conservative Baseline,73.0,73.0,0.0,False
+953,Immediate Action,-35.0,151.0,186.0,True
+953,Staged Learning,151.0,151.0,0.0,False
+953,Delay Without Learning,95.0,151.0,56.0,False
+953,Conservative Baseline,73.0,151.0,78.0,False
+954,Immediate Action,-35.0,73.0,108.0,True
+954,Staged Learning,-14.0,73.0,87.0,True
+954,Delay Without Learning,20.0,73.0,53.0,True
+954,Conservative Baseline,73.0,73.0,0.0,False
+955,Immediate Action,125.0,125.0,0.0,True
+955,Staged Learning,-14.0,125.0,139.0,True
+955,Delay Without Learning,20.0,125.0,105.0,True
+955,Conservative Baseline,73.0,125.0,52.0,False
+956,Immediate Action,-35.0,58.0,93.0,True
+956,Staged Learning,-14.0,58.0,72.0,True
+956,Delay Without Learning,20.0,58.0,38.0,True
+956,Conservative Baseline,58.0,58.0,0.0,True
+957,Immediate Action,125.0,125.0,0.0,True
+957,Staged Learning,-14.0,125.0,139.0,True
+957,Delay Without Learning,20.0,125.0,105.0,True
+957,Conservative Baseline,73.0,125.0,52.0,False
+958,Immediate Action,125.0,151.0,26.0,True
+958,Staged Learning,151.0,151.0,0.0,False
+958,Delay Without Learning,95.0,151.0,56.0,False
+958,Conservative Baseline,73.0,151.0,78.0,False
+959,Immediate Action,125.0,151.0,26.0,True
+959,Staged Learning,151.0,151.0,0.0,False
+959,Delay Without Learning,20.0,151.0,131.0,True
+959,Conservative Baseline,58.0,151.0,93.0,True
+960,Immediate Action,-35.0,95.0,130.0,True
+960,Staged Learning,-14.0,95.0,109.0,True
+960,Delay Without Learning,95.0,95.0,0.0,False
+960,Conservative Baseline,73.0,95.0,22.0,False
+961,Immediate Action,-35.0,151.0,186.0,True
+961,Staged Learning,151.0,151.0,0.0,False
+961,Delay Without Learning,20.0,151.0,131.0,True
+961,Conservative Baseline,73.0,151.0,78.0,False
+962,Immediate Action,-35.0,95.0,130.0,True
+962,Staged Learning,-14.0,95.0,109.0,True
+962,Delay Without Learning,95.0,95.0,0.0,False
+962,Conservative Baseline,73.0,95.0,22.0,False
+963,Immediate Action,-35.0,95.0,130.0,True
+963,Staged Learning,-14.0,95.0,109.0,True
+963,Delay Without Learning,95.0,95.0,0.0,False
+963,Conservative Baseline,73.0,95.0,22.0,False
+964,Immediate Action,-35.0,95.0,130.0,True
+964,Staged Learning,-14.0,95.0,109.0,True
+964,Delay Without Learning,95.0,95.0,0.0,False
+964,Conservative Baseline,73.0,95.0,22.0,False
+965,Immediate Action,125.0,151.0,26.0,True
+965,Staged Learning,151.0,151.0,0.0,False
+965,Delay Without Learning,95.0,151.0,56.0,False
+965,Conservative Baseline,73.0,151.0,78.0,False
+966,Immediate Action,125.0,151.0,26.0,True
+966,Staged Learning,151.0,151.0,0.0,False
+966,Delay Without Learning,95.0,151.0,56.0,False
+966,Conservative Baseline,73.0,151.0,78.0,False
+967,Immediate Action,125.0,125.0,0.0,True
+967,Staged Learning,-14.0,125.0,139.0,True
+967,Delay Without Learning,95.0,125.0,30.0,False
+967,Conservative Baseline,73.0,125.0,52.0,False
+968,Immediate Action,-35.0,58.0,93.0,True
+968,Staged Learning,-14.0,58.0,72.0,True
+968,Delay Without Learning,20.0,58.0,38.0,True
+968,Conservative Baseline,58.0,58.0,0.0,True
+969,Immediate Action,125.0,125.0,0.0,True
+969,Staged Learning,-14.0,125.0,139.0,True
+969,Delay Without Learning,95.0,125.0,30.0,False
+969,Conservative Baseline,73.0,125.0,52.0,False
+970,Immediate Action,-35.0,151.0,186.0,True
+970,Staged Learning,151.0,151.0,0.0,False
+970,Delay Without Learning,95.0,151.0,56.0,False
+970,Conservative Baseline,73.0,151.0,78.0,False
+971,Immediate Action,125.0,151.0,26.0,True
+971,Staged Learning,151.0,151.0,0.0,False
+971,Delay Without Learning,95.0,151.0,56.0,False
+971,Conservative Baseline,73.0,151.0,78.0,False
+972,Immediate Action,125.0,125.0,0.0,True
+972,Staged Learning,-14.0,125.0,139.0,True
+972,Delay Without Learning,95.0,125.0,30.0,False
+972,Conservative Baseline,73.0,125.0,52.0,False
+973,Immediate Action,-35.0,151.0,186.0,True
+973,Staged Learning,151.0,151.0,0.0,False
+973,Delay Without Learning,20.0,151.0,131.0,True
+973,Conservative Baseline,73.0,151.0,78.0,False
+974,Immediate Action,-35.0,151.0,186.0,True
+974,Staged Learning,151.0,151.0,0.0,False
+974,Delay Without Learning,20.0,151.0,131.0,True
+974,Conservative Baseline,58.0,151.0,93.0,True
+975,Immediate Action,125.0,151.0,26.0,True
+975,Staged Learning,151.0,151.0,0.0,False
+975,Delay Without Learning,95.0,151.0,56.0,False
+975,Conservative Baseline,73.0,151.0,78.0,False
+976,Immediate Action,125.0,125.0,0.0,True
+976,Staged Learning,-14.0,125.0,139.0,True
+976,Delay Without Learning,95.0,125.0,30.0,False
+976,Conservative Baseline,73.0,125.0,52.0,False
+977,Immediate Action,125.0,125.0,0.0,True
+977,Staged Learning,-14.0,125.0,139.0,True
+977,Delay Without Learning,95.0,125.0,30.0,False
+977,Conservative Baseline,73.0,125.0,52.0,False
+978,Immediate Action,-35.0,73.0,108.0,True
+978,Staged Learning,-14.0,73.0,87.0,True
+978,Delay Without Learning,20.0,73.0,53.0,True
+978,Conservative Baseline,73.0,73.0,0.0,False
+979,Immediate Action,125.0,151.0,26.0,True
+979,Staged Learning,151.0,151.0,0.0,False
+979,Delay Without Learning,95.0,151.0,56.0,False
+979,Conservative Baseline,73.0,151.0,78.0,False
+980,Immediate Action,125.0,151.0,26.0,True
+980,Staged Learning,151.0,151.0,0.0,False
+980,Delay Without Learning,95.0,151.0,56.0,False
+980,Conservative Baseline,73.0,151.0,78.0,False
+981,Immediate Action,125.0,125.0,0.0,True
+981,Staged Learning,-14.0,125.0,139.0,True
+981,Delay Without Learning,20.0,125.0,105.0,True
+981,Conservative Baseline,73.0,125.0,52.0,False
+982,Immediate Action,-35.0,95.0,130.0,True
+982,Staged Learning,-14.0,95.0,109.0,True
+982,Delay Without Learning,95.0,95.0,0.0,False
+982,Conservative Baseline,73.0,95.0,22.0,False
+983,Immediate Action,125.0,125.0,0.0,True
+983,Staged Learning,-14.0,125.0,139.0,True
+983,Delay Without Learning,20.0,125.0,105.0,True
+983,Conservative Baseline,73.0,125.0,52.0,False
+984,Immediate Action,125.0,151.0,26.0,True
+984,Staged Learning,151.0,151.0,0.0,False
+984,Delay Without Learning,20.0,151.0,131.0,True
+984,Conservative Baseline,58.0,151.0,93.0,True
+985,Immediate Action,-35.0,151.0,186.0,True
+985,Staged Learning,151.0,151.0,0.0,False
+985,Delay Without Learning,95.0,151.0,56.0,False
+985,Conservative Baseline,73.0,151.0,78.0,False
+986,Immediate Action,-35.0,151.0,186.0,True
+986,Staged Learning,151.0,151.0,0.0,False
+986,Delay Without Learning,95.0,151.0,56.0,False
+986,Conservative Baseline,73.0,151.0,78.0,False
+987,Immediate Action,-35.0,151.0,186.0,True
+987,Staged Learning,151.0,151.0,0.0,False
+987,Delay Without Learning,95.0,151.0,56.0,False
+987,Conservative Baseline,73.0,151.0,78.0,False
+988,Immediate Action,125.0,125.0,0.0,True
+988,Staged Learning,-14.0,125.0,139.0,True
+988,Delay Without Learning,20.0,125.0,105.0,True
+988,Conservative Baseline,73.0,125.0,52.0,False
+989,Immediate Action,-35.0,73.0,108.0,True
+989,Staged Learning,-14.0,73.0,87.0,True
+989,Delay Without Learning,20.0,73.0,53.0,True
+989,Conservative Baseline,73.0,73.0,0.0,False
+990,Immediate Action,125.0,151.0,26.0,True
+990,Staged Learning,151.0,151.0,0.0,False
+990,Delay Without Learning,95.0,151.0,56.0,False
+990,Conservative Baseline,73.0,151.0,78.0,False
+991,Immediate Action,125.0,151.0,26.0,True
+991,Staged Learning,151.0,151.0,0.0,False
+991,Delay Without Learning,95.0,151.0,56.0,False
+991,Conservative Baseline,73.0,151.0,78.0,False
+992,Immediate Action,125.0,151.0,26.0,True
+992,Staged Learning,151.0,151.0,0.0,False
+992,Delay Without Learning,20.0,151.0,131.0,True
+992,Conservative Baseline,73.0,151.0,78.0,False
+993,Immediate Action,125.0,151.0,26.0,True
+993,Staged Learning,151.0,151.0,0.0,False
+993,Delay Without Learning,20.0,151.0,131.0,True
+993,Conservative Baseline,73.0,151.0,78.0,False
+994,Immediate Action,125.0,125.0,0.0,True
+994,Staged Learning,-14.0,125.0,139.0,True
+994,Delay Without Learning,95.0,125.0,30.0,False
+994,Conservative Baseline,73.0,125.0,52.0,False
+995,Immediate Action,-35.0,151.0,186.0,True
+995,Staged Learning,151.0,151.0,0.0,False
+995,Delay Without Learning,95.0,151.0,56.0,False
+995,Conservative Baseline,73.0,151.0,78.0,False
+996,Immediate Action,125.0,125.0,0.0,True
+996,Staged Learning,-14.0,125.0,139.0,True
+996,Delay Without Learning,95.0,125.0,30.0,False
+996,Conservative Baseline,58.0,125.0,67.0,True
+997,Immediate Action,125.0,125.0,0.0,True
+997,Staged Learning,-14.0,125.0,139.0,True
+997,Delay Without Learning,95.0,125.0,30.0,False
+997,Conservative Baseline,73.0,125.0,52.0,False
+998,Immediate Action,125.0,125.0,0.0,True
+998,Staged Learning,-14.0,125.0,139.0,True
+998,Delay Without Learning,95.0,125.0,30.0,False
+998,Conservative Baseline,73.0,125.0,52.0,False
+999,Immediate Action,-35.0,151.0,186.0,True
+999,Staged Learning,151.0,151.0,0.0,False
+999,Delay Without Learning,95.0,151.0,56.0,False
+999,Conservative Baseline,73.0,151.0,78.0,False
+1000,Immediate Action,-35.0,95.0,130.0,True
+1000,Staged Learning,-14.0,95.0,109.0,True
+1000,Delay Without Learning,95.0,95.0,0.0,False
+1000,Conservative Baseline,73.0,95.0,22.0,False

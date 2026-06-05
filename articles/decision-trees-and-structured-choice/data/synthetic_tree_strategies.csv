@@ -1,0 +1,5 @@
+strategy,success_payoff,failure_payoff,success_probability,information_cost,flexibility_credit,description
+Immediate Action,125,-35,0.58,0,0,Commit now without additional learning
+Staged Learning,145,-20,0.54,12,18,Acquire information before scaling commitment
+Delay Without Learning,95,20,0.62,5,5,Wait but gain limited new evidence
+Conservative Baseline,70,55,0.88,0,3,Choose lower upside with protected downside

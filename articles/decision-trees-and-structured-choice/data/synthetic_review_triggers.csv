@@ -1,0 +1,5 @@
+trigger_id,strategy,indicator,threshold_direction,threshold_value,interpretation
+RT1,Immediate Action,failure_rate,above,0.42,Review if observed failure rate exceeds expected failure probability
+RT2,Staged Learning,information_cost,above,15,Review if information cost rises above estimated value
+RT3,Delay Without Learning,opportunity_cost,above,10,Review if delay cost rises without additional information
+RT4,Conservative Baseline,upside_gap,above,50,Review if protected downside sacrifices too much upside

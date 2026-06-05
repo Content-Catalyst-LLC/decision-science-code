@@ -1,0 +1,5 @@
+strategy,expected_value,robust_score,average_realized_value,minimum_realized_value,maximum_realized_value,value_sd,average_regret,maximum_regret,review_trigger_rate
+Staged Learning,75.1,15.31,76.75,-14.0,151.0,82.0865,54.901,139.0,0.45
+Conservative Baseline,71.2,54.22,71.14,58.0,73.0,4.9437,60.511,93.0,0.124
+Delay Without Learning,66.5,33.65,66.125,20.0,95.0,36.4946,65.526,131.0,0.385
+Immediate Action,57.8,1.93,55.08,-35.0,125.0,79.3624,76.571,186.0,1.0

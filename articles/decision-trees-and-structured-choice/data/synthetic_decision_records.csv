@@ -1,0 +1,2 @@
+record_id,decision_context,selected_strategy,rationale,review_trigger
+DR1,Sequential decision-tree comparison under uncertainty,Staged Learning,Strong expected value with flexibility and reduced downside exposure,review if information cost rises or staged success probability falls below threshold

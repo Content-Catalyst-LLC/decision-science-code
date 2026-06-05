@@ -1,0 +1,9 @@
+strategy,outcome_state,probability,quality,source_type
+Immediate Action,success,0.58,medium,expert estimate
+Immediate Action,failure,0.42,medium,expert estimate
+Staged Learning,success,0.54,medium,pilot-informed estimate
+Staged Learning,failure,0.46,medium,pilot-informed estimate
+Delay Without Learning,success,0.62,low,scenario estimate
+Delay Without Learning,failure,0.38,low,scenario estimate
+Conservative Baseline,success,0.88,high,historical frequency
+Conservative Baseline,failure,0.12,high,historical frequency

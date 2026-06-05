@@ -1,0 +1,13 @@
+from_node,to_node,branch_label,branch_type
+N0,N1,Immediate Action,decision
+N0,N2,Staged Learning,decision
+N0,N3,Delay Without Learning,decision
+N0,N4,Conservative Baseline,decision
+N1,T1,success,chance
+N1,T2,failure,chance
+N2,T3,success,chance
+N2,T4,failure,chance
+N3,T5,success,chance
+N3,T6,failure,chance
+N4,T7,success,chance
+N4,T8,failure,chance

@@ -1,0 +1,5 @@
+"strategy","threshold_to_exceed_baseline","baseline_expected_value"
+"Staged Learning",0.52,71.2
+"Immediate Action",0.67,71.2
+"Delay Without Learning",0.69,71.2
+"Conservative Baseline",NA,71.2

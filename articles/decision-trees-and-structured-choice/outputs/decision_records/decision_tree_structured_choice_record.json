@@ -1,0 +1,161 @@
+{
+  "article": "Decision Trees and Structured Choice",
+  "decision_context": "Sequential decision-tree comparison with expected value, regret, and review triggers.",
+  "modeling_principles": [
+    "Represent decisions, uncertainties, and outcomes explicitly.",
+    "Roll back chance nodes using expected value or utility.",
+    "Compare decision nodes by downstream value.",
+    "Test threshold sensitivity.",
+    "Track regret and downside exposure.",
+    "Use review triggers when realized outcomes contradict assumptions.",
+    "Treat the tree as decision support, not a substitute for judgment."
+  ],
+  "rollback_profiles": [
+    {
+      "strategy": "Staged Learning",
+      "description": "Acquire information before scaling commitment",
+      "success_payoff": 145.0,
+      "failure_payoff": -20.0,
+      "success_probability": 0.54,
+      "failure_probability": 0.46,
+      "information_cost": 12.0,
+      "flexibility_credit": 18.0,
+      "expected_value": 75.1,
+      "minimum_outcome": -20.0,
+      "maximum_outcome": 145.0,
+      "outcome_spread": 165.0,
+      "robust_score": 15.31,
+      "expected_value_rank": 1,
+      "robust_rank": 3
+    },
+    {
+      "strategy": "Conservative Baseline",
+      "description": "Choose lower upside with protected downside",
+      "success_payoff": 70.0,
+      "failure_payoff": 55.0,
+      "success_probability": 0.88,
+      "failure_probability": 0.12,
+      "information_cost": 0.0,
+      "flexibility_credit": 3.0,
+      "expected_value": 71.2,
+      "minimum_outcome": 55.0,
+      "maximum_outcome": 70.0,
+      "outcome_spread": 15.0,
+      "robust_score": 54.22,
+      "expected_value_rank": 2,
+      "robust_rank": 1
+    },
+    {
+      "strategy": "Delay Without Learning",
+      "description": "Wait but gain limited new evidence",
+      "success_payoff": 95.0,
+      "failure_payoff": 20.0,
+      "success_probability": 0.62,
+      "failure_probability": 0.38,
+      "information_cost": 5.0,
+      "flexibility_credit": 5.0,
+      "expected_value": 66.5,
+      "minimum_outcome": 20.0,
+      "maximum_outcome": 95.0,
+      "outcome_spread": 75.0,
+      "robust_score": 33.65,
+      "expected_value_rank": 3,
+      "robust_rank": 2
+    },
+    {
+      "strategy": "Immediate Action",
+      "description": "Commit now without additional learning",
+      "success_payoff": 125.0,
+      "failure_payoff": -35.0,
+      "success_probability": 0.58,
+      "failure_probability": 0.42,
+      "information_cost": 0.0,
+      "flexibility_credit": 0.0,
+      "expected_value": 57.8,
+      "minimum_outcome": -35.0,
+      "maximum_outcome": 125.0,
+      "outcome_spread": 160.0,
+      "robust_score": 1.93,
+      "expected_value_rank": 4,
+      "robust_rank": 4
+    }
+  ],
+  "simulation_summary": [
+    {
+      "strategy": "Staged Learning",
+      "expected_value": 75.1,
+      "robust_score": 15.31,
+      "average_realized_value": 76.75,
+      "minimum_realized_value": -14.0,
+      "maximum_realized_value": 151.0,
+      "value_sd": 82.0865,
+      "average_regret": 54.901,
+      "maximum_regret": 139.0,
+      "review_trigger_rate": 0.45
+    },
+    {
+      "strategy": "Conservative Baseline",
+      "expected_value": 71.2,
+      "robust_score": 54.22,
+      "average_realized_value": 71.14,
+      "minimum_realized_value": 58.0,
+      "maximum_realized_value": 73.0,
+      "value_sd": 4.9437,
+      "average_regret": 60.511,
+      "maximum_regret": 93.0,
+      "review_trigger_rate": 0.124
+    },
+    {
+      "strategy": "Delay Without Learning",
+      "expected_value": 66.5,
+      "robust_score": 33.65,
+      "average_realized_value": 66.125,
+      "minimum_realized_value": 20.0,
+      "maximum_realized_value": 95.0,
+      "value_sd": 36.4946,
+      "average_regret": 65.526,
+      "maximum_regret": 131.0,
+      "review_trigger_rate": 0.385
+    },
+    {
+      "strategy": "Immediate Action",
+      "expected_value": 57.8,
+      "robust_score": 1.93,
+      "average_realized_value": 55.08,
+      "minimum_realized_value": -35.0,
+      "maximum_realized_value": 125.0,
+      "value_sd": 79.3624,
+      "average_regret": 76.571,
+      "maximum_regret": 186.0,
+      "review_trigger_rate": 1.0
+    }
+  ],
+  "thresholds": [
+    {
+      "strategy": "Immediate Action",
+      "threshold_to_exceed_baseline": 0.67,
+      "baseline_expected_value": 71.2
+    },
+    {
+      "strategy": "Staged Learning",
+      "threshold_to_exceed_baseline": 0.52,
+      "baseline_expected_value": 71.2
+    },
+    {
+      "strategy": "Delay Without Learning",
+      "threshold_to_exceed_baseline": 0.69,
+      "baseline_expected_value": 71.2
+    },
+    {
+      "strategy": "Conservative Baseline",
+      "threshold_to_exceed_baseline": 0.88,
+      "baseline_expected_value": 71.2
+    }
+  ],
+  "value_of_information": {
+    "comparison": "Staged Learning vs Immediate Action",
+    "immediate_expected_value": 57.8,
+    "staged_expected_value": 75.1,
+    "net_value_of_information": 17.3
+  }
+}

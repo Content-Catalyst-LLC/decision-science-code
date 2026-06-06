@@ -1,0 +1,9 @@
+parameter,value,description
+time_steps,40,Number of simulated AI decision-support review periods
+random_seed,42,Random seed for reproducibility
+uncertainty_trigger,0.62,Model uncertainty above this level requires review
+oversight_trigger,0.58,Human oversight below this level requires review
+automation_bias_trigger,0.62,Automation-bias risk above this level requires review
+contestability_trigger,0.56,Contestability below this level requires review
+fairness_risk_trigger,0.60,Fairness risk above this level requires review
+accountability_trigger,0.58,Accountability below this level requires review

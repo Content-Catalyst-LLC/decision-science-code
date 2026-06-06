@@ -1,0 +1,161 @@
+ai_support_system,time,model_confidence,model_uncertainty,human_oversight,automation_bias,contestability,fairness_risk,accountability,monitoring,shift_event,shift_severity,review_required
+Evidence Assistant,1,0.65463,0.364239,0.847309,0.197365,0.735277,0.336462,0.788054,0.64,False,0.001251,False
+Evidence Assistant,2,0.667399,0.354035,0.857807,0.168444,0.731802,0.322245,0.837118,0.64,False,0.025268,False
+Evidence Assistant,3,0.648068,0.348489,0.863474,0.156823,0.755745,0.298039,0.874013,0.64,False,0.000325,False
+Evidence Assistant,4,0.659525,0.340795,0.852155,0.098262,0.759123,0.264446,0.917191,0.64,False,0.030186,False
+Evidence Assistant,5,0.645751,0.342747,0.861336,0.075758,0.773194,0.258446,0.957354,0.64,False,0.030926,False
+Evidence Assistant,6,0.631631,0.345113,0.860069,0.054969,0.79196,0.241345,1.0,0.64,True,0.135595,False
+Evidence Assistant,7,0.65658,0.345765,0.878539,0.050122,0.825564,0.219787,1.0,0.64,False,0.030457,False
+Evidence Assistant,8,0.6594,0.326276,0.893309,0.027161,0.849229,0.208274,1.0,0.64,False,0.0388,False
+Evidence Assistant,9,0.650417,0.304466,0.918326,0.0,0.862057,0.196945,1.0,0.64,False,0.015734,False
+Evidence Assistant,10,0.644361,0.289278,0.935249,0.0,0.875259,0.178686,1.0,0.64,False,0.044891,False
+Evidence Assistant,11,0.621376,0.296017,0.955786,0.0,0.903971,0.165098,1.0,0.64,True,0.205489,False
+Evidence Assistant,12,0.605244,0.294126,0.947505,0.0,0.935207,0.16547,1.0,0.64,True,0.224144,False
+Evidence Assistant,13,0.599201,0.292755,0.949768,0.0,0.972783,0.124504,1.0,0.64,False,0.047691,False
+Evidence Assistant,14,0.605674,0.301075,0.944237,0.0,0.969757,0.112573,1.0,0.64,False,0.007642,False
+Evidence Assistant,15,0.573369,0.330112,0.949211,0.0,1.0,0.075632,1.0,0.64,True,0.26582,False
+Evidence Assistant,16,0.564354,0.344063,0.949265,0.0,1.0,0.061055,1.0,0.64,True,0.23212,False
+Evidence Assistant,17,0.562619,0.305726,0.96471,0.0,1.0,0.034013,1.0,0.64,False,0.01059,False
+Evidence Assistant,18,0.549049,0.308967,0.990078,0.0,1.0,0.035053,1.0,0.64,True,0.124939,False
+Evidence Assistant,19,0.546925,0.302408,1.0,0.0,1.0,0.018976,1.0,0.64,False,0.045271,False
+Evidence Assistant,20,0.554149,0.283261,1.0,0.0,1.0,0.0,1.0,0.64,False,0.039231,False
+Evidence Assistant,21,0.557432,0.279121,1.0,0.0,1.0,0.0,1.0,0.64,False,0.033668,False
+Evidence Assistant,22,0.562568,0.282396,1.0,0.0,1.0,0.0,1.0,0.64,False,0.013927,False
+Evidence Assistant,23,0.558161,0.307516,1.0,0.0,1.0,0.0,1.0,0.64,False,0.041801,False
+Evidence Assistant,24,0.557914,0.300617,1.0,0.0,1.0,0.02642,1.0,0.64,False,0.049265,False
+Evidence Assistant,25,0.572343,0.29697,1.0,0.0,0.991137,0.0,1.0,0.64,False,0.03592,False
+Evidence Assistant,26,0.597743,0.293752,1.0,0.0,1.0,0.0,1.0,0.64,False,0.042636,False
+Evidence Assistant,27,0.595449,0.289434,0.995753,0.0,0.99773,0.0,1.0,0.64,False,0.005994,False
+Evidence Assistant,28,0.600655,0.272887,1.0,0.0,1.0,0.0,1.0,0.64,False,0.03581,False
+Evidence Assistant,29,0.594463,0.325823,1.0,0.0,1.0,0.021191,1.0,0.64,True,0.171657,False
+Evidence Assistant,30,0.612222,0.289983,0.992964,0.0,0.987216,0.0,1.0,0.64,False,0.007887,False
+Evidence Assistant,31,0.585629,0.257512,1.0,0.0,1.0,0.0,1.0,0.64,False,0.014969,False
+Evidence Assistant,32,0.583114,0.265835,1.0,0.0,1.0,0.0,1.0,0.64,False,0.01018,False
+Evidence Assistant,33,0.588886,0.280332,1.0,0.0,1.0,0.0,1.0,0.64,False,0.013834,False
+Evidence Assistant,34,0.595801,0.28776,0.996886,0.0,0.994969,0.0,1.0,0.64,True,0.256621,False
+Evidence Assistant,35,0.568469,0.286354,1.0,0.0,1.0,0.0,1.0,0.64,False,0.044949,False
+Evidence Assistant,36,0.594563,0.24213,1.0,0.004077,0.98485,0.0,1.0,0.64,False,0.031033,False
+Evidence Assistant,37,0.620643,0.227977,1.0,0.0,1.0,0.0,1.0,0.64,True,0.227313,False
+Evidence Assistant,38,0.631249,0.209888,1.0,0.0,1.0,0.0,1.0,0.64,False,0.04293,False
+Evidence Assistant,39,0.661018,0.190198,1.0,0.0,1.0,0.0,1.0,0.64,True,0.118626,False
+Evidence Assistant,40,0.679707,0.174235,1.0,0.0,1.0,0.0,1.0,0.64,False,0.005767,False
+Recommendation with Review,1,0.748883,0.410813,0.714303,0.466096,0.668959,0.428116,0.760763,0.7,False,0.015684,False
+Recommendation with Review,2,0.747559,0.398678,0.701875,0.456203,0.683196,0.404207,0.778476,0.7,False,0.035971,False
+Recommendation with Review,3,0.734212,0.384116,0.705148,0.465443,0.684,0.395145,0.817067,0.7,False,0.042401,False
+Recommendation with Review,4,0.752802,0.383411,0.703176,0.453688,0.711778,0.390436,0.846028,0.7,False,0.033866,False
+Recommendation with Review,5,0.739472,0.360245,0.703674,0.451866,0.69358,0.377486,0.877244,0.7,False,0.028999,False
+Recommendation with Review,6,0.722282,0.35014,0.701159,0.464445,0.682439,0.362506,0.893918,0.7,True,0.18309,False
+Recommendation with Review,7,0.744304,0.335426,0.715055,0.452543,0.677987,0.352987,0.93059,0.7,False,0.001221,False
+Recommendation with Review,8,0.746306,0.344215,0.724751,0.445792,0.666865,0.34635,0.968774,0.7,False,0.012199,False
+Recommendation with Review,9,0.733069,0.345439,0.731081,0.48191,0.652932,0.350176,0.971927,0.7,True,0.271593,False
+Recommendation with Review,10,0.752547,0.292534,0.729637,0.474478,0.64968,0.340509,0.98466,0.7,False,0.047502,False
+Recommendation with Review,11,0.758244,0.267871,0.741056,0.493295,0.664705,0.299836,1.0,0.7,False,0.037183,False
+Recommendation with Review,12,0.754477,0.254278,0.762487,0.484938,0.675152,0.286625,1.0,0.7,True,0.137146,False
+Recommendation with Review,13,0.772589,0.222402,0.766196,0.485358,0.66249,0.278155,1.0,0.7,False,0.003211,False
+Recommendation with Review,14,0.777092,0.197627,0.77847,0.466285,0.694832,0.27744,1.0,0.7,False,0.03828,False
+Recommendation with Review,15,0.7777,0.164369,0.791536,0.474422,0.705258,0.252676,1.0,0.7,False,0.037376,False
+Recommendation with Review,16,0.77791,0.170306,0.80486,0.466539,0.716885,0.208425,1.0,0.7,False,0.008252,False
+Recommendation with Review,17,0.787306,0.183308,0.825681,0.475319,0.731354,0.206468,1.0,0.7,True,0.20855,False
+Recommendation with Review,18,0.794047,0.155653,0.842636,0.490854,0.746972,0.1941,1.0,0.7,False,0.041596,False
+Recommendation with Review,19,0.780009,0.127862,0.862726,0.482153,0.768488,0.166364,1.0,0.7,False,0.039062,False
+Recommendation with Review,20,0.780921,0.130297,0.85181,0.486699,0.799,0.135147,1.0,0.7,False,0.010898,False
+Recommendation with Review,21,0.790671,0.121595,0.854853,0.505127,0.826012,0.101206,1.0,0.7,False,0.048236,False
+Recommendation with Review,22,0.821794,0.102496,0.880618,0.513962,0.824315,0.102995,1.0,0.7,False,0.031362,False
+Recommendation with Review,23,0.83921,0.074622,0.879489,0.510403,0.853347,0.044845,1.0,0.7,False,0.01736,False
+Recommendation with Review,24,0.843561,0.087604,0.876224,0.504432,0.830714,0.009562,1.0,0.7,False,0.041435,False
+Recommendation with Review,25,0.864813,0.050304,0.884586,0.534447,0.847319,0.0,1.0,0.7,False,0.024175,False
+Recommendation with Review,26,0.873307,0.029246,0.898304,0.539999,0.853809,0.0,1.0,0.7,False,0.030517,False
+Recommendation with Review,27,0.871996,0.013483,0.943405,0.540772,0.886466,0.0,1.0,0.7,False,0.044016,False
+Recommendation with Review,28,0.855633,0.002599,0.956191,0.546738,0.905548,0.0,1.0,0.7,False,0.032295,False
+Recommendation with Review,29,0.86496,0.0,0.967397,0.528464,0.916015,0.0,1.0,0.7,False,0.023663,False
+Recommendation with Review,30,0.85217,0.0,0.973976,0.5271,0.93892,0.0,1.0,0.7,False,0.005978,False
+Recommendation with Review,31,0.871803,0.0,0.988911,0.53335,0.953619,0.0,1.0,0.7,False,0.026232,False
+Recommendation with Review,32,0.881446,0.0,0.993477,0.541727,0.955321,0.0,1.0,0.7,False,0.027668,False
+Recommendation with Review,33,0.898885,0.0,1.0,0.531173,0.975259,0.0,1.0,0.7,False,0.022023,False
+Recommendation with Review,34,0.89362,0.003507,1.0,0.539287,0.987672,0.0,1.0,0.7,True,0.10984,False
+Recommendation with Review,35,0.904468,0.0,0.985783,0.546962,1.0,0.0,1.0,0.7,False,0.011284,False
+Recommendation with Review,36,0.918513,0.0,1.0,0.540267,1.0,0.0,1.0,0.7,False,0.04738,False
+Recommendation with Review,37,0.914927,0.0,1.0,0.569417,1.0,0.0,1.0,0.7,True,0.170101,False
+Recommendation with Review,38,0.907315,0.0,0.983711,0.549272,1.0,0.0,1.0,0.7,False,0.031253,False
+Recommendation with Review,39,0.93295,0.0,0.99552,0.525558,1.0,0.0,1.0,0.7,False,0.00357,False
+Recommendation with Review,40,0.938901,0.0,1.0,0.540242,1.0,0.0,1.0,0.7,False,0.025024,False
+Automated Decision with Monitoring,1,0.801386,0.517157,0.457361,0.695763,0.432686,0.557277,0.51847,0.7,True,0.272382,True
+Automated Decision with Monitoring,2,0.804049,0.511086,0.503473,0.65717,0.464403,0.523498,0.580366,0.7,False,0.032575,True
+Automated Decision with Monitoring,3,0.772093,0.48182,0.544752,0.655957,0.499304,0.531337,0.650211,0.7,False,0.016665,True
+Automated Decision with Monitoring,4,0.750035,0.449048,0.630484,0.612691,0.552752,0.52265,0.713613,0.7,False,0.015726,True
+Automated Decision with Monitoring,5,0.760775,0.441096,0.639428,0.58636,0.563087,0.498498,0.709269,0.7,False,0.020662,False
+Automated Decision with Monitoring,6,0.788467,0.417328,0.673264,0.574261,0.566054,0.495985,0.75058,0.7,False,0.034913,False
+Automated Decision with Monitoring,7,0.784539,0.437612,0.675383,0.570931,0.584622,0.46473,0.774449,0.7,False,0.00466,False
+Automated Decision with Monitoring,8,0.792896,0.406889,0.682546,0.553433,0.590604,0.46751,0.793375,0.7,False,0.041736,False
+Automated Decision with Monitoring,9,0.817679,0.390304,0.663093,0.572579,0.575274,0.451767,0.817232,0.7,False,0.043201,False
+Automated Decision with Monitoring,10,0.805064,0.392089,0.672417,0.557615,0.583023,0.418808,0.837992,0.7,False,0.049945,False
+Automated Decision with Monitoring,11,0.826607,0.387279,0.672962,0.551332,0.595231,0.397642,0.864497,0.7,False,0.016089,False
+Automated Decision with Monitoring,12,0.810884,0.348428,0.660716,0.569671,0.605133,0.398026,0.895445,0.7,False,0.019304,False
+Automated Decision with Monitoring,13,0.796765,0.348634,0.655327,0.567331,0.61467,0.365097,0.917589,0.7,False,0.043485,False
+Automated Decision with Monitoring,14,0.782192,0.329455,0.683631,0.548044,0.604821,0.367089,0.922267,0.7,False,0.04846,False
+Automated Decision with Monitoring,15,0.756653,0.310047,0.697014,0.540957,0.635516,0.356149,0.992906,0.7,False,0.015833,False
+Automated Decision with Monitoring,16,0.776926,0.270049,0.72,0.550202,0.638274,0.322565,0.992872,0.7,False,0.021699,False
+Automated Decision with Monitoring,17,0.78062,0.269613,0.737643,0.573176,0.626574,0.30275,1.0,0.7,True,0.239229,False
+Automated Decision with Monitoring,18,0.784125,0.262379,0.779898,0.579448,0.65239,0.280749,1.0,0.7,False,0.030986,False
+Automated Decision with Monitoring,19,0.758292,0.285836,0.795341,0.596963,0.652971,0.290149,1.0,0.7,True,0.240927,False
+Automated Decision with Monitoring,20,0.764074,0.260934,0.819597,0.578068,0.667549,0.249946,1.0,0.7,False,0.042265,False
+Automated Decision with Monitoring,21,0.763052,0.269935,0.82853,0.589211,0.672291,0.202867,1.0,0.7,False,0.014762,False
+Automated Decision with Monitoring,22,0.757135,0.264779,0.864054,0.567842,0.677618,0.167052,1.0,0.7,False,0.045208,False
+Automated Decision with Monitoring,23,0.733394,0.235764,0.854371,0.532747,0.683889,0.133029,1.0,0.7,False,0.036046,False
+Automated Decision with Monitoring,24,0.730049,0.228377,0.888581,0.523173,0.70449,0.065968,1.0,0.7,False,0.004507,False
+Automated Decision with Monitoring,25,0.721042,0.222603,0.906928,0.494233,0.726003,0.017235,1.0,0.7,False,0.045674,False
+Automated Decision with Monitoring,26,0.75642,0.214483,0.912986,0.474179,0.701286,0.019514,1.0,0.7,False,0.007038,False
+Automated Decision with Monitoring,27,0.760321,0.222014,0.904106,0.47012,0.706112,0.0,1.0,0.7,False,0.039534,False
+Automated Decision with Monitoring,28,0.791252,0.182634,0.918123,0.432614,0.706885,0.0,1.0,0.7,True,0.126764,False
+Automated Decision with Monitoring,29,0.810274,0.165592,0.950829,0.453496,0.714876,0.0,1.0,0.7,False,0.045469,False
+Automated Decision with Monitoring,30,0.793102,0.18302,0.939153,0.46588,0.721968,0.0,1.0,0.7,True,0.170729,False
+Automated Decision with Monitoring,31,0.800551,0.151666,0.954499,0.453401,0.725498,0.0,1.0,0.7,False,0.004951,False
+Automated Decision with Monitoring,32,0.75195,0.144017,0.9515,0.440506,0.747837,0.0,1.0,0.7,True,0.217136,False
+Automated Decision with Monitoring,33,0.738665,0.118491,0.960661,0.425675,0.763961,0.0,1.0,0.7,False,0.022736,False
+Automated Decision with Monitoring,34,0.734759,0.136407,0.977415,0.43154,0.76604,0.003748,1.0,0.7,True,0.233031,False
+Automated Decision with Monitoring,35,0.73313,0.14633,0.984345,0.437813,0.775323,0.0,1.0,0.7,True,0.251681,False
+Automated Decision with Monitoring,36,0.741718,0.134861,1.0,0.42132,0.772043,0.0,1.0,0.7,False,0.016189,False
+Automated Decision with Monitoring,37,0.759281,0.136181,1.0,0.405561,0.791563,0.0,1.0,0.7,False,0.025662,False
+Automated Decision with Monitoring,38,0.750665,0.118645,1.0,0.383021,0.790566,0.0,1.0,0.7,False,0.003041,False
+Automated Decision with Monitoring,39,0.750978,0.131132,0.996134,0.362598,0.78155,0.026778,1.0,0.7,True,0.201659,False
+Automated Decision with Monitoring,40,0.749153,0.112771,0.981878,0.332419,0.776021,0.0,1.0,0.7,False,0.004959,False
+Adaptive Human-AI Governance,1,0.842474,0.311789,0.885165,0.274244,0.853909,0.279589,0.931046,0.9,False,0.011425,False
+Adaptive Human-AI Governance,2,0.854388,0.298798,0.890876,0.286656,0.879983,0.254862,0.951849,0.9,False,0.003357,False
+Adaptive Human-AI Governance,3,0.869152,0.277324,0.889185,0.298958,0.893022,0.190575,0.982184,0.9,False,0.028079,False
+Adaptive Human-AI Governance,4,0.869403,0.217568,0.896066,0.286759,0.89825,0.179408,1.0,0.9,False,0.017582,False
+Adaptive Human-AI Governance,5,0.866435,0.174877,0.928656,0.24535,0.919839,0.123238,1.0,0.9,False,0.03813,False
+Adaptive Human-AI Governance,6,0.875777,0.155511,0.948605,0.235866,0.921833,0.085563,1.0,0.9,False,0.041473,False
+Adaptive Human-AI Governance,7,0.892922,0.13079,0.957699,0.227809,0.935255,0.035655,1.0,0.9,False,0.028316,False
+Adaptive Human-AI Governance,8,0.908206,0.120928,0.951105,0.228973,0.951164,0.008828,1.0,0.9,False,0.03608,False
+Adaptive Human-AI Governance,9,0.906517,0.092521,0.952383,0.229599,0.965214,0.0,1.0,0.9,False,0.013605,False
+Adaptive Human-AI Governance,10,0.917823,0.080234,0.960194,0.20957,0.990503,0.0,1.0,0.9,False,0.024332,False
+Adaptive Human-AI Governance,11,0.947457,0.060488,0.99524,0.2073,1.0,0.0,1.0,0.9,False,0.006862,False
+Adaptive Human-AI Governance,12,0.990484,0.02586,1.0,0.211196,1.0,0.0,1.0,0.9,False,0.04031,False
+Adaptive Human-AI Governance,13,0.990136,0.004165,1.0,0.214208,1.0,0.0,1.0,0.9,False,0.02867,False
+Adaptive Human-AI Governance,14,1.0,0.0,1.0,0.197894,1.0,0.0,1.0,0.9,False,0.004406,False
+Adaptive Human-AI Governance,15,1.0,0.0,1.0,0.211277,1.0,0.0,1.0,0.9,False,0.016653,False
+Adaptive Human-AI Governance,16,1.0,0.0,1.0,0.190234,0.999664,0.0,1.0,0.9,False,0.011813,False
+Adaptive Human-AI Governance,17,0.989102,0.0,0.981334,0.203324,0.995094,0.0,1.0,0.9,False,0.024706,False
+Adaptive Human-AI Governance,18,1.0,0.0,0.999477,0.19955,1.0,0.0,1.0,0.9,False,0.007548,False
+Adaptive Human-AI Governance,19,1.0,0.010304,1.0,0.215248,1.0,0.0,1.0,0.9,False,0.022596,False
+Adaptive Human-AI Governance,20,1.0,0.0,1.0,0.225758,0.994607,0.0,1.0,0.9,False,0.039591,False
+Adaptive Human-AI Governance,21,1.0,0.014866,0.997877,0.251198,0.998885,0.0,1.0,0.9,True,0.092375,False
+Adaptive Human-AI Governance,22,1.0,0.014325,1.0,0.24878,1.0,0.0,1.0,0.9,False,0.026137,False
+Adaptive Human-AI Governance,23,1.0,0.003641,1.0,0.238528,1.0,0.0,1.0,0.9,False,0.032365,False
+Adaptive Human-AI Governance,24,1.0,0.0,1.0,0.264252,1.0,0.0,1.0,0.9,False,0.029137,False
+Adaptive Human-AI Governance,25,1.0,0.0,1.0,0.24305,1.0,0.0,1.0,0.9,False,0.015479,False
+Adaptive Human-AI Governance,26,1.0,0.0,1.0,0.248822,1.0,0.0,1.0,0.9,False,0.02117,False
+Adaptive Human-AI Governance,27,1.0,0.008058,1.0,0.265268,1.0,0.0,1.0,0.9,False,0.006878,False
+Adaptive Human-AI Governance,28,1.0,0.0,1.0,0.279035,0.992952,0.0,1.0,0.9,False,0.006552,False
+Adaptive Human-AI Governance,29,1.0,0.0,1.0,0.284563,1.0,0.0,1.0,0.9,False,0.020543,False
+Adaptive Human-AI Governance,30,1.0,0.0,0.999995,0.32938,1.0,0.0,1.0,0.9,False,0.023451,False
+Adaptive Human-AI Governance,31,1.0,0.011133,1.0,0.322136,1.0,0.0,1.0,0.9,False,0.026373,False
+Adaptive Human-AI Governance,32,1.0,0.0,0.997787,0.335757,0.999873,0.0,1.0,0.9,True,0.249178,False
+Adaptive Human-AI Governance,33,1.0,0.0,1.0,0.341139,1.0,0.0,1.0,0.9,False,0.047321,False
+Adaptive Human-AI Governance,34,1.0,0.031743,1.0,0.323759,0.993934,0.0,1.0,0.9,False,0.001409,False
+Adaptive Human-AI Governance,35,1.0,0.030821,1.0,0.32525,1.0,0.0,1.0,0.9,False,0.034804,False
+Adaptive Human-AI Governance,36,1.0,0.0,1.0,0.324989,1.0,0.0,1.0,0.9,False,0.026389,False
+Adaptive Human-AI Governance,37,1.0,0.0,1.0,0.327251,1.0,0.0,1.0,0.9,False,0.005543,False
+Adaptive Human-AI Governance,38,1.0,0.0,1.0,0.334207,1.0,0.0,1.0,0.9,False,0.020828,False
+Adaptive Human-AI Governance,39,1.0,0.0,0.985498,0.302393,1.0,0.0,1.0,0.9,False,0.027708,False
+Adaptive Human-AI Governance,40,1.0,0.0,0.974255,0.302863,1.0,0.0,1.0,0.9,False,0.031413,False

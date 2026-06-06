@@ -1,0 +1,71 @@
+{
+  "article": "AI-Assisted Decision Support and Human Judgment",
+  "decision_context": "Simulating model uncertainty, human oversight, automation bias, contestability, fairness risk, accountability, and review triggers.",
+  "parameters": {
+    "time_steps": 40.0,
+    "random_seed": 42.0,
+    "uncertainty_trigger": 0.62,
+    "oversight_trigger": 0.58,
+    "automation_bias_trigger": 0.62,
+    "contestability_trigger": 0.56,
+    "fairness_risk_trigger": 0.6,
+    "accountability_trigger": 0.58
+  },
+  "summary_metrics": [
+    {
+      "ai_support_system": "Adaptive Human-AI Governance",
+      "maximum_model_uncertainty": 0.311789,
+      "minimum_human_oversight": 0.885165,
+      "maximum_automation_bias": 0.341139,
+      "minimum_contestability": 0.853909,
+      "maximum_fairness_risk": 0.279589,
+      "minimum_accountability": 0.931046,
+      "average_accountability": 0.996627,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "ai_support_system": "Evidence Assistant",
+      "maximum_model_uncertainty": 0.364239,
+      "minimum_human_oversight": 0.847309,
+      "maximum_automation_bias": 0.197365,
+      "minimum_contestability": 0.731802,
+      "maximum_fairness_risk": 0.336462,
+      "minimum_accountability": 0.788054,
+      "average_accountability": 0.984343,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "ai_support_system": "Recommendation with Review",
+      "maximum_model_uncertainty": 0.410813,
+      "minimum_human_oversight": 0.701159,
+      "maximum_automation_bias": 0.569417,
+      "minimum_contestability": 0.64968,
+      "maximum_fairness_risk": 0.428116,
+      "minimum_accountability": 0.760763,
+      "average_accountability": 0.970736,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "ai_support_system": "Automated Decision with Monitoring",
+      "maximum_model_uncertainty": 0.517157,
+      "minimum_human_oversight": 0.457361,
+      "maximum_automation_bias": 0.695763,
+      "minimum_contestability": 0.432686,
+      "maximum_fairness_risk": 0.557277,
+      "minimum_accountability": 0.51847,
+      "average_accountability": 0.918278,
+      "review_required_count": 4,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "AI should support decision quality, not replace accountable judgment.",
+    "Human oversight is meaningful only when humans have authority, information, time, training, and institutional support.",
+    "Model uncertainty, automation bias, fairness risk, and contestability should be monitored over time.",
+    "Decision records should preserve how AI outputs influenced human decisions.",
+    "Review triggers should activate when uncertainty, bias, weak oversight, fairness risk, or accountability weakness crosses thresholds."
+  ]
+}

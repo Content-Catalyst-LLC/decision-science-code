@@ -1,0 +1,7 @@
+"design","automation_bias_risk","human_oversight","review_flag"
+"Automated Decision with Monitoring",0.72,0.36,"review"
+"AI Recommendation with Review",0.46,0.72,"acceptable"
+"AI Triage with Appeal",0.42,0.68,"acceptable"
+"Adaptive Human-AI Governance",0.28,0.88,"acceptable"
+"AI Evidence Assistant",0.26,0.84,"acceptable"
+"Manual Judgment Baseline",0.18,0.88,"review"

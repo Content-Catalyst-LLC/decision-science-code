@@ -1,0 +1,7 @@
+design,model_performance,uncertainty_visibility,human_oversight,contestability,fairness_review,accountability,monitoring_strength,automation_bias_risk,process_burden,description
+Manual Judgment Baseline,0.00,0.42,0.88,0.62,0.54,0.62,0.44,0.18,0.30,Unaided human judgment with limited monitoring and no model performance
+AI Evidence Assistant,0.66,0.72,0.84,0.72,0.66,0.72,0.62,0.26,0.42,AI gathers and summarizes evidence while humans retain strong review authority
+AI Recommendation with Review,0.78,0.66,0.72,0.66,0.70,0.70,0.70,0.46,0.54,AI recommends actions with required human review and moderate automation-bias risk
+AI Triage with Appeal,0.80,0.70,0.68,0.82,0.78,0.80,0.78,0.42,0.62,AI prioritizes cases while preserving appeal rights and monitoring
+Automated Decision with Monitoring,0.84,0.48,0.36,0.40,0.46,0.44,0.70,0.72,0.48,AI automates decisions with weak human oversight and high overreliance risk
+Adaptive Human-AI Governance,0.82,0.86,0.88,0.86,0.84,0.90,0.90,0.28,0.68,AI supports decisions with strong uncertainty visibility oversight contestability monitoring and accountability

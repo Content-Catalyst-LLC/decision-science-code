@@ -1,0 +1,7 @@
+threshold_name,value,description
+low_human_oversight,0.60,Human oversight below this level requires review
+low_contestability,0.60,Contestability below this level requires review
+low_fairness_review,0.60,Fairness review below this level requires review
+low_accountability,0.60,Accountability below this level requires review
+high_automation_bias_risk,0.60,Automation-bias risk above this level requires review
+high_model_uncertainty,0.62,Model uncertainty above this level requires review

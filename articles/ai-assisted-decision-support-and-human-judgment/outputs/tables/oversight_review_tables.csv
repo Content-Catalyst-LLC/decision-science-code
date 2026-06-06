@@ -1,0 +1,3 @@
+"design","model_performance","uncertainty_visibility","human_oversight","contestability","fairness_review","accountability","monitoring_strength","automation_bias_risk","process_burden","description","decision_support_score","review_flag","rank"
+"Manual Judgment Baseline",0,0.42,0.88,0.62,0.54,0.62,0.44,0.18,0.3,"Unaided human judgment with limited monitoring and no model performance",0.4628,"review",5
+"Automated Decision with Monitoring",0.84,0.48,0.36,0.4,0.46,0.44,0.7,0.72,0.48,"AI automates decisions with weak human oversight and high overreliance risk",0.42,"review",6

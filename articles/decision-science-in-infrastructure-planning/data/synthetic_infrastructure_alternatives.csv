@@ -1,0 +1,7 @@
+alternative,baseline,climate_stress,demand_growth,funding_constraint,disruption,lifecycle_cost,equity_score,resilience_score,environmental_score,implementation_feasibility,adaptability,description
+Maintain Existing Assets,62,44,50,78,46,0.38,0.52,0.46,0.50,0.82,0.40,Focuses on maintenance of current assets with low upfront cost but weak climate and resilience performance
+Targeted Retrofit,72,68,66,72,70,0.56,0.66,0.72,0.64,0.74,0.62,Retrofits vulnerable assets while preserving much of the existing system
+Major Capacity Expansion,78,58,88,48,54,0.88,0.48,0.58,0.42,0.48,0.36,Large capital expansion with high demand upside but weak lifecycle and adaptive performance
+Adaptive Modular Upgrade,76,76,82,70,78,0.66,0.74,0.84,0.76,0.66,0.90,Staged modular investment with trigger points and upgrade options
+Nature-Based Resilience,70,82,62,76,80,0.58,0.82,0.88,0.92,0.70,0.78,Green and nature-based approach that improves climate and environmental resilience
+Integrated Service Redesign,74,72,80,74,76,0.62,0.78,0.80,0.78,0.68,0.84,Combines operational redesign demand management targeted investment and adaptive monitoring

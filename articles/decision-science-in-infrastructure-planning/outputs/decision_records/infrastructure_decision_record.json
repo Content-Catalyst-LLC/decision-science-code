@@ -1,0 +1,72 @@
+{
+  "article": "Decision Science in Infrastructure Planning",
+  "decision_context": "Simulating asset condition, hazard shocks, maintenance response, service reliability, and adaptive review triggers.",
+  "parameters": {
+    "time_steps": 50.0,
+    "random_seed": 42.0,
+    "condition_trigger": 55.0,
+    "service_trigger": 0.72,
+    "hazard_trigger": 0.7
+  },
+  "summary_metrics": [
+    {
+      "asset": "Nature-Based Flood System",
+      "final_condition": 90.312663,
+      "minimum_condition": 76.678211,
+      "average_condition": 84.923965,
+      "minimum_service_reliability": 0.862805,
+      "average_service_reliability": 0.959774,
+      "maximum_risk_index": 0.456287,
+      "average_risk_index": 0.423304,
+      "hazard_event_count": 7,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "asset": "Grid Modernization Package",
+      "final_condition": 82.152329,
+      "minimum_condition": 72.209273,
+      "average_condition": 77.249096,
+      "minimum_service_reliability": 0.788504,
+      "average_service_reliability": 0.9007,
+      "maximum_risk_index": 0.501163,
+      "average_risk_index": 0.481004,
+      "hazard_event_count": 6,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "asset": "Aging Bridge Corridor",
+      "final_condition": 75.233645,
+      "minimum_condition": 73.93297,
+      "average_condition": 76.542833,
+      "minimum_service_reliability": 0.74017,
+      "average_service_reliability": 0.864247,
+      "maximum_risk_index": 0.483268,
+      "average_risk_index": 0.472829,
+      "hazard_event_count": 10,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "asset": "Water Distribution Network",
+      "final_condition": 69.705479,
+      "minimum_condition": 67.113552,
+      "average_condition": 68.797589,
+      "minimum_service_reliability": 0.718235,
+      "average_service_reliability": 0.829414,
+      "maximum_risk_index": 0.497546,
+      "average_risk_index": 0.49081,
+      "hazard_event_count": 6,
+      "review_required_count": 1,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "Infrastructure decisions should be evaluated across lifecycle value, service continuity, resilience, equity, and adaptability.",
+    "Asset condition is not the only measure; service reliability and system criticality matter.",
+    "Hazard shocks can reveal vulnerabilities that ordinary condition scores miss.",
+    "Adaptive triggers should connect monitoring indicators to funding and governance authority.",
+    "Decision records should preserve assumptions, alternatives, risks, trade-offs, equity concerns, and revision triggers."
+  ]
+}

@@ -1,0 +1,6 @@
+scenario,probability,description
+baseline,0.30,Ordinary conditions where assumptions broadly hold
+climate_stress,0.20,Climate stress involving heat flooding storms drought wildfire or service disruption
+demand_growth,0.20,Higher service demand due to population economic or land-use change
+funding_constraint,0.15,Reduced fiscal flexibility or capital availability
+disruption,0.15,Technology supply-chain governance cyber or operational disruption

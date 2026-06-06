@@ -1,0 +1,6 @@
+parameter,value,description
+time_steps,50,Number of simulated infrastructure review periods
+random_seed,42,Random seed for reproducibility
+condition_trigger,55.0,Asset condition below this level requires review
+service_trigger,0.72,Service reliability below this level requires review
+hazard_trigger,0.70,Risk index above this level requires review

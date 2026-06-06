@@ -1,0 +1,31 @@
+alternative,scenario,value
+Maintain Existing Assets,baseline,62
+Maintain Existing Assets,climate_stress,44
+Maintain Existing Assets,demand_growth,50
+Maintain Existing Assets,funding_constraint,78
+Maintain Existing Assets,disruption,46
+Targeted Retrofit,baseline,72
+Targeted Retrofit,climate_stress,68
+Targeted Retrofit,demand_growth,66
+Targeted Retrofit,funding_constraint,72
+Targeted Retrofit,disruption,70
+Major Capacity Expansion,baseline,78
+Major Capacity Expansion,climate_stress,58
+Major Capacity Expansion,demand_growth,88
+Major Capacity Expansion,funding_constraint,48
+Major Capacity Expansion,disruption,54
+Adaptive Modular Upgrade,baseline,76
+Adaptive Modular Upgrade,climate_stress,76
+Adaptive Modular Upgrade,demand_growth,82
+Adaptive Modular Upgrade,funding_constraint,70
+Adaptive Modular Upgrade,disruption,78
+Nature-Based Resilience,baseline,70
+Nature-Based Resilience,climate_stress,82
+Nature-Based Resilience,demand_growth,62
+Nature-Based Resilience,funding_constraint,76
+Nature-Based Resilience,disruption,80
+Integrated Service Redesign,baseline,74
+Integrated Service Redesign,climate_stress,72
+Integrated Service Redesign,demand_growth,80
+Integrated Service Redesign,funding_constraint,74
+Integrated Service Redesign,disruption,76

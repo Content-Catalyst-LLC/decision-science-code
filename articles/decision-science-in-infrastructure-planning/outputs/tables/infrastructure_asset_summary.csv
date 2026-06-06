@@ -1,0 +1,5 @@
+asset,final_condition,minimum_condition,average_condition,minimum_service_reliability,average_service_reliability,maximum_risk_index,average_risk_index,hazard_event_count,review_required_count,review_flag
+Nature-Based Flood System,90.312663,76.678211,84.923965,0.862805,0.959774,0.456287,0.423304,7,0,acceptable
+Grid Modernization Package,82.152329,72.209273,77.249096,0.788504,0.9007,0.501163,0.481004,6,0,acceptable
+Aging Bridge Corridor,75.233645,73.93297,76.542833,0.74017,0.864247,0.483268,0.472829,10,0,acceptable
+Water Distribution Network,69.705479,67.113552,68.797589,0.718235,0.829414,0.497546,0.49081,6,1,review

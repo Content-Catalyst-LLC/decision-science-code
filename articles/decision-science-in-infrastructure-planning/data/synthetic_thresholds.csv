@@ -1,0 +1,9 @@
+threshold_name,value,description
+low_worst_case_value,50.0,Worst-case scenario value below this level requires review
+low_equity_score,0.55,Equity score below this level requires review
+low_resilience_score,0.55,Resilience score below this level requires review
+low_environmental_score,0.50,Environmental score below this level requires review
+low_implementation_feasibility,0.50,Implementation feasibility below this level requires review
+condition_trigger,55.0,Asset condition below this level requires review
+service_trigger,0.72,Service reliability below this level requires review
+hazard_trigger,0.70,Risk index above this level requires review

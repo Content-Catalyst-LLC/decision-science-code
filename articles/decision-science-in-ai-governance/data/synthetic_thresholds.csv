@@ -1,0 +1,10 @@
+threshold_name,value,description
+low_worst_case_value,50.0,Worst-case governance value below this level requires review
+low_evidence_quality,0.60,Evidence quality below this level requires review
+low_oversight_strength,0.60,Oversight strength below this level requires review
+low_equity_score,0.55,Equity score below this level requires review
+low_security_readiness,0.55,Security readiness below this level requires review
+risk_trigger,0.70,Risk above this level requires review
+drift_trigger,0.35,Drift above this level requires review
+equity_trigger,0.58,Equity performance below this level requires review
+oversight_trigger,0.60,Oversight strength below this level requires review

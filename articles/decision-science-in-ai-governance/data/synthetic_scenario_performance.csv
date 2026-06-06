@@ -1,0 +1,31 @@
+option,scenario,value
+Reject Use Case,baseline_value,35
+Reject Use Case,safety_stress,80
+Reject Use Case,equity_stress,78
+Reject Use Case,security_stress,82
+Reject Use Case,drift_stress,84
+Pilot With Strong Controls,baseline_value,68
+Pilot With Strong Controls,safety_stress,70
+Pilot With Strong Controls,equity_stress,74
+Pilot With Strong Controls,security_stress,72
+Pilot With Strong Controls,drift_stress,76
+Limited Internal Deployment,baseline_value,74
+Limited Internal Deployment,safety_stress,62
+Limited Internal Deployment,equity_stress,60
+Limited Internal Deployment,security_stress,64
+Limited Internal Deployment,drift_stress,58
+High-Stakes Deployment,baseline_value,84
+High-Stakes Deployment,safety_stress,42
+High-Stakes Deployment,equity_stress,38
+High-Stakes Deployment,security_stress,46
+High-Stakes Deployment,drift_stress,40
+Vendor Tool With Audit Rights,baseline_value,70
+Vendor Tool With Audit Rights,safety_stress,58
+Vendor Tool With Audit Rights,equity_stress,56
+Vendor Tool With Audit Rights,security_stress,60
+Vendor Tool With Audit Rights,drift_stress,54
+Adaptive Governance Rollout,baseline_value,78
+Adaptive Governance Rollout,safety_stress,76
+Adaptive Governance Rollout,equity_stress,80
+Adaptive Governance Rollout,security_stress,78
+Adaptive Governance Rollout,drift_stress,82

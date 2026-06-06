@@ -1,0 +1,69 @@
+{
+  "article": "Decision Science in AI Governance",
+  "decision_context": "Simulating AI governance review cycles under drift, incidents, oversight limits, equity performance, and risk escalation.",
+  "parameters": {
+    "time_steps": 40.0,
+    "random_seed": 42.0,
+    "risk_trigger": 0.7,
+    "drift_trigger": 0.35,
+    "equity_trigger": 0.58,
+    "oversight_trigger": 0.6
+  },
+  "summary_metrics": [
+    {
+      "system": "Internal Document Assistant",
+      "final_risk": 0.0,
+      "maximum_risk": 0.15884,
+      "average_risk": 0.005392,
+      "maximum_drift": 0.266828,
+      "minimum_equity_performance": 0.786035,
+      "minimum_oversight_strength": 0.785469,
+      "incident_count": 2,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "system": "Customer Support Generator",
+      "final_risk": 0.0,
+      "maximum_risk": 0.281164,
+      "average_risk": 0.016323,
+      "maximum_drift": 0.499897,
+      "minimum_equity_performance": 0.707897,
+      "minimum_oversight_strength": 0.639735,
+      "incident_count": 4,
+      "review_required_count": 20,
+      "review_flag": "review"
+    },
+    {
+      "system": "Hiring Screening Model",
+      "final_risk": 0.004258,
+      "maximum_risk": 0.401446,
+      "average_risk": 0.033678,
+      "maximum_drift": 0.54185,
+      "minimum_equity_performance": 0.57713,
+      "minimum_oversight_strength": 0.62572,
+      "incident_count": 5,
+      "review_required_count": 17,
+      "review_flag": "review"
+    },
+    {
+      "system": "Clinical Decision Support",
+      "final_risk": 0.0,
+      "maximum_risk": 0.501351,
+      "average_risk": 0.039897,
+      "maximum_drift": 0.194533,
+      "minimum_equity_performance": 0.678408,
+      "minimum_oversight_strength": 0.675421,
+      "incident_count": 1,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    }
+  ],
+  "modeling_principles": [
+    "AI governance should evaluate use context, risk, evidence, oversight, equity, security, and accountability together.",
+    "Model drift and incident patterns should trigger governance review before harm becomes institutionalized.",
+    "Human oversight must be meaningful: authority, information, time, expertise, and independence are required.",
+    "High-stakes AI systems require stronger evidence, monitoring, documentation, and contestability.",
+    "Decision records should preserve assumptions, alternatives, risk classification, evidence, dissent, approvals, and revision triggers."
+  ]
+}

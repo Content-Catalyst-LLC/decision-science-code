@@ -1,0 +1,6 @@
+scenario,probability,description
+baseline_value,0.35,Expected operating value under ordinary use conditions
+safety_stress,0.20,Safety or reliability stress scenario
+equity_stress,0.15,Distributional fairness or subgroup performance stress scenario
+security_stress,0.15,Security misuse prompt injection or data exposure stress scenario
+drift_stress,0.15,Model drift concept drift scope creep or vendor update stress scenario

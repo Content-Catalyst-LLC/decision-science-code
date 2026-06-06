@@ -1,0 +1,10 @@
+threshold_name,value,description
+low_social_equity,0.50,Social equity level requiring review
+low_resilience_score,0.50,Resilience level requiring review
+low_threshold_protection,0.55,Threshold protection level requiring review
+high_cost_burden,0.70,Cost burden level requiring review
+low_worst_case_performance,0.50,Worst-case scenario performance requiring review
+low_threshold_pass_rate,0.60,Scenario pass rate requiring review
+resource_stock_threshold,35.0,Resource stock level below which threshold breach occurs
+low_public_trust,45.0,Public trust level requiring legitimacy review
+high_governance_delay,8.0,Governance delay requiring capacity review

@@ -1,0 +1,65 @@
+{
+  "article": "Decision Science in Sustainability",
+  "decision_context": "Simulating resource pressure, regeneration, adaptive policy response, trust, capacity, and governance delay.",
+  "parameters": {
+    "time_steps": 60.0,
+    "random_seed": 42.0,
+    "initial_resource_stock": 100.0,
+    "initial_resource_pressure": 28.0,
+    "initial_policy_response": 8.0,
+    "initial_public_trust": 58.0,
+    "initial_implementation_capacity": 24.0,
+    "initial_governance_delay": 5.0,
+    "resource_threshold": 35.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_resource_stock",
+      "value": 2527.158765
+    },
+    {
+      "metric": "minimum_resource_stock",
+      "value": 0.0
+    },
+    {
+      "metric": "average_resource_pressure",
+      "value": 11.203209
+    },
+    {
+      "metric": "average_policy_response",
+      "value": 107.789528
+    },
+    {
+      "metric": "final_public_trust",
+      "value": 100.0
+    },
+    {
+      "metric": "average_implementation_capacity",
+      "value": 71.210825
+    },
+    {
+      "metric": "average_governance_delay",
+      "value": 0.804722
+    },
+    {
+      "metric": "threshold_breach_count",
+      "value": 12
+    },
+    {
+      "metric": "average_sustainability_score",
+      "value": 317.301991
+    },
+    {
+      "metric": "minimum_sustainability_score",
+      "value": 14.554937
+    }
+  ],
+  "recommendation": "redesign_strategy_due_to_resource_threshold_breach",
+  "modeling_principles": [
+    "Sustainability decisions are multi-objective, dynamic, uncertain, and distributional.",
+    "Resource viability depends on extraction, regeneration, pressure, and adaptive response.",
+    "Threshold breaches require stronger action than ordinary trade-off balancing.",
+    "Public trust and implementation capacity shape whether sustainability policy can work in practice.",
+    "Decision records should preserve assumptions, thresholds, trade-offs, stakeholder concerns, and revision triggers."
+  ]
+}

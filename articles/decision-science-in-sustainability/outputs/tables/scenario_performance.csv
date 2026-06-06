@@ -1,0 +1,31 @@
+"strategy","scenario","performance"
+"Incremental Transition","baseline",0.62
+"Incremental Transition","climate_stress",0.48
+"Incremental Transition","cost_pressure",0.72
+"Incremental Transition","technology_shift",0.56
+"Incremental Transition","equity_conflict",0.44
+"Green Industrial Push","baseline",0.76
+"Green Industrial Push","climate_stress",0.7
+"Green Industrial Push","cost_pressure",0.5
+"Green Industrial Push","technology_shift",0.74
+"Green Industrial Push","equity_conflict",0.58
+"Adaptive Resilience Mix","baseline",0.74
+"Adaptive Resilience Mix","climate_stress",0.82
+"Adaptive Resilience Mix","cost_pressure",0.68
+"Adaptive Resilience Mix","technology_shift",0.78
+"Adaptive Resilience Mix","equity_conflict",0.76
+"High-Growth Tech Fix","baseline",0.68
+"High-Growth Tech Fix","climate_stress",0.5
+"High-Growth Tech Fix","cost_pressure",0.62
+"High-Growth Tech Fix","technology_shift",0.76
+"High-Growth Tech Fix","equity_conflict",0.42
+"Circular Economy Strategy","baseline",0.72
+"Circular Economy Strategy","climate_stress",0.76
+"Circular Economy Strategy","cost_pressure",0.7
+"Circular Economy Strategy","technology_shift",0.8
+"Circular Economy Strategy","equity_conflict",0.68
+"Justice-Centered Transition","baseline",0.7
+"Justice-Centered Transition","climate_stress",0.78
+"Justice-Centered Transition","cost_pressure",0.62
+"Justice-Centered Transition","technology_shift",0.72
+"Justice-Centered Transition","equity_conflict",0.84

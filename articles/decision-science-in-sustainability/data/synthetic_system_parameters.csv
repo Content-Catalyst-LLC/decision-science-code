@@ -1,0 +1,10 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+random_seed,42,Random seed for reproducibility
+initial_resource_stock,100.0,Initial resource stock
+initial_resource_pressure,28.0,Initial resource pressure
+initial_policy_response,8.0,Initial policy response
+initial_public_trust,58.0,Initial public trust
+initial_implementation_capacity,24.0,Initial implementation capacity
+initial_governance_delay,5.0,Initial governance delay
+resource_threshold,35.0,Resource threshold triggering review

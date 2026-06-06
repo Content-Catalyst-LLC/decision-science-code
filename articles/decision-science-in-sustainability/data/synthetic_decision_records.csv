@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Sustainability strategy review,Adaptive Resilience Mix,Strong resilience threshold protection and balanced cross-objective performance,review if resource stock approaches threshold or equity conflict increases

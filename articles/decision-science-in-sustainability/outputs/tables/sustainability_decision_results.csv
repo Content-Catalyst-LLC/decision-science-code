@@ -1,0 +1,7 @@
+"strategy","emissions_reduction","social_equity","cost_burden","resilience_score","implementation_feasibility","threshold_protection","description","sustainability_value_score","review_flag","average_performance","worst_case_performance","performance_range","threshold_pass_rate","robust_sustainability_score","rank"
+"Adaptive Resilience Mix",0.61,0.74,0.49,0.82,0.66,0.82,"Balanced strategy with strong resilience threshold protection and adaptive capacity",0.5814,"acceptable",0.756,0.68,0.14,1,0.668688,1
+"Circular Economy Strategy",0.66,0.68,0.46,0.76,0.62,0.74,"Material-flow strategy with strong robustness and moderate implementation feasibility",0.5556,"acceptable",0.732,0.68,0.12,1,0.655872,2
+"Justice-Centered Transition",0.58,0.88,0.52,0.8,0.58,0.78,"Transition strategy prioritizing justice resilience and burden-sharing",0.5796,"acceptable",0.732,0.62,0.22,0.8,0.612352,3
+"Green Industrial Push",0.78,0.63,0.68,0.66,0.52,0.7,"High emissions reduction with higher cost burden and implementation difficulty",0.5092,"acceptable",0.656,0.5,0.26,0.6,0.510784,4
+"High-Growth Tech Fix",0.55,0.38,0.57,0.44,0.7,0.5,"Technology-oriented strategy with equity and resilience weaknesses",0.3718,"review",0.596,0.42,0.34,0.4,0.398016,5
+"Incremental Transition",0.42,0.46,0.34,0.51,0.76,0.48,"Low-disruption transition with weak threshold protection and equity concerns",0.4034,"review",0.564,0.44,0.28,0.2,0.376448,6

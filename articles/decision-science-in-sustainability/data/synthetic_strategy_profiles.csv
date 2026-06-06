@@ -1,0 +1,7 @@
+strategy,emissions_reduction,social_equity,cost_burden,resilience_score,implementation_feasibility,threshold_protection,description
+Incremental Transition,0.42,0.46,0.34,0.51,0.76,0.48,Low-disruption transition with weak threshold protection and equity concerns
+Green Industrial Push,0.78,0.63,0.68,0.66,0.52,0.70,High emissions reduction with higher cost burden and implementation difficulty
+Adaptive Resilience Mix,0.61,0.74,0.49,0.82,0.66,0.82,Balanced strategy with strong resilience threshold protection and adaptive capacity
+High-Growth Tech Fix,0.55,0.38,0.57,0.44,0.70,0.50,Technology-oriented strategy with equity and resilience weaknesses
+Circular Economy Strategy,0.66,0.68,0.46,0.76,0.62,0.74,Material-flow strategy with strong robustness and moderate implementation feasibility
+Justice-Centered Transition,0.58,0.88,0.52,0.80,0.58,0.78,Transition strategy prioritizing justice resilience and burden-sharing

@@ -1,0 +1,151 @@
+time,node,stress,buffer,failed,systemic_loss,external_shock
+1,Energy,0.168559,0.581515,False,0,0.0
+1,Water,0.168271,0.541538,False,0,0.0
+1,Transport,0.168887,0.501489,False,0,0.0
+1,Healthcare,0.17702,0.460838,False,0,0.0
+1,Communications,0.168724,0.521502,False,0,0.0
+1,Public Administration,0.155026,0.442598,False,0,0.0
+2,Energy,0.161882,0.583565,False,0,0.0
+2,Water,0.155598,0.544091,False,0,0.0
+2,Transport,0.156717,0.503952,False,0,0.0
+2,Healthcare,0.168179,0.462384,False,0,0.0
+2,Communications,0.161047,0.523618,False,0,0.0
+2,Public Administration,0.156662,0.445065,False,0,0.0
+3,Energy,0.158449,0.585889,False,0,0.0
+3,Water,0.146703,0.547354,False,0,0.0
+3,Transport,0.139334,0.507805,False,0,0.0
+3,Healthcare,0.148032,0.465542,False,0,0.0
+3,Communications,0.153511,0.526337,False,0,0.0
+3,Public Administration,0.159773,0.447283,False,0,0.0
+4,Energy,0.528865,0.55858,False,0,0.38
+4,Water,0.515639,0.521103,False,0,0.38
+4,Transport,0.514652,0.481633,False,0,0.38
+4,Healthcare,0.503497,0.440262,False,0,0.38
+4,Communications,0.520388,0.499706,False,0,0.38
+4,Public Administration,0.534676,0.419509,False,0,0.38
+5,Energy,0.527599,0.531372,False,0,0.0
+5,Water,0.503233,0.495844,False,0,0.0
+5,Transport,0.508418,0.455959,False,0,0.0
+5,Healthcare,0.495979,0.415584,False,0,0.0
+5,Communications,0.518211,0.47325,False,0,0.0
+5,Public Administration,0.513544,0.393425,False,0,0.0
+6,Energy,0.523282,0.504509,False,0,0.0
+6,Water,0.478233,0.472586,False,0,0.0
+6,Transport,0.483418,0.432286,False,0,0.0
+6,Healthcare,0.47991,0.392191,False,0,0.0
+6,Communications,0.499053,0.448325,False,0,0.0
+6,Public Administration,0.512304,0.367441,False,0,0.0
+7,Energy,0.519924,0.477915,False,0,0.0
+7,Water,0.456042,0.451102,False,0,0.0
+7,Transport,0.481891,0.408735,False,0,0.0
+7,Healthcare,0.459888,0.3704,False,0,0.0
+7,Communications,0.48819,0.42427,False,0,0.0
+7,Public Administration,0.499365,0.342492,False,0,0.0
+8,Energy,0.511069,0.45203,False,0,0.0
+8,Water,0.454229,0.429764,False,0,0.0
+8,Transport,0.478276,0.385473,False,0,0.0
+8,Healthcare,0.453387,0.349129,False,0,0.0
+8,Communications,0.48469,0.400495,False,0,0.0
+8,Public Administration,0.49415,0.31796,False,0,0.0
+9,Energy,0.494799,0.427446,False,0,0.0
+9,Water,0.437055,0.4098,False,0,0.0
+9,Transport,0.463576,0.363387,False,0,0.0
+9,Healthcare,0.44838,0.328258,False,0,0.0
+9,Communications,0.472189,0.37772,False,0,0.0
+9,Public Administration,0.507508,0.292359,False,0,0.0
+10,Energy,0.476606,0.404317,False,0.1,0.0
+10,Water,0.416066,0.391514,False,0.1,0.0
+10,Transport,0.461261,0.341486,False,0.1,0.0
+10,Healthcare,0.452598,0.307051,False,0.1,0.0
+10,Communications,0.467246,0.35534,False,0.1,0.0
+10,Public Administration,0.505866,0.26689,True,0.1,0.0
+11,Energy,0.480869,0.380848,False,0.1,0.0
+11,Water,0.405126,0.374104,False,0.1,0.0
+11,Transport,0.437031,0.321523,False,0.1,0.0
+11,Healthcare,0.437278,0.287068,False,0.1,0.0
+11,Communications,0.466775,0.332998,False,0.1,0.0
+11,Public Administration,0.496429,0.242176,True,0.1,0.0
+12,Energy,0.471205,0.358151,False,0.1,0.0
+12,Water,0.397658,0.357292,False,0.1,0.0
+12,Transport,0.423875,0.302613,False,0.1,0.0
+12,Healthcare,0.434514,0.267307,False,0.1,0.0
+12,Communications,0.462582,0.310992,False,0.1,0.0
+12,Public Administration,0.524643,0.215204,True,0.1,0.0
+13,Energy,0.467404,0.335759,False,0.1,0.0
+13,Water,0.381564,0.341767,False,0.1,0.0
+13,Transport,0.408257,0.284953,False,0.1,0.0
+13,Healthcare,0.416198,0.249011,False,0.1,0.0
+13,Communications,0.462105,0.289023,False,0.1,0.0
+13,Public Administration,0.523975,0.188286,True,0.1,0.0
+14,Energy,0.456702,0.314223,False,0.1,0.0
+14,Water,0.379057,0.326442,False,0.1,0.0
+14,Transport,0.391022,0.268671,False,0.1,0.0
+14,Healthcare,0.403262,0.23175,False,0.1,0.0
+14,Communications,0.437105,0.269055,False,0.1,0.0
+14,Public Administration,0.51815,0.161834,True,0.1,0.0
+15,Energy,0.441024,0.293941,False,0.1,0.0
+15,Water,0.373215,0.311585,False,0.1,0.0
+15,Transport,0.392957,0.252234,False,0.1,0.0
+15,Healthcare,0.393077,0.215304,False,0.1,0.0
+15,Communications,0.429719,0.249677,False,0.1,0.0
+15,Public Administration,0.52483,0.134848,True,0.1,0.0
+16,Energy,0.441872,0.273591,False,0.1,0.0
+16,Water,0.372149,0.296813,False,0.1,0.0
+16,Transport,0.385694,0.236379,False,0.1,0.0
+16,Healthcare,0.372967,0.200467,False,0.1,0.0
+16,Communications,0.428753,0.230377,False,0.1,0.0
+16,Public Administration,0.53364,0.107156,True,0.1,0.0
+17,Energy,0.444141,0.25306,False,0.1,0.0
+17,Water,0.361849,0.282865,False,0.1,0.0
+17,Transport,0.395225,0.219761,False,0.1,0.0
+17,Healthcare,0.359379,0.186717,False,0.1,0.0
+17,Communications,0.434683,0.210602,False,0.1,0.0
+17,Public Administration,0.539792,0.078973,True,0.1,0.0
+18,Energy,0.428978,0.233742,False,0.24,0.0
+18,Water,0.340565,0.27062,False,0.24,0.0
+18,Transport,0.383715,0.204063,False,0.24,0.0
+18,Healthcare,0.363612,0.172628,False,0.24,0.0
+18,Communications,0.432847,0.190975,True,0.24,0.0
+18,Public Administration,0.55168,0.049839,True,0.24,0.0
+19,Energy,0.583978,0.202023,True,0.82,0.0
+19,Water,0.417675,0.252206,False,0.82,0.0
+19,Transport,0.499274,0.179122,True,0.82,0.0
+19,Healthcare,0.488113,0.148579,True,0.82,0.0
+19,Communications,0.431573,0.171449,True,0.82,0.0
+19,Public Administration,0.736657,0.005906,True,0.82,0.0
+20,Energy,0.886227,0.146125,True,1.0,0.0
+20,Water,0.757124,0.206636,True,1.0,0.0
+20,Transport,0.819996,0.128522,True,1.0,0.0
+20,Healthcare,1.006731,0.08304,True,1.0,0.0
+20,Communications,0.652112,0.13428,True,1.0,0.0
+20,Public Administration,1.098015,0.0,True,1.0,0.0
+21,Energy,1.172205,0.067349,True,1.0,0.0
+21,Water,1.109711,0.132859,True,1.0,0.0
+21,Transport,1.147195,0.051746,True,1.0,0.0
+21,Healthcare,1.679634,0.0,True,1.0,0.0
+21,Communications,0.885964,0.078403,True,1.0,0.0
+21,Public Administration,1.463047,0.0,True,1.0,0.0
+22,Energy,1.480039,0.0,True,1.0,0.0
+22,Water,1.477519,0.029657,True,1.0,0.0
+22,Transport,1.485852,0.0,True,1.0,0.0
+22,Healthcare,2.351602,0.0,True,1.0,0.0
+22,Communications,1.109742,0.004623,True,1.0,0.0
+22,Public Administration,1.831278,0.0,True,1.0,0.0
+23,Energy,1.782496,0.0,True,1.0,0.0
+23,Water,1.827519,0.0,True,1.0,0.0
+23,Transport,1.820758,0.0,True,1.0,0.0
+23,Healthcare,3.042515,0.0,True,1.0,0.0
+23,Communications,1.350078,0.0,True,1.0,0.0
+23,Public Administration,2.203402,0.0,True,1.0,0.0
+24,Energy,2.068017,0.0,True,1.0,0.0
+24,Water,2.187303,0.0,True,1.0,0.0
+24,Transport,2.133276,0.0,True,1.0,0.0
+24,Healthcare,3.729469,0.0,True,1.0,0.0
+24,Communications,1.573161,0.0,True,1.0,0.0
+24,Public Administration,2.588605,0.0,True,1.0,0.0
+25,Energy,2.346907,0.0,True,1.0,0.0
+25,Water,2.555507,0.0,True,1.0,0.0
+25,Transport,2.443276,0.0,True,1.0,0.0
+25,Healthcare,4.410515,0.0,True,1.0,0.0
+25,Communications,1.800772,0.0,True,1.0,0.0
+25,Public Administration,2.961844,0.0,True,1.0,0.0

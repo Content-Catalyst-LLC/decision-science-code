@@ -1,0 +1,7 @@
+"system","average_continuity","worst_case_continuity","continuity_range","threshold_pass_rate"
+"Adaptive Monitoring System",0.764,0.7,0.12,1
+"Centralized Platform System",0.492,0.32,0.46,0.2
+"Diversified Buffered System",0.794,0.76,0.08,1
+"Fragmented Governance System",0.496,0.36,0.38,0.2
+"Lean Supply System",0.428,0.26,0.5,0.2
+"Modular Resilient System",0.764,0.72,0.1,1

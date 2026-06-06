@@ -1,0 +1,8 @@
+threshold_name,value,description
+high_cascade_risk_score,0.55,Cascade risk score triggering review
+high_buffer_weakness,0.70,Buffer weakness level triggering review
+high_common_mode_risk,0.70,Common-mode exposure level triggering review
+low_response_capacity,0.45,Response capacity level triggering review
+low_worst_case_continuity,0.50,Worst-case continuity triggering review
+low_threshold_pass_rate,0.60,Scenario pass rate triggering review
+high_peak_systemic_loss,0.50,Peak systemic loss triggering redesign

@@ -1,0 +1,7 @@
+parameter,value,description
+time_steps,25,Number of simulated time steps
+random_seed,42,Random seed for reproducibility
+initial_stress,0.18,Initial stress applied to each node
+external_shock_time,4,Time step at which external shock occurs
+external_shock_size,0.38,External shock size
+systemic_loss_redesign_threshold,0.50,Systemic loss threshold triggering redesign recommendation

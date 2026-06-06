@@ -1,0 +1,18 @@
+-- network_dependencies.sql
+
+INSERT INTO network_dependencies (target_node, source_node, dependency_weight)
+VALUES
+('Energy','Communications',0.18),
+('Energy','Transport',0.10),
+('Water','Energy',0.28),
+('Water','Communications',0.08),
+('Transport','Energy',0.20),
+('Transport','Communications',0.12),
+('Healthcare','Energy',0.24),
+('Healthcare','Water',0.18),
+('Healthcare','Transport',0.12),
+('Healthcare','Communications',0.14),
+('Communications','Energy',0.22),
+('Public Administration','Communications',0.18),
+('Public Administration','Energy',0.10),
+('Public Administration','Transport',0.08);

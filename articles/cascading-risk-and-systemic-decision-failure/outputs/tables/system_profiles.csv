@@ -1,0 +1,7 @@
+"system","exposure","dependency_centrality","buffer_weakness","common_mode_risk","monitoring_quality","response_capacity","description","cascade_risk_score","review_flag"
+"Centralized Platform System",0.82,0.88,0.76,0.79,0.42,0.4,"Highly centralized system with strong efficiency and high propagation risk",0.5944,"review"
+"Modular Resilient System",0.46,0.38,0.28,0.34,0.78,0.8,"Modular system with buffers monitoring and high response capacity",0.1598,"acceptable"
+"Lean Supply System",0.78,0.72,0.83,0.74,0.38,0.35,"Lean optimized system with weak buffers and high common-mode exposure",0.5635,"review"
+"Diversified Buffered System",0.42,0.44,0.24,0.3,0.82,0.84,"Diversified system with strong buffers and low common-mode risk",0.1418,"acceptable"
+"Fragmented Governance System",0.69,0.76,0.66,0.62,0.46,0.44,"Interdependent system with fragmented accountability and weak response coordination",0.4816,"review"
+"Adaptive Monitoring System",0.5,0.48,0.36,0.4,0.86,0.82,"System with strong monitoring escalation and adaptive response capacity",0.2084,"acceptable"

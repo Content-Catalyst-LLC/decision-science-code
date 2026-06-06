@@ -1,0 +1,126 @@
+{
+  "article": "Cascading Risk and Systemic Decision Failure",
+  "decision_context": "Simulating threshold-based cascading failure across an interdependent network.",
+  "parameters": {
+    "time_steps": 25.0,
+    "random_seed": 42.0,
+    "initial_stress": 0.18,
+    "external_shock_time": 4.0,
+    "external_shock_size": 0.38,
+    "systemic_loss_redesign_threshold": 0.5
+  },
+  "nodes": {
+    "Energy": {
+      "threshold": 0.72,
+      "criticality": 0.22,
+      "buffer": 0.58
+    },
+    "Water": {
+      "threshold": 0.68,
+      "criticality": 0.18,
+      "buffer": 0.54
+    },
+    "Transport": {
+      "threshold": 0.7,
+      "criticality": 0.16,
+      "buffer": 0.5
+    },
+    "Healthcare": {
+      "threshold": 0.66,
+      "criticality": 0.2,
+      "buffer": 0.46
+    },
+    "Communications": {
+      "threshold": 0.64,
+      "criticality": 0.14,
+      "buffer": 0.52
+    },
+    "Public Administration": {
+      "threshold": 0.62,
+      "criticality": 0.1,
+      "buffer": 0.44
+    }
+  },
+  "dependencies": {
+    "Energy": {
+      "Communications": 0.18,
+      "Transport": 0.1
+    },
+    "Water": {
+      "Energy": 0.28,
+      "Communications": 0.08
+    },
+    "Transport": {
+      "Energy": 0.2,
+      "Communications": 0.12
+    },
+    "Healthcare": {
+      "Energy": 0.24,
+      "Water": 0.18,
+      "Transport": 0.12,
+      "Communications": 0.14
+    },
+    "Communications": {
+      "Energy": 0.22
+    },
+    "Public Administration": {
+      "Communications": 0.18,
+      "Energy": 0.1,
+      "Transport": 0.08
+    }
+  },
+  "summary_metrics": [
+    {
+      "metric": "peak_systemic_loss",
+      "value": 1.0
+    },
+    {
+      "metric": "average_systemic_loss",
+      "value": 0.3144
+    },
+    {
+      "metric": "failure_time_count",
+      "value": 16
+    },
+    {
+      "metric": "total_failed_node_periods",
+      "value": 51
+    },
+    {
+      "metric": "maximum_node_failure_count",
+      "value": 16
+    },
+    {
+      "metric": "failed_periods_Communications",
+      "value": 8
+    },
+    {
+      "metric": "failed_periods_Energy",
+      "value": 7
+    },
+    {
+      "metric": "failed_periods_Healthcare",
+      "value": 7
+    },
+    {
+      "metric": "failed_periods_Public Administration",
+      "value": 16
+    },
+    {
+      "metric": "failed_periods_Transport",
+      "value": 7
+    },
+    {
+      "metric": "failed_periods_Water",
+      "value": 6
+    }
+  ],
+  "recommendation": "redesign_dependencies_and_add_containment_before_systemic_failure",
+  "modeling_principles": [
+    "Cascading risk depends on dependency structure, not only initial shock size.",
+    "Threshold failures can propagate when neighboring systems fail.",
+    "Buffers and recovery capacity reduce systemic loss.",
+    "Common-mode exposure can defeat apparent diversification.",
+    "Decision records should preserve dependencies, thresholds, monitoring indicators, and containment plans."
+  ]
+}

@@ -1,0 +1,12 @@
+metric,value
+peak_systemic_loss,1.0
+average_systemic_loss,0.3144
+failure_time_count,16
+total_failed_node_periods,51
+maximum_node_failure_count,16
+failed_periods_Communications,8
+failed_periods_Energy,7
+failed_periods_Healthcare,7
+failed_periods_Public Administration,16
+failed_periods_Transport,7
+failed_periods_Water,6

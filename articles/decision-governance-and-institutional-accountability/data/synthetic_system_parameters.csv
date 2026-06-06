@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,40,Number of simulated decision-governance review periods
+random_seed,42,Random seed for reproducibility
+accountability_trigger,0.56,Accountability below this level requires review
+traceability_trigger,0.58,Evidence traceability below this level requires review
+review_trigger,0.58,Review strength below this level requires review
+responsibility_gap_trigger,0.28,Responsibility gap above this level requires review
+risk_trigger,0.68,Risk exposure above this level requires review

@@ -1,0 +1,70 @@
+{
+  "article": "Decision Governance and Institutional Accountability",
+  "decision_context": "Simulating accountability drift, responsibility gaps, evidence traceability, review strength, monitoring, corrective capacity, and review triggers.",
+  "parameters": {
+    "time_steps": 40.0,
+    "random_seed": 42.0,
+    "accountability_trigger": 0.56,
+    "traceability_trigger": 0.58,
+    "review_trigger": 0.58,
+    "responsibility_gap_trigger": 0.28,
+    "risk_trigger": 0.68
+  },
+  "summary_metrics": [
+    {
+      "decision_system": "Adaptive Accountability System",
+      "minimum_accountability": 0.940581,
+      "average_accountability": 0.998412,
+      "average_decision_quality": 0.989153,
+      "minimum_evidence_traceability": 0.856381,
+      "minimum_review_strength": 0.882583,
+      "maximum_risk_exposure": 0.208348,
+      "maximum_responsibility_gap": 0.0,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision_system": "Risk-Tiered Governance System",
+      "minimum_accountability": 0.789723,
+      "average_accountability": 0.980986,
+      "average_decision_quality": 0.972745,
+      "minimum_evidence_traceability": 0.746828,
+      "minimum_review_strength": 0.745897,
+      "maximum_risk_exposure": 0.299514,
+      "maximum_responsibility_gap": 0.0,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision_system": "Committee Governance System",
+      "minimum_accountability": 0.607316,
+      "average_accountability": 0.937301,
+      "average_decision_quality": 0.934331,
+      "minimum_evidence_traceability": 0.59061,
+      "minimum_review_strength": 0.650001,
+      "maximum_risk_exposure": 0.426007,
+      "maximum_responsibility_gap": 0.092684,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision_system": "Informal Approval System",
+      "minimum_accountability": 0.481458,
+      "average_accountability": 0.936313,
+      "average_decision_quality": 0.868967,
+      "minimum_evidence_traceability": 0.493042,
+      "minimum_review_strength": 0.423686,
+      "maximum_risk_exposure": 0.593441,
+      "maximum_responsibility_gap": 0.278542,
+      "review_required_count": 7,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "Decision governance should make authority, evidence, review, implementation, monitoring, and correction explicit.",
+    "Responsibility gaps appear when actors have influence without accountability.",
+    "Decision records preserve institutional memory and make review possible.",
+    "Risk-tiered governance should match process burden to decision consequence.",
+    "Accountability requires learning loops that change future decision practice."
+  ]
+}

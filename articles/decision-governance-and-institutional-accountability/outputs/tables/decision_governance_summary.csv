@@ -1,0 +1,7 @@
+"design","decision_quality","legitimacy","accountability","implementation_reliability","evidence_traceability","review_strength","monitoring_strength","corrective_capacity","risk_exposure","process_burden","description","governance_score","review_flag","rank"
+"Adaptive Accountability System",0.86,0.84,0.9,0.84,0.86,0.88,0.9,0.92,0.3,0.68,"Governance with records review triggers monitoring corrective authority and learning loops",0.8048,"acceptable",1
+"Decision Record and Audit Model",0.76,0.76,0.86,0.78,0.88,0.8,0.82,0.82,0.34,0.62,"Strong documentation auditability and institutional memory",0.7392,"acceptable",2
+"Independent Challenge Model",0.82,0.78,0.82,0.7,0.82,0.9,0.7,0.78,0.36,0.66,"Strong independent review and dissent protection with higher process burden",0.7204,"acceptable",3
+"Risk-Tiered Governance",0.78,0.74,0.76,0.74,0.78,0.76,0.72,0.72,0.4,0.56,"Governance requirements scaled by decision risk stakes and uncertainty",0.6824,"acceptable",4
+"Committee Review",0.66,0.62,0.58,0.62,0.6,0.62,0.54,0.5,0.58,0.46,"Committee-based review with moderate legitimacy but responsibility diffusion",0.5208,"review",5
+"Informal Managerial Approval",0.52,0.46,0.4,0.58,0.44,0.36,0.38,0.34,0.72,0.2,"Fast lightweight approval with weak records review accountability and corrective capacity",0.3676,"review",6

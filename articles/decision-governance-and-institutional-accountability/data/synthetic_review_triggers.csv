@@ -1,0 +1,7 @@
+trigger_name,value,description
+accountability_trigger,0.56,Accountability below this level requires review
+traceability_trigger,0.58,Evidence traceability below this level requires review
+review_trigger,0.58,Review strength below this level requires review
+responsibility_gap_trigger,0.28,Influence exceeding accountability by this amount requires review
+risk_trigger,0.68,Risk exposure above this level requires review
+process_burden_trigger,0.75,Process burden above this level requires redesign

@@ -1,0 +1,8 @@
+"actor","decision_influence","accountability","role","notes","responsibility_gap","gap_review_flag"
+"Executive Sponsor",0.86,0.76,"approver","High authority with formal accountability",0.1,"acceptable"
+"Decision Owner",0.78,0.82,"owner","Owns context rationale evidence and monitoring",0,"acceptable"
+"Technical Review Team",0.68,0.54,"reviewer","Strong influence but limited formal outcome accountability",0.14,"acceptable"
+"Vendor",0.62,0.34,"external provider","Influences system behavior but weak accountability unless contract governs it",0.28,"acceptable"
+"Implementation Team",0.58,0.7,"implementer","Owns operational execution and reporting",0,"acceptable"
+"Affected Stakeholders",0.24,0.18,"affected group","High exposure but limited institutional influence",0.06,"acceptable"
+"Audit Function",0.44,0.62,"assurance","Reviews records controls and corrective action",0,"acceptable"

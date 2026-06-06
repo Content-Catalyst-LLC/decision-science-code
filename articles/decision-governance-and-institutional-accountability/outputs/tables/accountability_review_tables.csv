@@ -1,0 +1,3 @@
+"design","decision_quality","legitimacy","accountability","implementation_reliability","evidence_traceability","review_strength","monitoring_strength","corrective_capacity","risk_exposure","process_burden","description","governance_score","review_flag","rank"
+"Committee Review",0.66,0.62,0.58,0.62,0.6,0.62,0.54,0.5,0.58,0.46,"Committee-based review with moderate legitimacy but responsibility diffusion",0.5208,"review",5
+"Informal Managerial Approval",0.52,0.46,0.4,0.58,0.44,0.36,0.38,0.34,0.72,0.2,"Fast lightweight approval with weak records review accountability and corrective capacity",0.3676,"review",6

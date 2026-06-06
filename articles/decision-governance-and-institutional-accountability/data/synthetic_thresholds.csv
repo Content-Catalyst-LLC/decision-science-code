@@ -1,0 +1,7 @@
+threshold_name,value,description
+low_accountability,0.60,Governance accountability below this level requires review
+low_evidence_traceability,0.60,Evidence traceability below this level requires review
+low_review_strength,0.60,Review strength below this level requires review
+low_corrective_capacity,0.60,Corrective capacity below this level requires review
+high_risk_exposure,0.60,Risk exposure above this level requires review
+high_responsibility_gap,0.28,Influence-accountability gap above this level requires review

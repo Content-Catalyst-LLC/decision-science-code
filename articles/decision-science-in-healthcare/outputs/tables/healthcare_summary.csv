@@ -1,0 +1,7 @@
+"treatment","expected_benefit","adverse_event_risk","cost_burden","patient_preference_fit","equity_score","implementation_feasibility","description","treatment_value_score","review_flag","average_performance","worst_case_performance","performance_range","threshold_pass_rate","robust_healthcare_score","rank"
+"Shared-Decision Pathway",0.72,0.12,0.54,0.88,0.76,0.7,"Preference-sensitive pathway with strong patient alignment",0.4232,"acceptable",0.736,0.68,0.16,1,0.600528,1
+"Equity-Sensitive Care Pathway",0.7,0.13,0.58,0.8,0.86,0.66,"Care pathway designed to improve access equity and follow-up reliability",0.4014,"acceptable",0.712,0.64,0.14,0.8,0.551756,2
+"Monitoring-First Strategy",0.6,0.09,0.4,0.76,0.68,0.74,"Staged monitoring strategy that preserves flexibility and lowers immediate risk",0.3866,"acceptable",0.7,0.58,0.22,0.6,0.497844,3
+"Standard Therapy",0.68,0.14,0.48,0.61,0.64,0.78,"Common baseline treatment with moderate preference fit and strong feasibility",0.3634,"review",0.644,0.6,0.1,0.4,0.460116,4
+"Conservative Management",0.52,0.08,0.31,0.72,0.58,0.82,"Lower-risk lower-cost management pathway with lower expected benefit",0.3678,"review",0.632,0.48,0.28,0.6,0.449532,5
+"Aggressive Therapy",0.79,0.26,0.82,0.55,0.5,0.52,"High expected benefit but higher adverse-event risk cost and implementation constraints",0.2764,"review",0.6,0.44,0.34,0.4,0.370376,6

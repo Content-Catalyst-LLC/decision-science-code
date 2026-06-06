@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Healthcare decision science review,Shared-Decision Pathway,Strong patient preference fit balanced performance and acceptable risk,review if safety risk rises or preference conflict emerges

@@ -1,0 +1,31 @@
+"treatment","scenario","performance"
+"Standard Therapy","baseline",0.7
+"Standard Therapy","high_risk_patient",0.62
+"Standard Therapy","resource_constraint",0.66
+"Standard Therapy","preference_conflict",0.6
+"Standard Therapy","followup_uncertainty",0.64
+"Aggressive Therapy","baseline",0.78
+"Aggressive Therapy","high_risk_patient",0.68
+"Aggressive Therapy","resource_constraint",0.44
+"Aggressive Therapy","preference_conflict",0.52
+"Aggressive Therapy","followup_uncertainty",0.58
+"Conservative Management","baseline",0.56
+"Conservative Management","high_risk_patient",0.48
+"Conservative Management","resource_constraint",0.76
+"Conservative Management","preference_conflict",0.7
+"Conservative Management","followup_uncertainty",0.66
+"Shared-Decision Pathway","baseline",0.74
+"Shared-Decision Pathway","high_risk_patient",0.7
+"Shared-Decision Pathway","resource_constraint",0.68
+"Shared-Decision Pathway","preference_conflict",0.84
+"Shared-Decision Pathway","followup_uncertainty",0.72
+"Equity-Sensitive Care Pathway","baseline",0.72
+"Equity-Sensitive Care Pathway","high_risk_patient",0.68
+"Equity-Sensitive Care Pathway","resource_constraint",0.64
+"Equity-Sensitive Care Pathway","preference_conflict",0.78
+"Equity-Sensitive Care Pathway","followup_uncertainty",0.74
+"Monitoring-First Strategy","baseline",0.64
+"Monitoring-First Strategy","high_risk_patient",0.58
+"Monitoring-First Strategy","resource_constraint",0.72
+"Monitoring-First Strategy","preference_conflict",0.76
+"Monitoring-First Strategy","followup_uncertainty",0.8

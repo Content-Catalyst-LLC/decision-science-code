@@ -1,0 +1,6 @@
+scenario,description
+baseline,Ordinary patient conditions where assumptions broadly hold
+high_risk_patient,Patient context where adverse-event risk and comorbidity are more salient
+resource_constraint,Clinical setting with limited staff capacity cost pressure or availability constraints
+preference_conflict,Patient values differ from average clinical recommendation
+followup_uncertainty,Future where monitoring continuity and follow-up reliability are uncertain

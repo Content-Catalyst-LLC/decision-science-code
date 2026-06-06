@@ -1,0 +1,10 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+random_seed,42,Random seed for reproducibility
+initial_queue,18.0,Initial patient queue
+initial_staffing_capacity,24.0,Initial staffing capacity
+initial_discharge_capacity,22.0,Initial discharge capacity
+initial_surge_response,0.0,Initial surge response
+initial_safety_risk,0.22,Initial safety risk
+queue_trigger,35.0,Queue level triggering surge response
+safety_risk_trigger,0.70,Safety risk level triggering capacity review

@@ -1,0 +1,9 @@
+threshold_name,value,description
+high_adverse_event_risk,0.25,Adverse-event risk level requiring review
+low_patient_preference_fit,0.60,Patient preference fit level requiring review
+low_equity_score,0.55,Equity score level requiring review
+low_implementation_feasibility,0.55,Implementation feasibility level requiring review
+low_worst_case_performance,0.50,Worst-case scenario performance requiring review
+low_threshold_pass_rate,0.60,Scenario pass rate requiring review
+queue_trigger,35.0,Queue level triggering surge response
+safety_risk_trigger,0.70,Safety risk level triggering capacity review

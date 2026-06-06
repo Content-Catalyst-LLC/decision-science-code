@@ -1,0 +1,7 @@
+"treatment","average_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Aggressive Therapy",0.6,0.44,0.34,0.4
+"Conservative Management",0.632,0.48,0.28,0.6
+"Equity-Sensitive Care Pathway",0.712,0.64,0.14,0.8
+"Monitoring-First Strategy",0.7,0.58,0.22,0.6
+"Shared-Decision Pathway",0.736,0.68,0.16,1
+"Standard Therapy",0.644,0.6,0.1,0.4

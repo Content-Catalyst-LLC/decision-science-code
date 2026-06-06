@@ -1,0 +1,10 @@
+metric,value
+average_queue,4.549553
+maximum_queue,19.317729
+average_arrivals,24.417581
+average_discharges,27.056243
+average_safety_risk,0.312029
+maximum_safety_risk,0.437025
+average_service_continuity,0.776668
+minimum_service_continuity,0.626809
+surge_trigger_count,0

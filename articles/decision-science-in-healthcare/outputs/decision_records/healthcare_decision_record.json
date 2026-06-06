@@ -1,0 +1,61 @@
+{
+  "article": "Decision Science in Healthcare",
+  "decision_context": "Simulating hospital capacity, queue pressure, patient safety risk, and adaptive surge response.",
+  "parameters": {
+    "time_steps": 60.0,
+    "random_seed": 42.0,
+    "initial_queue": 18.0,
+    "initial_staffing_capacity": 24.0,
+    "initial_discharge_capacity": 22.0,
+    "initial_surge_response": 0.0,
+    "initial_safety_risk": 0.22,
+    "queue_trigger": 35.0,
+    "safety_risk_trigger": 0.7
+  },
+  "summary_metrics": [
+    {
+      "metric": "average_queue",
+      "value": 4.549553
+    },
+    {
+      "metric": "maximum_queue",
+      "value": 19.317729
+    },
+    {
+      "metric": "average_arrivals",
+      "value": 24.417581
+    },
+    {
+      "metric": "average_discharges",
+      "value": 27.056243
+    },
+    {
+      "metric": "average_safety_risk",
+      "value": 0.312029
+    },
+    {
+      "metric": "maximum_safety_risk",
+      "value": 0.437025
+    },
+    {
+      "metric": "average_service_continuity",
+      "value": 0.776668
+    },
+    {
+      "metric": "minimum_service_continuity",
+      "value": 0.626809
+    },
+    {
+      "metric": "surge_trigger_count",
+      "value": 0
+    }
+  ],
+  "recommendation": "continue_monitoring_with_adaptive_capacity_review",
+  "modeling_principles": [
+    "Healthcare decisions are probabilistic, operational, ethical, and patient-centered.",
+    "Queue pressure can accumulate when arrivals exceed throughput over time.",
+    "Safety risk rises when capacity, staffing, and flow are strained.",
+    "Surge triggers should be connected to operational authority.",
+    "Decision records should preserve assumptions, thresholds, patient-safety concerns, equity issues, and revision triggers."
+  ]
+}

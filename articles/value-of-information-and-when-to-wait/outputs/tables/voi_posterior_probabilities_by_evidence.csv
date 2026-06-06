@@ -1,0 +1,13 @@
+"evidence","evidence_probability","state","posterior_probability"
+"reassuring_signal",0.4,"stable_growth",0.58
+"reassuring_signal",0.4,"adverse_conditions",0.18
+"reassuring_signal",0.4,"disruptive_shift",0.1
+"reassuring_signal",0.4,"delayed_window",0.14
+"warning_signal",0.35,"stable_growth",0.18
+"warning_signal",0.35,"adverse_conditions",0.46
+"warning_signal",0.35,"disruptive_shift",0.18
+"warning_signal",0.35,"delayed_window",0.18
+"disruption_signal",0.25,"stable_growth",0.12
+"disruption_signal",0.25,"adverse_conditions",0.18
+"disruption_signal",0.25,"disruptive_shift",0.52
+"disruption_signal",0.25,"delayed_window",0.18

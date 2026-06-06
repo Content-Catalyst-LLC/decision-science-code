@@ -1,0 +1,6 @@
+cost_name,value,description
+information_cost,4.0,direct cost of study pilot audit model or evidence collection
+delay_cost,6.5,opportunity loss risk exposure and implementation delay cost
+rapid_pilot_cost,2.5,direct cost of rapid pilot
+full_study_cost,6.0,direct cost of full study
+monitoring_cost,1.8,cost of continued monitoring

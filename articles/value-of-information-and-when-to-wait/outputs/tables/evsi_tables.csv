@@ -1,0 +1,4 @@
+"evidence","evidence_probability","best_action_after_evidence","expected_value_after_evidence","decision_changes"
+"reassuring_signal",0.4,"Stage Commitment",75.82,FALSE
+"warning_signal",0.35,"Stage Commitment",73.62,FALSE
+"disruption_signal",0.25,"Monitor and Trigger",76.36,TRUE

@@ -1,0 +1,57 @@
+{
+  "article": "Value of Information and When to Wait",
+  "decision_context": "Comparing action now, waiting, piloting, staging, and monitoring using value of information and delay cost.",
+  "states": [
+    "stable_growth",
+    "adverse_conditions",
+    "disruptive_shift",
+    "delayed_window"
+  ],
+  "prior_probabilities": {
+    "stable_growth": 0.35,
+    "adverse_conditions": 0.25,
+    "disruptive_shift": 0.2,
+    "delayed_window": 0.2
+  },
+  "evidence_probabilities": {
+    "disruption_signal": 0.25,
+    "reassuring_signal": 0.4,
+    "warning_signal": 0.35
+  },
+  "posteriors": {
+    "disruption_signal": {
+      "stable_growth": 0.12,
+      "adverse_conditions": 0.18,
+      "disruptive_shift": 0.52,
+      "delayed_window": 0.18
+    },
+    "reassuring_signal": {
+      "stable_growth": 0.58,
+      "adverse_conditions": 0.18,
+      "disruptive_shift": 0.1,
+      "delayed_window": 0.14
+    },
+    "warning_signal": {
+      "stable_growth": 0.18,
+      "adverse_conditions": 0.46,
+      "disruptive_shift": 0.18,
+      "delayed_window": 0.18
+    }
+  },
+  "information_cost": 4.0,
+  "delay_cost": 6.5,
+  "current_best_action": "Stage Commitment",
+  "evpi": 3.6000000000000085,
+  "evsi": 0.48499999999999943,
+  "net_value_information": -3.5150000000000006,
+  "net_value_waiting": -10.015,
+  "decision_change_probability": 0.25,
+  "recommendation": "act_now_or_stage",
+  "modeling_principles": [
+    "Information has value only when it can improve a decision.",
+    "EVPI provides an upper bound on information value.",
+    "EVSI evaluates imperfect evidence such as studies, pilots, tests, and monitoring.",
+    "Net value of waiting subtracts both information cost and delay cost.",
+    "When delay is costly, staged action or learning while acting may dominate waiting."
+  ]
+}

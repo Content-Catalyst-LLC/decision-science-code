@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,net_value_waiting,below,0,decision owner
+RT2,decision_change_probability,above,0.35,value-of-information lead
+RT3,delay_cost,above,5,governance lead
+RT4,evpi,above,10,analysis lead
+RT5,information_cost,above,evsi,finance review lead

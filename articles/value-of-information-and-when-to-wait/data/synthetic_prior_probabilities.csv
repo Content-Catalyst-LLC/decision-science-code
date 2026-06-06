@@ -1,0 +1,5 @@
+state,probability
+stable_growth,0.35
+adverse_conditions,0.25
+disruptive_shift,0.20
+delayed_window,0.20

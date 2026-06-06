@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Value of information and timing review,Stage Commitment,Learning has value but delay cost makes full waiting unattractive,review when new evidence changes timing recommendation

@@ -1,0 +1,21 @@
+{
+  "article": "Value of Information and When to Wait",
+  "decision_context": "",
+  "decision_owner": "",
+  "current_best_action": "",
+  "information_options": [],
+  "critical_uncertainties": [],
+  "evidence_to_action_rules": [],
+  "evpi": null,
+  "evsi": null,
+  "information_cost": null,
+  "delay_cost": null,
+  "net_value_information": null,
+  "net_value_waiting": null,
+  "decision_change_probability": null,
+  "timing_recommendation": "",
+  "stopping_rule": "",
+  "stakeholder_delay_risks": [],
+  "review_triggers": [],
+  "post_decision_learning": []
+}

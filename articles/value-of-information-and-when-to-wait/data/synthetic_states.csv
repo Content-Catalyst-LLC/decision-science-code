@@ -1,0 +1,5 @@
+state,prior_probability,description
+stable_growth,0.35,favorable conditions with stable growth and manageable disruption
+adverse_conditions,0.25,conditions worsen through cost pressure risk or operational stress
+disruptive_shift,0.20,rapid change makes flexible or adaptive strategies more valuable
+delayed_window,0.20,waiting causes opportunity loss and narrows the action window

@@ -1,0 +1,2 @@
+"current_best_action","evpi","evsi","information_cost","delay_cost","net_value_information","net_value_waiting","decision_change_probability","recommendation"
+"Stage Commitment",3.60000000000001,0.484999999999999,4,6.5,-3.515,-10.015,0.25,"act_now_or_stage"

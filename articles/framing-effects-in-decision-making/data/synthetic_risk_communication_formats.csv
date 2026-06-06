@@ -1,0 +1,6 @@
+risk_case_id,domain,baseline_risk,new_risk,relative_risk_change,absolute_risk_change,preferred_display
+RC1,Healthcare,0.10,0.07,-0.30,-0.03,show absolute and relative together
+RC2,Public Policy,0.04,0.06,0.50,0.02,show baseline and absolute change
+RC3,Financial Risk,0.20,0.28,0.40,0.08,show probability and loss severity
+RC4,Infrastructure,0.08,0.14,0.75,0.06,show threshold and uncertainty
+RC5,AI Governance,0.05,0.09,0.80,0.04,show calibration and subgroup impact

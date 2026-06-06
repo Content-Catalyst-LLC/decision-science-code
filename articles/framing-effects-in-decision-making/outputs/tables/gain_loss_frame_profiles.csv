@@ -1,0 +1,801 @@
+"case_id","domain","gain_frame_choice","loss_frame_choice","frame_reversal","frame_sensitivity_index"
+757,"Public Policy","risky option","sure option",TRUE,427.852748516515
+448,"Organizational Strategy","risky option","sure option",TRUE,409.0000116691
+146,"Infrastructure","risky option","sure option",TRUE,394.614245793408
+285,"Financial Risk","risky option","sure option",TRUE,365.597992791055
+213,"Financial Risk","risky option","sure option",TRUE,364.042709319784
+113,"Healthcare","risky option","sure option",TRUE,353.316371407967
+66,"AI Governance","risky option","sure option",TRUE,346.254246190345
+19,"Healthcare","risky option","sure option",TRUE,340.66732866296
+722,"Financial Risk","risky option","sure option",TRUE,338.033428453604
+550,"Organizational Strategy","risky option","sure option",TRUE,329.413727175018
+201,"Organizational Strategy","risky option","sure option",TRUE,315.995693471429
+597,"AI Governance","risky option","sure option",TRUE,293.872313648439
+191,"Financial Risk","risky option","sure option",TRUE,293.82904165984
+375,"Healthcare","risky option","sure option",TRUE,289.42979829016
+615,"Financial Risk","risky option","sure option",TRUE,286.245702731205
+400,"Organizational Strategy","risky option","sure option",TRUE,286.243073137619
+510,"Public Policy","risky option","sure option",TRUE,285.435151713364
+254,"Healthcare","risky option","sure option",TRUE,283.935777137871
+603,"Public Policy","risky option","sure option",TRUE,278.342779060053
+18,"Healthcare","risky option","sure option",TRUE,273.003321876303
+682,"AI Governance","risky option","sure option",TRUE,264.402178766875
+739,"Organizational Strategy","risky option","sure option",TRUE,263.921541228354
+81,"Organizational Strategy","risky option","sure option",TRUE,261.654534911526
+584,"Public Policy","risky option","sure option",TRUE,261.404926094448
+323,"AI Governance","risky option","sure option",TRUE,261.162494517153
+654,"Healthcare","risky option","sure option",TRUE,260.867973392692
+491,"Financial Risk","risky option","sure option",TRUE,260.679092436876
+44,"Public Policy","risky option","sure option",TRUE,260.650137965412
+608,"Organizational Strategy","risky option","sure option",TRUE,259.553861028658
+315,"Public Policy","risky option","sure option",TRUE,258.464872256789
+751,"Healthcare","risky option","sure option",TRUE,257.571271863927
+511,"Infrastructure","risky option","sure option",TRUE,241.562250685869
+716,"Organizational Strategy","risky option","sure option",TRUE,240.675032262802
+152,"Public Policy","risky option","sure option",TRUE,238.920285552477
+647,"Financial Risk","sure option","risky option",TRUE,238.728222192899
+283,"Financial Risk","risky option","sure option",TRUE,237.486012083625
+187,"Financial Risk","risky option","sure option",TRUE,236.936993804495
+278,"Infrastructure","risky option","sure option",TRUE,236.869421028722
+539,"Organizational Strategy","risky option","sure option",TRUE,236.463872848623
+284,"Healthcare","risky option","sure option",TRUE,234.298399516556
+317,"Organizational Strategy","risky option","sure option",TRUE,233.909456970784
+490,"Infrastructure","risky option","sure option",TRUE,232.75250070799
+753,"Financial Risk","risky option","sure option",TRUE,232.39833308376
+731,"Healthcare","risky option","sure option",TRUE,228.022263628104
+130,"Organizational Strategy","risky option","sure option",TRUE,226.100138924689
+699,"AI Governance","risky option","sure option",TRUE,223.52409036587
+84,"Healthcare","risky option","sure option",TRUE,220.879395915952
+789,"Organizational Strategy","risky option","sure option",TRUE,216.337092977647
+466,"Healthcare","risky option","sure option",TRUE,213.781384678852
+207,"Infrastructure","risky option","sure option",TRUE,213.763316035644
+522,"Organizational Strategy","sure option","risky option",TRUE,212.3741499218
+747,"Financial Risk","sure option","risky option",TRUE,209.64799310725
+677,"Public Policy","risky option","sure option",TRUE,208.791675034113
+266,"Infrastructure","risky option","sure option",TRUE,208.487661154733
+218,"Organizational Strategy","risky option","sure option",TRUE,207.31289297152
+614,"Organizational Strategy","risky option","sure option",TRUE,206.383845484072
+248,"Public Policy","risky option","sure option",TRUE,205.960944617686
+449,"AI Governance","risky option","sure option",TRUE,204.586422426011
+622,"Healthcare","risky option","sure option",TRUE,203.59953288695
+619,"Infrastructure","risky option","sure option",TRUE,201.47935116027
+480,"Financial Risk","risky option","sure option",TRUE,198.292172258083
+470,"Public Policy","risky option","sure option",TRUE,197.885601679962
+436,"Infrastructure","risky option","sure option",TRUE,196.079043887283
+50,"Public Policy","risky option","sure option",TRUE,195.864477921203
+345,"Organizational Strategy","risky option","sure option",TRUE,195.847500506114
+579,"Healthcare","sure option","risky option",TRUE,195.764982226378
+273,"Infrastructure","sure option","risky option",TRUE,194.983796004579
+525,"Healthcare","risky option","sure option",TRUE,194.968941164918
+537,"Organizational Strategy","risky option","sure option",TRUE,193.767815581594
+607,"Financial Risk","risky option","sure option",TRUE,193.574303523514
+374,"Organizational Strategy","risky option","sure option",TRUE,191.249471519261
+36,"Infrastructure","risky option","sure option",TRUE,190.277774098833
+114,"AI Governance","risky option","sure option",TRUE,190.252124467922
+526,"Infrastructure","risky option","sure option",TRUE,187.540703336613
+421,"Infrastructure","sure option","risky option",TRUE,184.666996690963
+475,"Financial Risk","risky option","sure option",TRUE,184.366070868471
+656,"Infrastructure","risky option","sure option",TRUE,182.32034257276
+163,"Public Policy","risky option","sure option",TRUE,181.117876566282
+733,"Financial Risk","risky option","sure option",TRUE,178.469453508657
+456,"Public Policy","risky option","sure option",TRUE,178.256240529583
+250,"AI Governance","risky option","sure option",TRUE,177.549130975717
+359,"Healthcare","risky option","sure option",TRUE,177.39754188725
+270,"Organizational Strategy","sure option","risky option",TRUE,176.240395294792
+540,"Financial Risk","risky option","sure option",TRUE,175.971314730392
+413,"Healthcare","risky option","sure option",TRUE,175.770648130888
+797,"Healthcare","risky option","sure option",TRUE,175.717448411521
+303,"Public Policy","risky option","sure option",TRUE,174.739592177558
+721,"Organizational Strategy","risky option","sure option",TRUE,174.048274887686
+736,"Organizational Strategy","risky option","sure option",TRUE,173.487447171742
+124,"Healthcare","risky option","sure option",TRUE,173.408700639141
+451,"Infrastructure","risky option","sure option",TRUE,172.48800249359
+165,"Public Policy","risky option","sure option",TRUE,171.713548395462
+392,"Infrastructure","risky option","sure option",TRUE,171.680733179769
+452,"Financial Risk","risky option","sure option",TRUE,170.857144767143
+479,"Public Policy","risky option","sure option",TRUE,169.285912730731
+616,"Infrastructure","sure option","risky option",TRUE,168.881881865778
+556,"Infrastructure","risky option","sure option",TRUE,167.224761590381
+652,"Organizational Strategy","risky option","sure option",TRUE,167.082043127355
+516,"Financial Risk","risky option","sure option",TRUE,167.075485729111
+160,"AI Governance","risky option","sure option",TRUE,166.995441164713
+595,"Financial Risk","sure option","risky option",TRUE,166.761224944295
+758,"Organizational Strategy","risky option","sure option",TRUE,166.057088207291
+694,"Healthcare","risky option","sure option",TRUE,164.473649396198
+92,"Public Policy","risky option","sure option",TRUE,164.392735004386
+715,"Public Policy","sure option","risky option",TRUE,163.984471370114
+637,"Financial Risk","risky option","sure option",TRUE,162.784845746977
+628,"AI Governance","risky option","sure option",TRUE,159.858183074736
+784,"Public Policy","risky option","sure option",TRUE,158.639449478479
+216,"Infrastructure","sure option","risky option",TRUE,158.201580058184
+151,"Infrastructure","sure option","risky option",TRUE,156.686772472686
+681,"Healthcare","risky option","sure option",TRUE,156.437944678185
+798,"Public Policy","sure option","risky option",TRUE,154.716415269374
+515,"Public Policy","risky option","sure option",TRUE,154.380149273934
+67,"Public Policy","sure option","risky option",TRUE,153.794485254823
+122,"Healthcare","sure option","risky option",TRUE,152.537227030476
+5,"Public Policy","risky option","sure option",TRUE,152.130019845009
+138,"Public Policy","risky option","sure option",TRUE,151.674123746302
+320,"AI Governance","risky option","sure option",TRUE,151.450302326831
+557,"Public Policy","sure option","risky option",TRUE,151.000844858302
+529,"AI Governance","risky option","sure option",TRUE,150.428687136338
+351,"Infrastructure","risky option","sure option",TRUE,150.262298677827
+228,"Public Policy","risky option","sure option",TRUE,150.106789072219
+745,"Healthcare","risky option","sure option",TRUE,150.088228610333
+748,"Financial Risk","risky option","sure option",TRUE,149.728790813907
+136,"Organizational Strategy","risky option","sure option",TRUE,149.025744899517
+251,"Financial Risk","sure option","risky option",TRUE,148.830799822732
+469,"Financial Risk","sure option","risky option",TRUE,146.862005230005
+380,"Public Policy","risky option","sure option",TRUE,146.760534492039
+626,"Public Policy","risky option","sure option",TRUE,145.899257855057
+720,"Infrastructure","sure option","risky option",TRUE,145.503469154284
+762,"Healthcare","risky option","sure option",TRUE,144.994663579152
+227,"Financial Risk","sure option","risky option",TRUE,144.529304440699
+300,"AI Governance","risky option","sure option",TRUE,143.850089861667
+246,"Infrastructure","risky option","sure option",TRUE,143.361863381374
+553,"Healthcare","risky option","sure option",TRUE,143.199241728146
+799,"Infrastructure","risky option","sure option",TRUE,142.34386829803
+474,"Healthcare","risky option","sure option",TRUE,142.215371570724
+544,"AI Governance","risky option","sure option",TRUE,141.401789505999
+672,"Healthcare","risky option","sure option",TRUE,140.764886859528
+234,"Infrastructure","sure option","risky option",TRUE,140.705410715649
+209,"Healthcare","sure option","risky option",TRUE,140.287619849057
+309,"Public Policy","sure option","risky option",TRUE,139.959314927045
+609,"Healthcare","risky option","sure option",TRUE,139.832614098321
+387,"Healthcare","risky option","sure option",TRUE,139.758818631084
+168,"Healthcare","risky option","sure option",TRUE,139.738566070363
+105,"Healthcare","risky option","sure option",TRUE,138.723733201749
+229,"AI Governance","risky option","sure option",TRUE,138.65488481937
+735,"Infrastructure","sure option","risky option",TRUE,138.306640032012
+653,"Infrastructure","risky option","sure option",TRUE,138.274632741762
+307,"AI Governance","risky option","sure option",TRUE,137.773027927748
+299,"Infrastructure","risky option","sure option",TRUE,137.482949795286
+509,"Financial Risk","sure option","risky option",TRUE,137.198432395292
+289,"Infrastructure","risky option","sure option",TRUE,137.091425767376
+204,"Infrastructure","risky option","sure option",TRUE,136.873423190312
+497,"Public Policy","risky option","sure option",TRUE,136.414657840342
+110,"Public Policy","risky option","sure option",TRUE,136.317566281146
+249,"AI Governance","risky option","sure option",TRUE,136.309898389155
+294,"Financial Risk","sure option","risky option",TRUE,136.080744893336
+549,"Organizational Strategy","sure option","risky option",TRUE,135.913431654201
+680,"Public Policy","risky option","sure option",TRUE,135.061977077498
+42,"AI Governance","risky option","sure option",TRUE,134.625232655414
+704,"Financial Risk","risky option","sure option",TRUE,134.205598804514
+471,"AI Governance","risky option","sure option",TRUE,134.045923321434
+484,"Organizational Strategy","risky option","sure option",TRUE,133.664683787094
+177,"Organizational Strategy","risky option","sure option",TRUE,133.352840606896
+104,"Healthcare","sure option","risky option",TRUE,132.7488193097
+85,"Public Policy","risky option","sure option",TRUE,131.56678595396
+445,"Infrastructure","risky option","sure option",TRUE,131.562293534472
+140,"Organizational Strategy","sure option","risky option",TRUE,130.94473853958
+769,"AI Governance","sure option","risky option",TRUE,130.676841695171
+2,"AI Governance","risky option","sure option",TRUE,130.208070525608
+287,"Infrastructure","sure option","risky option",TRUE,130.134256719354
+180,"Public Policy","sure option","risky option",TRUE,130.04086244598
+723,"Healthcare","risky option","sure option",TRUE,129.114235984346
+517,"Organizational Strategy","risky option","sure option",TRUE,128.745106231581
+55,"Financial Risk","sure option","risky option",TRUE,127.421993164881
+487,"Financial Risk","risky option","sure option",TRUE,127.15472365109
+156,"Public Policy","sure option","risky option",TRUE,127.032866558866
+533,"Financial Risk","sure option","risky option",TRUE,126.942786453745
+141,"Organizational Strategy","risky option","sure option",TRUE,126.512430733518
+183,"Financial Risk","sure option","risky option",TRUE,126.294075687069
+713,"AI Governance","risky option","sure option",TRUE,126.290614539379
+83,"Public Policy","risky option","sure option",TRUE,126.122825628479
+635,"Public Policy","risky option","sure option",TRUE,126.009670831358
+566,"Infrastructure","risky option","sure option",TRUE,125.567237419557
+327,"Healthcare","sure option","risky option",TRUE,125.122266609012
+580,"Public Policy","sure option","risky option",TRUE,124.988451719026
+220,"Infrastructure","risky option","sure option",TRUE,124.942255327363
+170,"Organizational Strategy","sure option","risky option",TRUE,124.548450874125
+561,"Organizational Strategy","risky option","sure option",TRUE,124.171914592921
+438,"Financial Risk","risky option","sure option",TRUE,123.956446027406
+257,"Organizational Strategy","risky option","sure option",TRUE,123.334708048355
+88,"AI Governance","risky option","sure option",TRUE,122.758266164437
+764,"Infrastructure","risky option","sure option",TRUE,121.852822475256
+174,"Healthcare","risky option","sure option",TRUE,120.974335457145
+422,"Financial Risk","risky option","sure option",TRUE,120.867477566749
+589,"AI Governance","sure option","risky option",TRUE,120.86414899219
+195,"Infrastructure","sure option","risky option",TRUE,120.802864946951
+667,"Infrastructure","risky option","sure option",TRUE,120.766185504559
+373,"Financial Risk","risky option","sure option",TRUE,120.590108418433
+740,"Infrastructure","risky option","sure option",TRUE,120.46097049248
+333,"Infrastructure","risky option","sure option",TRUE,120.332512501091
+461,"Financial Risk","sure option","risky option",TRUE,120.250386120423
+265,"Infrastructure","risky option","sure option",TRUE,119.734733722144
+777,"Healthcare","risky option","sure option",TRUE,119.45254810081
+698,"Public Policy","risky option","sure option",TRUE,119.286812619436
+219,"Financial Risk","sure option","risky option",TRUE,119.211168767855
+468,"AI Governance","sure option","risky option",TRUE,118.78640253009
+224,"Healthcare","risky option","sure option",TRUE,117.690683622214
+441,"Financial Risk","sure option","risky option",TRUE,117.489907798676
+363,"Financial Risk","risky option","sure option",TRUE,117.012303801574
+371,"Healthcare","sure option","risky option",TRUE,116.080289990041
+290,"Public Policy","risky option","sure option",TRUE,115.974312152949
+378,"AI Governance","risky option","sure option",TRUE,115.729141732011
+243,"Public Policy","risky option","sure option",TRUE,115.709581185329
+259,"Financial Risk","risky option","sure option",TRUE,115.427604238023
+161,"Organizational Strategy","sure option","risky option",TRUE,114.802849395837
+20,"Financial Risk","risky option","sure option",TRUE,114.577472855148
+120,"Public Policy","sure option","risky option",TRUE,113.9839085722
+321,"Organizational Strategy","risky option","sure option",TRUE,113.772388268968
+236,"Organizational Strategy","sure option","sure option",FALSE,112.966787328045
+308,"Financial Risk","risky option","sure option",TRUE,112.672947508752
+590,"Organizational Strategy","risky option","sure option",TRUE,112.604880606778
+414,"Public Policy","risky option","sure option",TRUE,111.582684235937
+311,"Healthcare","risky option","sure option",TRUE,111.241662667394
+27,"Infrastructure","risky option","sure option",TRUE,109.900996993092
+340,"AI Governance","risky option","sure option",TRUE,109.620215656665
+564,"Financial Risk","sure option","risky option",TRUE,109.605522042916
+353,"Healthcare","sure option","risky option",TRUE,109.438434590925
+185,"Public Policy","risky option","sure option",TRUE,108.267810092714
+406,"Healthcare","risky option","sure option",TRUE,108.238326205782
+527,"Infrastructure","risky option","sure option",TRUE,107.843248275946
+244,"Organizational Strategy","risky option","sure option",TRUE,107.810151918306
+215,"AI Governance","risky option","sure option",TRUE,107.660947880383
+627,"Organizational Strategy","risky option","sure option",TRUE,107.21177891048
+297,"Financial Risk","risky option","sure option",TRUE,107.089490455801
+563,"Infrastructure","sure option","risky option",TRUE,106.693348755089
+34,"Organizational Strategy","risky option","sure option",TRUE,105.762515532315
+768,"Financial Risk","sure option","risky option",TRUE,105.585936368821
+238,"AI Governance","risky option","sure option",TRUE,104.851053944127
+632,"Public Policy","sure option","risky option",TRUE,104.718151707253
+702,"Healthcare","risky option","sure option",TRUE,104.594769042485
+496,"AI Governance","sure option","risky option",TRUE,104.042270524735
+663,"Financial Risk","sure option","risky option",TRUE,103.391066551191
+108,"Financial Risk","risky option","sure option",TRUE,102.903897881766
+11,"Healthcare","sure option","risky option",TRUE,102.480481650403
+610,"Public Policy","risky option","sure option",TRUE,101.820750758293
+755,"Healthcare","risky option","sure option",TRUE,101.774725777621
+369,"Public Policy","sure option","risky option",TRUE,101.181521917469
+23,"AI Governance","risky option","sure option",TRUE,101.091451871517
+40,"AI Governance","risky option","sure option",TRUE,100.801837021064
+705,"AI Governance","risky option","sure option",TRUE,100.263257755423
+536,"Public Policy","sure option","risky option",TRUE,100.197156784773
+367,"AI Governance","sure option","risky option",TRUE,99.8294216609053
+57,"AI Governance","risky option","sure option",TRUE,98.9362182854992
+336,"Organizational Strategy","sure option","risky option",TRUE,98.9038576649623
+211,"Infrastructure","sure option","risky option",TRUE,98.868863188295
+87,"Organizational Strategy","risky option","sure option",TRUE,98.3976802294302
+791,"Organizational Strategy","sure option","risky option",TRUE,98.2849786495584
+659,"Organizational Strategy","risky option","sure option",TRUE,97.9895196252656
+13,"Organizational Strategy","risky option","sure option",TRUE,97.9876688591877
+324,"Infrastructure","risky option","sure option",TRUE,97.6439651758695
+690,"Infrastructure","risky option","sure option",TRUE,96.7040684195438
+687,"Infrastructure","risky option","sure option",TRUE,96.6070462925578
+433,"Infrastructure","risky option","sure option",TRUE,96.5860499593072
+582,"Financial Risk","sure option","risky option",TRUE,96.468711795227
+148,"Public Policy","risky option","sure option",TRUE,96.3485746928365
+107,"Organizational Strategy","risky option","sure option",TRUE,94.9792124131028
+30,"Healthcare","risky option","sure option",TRUE,94.3036943234354
+675,"Infrastructure","risky option","sure option",TRUE,94.2937788584357
+293,"Organizational Strategy","sure option","risky option",TRUE,94.1301214950668
+12,"AI Governance","risky option","sure option",TRUE,93.1806731416175
+552,"AI Governance","risky option","sure option",TRUE,93.104661806916
+418,"Healthcare","sure option","risky option",TRUE,92.8801429635344
+52,"Organizational Strategy","risky option","sure option",TRUE,92.7291374890718
+634,"Public Policy","risky option","sure option",TRUE,92.1969937452649
+492,"Financial Risk","sure option","risky option",TRUE,92.1707411153987
+179,"Infrastructure","sure option","risky option",TRUE,92.0606133624133
+759,"AI Governance","sure option","risky option",TRUE,91.890278121513
+65,"Infrastructure","risky option","sure option",TRUE,91.2789432925797
+685,"AI Governance","sure option","risky option",TRUE,91.0330111636642
+574,"Public Policy","risky option","sure option",TRUE,90.8524932286681
+360,"Infrastructure","risky option","sure option",TRUE,90.6878018480614
+409,"AI Governance","sure option","risky option",TRUE,90.5875032306
+640,"Financial Risk","sure option","risky option",TRUE,90.2549942441717
+322,"Infrastructure","sure option","risky option",TRUE,90.2407759074296
+542,"AI Governance","risky option","sure option",TRUE,90.2165143766206
+568,"AI Governance","sure option","risky option",TRUE,90.1227508887929
+189,"Public Policy","risky option","sure option",TRUE,90.0493312272067
+70,"Infrastructure","risky option","sure option",TRUE,89.8120502472926
+282,"Public Policy","sure option","risky option",TRUE,89.7581328138249
+153,"Healthcare","risky option","sure option",TRUE,89.6528254139256
+17,"Financial Risk","risky option","sure option",TRUE,89.6287703927645
+291,"Organizational Strategy","risky option","sure option",TRUE,88.7965600357172
+121,"Public Policy","risky option","sure option",TRUE,88.4746574519626
+313,"Public Policy","risky option","sure option",TRUE,88.4318876362629
+708,"Healthcare","risky option","sure option",TRUE,88.2781565225965
+605,"Infrastructure","risky option","sure option",TRUE,88.2423895412028
+485,"Public Policy","sure option","risky option",TRUE,88.1955700783639
+440,"Organizational Strategy","risky option","sure option",TRUE,88.0480594049538
+593,"Healthcare","sure option","risky option",TRUE,87.8968921452302
+586,"Infrastructure","sure option","risky option",TRUE,87.8025785378395
+334,"AI Governance","sure option","risky option",TRUE,87.1742175356461
+376,"Organizational Strategy","risky option","sure option",TRUE,87.0357286012262
+666,"Public Policy","sure option","risky option",TRUE,86.9909215516454
+765,"Infrastructure","sure option","risky option",TRUE,86.6763121318425
+115,"Organizational Strategy","risky option","sure option",TRUE,86.6292548046339
+402,"Financial Risk","risky option","sure option",TRUE,86.530087933181
+383,"Public Policy","sure option","risky option",TRUE,86.4191711888516
+252,"AI Governance","risky option","sure option",TRUE,86.4003534191887
+256,"Healthcare","sure option","risky option",TRUE,85.9478365116944
+781,"Financial Risk","risky option","sure option",TRUE,85.8140234342465
+657,"Financial Risk","risky option","sure option",TRUE,85.4362173799077
+543,"Financial Risk","risky option","sure option",TRUE,85.4155968825524
+381,"Financial Risk","risky option","sure option",TRUE,85.2131824306561
+585,"AI Governance","risky option","sure option",TRUE,85.1518284889142
+701,"Financial Risk","risky option","sure option",TRUE,84.7176867211019
+344,"Organizational Strategy","risky option","sure option",TRUE,84.7153869177174
+103,"Infrastructure","risky option","sure option",TRUE,84.406592312593
+697,"Infrastructure","risky option","sure option",TRUE,84.3775382871952
+435,"Healthcare","sure option","risky option",TRUE,84.2637967603235
+147,"Public Policy","risky option","sure option",TRUE,84.0269069047172
+700,"Infrastructure","sure option","risky option",TRUE,83.972858169702
+233,"Healthcare","sure option","risky option",TRUE,83.9433296787123
+51,"Organizational Strategy","risky option","sure option",TRUE,83.8670441782409
+75,"AI Governance","risky option","sure option",TRUE,83.761684014525
+412,"Healthcare","sure option","risky option",TRUE,83.6691223337856
+538,"AI Governance","risky option","sure option",TRUE,83.4189341226056
+3,"Healthcare","risky option","sure option",TRUE,83.3101057729486
+431,"Infrastructure","risky option","sure option",TRUE,83.2857663489621
+365,"Financial Risk","risky option","sure option",TRUE,83.2068470734015
+578,"Public Policy","risky option","sure option",TRUE,83.0799090286381
+95,"AI Governance","sure option","risky option",TRUE,82.912163038477
+519,"Healthcare","risky option","sure option",TRUE,82.8260003849827
+47,"Healthcare","sure option","risky option",TRUE,82.7688326394012
+149,"Infrastructure","risky option","sure option",TRUE,82.4106028050735
+741,"Organizational Strategy","sure option","risky option",TRUE,82.2835871200492
+205,"Healthcare","risky option","sure option",TRUE,82.1888127329335
+575,"AI Governance","risky option","sure option",TRUE,81.9032588714498
+498,"Financial Risk","sure option","risky option",TRUE,81.4357532568013
+655,"Infrastructure","sure option","risky option",TRUE,81.3564177985499
+144,"Organizational Strategy","risky option","sure option",TRUE,80.1676316577414
+347,"Infrastructure","risky option","sure option",TRUE,80.0804477120305
+454,"Public Policy","sure option","risky option",TRUE,79.9129888709338
+348,"Financial Risk","sure option","risky option",TRUE,79.8358591946812
+162,"Organizational Strategy","risky option","sure option",TRUE,79.5338085811363
+458,"Financial Risk","risky option","sure option",TRUE,79.0028556792545
+450,"Organizational Strategy","risky option","sure option",TRUE,78.9818656558034
+255,"Organizational Strategy","risky option","sure option",TRUE,78.722405870569
+69,"AI Governance","sure option","risky option",TRUE,78.5622948147801
+361,"Public Policy","risky option","sure option",TRUE,78.4117136925133
+304,"Public Policy","risky option","sure option",TRUE,78.3579363519137
+772,"AI Governance","sure option","risky option",TRUE,78.038945337597
+39,"Public Policy","sure option","risky option",TRUE,77.9935458329168
+133,"Organizational Strategy","risky option","sure option",TRUE,77.9517000612634
+719,"Healthcare","risky option","sure option",TRUE,77.505801672833
+272,"Organizational Strategy","risky option","sure option",TRUE,77.0586422561421
+787,"Public Policy","risky option","sure option",TRUE,76.7934467261683
+650,"AI Governance","risky option","sure option",TRUE,75.9659336406962
+782,"Public Policy","risky option","sure option",TRUE,75.7844051062111
+774,"Healthcare","risky option","sure option",TRUE,75.3820841091666
+548,"AI Governance","sure option","risky option",TRUE,75.1371200798098
+476,"AI Governance","sure option","risky option",TRUE,74.5681546300255
+247,"Organizational Strategy","risky option","sure option",TRUE,74.5014744185537
+785,"Infrastructure","risky option","sure option",TRUE,74.3939671284531
+159,"Financial Risk","risky option","sure option",TRUE,74.3435335114818
+434,"Healthcare","risky option","sure option",TRUE,74.3286262134459
+398,"Infrastructure","sure option","risky option",TRUE,74.072494380532
+343,"Public Policy","sure option","risky option",TRUE,74.0476726254173
+793,"Financial Risk","risky option","sure option",TRUE,73.9883134503114
+734,"Organizational Strategy","sure option","risky option",TRUE,73.6556093900234
+326,"Public Policy","sure option","risky option",TRUE,73.5886576990507
+712,"Financial Risk","sure option","risky option",TRUE,73.581073950647
+514,"Financial Risk","sure option","risky option",TRUE,73.5111806819474
+91,"Infrastructure","risky option","sure option",TRUE,73.4622507270767
+432,"Public Policy","sure option","risky option",TRUE,73.0433840250868
+591,"Public Policy","risky option","sure option",TRUE,72.8042573206026
+462,"Public Policy","risky option","sure option",TRUE,72.5136138243787
+534,"AI Governance","sure option","risky option",TRUE,72.5066255966987
+269,"Financial Risk","sure option","risky option",TRUE,72.0905004921505
+518,"Public Policy","sure option","risky option",TRUE,72.0000810198939
+240,"Financial Risk","sure option","risky option",TRUE,71.9794418715894
+800,"Infrastructure","risky option","sure option",TRUE,71.9644829782959
+521,"Organizational Strategy","risky option","sure option",TRUE,71.8840577579471
+388,"Public Policy","sure option","risky option",TRUE,71.626749414871
+460,"Healthcare","sure option","risky option",TRUE,70.9792033527404
+547,"AI Governance","risky option","sure option",TRUE,70.9498567936085
+761,"Organizational Strategy","sure option","risky option",TRUE,70.8218967733626
+368,"Infrastructure","risky option","sure option",TRUE,70.2936093827199
+447,"AI Governance","risky option","sure option",TRUE,69.803502246435
+264,"Public Policy","sure option","risky option",TRUE,68.9246620765962
+600,"AI Governance","sure option","risky option",TRUE,68.783244314898
+425,"Organizational Strategy","risky option","sure option",TRUE,68.3315049252697
+267,"AI Governance","risky option","sure option",TRUE,68.2027967733706
+683,"Financial Risk","risky option","sure option",TRUE,68.1379985201741
+569,"Infrastructure","risky option","sure option",TRUE,68.1156373317557
+559,"Financial Risk","risky option","sure option",TRUE,67.1640947481633
+164,"Infrastructure","sure option","risky option",TRUE,67.024541593043
+706,"AI Governance","risky option","sure option",TRUE,66.9515022046372
+766,"Organizational Strategy","risky option","sure option",TRUE,66.8736534942961
+499,"AI Governance","risky option","sure option",TRUE,66.815537716231
+397,"Organizational Strategy","sure option","risky option",TRUE,66.7102645835925
+172,"Public Policy","risky option","sure option",TRUE,66.3782954724235
+709,"Financial Risk","sure option","risky option",TRUE,66.3623933947837
+642,"AI Governance","sure option","risky option",TRUE,66.1515401887954
+335,"Organizational Strategy","risky option","sure option",TRUE,66.0848855806223
+346,"Public Policy","risky option","sure option",TRUE,66.0795715784317
+482,"Healthcare","sure option","risky option",TRUE,66.0783473463217
+621,"Organizational Strategy","risky option","sure option",TRUE,65.7669688300226
+488,"Infrastructure","sure option","risky option",TRUE,65.5221432077168
+112,"Organizational Strategy","sure option","risky option",TRUE,65.4262413463301
+505,"Financial Risk","sure option","risky option",TRUE,65.3987276269694
+494,"Financial Risk","sure option","risky option",TRUE,65.1532664780236
+742,"Healthcare","sure option","risky option",TRUE,64.7798714291428
+171,"AI Governance","risky option","sure option",TRUE,64.7493268492784
+292,"Healthcare","risky option","sure option",TRUE,64.6734784599194
+193,"Organizational Strategy","risky option","sure option",TRUE,64.357674602766
+7,"Public Policy","sure option","risky option",TRUE,64.0375478880011
+166,"Financial Risk","risky option","sure option",TRUE,64.0224784846167
+22,"AI Governance","risky option","sure option",TRUE,63.9864078783826
+695,"Healthcare","sure option","risky option",TRUE,63.8373533534921
+459,"Organizational Strategy","risky option","sure option",TRUE,63.681371376597
+618,"Healthcare","risky option","sure option",TRUE,63.1677578500512
+776,"Financial Risk","sure option","risky option",TRUE,63.1610404092882
+430,"Organizational Strategy","risky option","sure option",TRUE,63.0498968844608
+532,"Healthcare","sure option","risky option",TRUE,62.7883467096567
+222,"Organizational Strategy","risky option","sure option",TRUE,62.659677692691
+394,"Financial Risk","sure option","risky option",TRUE,62.4745408319364
+508,"Public Policy","risky option","sure option",TRUE,62.367246877193
+59,"Organizational Strategy","sure option","risky option",TRUE,62.0753969600131
+175,"AI Governance","sure option","risky option",TRUE,61.175674318522
+437,"Healthcare","sure option","risky option",TRUE,61.110638629665
+78,"Organizational Strategy","sure option","risky option",TRUE,61.1060446298266
+129,"Organizational Strategy","risky option","sure option",TRUE,60.7329343836825
+338,"AI Governance","risky option","sure option",TRUE,60.1786850167514
+377,"Public Policy","risky option","sure option",TRUE,59.7675609439066
+446,"AI Governance","risky option","sure option",TRUE,59.5957447284577
+6,"Infrastructure","risky option","sure option",TRUE,59.4397133186967
+750,"Financial Risk","risky option","sure option",TRUE,59.3381188616252
+577,"Infrastructure","risky option","sure option",TRUE,59.1008168855863
+370,"Public Policy","sure option","sure option",FALSE,59.0454602508879
+520,"AI Governance","sure option","risky option",TRUE,58.1463855389326
+169,"Infrastructure","sure option","risky option",TRUE,57.8625892186331
+94,"Financial Risk","risky option","sure option",TRUE,57.857490969972
+729,"Infrastructure","risky option","sure option",TRUE,57.7337012464442
+43,"Infrastructure","risky option","sure option",TRUE,57.7066633884631
+794,"Public Policy","sure option","risky option",TRUE,57.6732798907595
+154,"Healthcare","risky option","sure option",TRUE,57.4949015724668
+464,"Healthcare","sure option","risky option",TRUE,57.4281945318491
+648,"Public Policy","risky option","sure option",TRUE,57.3697306146104
+206,"AI Governance","sure option","risky option",TRUE,57.2968640204151
+612,"Public Policy","sure option","risky option",TRUE,57.0148869638583
+645,"AI Governance","sure option","risky option",TRUE,56.8888667043445
+411,"Public Policy","sure option","risky option",TRUE,56.6157123668428
+142,"Organizational Strategy","sure option","risky option",TRUE,56.5950779470136
+592,"Public Policy","risky option","sure option",TRUE,56.3784320366092
+319,"Infrastructure","sure option","risky option",TRUE,56.101587595721
+530,"Public Policy","sure option","risky option",TRUE,55.6609709835462
+111,"AI Governance","sure option","risky option",TRUE,55.2007479019304
+444,"Healthcare","risky option","sure option",TRUE,55.1497489134757
+558,"Financial Risk","risky option","sure option",TRUE,55.0948212433421
+341,"Public Policy","sure option","risky option",TRUE,55.049928308733
+696,"Organizational Strategy","sure option","risky option",TRUE,54.7797667841863
+48,"AI Governance","risky option","sure option",TRUE,54.6039212042098
+184,"Organizational Strategy","sure option","risky option",TRUE,54.3795245654308
+106,"AI Governance","sure option","risky option",TRUE,54.1225019617114
+711,"Public Policy","sure option","risky option",TRUE,53.6931867795193
+629,"Public Policy","risky option","sure option",TRUE,53.5564748131587
+253,"Public Policy","risky option","sure option",TRUE,53.5361977280123
+504,"Organizational Strategy","risky option","sure option",TRUE,53.4767248651538
+271,"AI Governance","sure option","risky option",TRUE,53.4751821367907
+230,"Infrastructure","sure option","risky option",TRUE,53.4420916429863
+362,"Healthcare","risky option","sure option",TRUE,53.3899959996054
+119,"Financial Risk","sure option","risky option",TRUE,52.838405277936
+775,"Financial Risk","sure option","risky option",TRUE,52.8198278353848
+463,"Organizational Strategy","sure option","risky option",TRUE,52.5634745455274
+630,"Infrastructure","risky option","sure option",TRUE,52.3356210136783
+102,"Healthcare","risky option","sure option",TRUE,51.9868848215066
+415,"Healthcare","sure option","risky option",TRUE,51.853638225576
+572,"Financial Risk","risky option","sure option",TRUE,51.5373440157149
+477,"Public Policy","risky option","sure option",TRUE,51.5286358630401
+790,"Organizational Strategy","risky option","sure option",TRUE,51.4651245643593
+38,"Organizational Strategy","sure option","risky option",TRUE,51.4577831017712
+613,"Infrastructure","sure option","risky option",TRUE,51.1267115490059
+473,"Organizational Strategy","sure option","risky option",TRUE,50.624634436551
+555,"Financial Risk","sure option","risky option",TRUE,50.5300669588765
+349,"Healthcare","risky option","sure option",TRUE,50.4423015332812
+620,"Infrastructure","risky option","sure option",TRUE,50.0322738996847
+638,"Organizational Strategy","sure option","risky option",TRUE,49.9024778806018
+329,"Organizational Strategy","risky option","sure option",TRUE,49.7131142235912
+41,"Infrastructure","risky option","sure option",TRUE,49.6530639656757
+262,"Public Policy","sure option","risky option",TRUE,49.643219224662
+192,"Financial Risk","risky option","sure option",TRUE,49.4336251037386
+668,"Healthcare","risky option","sure option",TRUE,49.2371726167747
+728,"Organizational Strategy","sure option","risky option",TRUE,49.0659927478532
+428,"AI Governance","sure option","risky option",TRUE,49.0417507648567
+624,"AI Governance","risky option","sure option",TRUE,49.0149533712074
+783,"Healthcare","risky option","sure option",TRUE,49.0063361755674
+167,"Public Policy","risky option","sure option",TRUE,48.9779052835956
+21,"Infrastructure","risky option","sure option",TRUE,48.955121040947
+661,"AI Governance","sure option","risky option",TRUE,48.6849936352472
+453,"Healthcare","risky option","sure option",TRUE,48.2641885195573
+263,"Public Policy","risky option","sure option",TRUE,48.1324144230299
+481,"AI Governance","sure option","sure option",FALSE,48.1244728731283
+198,"Healthcare","risky option","sure option",TRUE,47.7399869127294
+288,"AI Governance","sure option","risky option",TRUE,47.7345538216637
+155,"Public Policy","sure option","risky option",TRUE,47.5859438846244
+691,"Public Policy","risky option","sure option",TRUE,47.4448969687888
+439,"Organizational Strategy","risky option","sure option",TRUE,47.2957733290973
+372,"Public Policy","risky option","sure option",TRUE,46.8421091978684
+684,"Public Policy","risky option","sure option",TRUE,46.7450695294173
+178,"Organizational Strategy","risky option","sure option",TRUE,46.742994740828
+305,"Organizational Strategy","sure option","risky option",TRUE,46.7295318505602
+109,"Healthcare","risky option","sure option",TRUE,46.2068348435504
+356,"Financial Risk","risky option","sure option",TRUE,46.1713505753429
+664,"Infrastructure","risky option","sure option",TRUE,45.9039439364185
+318,"Financial Risk","risky option","sure option",TRUE,45.7947237999899
+573,"AI Governance","risky option","sure option",TRUE,45.6852632480609
+76,"AI Governance","risky option","sure option",TRUE,45.6039487201255
+212,"Public Policy","sure option","risky option",TRUE,45.3641495875041
+58,"Public Policy","risky option","sure option",TRUE,45.2862896349864
+237,"Healthcare","sure option","risky option",TRUE,45.235845644622
+116,"AI Governance","risky option","sure option",TRUE,44.9369896439299
+670,"AI Governance","risky option","sure option",TRUE,44.814746953431
+689,"Financial Risk","sure option","risky option",TRUE,44.7666800535361
+181,"Healthcare","sure option","risky option",TRUE,44.4841402142967
+82,"Public Policy","sure option","risky option",TRUE,44.2858626120703
+275,"Public Policy","risky option","sure option",TRUE,44.0564580057521
+562,"Infrastructure","sure option","risky option",TRUE,44.0555319745402
+77,"Infrastructure","risky option","sure option",TRUE,43.9899250966731
+61,"Public Policy","sure option","risky option",TRUE,43.8703262065783
+636,"Healthcare","sure option","risky option",TRUE,43.0852952626676
+707,"Public Policy","risky option","sure option",TRUE,42.9877245983839
+623,"Organizational Strategy","risky option","sure option",TRUE,42.899329635188
+186,"AI Governance","sure option","risky option",TRUE,42.8159368534539
+763,"Public Policy","sure option","risky option",TRUE,42.2520875505616
+385,"Public Policy","sure option","risky option",TRUE,42.2397141142977
+535,"Organizational Strategy","sure option","risky option",TRUE,42.0689226532346
+478,"Public Policy","risky option","sure option",TRUE,41.9765357561039
+355,"Public Policy","sure option","risky option",TRUE,41.8848056792428
+688,"Healthcare","sure option","risky option",TRUE,41.8819563886837
+599,"Public Policy","sure option","risky option",TRUE,41.7555541067564
+203,"Organizational Strategy","risky option","sure option",TRUE,41.7417941720347
+420,"Healthcare","sure option","risky option",TRUE,41.7002098109752
+100,"Infrastructure","sure option","sure option",FALSE,41.6075676958595
+546,"Healthcare","risky option","sure option",TRUE,41.589946514307
+596,"Financial Risk","risky option","sure option",TRUE,41.4096847847173
+74,"Financial Risk","sure option","risky option",TRUE,41.3728869203946
+767,"Public Policy","risky option","sure option",TRUE,41.3682653750443
+679,"AI Governance","risky option","sure option",TRUE,41.335080104305
+15,"Public Policy","risky option","sure option",TRUE,41.2371712865295
+646,"Public Policy","risky option","sure option",TRUE,40.7997165906935
+328,"Financial Risk","risky option","sure option",TRUE,40.6988282760521
+467,"Organizational Strategy","sure option","risky option",TRUE,40.6265387486361
+692,"Organizational Strategy","sure option","risky option",TRUE,40.3654107415757
+26,"Public Policy","risky option","sure option",TRUE,40.2548537297786
+366,"Organizational Strategy","sure option","risky option",TRUE,39.506383360836
+788,"Infrastructure","risky option","sure option",TRUE,38.9384160269661
+35,"Public Policy","sure option","risky option",TRUE,38.8252950143158
+567,"Financial Risk","risky option","sure option",TRUE,38.5831494376649
+325,"Financial Risk","sure option","risky option",TRUE,37.8900319840555
+24,"AI Governance","risky option","sure option",TRUE,37.8685094495368
+501,"Public Policy","risky option","sure option",TRUE,37.6588361121353
+295,"Healthcare","risky option","sure option",TRUE,37.6349796495045
+332,"AI Governance","risky option","sure option",TRUE,37.4822325389619
+429,"Public Policy","sure option","risky option",TRUE,37.4793117103073
+395,"Infrastructure","risky option","sure option",TRUE,37.4155763380507
+357,"Infrastructure","sure option","risky option",TRUE,37.3717275589637
+531,"AI Governance","risky option","sure option",TRUE,37.3537827423268
+221,"AI Governance","risky option","sure option",TRUE,37.1253989576856
+754,"Public Policy","risky option","sure option",TRUE,37.1207283125057
+493,"AI Governance","sure option","sure option",FALSE,36.9199849005632
+658,"Healthcare","risky option","sure option",TRUE,36.8595155952588
+54,"Infrastructure","sure option","risky option",TRUE,36.8349955301124
+598,"AI Governance","risky option","sure option",TRUE,36.7759328447296
+32,"Organizational Strategy","sure option","risky option",TRUE,36.6684917653727
+442,"Public Policy","risky option","sure option",TRUE,36.6616691840911
+123,"Financial Risk","sure option","risky option",TRUE,36.4298840319985
+424,"AI Governance","risky option","sure option",TRUE,36.3945339407218
+137,"Healthcare","risky option","sure option",TRUE,36.2571580949722
+571,"Healthcare","risky option","sure option",TRUE,36.2473612746393
+541,"Infrastructure","sure option","risky option",TRUE,36.2299620610298
+404,"Public Policy","risky option","sure option",TRUE,36.1779306350699
+756,"Organizational Strategy","risky option","sure option",TRUE,35.9648306740835
+239,"Organizational Strategy","risky option","sure option",TRUE,35.9077989104772
+506,"AI Governance","sure option","risky option",TRUE,35.5217552211601
+280,"Public Policy","sure option","risky option",TRUE,35.197775306758
+583,"Public Policy","risky option","sure option",TRUE,34.8945000452672
+423,"Financial Risk","sure option","risky option",TRUE,34.6101910567895
+310,"Healthcare","sure option","risky option",TRUE,34.5445171106982
+358,"Public Policy","risky option","sure option",TRUE,34.4693274646256
+330,"Infrastructure","sure option","risky option",TRUE,34.4629083070438
+302,"Healthcare","risky option","sure option",TRUE,34.3922475988856
+261,"Public Policy","sure option","risky option",TRUE,33.9819617756127
+128,"Healthcare","sure option","risky option",TRUE,33.7292680198672
+500,"AI Governance","sure option","risky option",TRUE,33.6726104838448
+545,"AI Governance","risky option","sure option",TRUE,33.524133539858
+37,"Infrastructure","sure option","risky option",TRUE,33.4856735162589
+651,"Public Policy","risky option","sure option",TRUE,33.0206523663629
+710,"Infrastructure","risky option","sure option",TRUE,32.9991581082754
+53,"Public Policy","risky option","sure option",TRUE,32.9678875641957
+587,"Financial Risk","risky option","sure option",TRUE,32.7969995332327
+339,"Infrastructure","risky option","sure option",TRUE,32.4623360476615
+502,"Organizational Strategy","sure option","risky option",TRUE,31.7751401567441
+364,"Organizational Strategy","sure option","risky option",TRUE,31.7632016718777
+660,"Financial Risk","sure option","risky option",TRUE,31.6506732965696
+1,"Healthcare","sure option","risky option",TRUE,31.5513567872024
+483,"Infrastructure","sure option","risky option",TRUE,31.4860733093099
+242,"Organizational Strategy","sure option","sure option",FALSE,31.4672816915082
+131,"Organizational Strategy","risky option","sure option",TRUE,31.3807424975892
+145,"Infrastructure","sure option","risky option",TRUE,31.2521940503777
+401,"Public Policy","risky option","sure option",TRUE,31.2431266656562
+724,"Public Policy","risky option","sure option",TRUE,31.0050964899851
+771,"AI Governance","sure option","risky option",TRUE,30.7794307715253
+489,"Healthcare","risky option","sure option",TRUE,30.6863039276572
+382,"Financial Risk","sure option","sure option",FALSE,30.6548555827565
+352,"Financial Risk","risky option","sure option",TRUE,30.6124202252243
+752,"Healthcare","sure option","risky option",TRUE,30.5293291026412
+331,"Healthcare","risky option","sure option",TRUE,30.0321577520785
+342,"AI Governance","risky option","sure option",TRUE,29.6972624757562
+389,"AI Governance","risky option","sure option",TRUE,29.3990067171912
+581,"Financial Risk","sure option","risky option",TRUE,29.3345342954166
+678,"Financial Risk","risky option","sure option",TRUE,29.2358023826283
+669,"Infrastructure","risky option","sure option",TRUE,29.2240909618154
+749,"Healthcare","risky option","sure option",TRUE,28.9585497458007
+443,"Public Policy","risky option","sure option",TRUE,28.8711344704699
+639,"Infrastructure","risky option","sure option",TRUE,28.7193907257472
+64,"Healthcare","sure option","risky option",TRUE,28.6465158373278
+717,"Organizational Strategy","risky option","sure option",TRUE,28.3402928076959
+68,"Healthcare","risky option","sure option",TRUE,27.6097127887722
+268,"Healthcare","sure option","sure option",FALSE,27.5883886240265
+312,"AI Governance","sure option","risky option",TRUE,27.5735175041515
+31,"Public Policy","sure option","risky option",TRUE,27.478207122198
+199,"Healthcare","risky option","sure option",TRUE,27.3541455716171
+350,"AI Governance","sure option","risky option",TRUE,27.2690569471028
+403,"Healthcare","sure option","sure option",FALSE,27.2538356602382
+337,"Infrastructure","risky option","sure option",TRUE,27.105787013393
+594,"AI Governance","risky option","sure option",TRUE,27.0761614916632
+96,"AI Governance","risky option","sure option",TRUE,26.3278078739824
+523,"Public Policy","sure option","risky option",TRUE,26.1774300149627
+676,"Healthcare","risky option","sure option",TRUE,26.0690765923106
+738,"Infrastructure","risky option","sure option",TRUE,25.6696660183208
+379,"AI Governance","risky option","sure option",TRUE,25.5690812147156
+354,"Organizational Strategy","sure option","risky option",TRUE,25.5524464073596
+604,"Healthcare","sure option","risky option",TRUE,25.485370594509
+495,"Public Policy","risky option","sure option",TRUE,25.2405603375836
+512,"AI Governance","risky option","sure option",TRUE,25.1622430153655
+419,"Financial Risk","risky option","sure option",TRUE,25.1264612580436
+588,"Infrastructure","sure option","risky option",TRUE,24.6410324723489
+217,"Healthcare","sure option","risky option",TRUE,24.6288742623786
+281,"Healthcare","sure option","risky option",TRUE,24.5600709973989
+693,"Financial Risk","risky option","sure option",TRUE,24.4525070691037
+617,"Public Policy","sure option","risky option",TRUE,24.2440455157913
+390,"Healthcare","sure option","risky option",TRUE,24.1577951652028
+46,"Financial Risk","sure option","risky option",TRUE,23.4923128762405
+314,"Financial Risk","sure option","sure option",FALSE,23.4653548200336
+245,"Organizational Strategy","sure option","risky option",TRUE,23.4402193819628
+796,"Public Policy","risky option","sure option",TRUE,23.3908005149107
+33,"Financial Risk","sure option","risky option",TRUE,23.2879562914721
+606,"Public Policy","sure option","risky option",TRUE,22.9803075347095
+25,"Infrastructure","sure option","risky option",TRUE,22.9632305163031
+101,"AI Governance","sure option","risky option",TRUE,22.929626719484
+576,"AI Governance","sure option","risky option",TRUE,22.8391826031532
+90,"Healthcare","risky option","sure option",TRUE,22.7165653209414
+196,"Infrastructure","sure option","sure option",FALSE,22.6603758831199
+208,"Healthcare","sure option","risky option",TRUE,22.4767653504658
+296,"Organizational Strategy","risky option","sure option",TRUE,22.2265622583649
+117,"Healthcare","risky option","sure option",TRUE,22.2027481832514
+14,"Infrastructure","risky option","sure option",TRUE,22.058486284771
+703,"Organizational Strategy","sure option","risky option",TRUE,22.0227757009913
+730,"Infrastructure","risky option","sure option",TRUE,21.8931223483489
+718,"Public Policy","sure option","risky option",TRUE,21.8478375346339
+16,"Public Policy","sure option","risky option",TRUE,21.7451213796458
+602,"AI Governance","risky option","sure option",TRUE,21.6955622655712
+407,"Financial Risk","sure option","risky option",TRUE,21.6148074933288
+410,"Organizational Strategy","sure option","sure option",FALSE,21.4503073077127
+200,"Healthcare","risky option","sure option",TRUE,21.4378067742098
+773,"Public Policy","sure option","risky option",TRUE,21.399284326292
+286,"Financial Risk","sure option","risky option",TRUE,21.3055245868595
+714,"Infrastructure","risky option","sure option",TRUE,20.9516730075232
+399,"Healthcare","sure option","risky option",TRUE,20.9274491756115
+99,"Organizational Strategy","risky option","sure option",TRUE,20.8023217537954
+306,"Infrastructure","sure option","risky option",TRUE,20.6975504047205
+157,"Healthcare","sure option","sure option",FALSE,20.3562590722181
+258,"Healthcare","sure option","risky option",TRUE,20.1742544168923
+210,"Healthcare","sure option","sure option",FALSE,19.5287806281339
+673,"Infrastructure","risky option","sure option",TRUE,19.4819070756388
+231,"Infrastructure","risky option","sure option",TRUE,19.438119025195
+232,"AI Governance","sure option","risky option",TRUE,19.2720609727146
+150,"Organizational Strategy","risky option","sure option",TRUE,19.1288944138556
+97,"Organizational Strategy","risky option","sure option",TRUE,18.8520469086211
+405,"Organizational Strategy","risky option","sure option",TRUE,18.8219158440139
+56,"Organizational Strategy","sure option","risky option",TRUE,18.7972958156716
+649,"Public Policy","sure option","risky option",TRUE,18.0826607265267
+633,"Public Policy","risky option","sure option",TRUE,17.8830237506781
+792,"Organizational Strategy","risky option","sure option",TRUE,17.8500594312933
+80,"Infrastructure","sure option","sure option",FALSE,17.8036348938338
+45,"Public Policy","risky option","sure option",TRUE,17.277476186942
+194,"Infrastructure","risky option","sure option",TRUE,17.2581295114962
+10,"Infrastructure","sure option","risky option",TRUE,17.0923817708817
+408,"Organizational Strategy","risky option","sure option",TRUE,17.0168312589285
+158,"Infrastructure","risky option","sure option",TRUE,16.7291894877189
+641,"Public Policy","sure option","risky option",TRUE,16.3464594354333
+127,"Financial Risk","sure option","risky option",TRUE,16.0538366304546
+426,"AI Governance","risky option","sure option",TRUE,15.69472027808
+139,"Public Policy","sure option","risky option",TRUE,15.650227765495
+384,"Public Policy","sure option","risky option",TRUE,15.5661701829694
+457,"Organizational Strategy","sure option","risky option",TRUE,15.3964375133154
+396,"Financial Risk","sure option","risky option",TRUE,15.3200064624275
+60,"Public Policy","risky option","sure option",TRUE,15.2884531032643
+28,"Financial Risk","risky option","sure option",TRUE,14.9791187912905
+686,"Public Policy","risky option","sure option",TRUE,14.9754160161788
+182,"AI Governance","sure option","sure option",FALSE,14.7491943696234
+625,"Public Policy","sure option","risky option",TRUE,14.7363038776482
+98,"Financial Risk","sure option","risky option",TRUE,14.586903550099
+316,"Financial Risk","risky option","sure option",TRUE,14.5185917910579
+674,"Healthcare","sure option","risky option",TRUE,14.4284795902493
+79,"AI Governance","risky option","sure option",TRUE,13.8204649224808
+29,"Public Policy","sure option","risky option",TRUE,13.7819282811456
+298,"AI Governance","sure option","sure option",FALSE,13.1567160912882
+416,"Infrastructure","sure option","risky option",TRUE,12.7936690851436
+737,"Healthcare","sure option","risky option",TRUE,12.6704699037487
+662,"Financial Risk","sure option","risky option",TRUE,12.6428649499298
+779,"Financial Risk","sure option","sure option",FALSE,12.5829103318999
+226,"Healthcare","sure option","sure option",FALSE,12.5779219667992
+72,"Healthcare","risky option","sure option",TRUE,12.3799158447352
+143,"Organizational Strategy","risky option","sure option",TRUE,12.2303698704473
+760,"Healthcare","sure option","risky option",TRUE,11.9342353294299
+241,"Healthcare","sure option","risky option",TRUE,11.8278862564852
+786,"Healthcare","sure option","risky option",TRUE,11.781300165713
+125,"AI Governance","sure option","risky option",TRUE,11.7370939878821
+62,"AI Governance","sure option","risky option",TRUE,11.4227027271769
+671,"Financial Risk","risky option","sure option",TRUE,11.4093947440259
+276,"Healthcare","sure option","risky option",TRUE,11.3191147971509
+554,"Public Policy","risky option","sure option",TRUE,11.3034650414315
+190,"Healthcare","sure option","sure option",FALSE,11.297427029211
+744,"Financial Risk","risky option","sure option",TRUE,11.2918982196198
+503,"AI Governance","sure option","sure option",FALSE,11.1930805678557
+235,"Healthcare","risky option","sure option",TRUE,11.1719849123933
+665,"Healthcare","sure option","risky option",TRUE,10.7146370022956
+214,"AI Governance","risky option","sure option",TRUE,10.6969829711379
+743,"Financial Risk","sure option","risky option",TRUE,10.6024414902453
+507,"Financial Risk","sure option","risky option",TRUE,10.2113632453905
+135,"Healthcare","sure option","sure option",FALSE,9.50068392497207
+134,"AI Governance","risky option","sure option",TRUE,9.41498567953812
+393,"Organizational Strategy","sure option","risky option",TRUE,9.16103066330521
+386,"Infrastructure","risky option","sure option",TRUE,9.14033770536425
+780,"AI Governance","sure option","sure option",FALSE,9.06456097769795
+4,"Healthcare","sure option","risky option",TRUE,8.64153792575058
+49,"Public Policy","risky option","sure option",TRUE,8.42353313891722
+223,"Public Policy","sure option","risky option",TRUE,8.41680698053374
+746,"Public Policy","sure option","sure option",FALSE,8.28392553567176
+726,"Financial Risk","sure option","sure option",FALSE,8.19948645070488
+778,"AI Governance","sure option","risky option",TRUE,7.88750962850632
+71,"Infrastructure","sure option","sure option",FALSE,7.85606981434218
+528,"Infrastructure","sure option","risky option",TRUE,7.67415117982758
+173,"Healthcare","sure option","risky option",TRUE,7.43656599200038
+260,"Infrastructure","sure option","sure option",FALSE,7.40160519582844
+126,"Healthcare","sure option","risky option",TRUE,7.26569226521289
+472,"Organizational Strategy","sure option","sure option",FALSE,7.21647215044348
+565,"Public Policy","risky option","risky option",FALSE,7.2132358113129
+86,"AI Governance","sure option","risky option",TRUE,7.16045671170099
+132,"Financial Risk","risky option","sure option",TRUE,6.87403584745544
+197,"Financial Risk","sure option","sure option",FALSE,6.85398094726744
+524,"Public Policy","sure option","sure option",FALSE,6.61403830520506
+551,"Public Policy","sure option","risky option",TRUE,6.51830549318423
+202,"AI Governance","risky option","sure option",TRUE,6.49069646830515
+301,"Organizational Strategy","sure option","risky option",TRUE,6.4666259960603
+417,"Organizational Strategy","risky option","sure option",TRUE,5.91596463574094
+176,"Financial Risk","sure option","risky option",TRUE,5.59544158925492
+570,"Financial Risk","sure option","sure option",FALSE,5.57344743929171
+643,"Infrastructure","risky option","sure option",TRUE,5.33486399827436
+465,"Infrastructure","sure option","sure option",FALSE,5.23417475373457
+795,"Healthcare","sure option","sure option",FALSE,4.99387962194727
+631,"Financial Risk","sure option","sure option",FALSE,4.56372296945528
+8,"Public Policy","sure option","risky option",TRUE,4.55532257453063
+9,"Healthcare","sure option","risky option",TRUE,4.48623548323923
+118,"Public Policy","sure option","sure option",FALSE,4.33476593782217
+727,"Healthcare","sure option","sure option",FALSE,3.67864136167217
+277,"Financial Risk","sure option","risky option",TRUE,3.52105268782191
+73,"Financial Risk","sure option","sure option",FALSE,3.28820828316848
+732,"Healthcare","risky option","sure option",TRUE,3.24304704357735
+279,"Organizational Strategy","sure option","risky option",TRUE,3.19800791475964
+188,"Infrastructure","sure option","risky option",TRUE,3.07435191965138
+644,"Financial Risk","sure option","sure option",FALSE,2.81952524885811
+427,"Financial Risk","sure option","sure option",FALSE,2.36573817435457
+725,"Organizational Strategy","risky option","sure option",TRUE,2.28643844821637
+89,"Infrastructure","risky option","risky option",FALSE,2.20036424930477
+611,"AI Governance","risky option","risky option",FALSE,1.66147415375166
+455,"Infrastructure","sure option","sure option",FALSE,1.40028057058035
+486,"Infrastructure","sure option","sure option",FALSE,1.05691104708317
+560,"Healthcare","risky option","risky option",FALSE,0.974591070071455
+391,"Organizational Strategy","sure option","sure option",FALSE,0.912723710486031
+513,"AI Governance","sure option","sure option",FALSE,0.879519767037829
+274,"Public Policy","sure option","sure option",FALSE,0.801000907868797
+601,"Organizational Strategy","sure option","sure option",FALSE,0.776456693394785
+63,"Healthcare","sure option","sure option",FALSE,0.611903894490894
+225,"Healthcare","sure option","sure option",FALSE,0.607213174909504
+770,"Organizational Strategy","sure option","sure option",FALSE,0.16355744493768
+93,"Public Policy","risky option","risky option",FALSE,0.124324170421602

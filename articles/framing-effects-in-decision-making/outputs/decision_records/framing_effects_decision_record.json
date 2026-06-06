@@ -1,0 +1,224 @@
+{
+  "article": "Framing Effects in Decision-Making",
+  "decision_context": "Testing whether equivalent gain and loss frames produce different choices and whether reference-point shifts alter valuation.",
+  "modeling_principles": [
+    "Equivalent outcome descriptions should be tested under multiple frames.",
+    "Reference points should be made explicit.",
+    "Gain and loss frames can change risk preference.",
+    "Absolute and relative risk formats should be shown together when decision-relevant.",
+    "Frame-sensitive decisions should be reviewed before action.",
+    "Decision records should preserve the frame used at the time of choice."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "frame_reversal_rate",
+      "value": 0.90875
+    },
+    {
+      "metric": "average_frame_sensitivity_index",
+      "value": 81.685562
+    },
+    {
+      "metric": "gain_risky_choice_rate",
+      "value": 0.59875
+    },
+    {
+      "metric": "loss_risky_choice_rate",
+      "value": 0.33
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.91
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_cases": 126,
+      "frame_reversal_rate": 0.880952,
+      "average_frame_sensitivity_index": 74.929588,
+      "gain_risky_choice_rate": 0.603175,
+      "loss_risky_choice_rate": 0.34127,
+      "review_rate": 0.880952
+    },
+    {
+      "domain": "Financial Risk",
+      "n_cases": 124,
+      "frame_reversal_rate": 0.91129,
+      "average_frame_sensitivity_index": 87.466003,
+      "gain_risky_choice_rate": 0.620968,
+      "loss_risky_choice_rate": 0.306452,
+      "review_rate": 0.919355
+    },
+    {
+      "domain": "Healthcare",
+      "n_cases": 127,
+      "frame_reversal_rate": 0.905512,
+      "average_frame_sensitivity_index": 85.854997,
+      "gain_risky_choice_rate": 0.661417,
+      "loss_risky_choice_rate": 0.244094,
+      "review_rate": 0.905512
+    },
+    {
+      "domain": "Infrastructure",
+      "n_cases": 148,
+      "frame_reversal_rate": 0.891892,
+      "average_frame_sensitivity_index": 81.729578,
+      "gain_risky_choice_rate": 0.547297,
+      "loss_risky_choice_rate": 0.344595,
+      "review_rate": 0.891892
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_cases": 134,
+      "frame_reversal_rate": 0.955224,
+      "average_frame_sensitivity_index": 80.150288,
+      "gain_risky_choice_rate": 0.604478,
+      "loss_risky_choice_rate": 0.365672,
+      "review_rate": 0.955224
+    },
+    {
+      "domain": "Public Policy",
+      "n_cases": 141,
+      "frame_reversal_rate": 0.907801,
+      "average_frame_sensitivity_index": 80.296711,
+      "gain_risky_choice_rate": 0.567376,
+      "loss_risky_choice_rate": 0.368794,
+      "review_rate": 0.907801
+    }
+  ],
+  "reference_point_summary": [
+    {
+      "reference_point": -100.0,
+      "n_cases": 202,
+      "frame_reversal_rate": 0.920792,
+      "average_frame_sensitivity_index": 87.360402,
+      "gain_risky_choice_rate": 0.70297,
+      "loss_risky_choice_rate": 0.237624,
+      "review_rate": 0.920792
+    },
+    {
+      "reference_point": 0.0,
+      "n_cases": 404,
+      "frame_reversal_rate": 0.967822,
+      "average_frame_sensitivity_index": 74.9155,
+      "gain_risky_choice_rate": 0.60396,
+      "loss_risky_choice_rate": 0.393564,
+      "review_rate": 0.967822
+    },
+    {
+      "reference_point": 100.0,
+      "n_cases": 194,
+      "frame_reversal_rate": 0.773196,
+      "average_frame_sensitivity_index": 89.875187,
+      "gain_risky_choice_rate": 0.479381,
+      "loss_risky_choice_rate": 0.293814,
+      "review_rate": 0.778351
+    }
+  ],
+  "attribute_frame_summary": [
+    {
+      "attribute_case_id": "A1",
+      "domain": "Healthcare",
+      "positive_frame": "90 percent survival",
+      "negative_frame": "10 percent mortality",
+      "positive_value": 0.9,
+      "negative_value": 0.1,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "attribute_case_id": "A2",
+      "domain": "AI Governance",
+      "positive_frame": "95 percent effective",
+      "negative_frame": "5 percent ineffective",
+      "positive_value": 0.95,
+      "negative_value": 0.05,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "attribute_case_id": "A3",
+      "domain": "Public Policy",
+      "positive_frame": "80 percent success rate",
+      "negative_frame": "20 percent failure rate",
+      "positive_value": 0.8,
+      "negative_value": 0.2,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "attribute_case_id": "A4",
+      "domain": "Infrastructure",
+      "positive_frame": "70 percent on-time delivery",
+      "negative_frame": "30 percent delay rate",
+      "positive_value": 0.7,
+      "negative_value": 0.3,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "attribute_case_id": "A5",
+      "domain": "Organizational Strategy",
+      "positive_frame": "85 percent retention",
+      "negative_frame": "15 percent attrition",
+      "positive_value": 0.85,
+      "negative_value": 0.15,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    }
+  ],
+  "risk_communication_summary": [
+    {
+      "risk_case_id": "RC1",
+      "domain": "Healthcare",
+      "baseline_risk": 0.1,
+      "new_risk": 0.07,
+      "computed_absolute_change": -0.03,
+      "computed_relative_change": -0.3,
+      "preferred_display": "show absolute and relative together",
+      "format_warning": "show_absolute_and_relative"
+    },
+    {
+      "risk_case_id": "RC2",
+      "domain": "Public Policy",
+      "baseline_risk": 0.04,
+      "new_risk": 0.06,
+      "computed_absolute_change": 0.02,
+      "computed_relative_change": 0.5,
+      "preferred_display": "show baseline and absolute change",
+      "format_warning": "show_absolute_and_relative"
+    },
+    {
+      "risk_case_id": "RC3",
+      "domain": "Financial Risk",
+      "baseline_risk": 0.2,
+      "new_risk": 0.28,
+      "computed_absolute_change": 0.08,
+      "computed_relative_change": 0.4,
+      "preferred_display": "show probability and loss severity",
+      "format_warning": "show_absolute_and_relative"
+    },
+    {
+      "risk_case_id": "RC4",
+      "domain": "Infrastructure",
+      "baseline_risk": 0.08,
+      "new_risk": 0.14,
+      "computed_absolute_change": 0.06,
+      "computed_relative_change": 0.75,
+      "preferred_display": "show threshold and uncertainty",
+      "format_warning": "show_absolute_and_relative"
+    },
+    {
+      "risk_case_id": "RC5",
+      "domain": "AI Governance",
+      "baseline_risk": 0.05,
+      "new_risk": 0.09,
+      "computed_absolute_change": 0.04,
+      "computed_relative_change": 0.8,
+      "preferred_display": "show calibration and subgroup impact",
+      "format_warning": "show_absolute_and_relative"
+    }
+  ],
+  "review_queue_size": 728
+}

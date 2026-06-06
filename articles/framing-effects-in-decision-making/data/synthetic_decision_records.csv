@@ -1,0 +1,2 @@
+record_id,decision_context,current_frame,reference_point,selected_action,rationale,review_trigger
+DR1,Framing-effects review for threshold decision,loss avoidance,status quo,Review,Equivalent gain and loss frames may change risk preference,review if frame reversal occurs

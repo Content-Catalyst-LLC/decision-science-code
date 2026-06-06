@@ -1,0 +1,7 @@
+frame_id,frame_type,description,example
+F1,gain,emphasizes positive outcome or lives saved,90 percent survival
+F2,loss,emphasizes negative outcome or lives lost,10 percent mortality
+F3,action,emphasizes consequences of acting,investment reduces failure exposure
+F4,inaction,emphasizes consequences of not acting,delay increases failure exposure
+F5,cost,emphasizes expenditure,program costs 10 million
+F6,avoided_loss,emphasizes prevented damage,program avoids 10 million in losses

@@ -1,0 +1,6 @@
+reference_point_id,reference_point_type,value,description
+RP1,status_quo,0,current condition as baseline
+RP2,target,100,planned or expected target as baseline
+RP3,worst_case,-100,adverse scenario as comparison baseline
+RP4,prior_performance,50,previous period performance as baseline
+RP5,peer_benchmark,75,comparable organization or group benchmark

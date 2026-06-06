@@ -1,0 +1,6 @@
+"attribute_case_id","positive_frame","negative_frame","positive_value","negative_value","domain","equivalence_gap","review_flag"
+"A1","90 percent survival","10 percent mortality",0.9,0.1,"Healthcare",2.77555756156289e-17,"equivalent_pair"
+"A2","95 percent effective","5 percent ineffective",0.95,0.05,"AI Governance",4.16333634234434e-17,"equivalent_pair"
+"A3","80 percent success rate","20 percent failure rate",0.8,0.2,"Public Policy",5.55111512312578e-17,"equivalent_pair"
+"A4","70 percent on-time delivery","30 percent delay rate",0.7,0.3,"Infrastructure",5.55111512312578e-17,"equivalent_pair"
+"A5","85 percent retention","15 percent attrition",0.85,0.15,"Organizational Strategy",2.77555756156289e-17,"equivalent_pair"

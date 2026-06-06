@@ -1,0 +1,6 @@
+attribute_case_id,positive_frame,negative_frame,positive_value,negative_value,domain
+A1,90 percent survival,10 percent mortality,0.90,0.10,Healthcare
+A2,95 percent effective,5 percent ineffective,0.95,0.05,AI Governance
+A3,80 percent success rate,20 percent failure rate,0.80,0.20,Public Policy
+A4,70 percent on-time delivery,30 percent delay rate,0.70,0.30,Infrastructure
+A5,85 percent retention,15 percent attrition,0.85,0.15,Organizational Strategy

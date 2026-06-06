@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,frame_reversal,equals,1,decision review group
+RT2,frame_sensitivity_index,above,120,analysis lead
+RT3,reference_point_sensitivity,above,100,governance lead
+RT4,risk_format_discrepancy,above,0.05,risk communication lead
+RT5,stakeholder_frame_conflict,above,0.50,ethics review group

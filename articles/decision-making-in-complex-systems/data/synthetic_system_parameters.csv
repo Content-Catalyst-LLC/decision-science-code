@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+target_state,58,Reference system state for adaptive response
+threshold_risk_level,70,System state threshold that indicates elevated risk
+initial_system_state,52,Initial system state
+initial_adaptive_response,14,Initial adaptive-response value
+initial_spillover_pressure,7,Initial spillover-pressure value
+initial_institutional_capacity,62,Initial institutional capacity value

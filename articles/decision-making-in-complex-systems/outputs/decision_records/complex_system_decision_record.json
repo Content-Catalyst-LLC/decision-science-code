@@ -1,0 +1,60 @@
+{
+  "article": "Decision-Making in Complex Systems",
+  "decision_context": "Simulating adaptive choice under interdependence, spillover pressure, shocks, and threshold risk.",
+  "random_seed": 42,
+  "parameters": {
+    "time_steps": 60.0,
+    "target_state": 58.0,
+    "threshold_risk_level": 70.0,
+    "initial_system_state": 52.0,
+    "initial_adaptive_response": 14.0,
+    "initial_spillover_pressure": 7.0,
+    "initial_institutional_capacity": 62.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_system_state",
+      "value": 0.0
+    },
+    {
+      "metric": "average_system_state",
+      "value": 19.774162
+    },
+    {
+      "metric": "minimum_system_state",
+      "value": 0.0
+    },
+    {
+      "metric": "maximum_system_state",
+      "value": 50.334183
+    },
+    {
+      "metric": "average_adaptive_response",
+      "value": 63.289505
+    },
+    {
+      "metric": "average_spillover_pressure",
+      "value": 22.649481
+    },
+    {
+      "metric": "average_institutional_capacity",
+      "value": 81.433137
+    },
+    {
+      "metric": "threshold_breach_count",
+      "value": 0
+    },
+    {
+      "metric": "threshold_breach_rate",
+      "value": 0.0
+    }
+  ],
+  "recommendation": "maintain_adaptive_response_and_monitor_feedback",
+  "modeling_principles": [
+    "Complex-system decisions change the system state they later observe.",
+    "Feedback, delay, spillover, and adaptation should be monitored after action.",
+    "Threshold breaches should trigger review rather than retrospective blame alone.",
+    "Adaptive response should be evaluated against spillover pressure and institutional capacity.",
+    "Decision records should preserve assumptions, indicators, and review triggers."
+  ]
+}

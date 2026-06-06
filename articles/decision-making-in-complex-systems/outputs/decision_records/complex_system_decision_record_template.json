@@ -1,0 +1,21 @@
+{
+  "article": "Decision-Making in Complex Systems",
+  "decision_context": "",
+  "decision_owner": "",
+  "system_boundary": "",
+  "key_components": [],
+  "interdependencies": [],
+  "feedback_loops": [],
+  "delays": [],
+  "thresholds": [],
+  "adaptation_risks": [],
+  "scenarios": [],
+  "strategy_options": [],
+  "selected_strategy": "",
+  "rationale": "",
+  "monitoring_indicators": [],
+  "trigger_points": [],
+  "fallback_options": [],
+  "dissent_or_contested_assumptions": [],
+  "post_decision_learning": []
+}

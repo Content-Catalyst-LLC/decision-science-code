@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,threshold_breach_rate,above,0.20,system review lead
+RT2,coordination_burden,above,0.70,implementation governance lead
+RT3,feedback_awareness,below,0.55,systems modeling lead
+RT4,worst_case_performance,below,0.60,decision owner
+RT5,adaptive_response_gap,above,10,learning loop owner

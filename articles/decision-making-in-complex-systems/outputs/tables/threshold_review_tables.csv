@@ -1,0 +1,3 @@
+"strategy","adaptability","robustness","feedback_awareness","interdependence_handling","coordination_burden","legitimacy","threshold_resilience","description","complex_system_score","vulnerability_flag","rank","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate","adaptive_robustness_score","adaptive_robustness_rank","review_flag"
+"Centralized Fast Response",0.44,0.52,0.4,0.46,0.71,0.42,0.5,"Fast centralized action with weak adaptation and high coordination burden",0.3898,"review",5,0.504,0.4,0.36,0.2,0.38243,5,"review"
+"Aggressive Optimization Strategy",0.36,0.41,0.35,0.39,0.62,0.38,0.39,"Highly optimized strategy with weak robustness and fragile threshold performance",0.3186,"review",6,0.452,0.3,0.54,0.2,0.32451,6,"review"

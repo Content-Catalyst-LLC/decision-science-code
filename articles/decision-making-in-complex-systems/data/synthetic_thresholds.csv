@@ -1,0 +1,5 @@
+threshold_name,value,description
+minimum_scenario_performance,0.70,Minimum acceptable strategy performance under each scenario
+high_coordination_burden,0.70,Coordination burden level triggering review
+low_feedback_awareness,0.55,Feedback-awareness level triggering review
+high_threshold_breach_rate,0.20,Simulation threshold breach rate triggering review

@@ -1,0 +1,7 @@
+strategy,adaptability,robustness,feedback_awareness,interdependence_handling,coordination_burden,legitimacy,threshold_resilience,description
+Centralized Fast Response,0.44,0.52,0.40,0.46,0.71,0.42,0.50,Fast centralized action with weak adaptation and high coordination burden
+Balanced Adaptive Response,0.79,0.76,0.78,0.73,0.48,0.76,0.74,Balanced strategy with moderate adaptability feedback awareness and legitimacy
+Distributed Resilience Strategy,0.88,0.91,0.84,0.85,0.56,0.72,0.88,Distributed strategy emphasizing resilience and local adaptation
+Aggressive Optimization Strategy,0.36,0.41,0.35,0.39,0.62,0.38,0.39,Highly optimized strategy with weak robustness and fragile threshold performance
+Staged Learning Pathway,0.84,0.82,0.86,0.80,0.52,0.82,0.80,Staged pathway combining action monitoring learning and revision
+Robust Modular Strategy,0.81,0.86,0.82,0.83,0.44,0.78,0.86,Modular strategy preserving optionality across uncertain system conditions

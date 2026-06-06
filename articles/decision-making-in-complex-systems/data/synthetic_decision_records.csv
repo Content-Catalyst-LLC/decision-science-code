@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Complex-system decision strategy review,Robust Modular Strategy,Strong scenario performance with adaptive robustness and manageable coordination burden,review if threshold breach rate or spillover pressure rises

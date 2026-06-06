@@ -1,0 +1,7 @@
+"strategy","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Aggressive Optimization Strategy",0.452,0.3,0.54,0.2
+"Balanced Adaptive Response",0.73,0.7,0.08,1
+"Centralized Fast Response",0.504,0.4,0.36,0.2
+"Distributed Resilience Strategy",0.8,0.74,0.14,1
+"Robust Modular Strategy",0.81,0.78,0.06,1
+"Staged Learning Pathway",0.792,0.74,0.1,1

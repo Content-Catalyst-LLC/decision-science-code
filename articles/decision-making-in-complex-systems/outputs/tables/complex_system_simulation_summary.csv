@@ -1,0 +1,10 @@
+metric,value
+final_system_state,0.0
+average_system_state,19.774162
+minimum_system_state,0.0
+maximum_system_state,50.334183
+average_adaptive_response,63.289505
+average_spillover_pressure,22.649481
+average_institutional_capacity,81.433137
+threshold_breach_count,0
+threshold_breach_rate,0.0

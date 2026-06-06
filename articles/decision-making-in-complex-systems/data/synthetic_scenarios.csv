@@ -1,0 +1,6 @@
+scenario,description
+stable_conditions,Baseline future with stable system behavior and manageable disruption
+delayed_feedback,Future where delayed consequences dominate early performance signals
+coordination_stress,Future where implementation depends on cross-system coordination
+shock_event,Future with external disruption or sudden system stress
+adaptive_resistance,Future where actors respond strategically to the intervention

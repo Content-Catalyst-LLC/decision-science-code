@@ -1,0 +1,7 @@
+"path","initial_value","future_flexibility","switching_cost","lock_in_risk","reversibility","timing_sensitivity","description","path_quality_score","review_flag","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate","timing_adjusted_score","rank"
+"Dual-Track Option Path",0.72,0.88,0.36,0.29,0.86,0.45,"Preserves two paths while uncertainty remains high",0.3766,"acceptable",0.792,0.74,0.1,1,0.63986,1
+"Modular Staged Path",0.74,0.82,0.42,0.38,0.78,0.48,"Combines action with staged future optionality",0.3288,"acceptable",0.772,0.74,0.06,1,0.62312,2
+"Wait-and-Learn Path",0.62,0.84,0.3,0.34,0.8,0.72,"Preserves information and flexibility while risking delay",0.3244,"acceptable",0.716,0.66,0.1,0.8,0.55236,3
+"Transformative Switch Path",0.7,0.58,0.61,0.58,0.52,0.81,"High transition challenge but potential future improvement",0.1456,"acceptable",0.704,0.64,0.14,0.6,0.45304,4
+"Fast Commitment Path",0.78,0.32,0.74,0.81,0.26,0.69,"High early value but high switching cost and lock-in risk",0.0086,"review",0.508,0.32,0.5,0.2,0.2009,5
+"Legacy Continuation Path",0.66,0.28,0.68,0.76,0.24,0.57,"Continues inherited path with high entrenchment",-0.00919999999999998,"review",0.456,0.3,0.4,0.2,0.18468,6

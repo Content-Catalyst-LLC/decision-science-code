@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,switching_cost,above,0.65,path governance lead
+RT2,lock_in_risk,above,0.70,decision owner
+RT3,reversibility,below,0.35,transition planning lead
+RT4,option_value,below,0.35,strategy review lead
+RT5,late_switch_performance,below,0.55,risk review lead

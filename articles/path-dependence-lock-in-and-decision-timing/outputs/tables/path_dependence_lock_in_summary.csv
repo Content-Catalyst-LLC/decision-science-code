@@ -1,0 +1,10 @@
+metric,value
+final_switching_cost,1.0
+peak_switching_cost,1.0
+average_switching_cost,0.684136
+final_lock_in_risk,0.889109
+peak_lock_in_risk,0.889109
+final_option_value,0.108907
+minimum_option_value,0.108907
+review_trigger_count,20
+review_trigger_rate,0.4

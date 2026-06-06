@@ -1,0 +1,31 @@
+"path","scenario","performance"
+"Fast Commitment Path","stable_future",0.82
+"Fast Commitment Path","technology_shift",0.44
+"Fast Commitment Path","policy_change",0.46
+"Fast Commitment Path","demand_shock",0.5
+"Fast Commitment Path","late_switch_required",0.32
+"Wait-and-Learn Path","stable_future",0.66
+"Wait-and-Learn Path","technology_shift",0.76
+"Wait-and-Learn Path","policy_change",0.72
+"Wait-and-Learn Path","demand_shock",0.7
+"Wait-and-Learn Path","late_switch_required",0.74
+"Modular Staged Path","stable_future",0.78
+"Modular Staged Path","technology_shift",0.8
+"Modular Staged Path","policy_change",0.76
+"Modular Staged Path","demand_shock",0.74
+"Modular Staged Path","late_switch_required",0.78
+"Legacy Continuation Path","stable_future",0.7
+"Legacy Continuation Path","technology_shift",0.42
+"Legacy Continuation Path","policy_change",0.4
+"Legacy Continuation Path","demand_shock",0.46
+"Legacy Continuation Path","late_switch_required",0.3
+"Transformative Switch Path","stable_future",0.72
+"Transformative Switch Path","technology_shift",0.78
+"Transformative Switch Path","policy_change",0.7
+"Transformative Switch Path","demand_shock",0.68
+"Transformative Switch Path","late_switch_required",0.64
+"Dual-Track Option Path","stable_future",0.74
+"Dual-Track Option Path","technology_shift",0.82
+"Dual-Track Option Path","policy_change",0.8
+"Dual-Track Option Path","demand_shock",0.76
+"Dual-Track Option Path","late_switch_required",0.84

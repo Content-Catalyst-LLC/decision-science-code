@@ -1,0 +1,59 @@
+{
+  "article": "Path Dependence, Lock-In, and Decision Timing",
+  "decision_context": "Simulating switching-cost accumulation, lock-in risk, option-value decline, and timing review.",
+  "parameters": {
+    "time_steps": 50.0,
+    "initial_investment": 0.2,
+    "initial_network_dependence": 0.18,
+    "initial_institutional_routine": 0.22,
+    "initial_option_value": 0.84,
+    "lock_in_threshold": 0.72,
+    "random_seed": 42.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_switching_cost",
+      "value": 1.0
+    },
+    {
+      "metric": "peak_switching_cost",
+      "value": 1.0
+    },
+    {
+      "metric": "average_switching_cost",
+      "value": 0.684136
+    },
+    {
+      "metric": "final_lock_in_risk",
+      "value": 0.889109
+    },
+    {
+      "metric": "peak_lock_in_risk",
+      "value": 0.889109
+    },
+    {
+      "metric": "final_option_value",
+      "value": 0.108907
+    },
+    {
+      "metric": "minimum_option_value",
+      "value": 0.108907
+    },
+    {
+      "metric": "review_trigger_count",
+      "value": 20
+    },
+    {
+      "metric": "review_trigger_rate",
+      "value": 0.4
+    }
+  ],
+  "recommendation": "redesign_path_before_lock_in_deepens",
+  "modeling_principles": [
+    "Earlier choices can change the future choice set.",
+    "Switching costs can accumulate through investment, network dependence, and institutional routine.",
+    "Delay can reduce option value even when no formal decision is made.",
+    "Lock-in risk should trigger review before escape becomes prohibitively costly.",
+    "Decision records should preserve timing assumptions, exit paths, and lock-in risks."
+  ]
+}

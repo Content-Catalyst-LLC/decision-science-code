@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Path dependence and decision timing review,Dual-Track Option Path,Strong flexibility reversibility and low lock-in risk,review if option value decays or switching cost rises

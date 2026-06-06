@@ -1,0 +1,7 @@
+"path","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Dual-Track Option Path",0.792,0.74,0.1,1
+"Fast Commitment Path",0.508,0.32,0.5,0.2
+"Legacy Continuation Path",0.456,0.3,0.4,0.2
+"Modular Staged Path",0.772,0.74,0.06,1
+"Transformative Switch Path",0.704,0.64,0.14,0.6
+"Wait-and-Learn Path",0.716,0.66,0.1,0.8

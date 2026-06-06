@@ -1,0 +1,33 @@
+{
+  "article": "Path Dependence, Lock-In, and Decision Timing",
+  "decision_context": "",
+  "decision_owner": "",
+  "current_path": "",
+  "alternative_paths": [],
+  "time_horizon": "",
+  "historical_commitments": [],
+  "lock_in_mechanisms": {
+    "technical": [],
+    "economic": [],
+    "institutional": [],
+    "behavioral": [],
+    "political": [],
+    "infrastructure": [],
+    "legal_or_contractual": []
+  },
+  "sunk_costs": [],
+  "switching_costs": [],
+  "option_value_considerations": [],
+  "timing_logic": "",
+  "strategic_windows": [],
+  "scenario_tests": [],
+  "exit_paths": [],
+  "transition_plan": [],
+  "stakeholder_burdens": [],
+  "review_triggers": [],
+  "selected_path": "",
+  "rationale": "",
+  "dissent_or_contested_assumptions": [],
+  "revision_authority": "",
+  "post_decision_learning": []
+}

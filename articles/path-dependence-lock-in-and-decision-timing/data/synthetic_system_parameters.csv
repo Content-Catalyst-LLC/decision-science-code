@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,50,Number of simulated time steps
+initial_investment,0.20,Initial accumulated investment in current path
+initial_network_dependence,0.18,Initial network dependence
+initial_institutional_routine,0.22,Initial institutional routine
+initial_option_value,0.84,Initial value of preserving future alternatives
+lock_in_threshold,0.72,Lock-in threshold for review
+random_seed,42,Random seed for reproducibility

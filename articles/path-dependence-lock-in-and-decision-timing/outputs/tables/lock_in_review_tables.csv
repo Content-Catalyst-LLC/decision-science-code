@@ -1,0 +1,3 @@
+"path","initial_value","future_flexibility","switching_cost","lock_in_risk","reversibility","timing_sensitivity","description","path_quality_score","review_flag","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate","timing_adjusted_score","rank"
+"Fast Commitment Path",0.78,0.32,0.74,0.81,0.26,0.69,"High early value but high switching cost and lock-in risk",0.0086,"review",0.508,0.32,0.5,0.2,0.2009,5
+"Legacy Continuation Path",0.66,0.28,0.68,0.76,0.24,0.57,"Continues inherited path with high entrenchment",-0.00919999999999998,"review",0.456,0.3,0.4,0.2,0.18468,6

@@ -1,0 +1,8 @@
+threshold_name,value,description
+high_switching_cost,0.65,Switching cost level triggering review
+high_lock_in_risk,0.70,Lock-in risk level triggering review
+low_reversibility,0.35,Reversibility level triggering review
+low_worst_case_performance,0.55,Worst-case scenario performance triggering review
+low_threshold_pass_rate,0.60,Scenario threshold pass rate triggering review
+lock_in_threshold,0.72,Simulated lock-in threshold for timing review
+low_option_value,0.35,Option-value threshold triggering exit-path review

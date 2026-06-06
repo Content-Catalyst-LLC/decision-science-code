@@ -1,0 +1,6 @@
+scenario,description
+stable_future,Future where existing assumptions remain broadly stable
+technology_shift,Future where new technology or standards change the value of current commitments
+policy_change,Future where regulation governance or public policy changes
+demand_shock,Future where demand changes sharply or system stress rises
+late_switch_required,Future where the current path becomes unacceptable and transition is required

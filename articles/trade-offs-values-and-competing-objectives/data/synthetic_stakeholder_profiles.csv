@@ -1,0 +1,25 @@
+profile,objective,weight
+Efficiency Profile,cost_efficiency,0.34
+Efficiency Profile,equity,0.10
+Efficiency Profile,resilience,0.16
+Efficiency Profile,long_term_value,0.16
+Efficiency Profile,legitimacy,0.12
+Efficiency Profile,reversibility,0.12
+Equity Profile,cost_efficiency,0.10
+Equity Profile,equity,0.34
+Equity Profile,resilience,0.16
+Equity Profile,long_term_value,0.14
+Equity Profile,legitimacy,0.16
+Equity Profile,reversibility,0.10
+Resilience Profile,cost_efficiency,0.10
+Resilience Profile,equity,0.14
+Resilience Profile,resilience,0.34
+Resilience Profile,long_term_value,0.20
+Resilience Profile,legitimacy,0.10
+Resilience Profile,reversibility,0.12
+Adaptive Profile,cost_efficiency,0.12
+Adaptive Profile,equity,0.16
+Adaptive Profile,resilience,0.22
+Adaptive Profile,long_term_value,0.22
+Adaptive Profile,legitimacy,0.12
+Adaptive Profile,reversibility,0.16

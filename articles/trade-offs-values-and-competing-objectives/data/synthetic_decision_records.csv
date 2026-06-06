@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Trade-off review,Adaptive Portfolio Option,Strong performance across value scenarios and low regret,review if scenario weights reverse ranking

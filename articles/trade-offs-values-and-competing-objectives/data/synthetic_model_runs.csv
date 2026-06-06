@@ -1,0 +1,5 @@
+run_id,workflow,language,status
+MR1,tradeoffs_values_competing_objectives_simulation,python,planned
+MR2,tradeoffs_values_competing_objectives_workflow,R,planned
+MR3,high_performance_tradeoff_scan,julia,planned
+MR4,schema_tradeoffs_values_competing_objectives,sql,planned

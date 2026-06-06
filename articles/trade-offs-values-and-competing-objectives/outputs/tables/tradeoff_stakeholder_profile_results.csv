@@ -1,0 +1,25 @@
+"profile","alternative","profile_score","rank"
+"Adaptive Profile","Adaptive Portfolio Option",0.8538,1
+"Adaptive Profile","Resilience-Priority Option",0.7538,2
+"Adaptive Profile","Balanced Option",0.7538,3
+"Adaptive Profile","Equity-Priority Option",0.7228,4
+"Adaptive Profile","Low-Cost Minimum Option",0.5608,5
+"Adaptive Profile","Efficiency-First Option",0.5496,6
+"Efficiency Profile","Adaptive Portfolio Option",0.8152,1
+"Efficiency Profile","Balanced Option",0.7516,2
+"Efficiency Profile","Resilience-Priority Option",0.7178,3
+"Efficiency Profile","Equity-Priority Option",0.6726,4
+"Efficiency Profile","Low-Cost Minimum Option",0.66,5
+"Efficiency Profile","Efficiency-First Option",0.6392,6
+"Equity Profile","Adaptive Portfolio Option",0.8414,1
+"Equity Profile","Equity-Priority Option",0.7734,2
+"Equity Profile","Balanced Option",0.7478,3
+"Equity Profile","Resilience-Priority Option",0.7308,4
+"Equity Profile","Low-Cost Minimum Option",0.526,5
+"Equity Profile","Efficiency-First Option",0.5088,6
+"Resilience Profile","Adaptive Portfolio Option",0.858,1
+"Resilience Profile","Resilience-Priority Option",0.7856,2
+"Resilience Profile","Balanced Option",0.7556,3
+"Resilience Profile","Equity-Priority Option",0.719,4
+"Resilience Profile","Low-Cost Minimum Option",0.53,5
+"Resilience Profile","Efficiency-First Option",0.526,6

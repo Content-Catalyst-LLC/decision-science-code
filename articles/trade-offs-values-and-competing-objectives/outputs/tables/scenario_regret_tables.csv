@@ -1,0 +1,7 @@
+"alternative","average_regret","max_regret","average_rank","worst_rank"
+"Adaptive Portfolio Option",0,0,1,1
+"Balanced Option",0.0892,0.1024,2.75,3
+"Resilience-Priority Option",0.09335,0.1148,2.75,4
+"Equity-Priority Option",0.11745,0.1422,3.75,5
+"Low-Cost Minimum Option",0.27565,0.329,4.75,5
+"Efficiency-First Option",0.28735,0.3338,6,6

@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,best_rank_rate,below,0.25,decision review group
+RT2,rank_volatility,above,1.25,analysis lead
+RT3,max_regret,above,0.20,scenario review group
+RT4,dominated_by_any,equals,true,decision owner
+RT5,stakeholder_rank_disagreement,above,2,governance lead

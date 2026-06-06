@@ -1,0 +1,23 @@
+{
+  "article": "Trade-Offs, Values, and Competing Objectives",
+  "decision_context": "",
+  "decision_owner": "",
+  "decision_rule": "",
+  "alternatives": [],
+  "objectives": [],
+  "weights": {},
+  "thresholds": {},
+  "non_negotiables": [],
+  "stakeholder_value_profiles": [],
+  "distributional_effects": [],
+  "dominated_options": [],
+  "scenario_regret": [],
+  "rank_stability": [],
+  "tradeoffs_accepted": [],
+  "tradeoffs_rejected": [],
+  "dissent_or_disagreement": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

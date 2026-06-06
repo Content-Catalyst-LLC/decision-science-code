@@ -1,0 +1,7 @@
+"pathway","failure_risk","governance_maturity","adaptive_capacity","review_flag"
+"Traditional Analytic Decision Support",0.62,0.46,0.4,"review"
+"AI-Enhanced Decision Support",0.56,0.54,0.54,"review"
+"Participatory Public Decision System",0.36,0.76,0.76,"acceptable"
+"Governed Decision Intelligence",0.34,0.86,0.74,"acceptable"
+"Adaptive Robust Decision System",0.3,0.78,0.9,"acceptable"
+"Integrated Future Decision Science",0.24,0.9,0.88,"acceptable"

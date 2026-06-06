@@ -1,0 +1,12 @@
+-- maturity_records.sql
+
+INSERT INTO maturity_records (dimension_id, dimension_name, current_maturity, target_maturity, gap, priority, notes)
+VALUES
+('M1', 'AI support quality', 0.62, 0.86, 0.24, 'high', 'AI support should include validation, uncertainty, monitoring, and human oversight.'),
+('M2', 'Governance maturity', 0.58, 0.90, 0.32, 'high', 'Decision rights, records, review, and corrective authority need strengthening.'),
+('M3', 'Uncertainty capability', 0.60, 0.88, 0.28, 'high', 'Scenario analysis, sensitivity, review triggers, and robust pathways need expansion.'),
+('M4', 'Participatory legitimacy', 0.46, 0.84, 0.38, 'high', 'Stakeholder standing and public reasoning should shape framing and criteria.'),
+('M5', 'Reproducibility', 0.54, 0.88, 0.34, 'high', 'Data, code, assumptions, outputs, and records should be rerunnable and inspectable.'),
+('M6', 'Systems awareness', 0.50, 0.86, 0.36, 'high', 'Feedback loops, network effects, cascading risk, and resilience need better representation.'),
+('M7', 'Ethical accountability', 0.52, 0.90, 0.38, 'high', 'Equity, power, contestability, and remedy should be embedded in decision design.'),
+('M8', 'Adaptive capacity', 0.56, 0.88, 0.32, 'high', 'Monitoring thresholds and revision authority should be formalized.');

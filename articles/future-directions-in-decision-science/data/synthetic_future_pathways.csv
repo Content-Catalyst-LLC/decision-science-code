@@ -1,0 +1,7 @@
+pathway,ai_readiness,governance_maturity,uncertainty_capability,participatory_legitimacy,reproducibility,systems_modeling,ethical_accountability,adaptive_capacity,process_burden,failure_risk,description
+Traditional Analytic Decision Support,0.20,0.46,0.58,0.32,0.48,0.42,0.44,0.40,0.32,0.62,Classical decision support with limited governance participation reproducibility and adaptive capacity
+AI-Enhanced Decision Support,0.78,0.54,0.62,0.40,0.62,0.56,0.50,0.54,0.54,0.56,AI-assisted analysis without fully mature governance or ethical accountability
+Governed Decision Intelligence,0.82,0.86,0.74,0.62,0.78,0.68,0.82,0.74,0.66,0.34,AI and decision intelligence with strong governance records review and accountability
+Adaptive Robust Decision System,0.66,0.78,0.90,0.66,0.74,0.84,0.76,0.90,0.72,0.30,Robust and adaptive system with scenarios thresholds and systems modeling
+Participatory Public Decision System,0.52,0.76,0.72,0.88,0.68,0.62,0.84,0.76,0.76,0.36,Public reasoning system with participation legitimacy ethics and contestability
+Integrated Future Decision Science,0.86,0.90,0.88,0.84,0.88,0.86,0.90,0.88,0.80,0.24,Integrated decision architecture combining AI governance uncertainty participation reproducibility systems ethics and learning

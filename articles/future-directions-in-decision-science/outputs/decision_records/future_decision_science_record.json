@@ -1,0 +1,66 @@
+{
+  "article": "Future Directions in Decision Science",
+  "decision_context": "Simulating AI support, governance, uncertainty capability, legitimacy, reproducibility, systems awareness, ethical accountability, adaptive capacity, failure risk, and review triggers.",
+  "parameters": {
+    "time_steps": 48.0,
+    "random_seed": 42.0,
+    "governance_trigger": 0.58,
+    "uncertainty_trigger": 0.58,
+    "ethics_trigger": 0.58,
+    "adaptive_trigger": 0.58,
+    "failure_risk_trigger": 0.62
+  },
+  "summary_metrics": [
+    {
+      "decision_system": "Integrated Future Decision Science",
+      "average_future_decision_maturity": 1.028416,
+      "minimum_governance": 0.931625,
+      "minimum_uncertainty_capability": 0.880683,
+      "minimum_ethical_accountability": 0.900408,
+      "minimum_adaptive_capacity": 0.898234,
+      "maximum_failure_risk": 0.104856,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision_system": "Adaptive Robust Decision System",
+      "average_future_decision_maturity": 0.993486,
+      "minimum_governance": 0.781656,
+      "minimum_uncertainty_capability": 0.920833,
+      "minimum_ethical_accountability": 0.780842,
+      "minimum_adaptive_capacity": 0.924346,
+      "maximum_failure_risk": 0.166386,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision_system": "AI-Enhanced Decision Support",
+      "average_future_decision_maturity": 0.899803,
+      "minimum_governance": 0.596813,
+      "minimum_uncertainty_capability": 0.652601,
+      "minimum_ethical_accountability": 0.523,
+      "minimum_adaptive_capacity": 0.594614,
+      "maximum_failure_risk": 0.464001,
+      "review_required_count": 2,
+      "review_flag": "review"
+    },
+    {
+      "decision_system": "Traditional Analytic Decision Support",
+      "average_future_decision_maturity": 0.76296,
+      "minimum_governance": 0.511806,
+      "minimum_uncertainty_capability": 0.617416,
+      "minimum_ethical_accountability": 0.479105,
+      "minimum_adaptive_capacity": 0.443518,
+      "maximum_failure_risk": 0.559436,
+      "review_required_count": 4,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "Future decision science should integrate AI support with human judgment and institutional accountability.",
+    "Decision systems should be adaptive, reproducible, participatory, and ethically accountable.",
+    "Robustness and legitimacy matter alongside optimization.",
+    "Review triggers should activate when governance, uncertainty capability, ethics, adaptive capacity, or failure risk crosses thresholds.",
+    "Institutional learning should improve decision capacity over time."
+  ]
+}

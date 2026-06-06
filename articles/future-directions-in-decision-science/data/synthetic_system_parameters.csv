@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,48,Number of simulated future decision-science review periods
+random_seed,42,Random seed for reproducibility
+governance_trigger,0.58,Governance maturity below this level requires review
+uncertainty_trigger,0.58,Uncertainty capability below this level requires review
+ethics_trigger,0.58,Ethical accountability below this level requires review
+adaptive_trigger,0.58,Adaptive capacity below this level requires review
+failure_risk_trigger,0.62,Failure risk above this level requires review

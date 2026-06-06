@@ -1,0 +1,6 @@
+stakeholder,importance,minimum_threshold,description
+Residents,0.24,0.66,People living in affected communities
+Service Users,0.24,0.68,People who rely on the service or system being changed
+Workers,0.18,0.64,People implementing or working inside the decision system
+Regulators,0.18,0.66,Institutions responsible for compliance oversight and public accountability
+Future Stakeholders,0.16,0.62,Future users residents ecosystems or generations affected over time

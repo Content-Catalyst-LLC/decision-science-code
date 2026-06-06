@@ -1,0 +1,31 @@
+stakeholder,criterion,weight
+Residents,cost_efficiency,0.12
+Residents,service_quality,0.18
+Residents,equity,0.28
+Residents,autonomy,0.14
+Residents,resilience,0.16
+Residents,transparency,0.12
+Service Users,cost_efficiency,0.10
+Service Users,service_quality,0.30
+Service Users,equity,0.18
+Service Users,autonomy,0.20
+Service Users,resilience,0.12
+Service Users,transparency,0.10
+Workers,cost_efficiency,0.12
+Workers,service_quality,0.18
+Workers,equity,0.20
+Workers,autonomy,0.14
+Workers,resilience,0.16
+Workers,transparency,0.20
+Regulators,cost_efficiency,0.16
+Regulators,service_quality,0.18
+Regulators,equity,0.18
+Regulators,autonomy,0.12
+Regulators,resilience,0.16
+Regulators,transparency,0.20
+Future Stakeholders,cost_efficiency,0.08
+Future Stakeholders,service_quality,0.12
+Future Stakeholders,equity,0.20
+Future Stakeholders,autonomy,0.10
+Future Stakeholders,resilience,0.34
+Future Stakeholders,transparency,0.16

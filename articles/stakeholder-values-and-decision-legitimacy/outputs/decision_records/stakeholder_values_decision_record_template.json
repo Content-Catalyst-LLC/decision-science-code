@@ -1,0 +1,26 @@
+{
+  "article": "Stakeholder Values and Decision Legitimacy",
+  "decision_context": "",
+  "decision_owner": "",
+  "stakeholder_map": [],
+  "affectedness_analysis": [],
+  "value_criteria": [],
+  "stakeholder_value_weights": [],
+  "alternatives": [],
+  "burden_analysis": [],
+  "procedural_legitimacy_review": {
+    "voice": null,
+    "transparency": null,
+    "explanation": null,
+    "contestability": null,
+    "review": null
+  },
+  "thresholds": [],
+  "dissent_or_contested_assumptions": [],
+  "selected_action": "",
+  "rationale": "",
+  "mitigation_requirements": [],
+  "monitoring_triggers": [],
+  "review_authority": "",
+  "post_decision_learning": []
+}

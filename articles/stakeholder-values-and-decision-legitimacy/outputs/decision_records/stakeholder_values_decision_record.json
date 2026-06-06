@@ -1,0 +1,125 @@
+{
+  "article": "Stakeholder Values and Decision Legitimacy",
+  "decision_context": "Comparing alternatives across stakeholder value profiles, burdens, procedural legitimacy, thresholds, and decision-legitimacy diagnostics.",
+  "criteria": [
+    "cost_efficiency",
+    "service_quality",
+    "equity",
+    "autonomy",
+    "resilience",
+    "transparency"
+  ],
+  "stakeholder_importance": {
+    "Residents": {
+      "importance": 0.24,
+      "minimum_threshold": 0.66
+    },
+    "Service Users": {
+      "importance": 0.24,
+      "minimum_threshold": 0.68
+    },
+    "Workers": {
+      "importance": 0.18,
+      "minimum_threshold": 0.64
+    },
+    "Regulators": {
+      "importance": 0.18,
+      "minimum_threshold": 0.66
+    },
+    "Future Stakeholders": {
+      "importance": 0.16,
+      "minimum_threshold": 0.62
+    }
+  },
+  "procedure_weights": {
+    "voice": 0.24,
+    "transparency": 0.2,
+    "explanation": 0.2,
+    "contestability": 0.18,
+    "review": 0.18
+  },
+  "ranked_results": [
+    {
+      "alternative": "Participatory Adaptive",
+      "aggregate_stakeholder_score": 0.823192,
+      "stakeholder_threshold_pass_rate": 1.0,
+      "minimum_stakeholder_score": 0.8164,
+      "maximum_stakeholder_burden": 0.26,
+      "average_stakeholder_burden": 0.208,
+      "procedural_score": 0.8936,
+      "decision_legitimacy_index": 0.784581,
+      "review_flag": "acceptable",
+      "rank": 1
+    },
+    {
+      "alternative": "Precautionary Safeguard",
+      "aggregate_stakeholder_score": 0.793176,
+      "stakeholder_threshold_pass_rate": 1.0,
+      "minimum_stakeholder_score": 0.778,
+      "maximum_stakeholder_burden": 0.28,
+      "average_stakeholder_burden": 0.22,
+      "procedural_score": 0.8256,
+      "decision_legitimacy_index": 0.750814,
+      "review_flag": "acceptable",
+      "rank": 2
+    },
+    {
+      "alternative": "Balanced Public Value",
+      "aggregate_stakeholder_score": 0.765544,
+      "stakeholder_threshold_pass_rate": 1.0,
+      "minimum_stakeholder_score": 0.7628,
+      "maximum_stakeholder_burden": 0.34,
+      "average_stakeholder_burden": 0.296,
+      "procedural_score": 0.74,
+      "decision_legitimacy_index": 0.712898,
+      "review_flag": "acceptable",
+      "rank": 3
+    },
+    {
+      "alternative": "Equity Protective",
+      "aggregate_stakeholder_score": 0.754268,
+      "stakeholder_threshold_pass_rate": 1.0,
+      "minimum_stakeholder_score": 0.7414,
+      "maximum_stakeholder_burden": 0.3,
+      "average_stakeholder_burden": 0.252,
+      "procedural_score": 0.7488,
+      "decision_legitimacy_index": 0.711559,
+      "review_flag": "acceptable",
+      "rank": 4
+    },
+    {
+      "alternative": "Efficiency First",
+      "aggregate_stakeholder_score": 0.560136,
+      "stakeholder_threshold_pass_rate": 0.0,
+      "minimum_stakeholder_score": 0.5328,
+      "maximum_stakeholder_burden": 0.62,
+      "average_stakeholder_burden": 0.514,
+      "procedural_score": 0.416,
+      "decision_legitimacy_index": 0.327574,
+      "review_flag": "review",
+      "rank": 5
+    }
+  ],
+  "selected_alternative": "Participatory Adaptive",
+  "review_flags": [
+    {
+      "alternative": "Efficiency First",
+      "aggregate_stakeholder_score": 0.560136,
+      "stakeholder_threshold_pass_rate": 0.0,
+      "minimum_stakeholder_score": 0.5328,
+      "maximum_stakeholder_burden": 0.62,
+      "average_stakeholder_burden": 0.514,
+      "procedural_score": 0.416,
+      "decision_legitimacy_index": 0.327574,
+      "review_flag": "review",
+      "rank": 5
+    }
+  ],
+  "modeling_principles": [
+    "Stakeholder values should shape criteria, thresholds, and trade-off review.",
+    "Aggregate scores can hide concentrated stakeholder burdens.",
+    "Procedural legitimacy requires voice, transparency, explanation, contestability, and review.",
+    "Threshold checks prevent low stakeholder performance from being averaged away.",
+    "Decision records should preserve stakeholder claims, dissent, burdens, rationale, and review triggers."
+  ]
+}

@@ -1,0 +1,6 @@
+"alternative","aggregate_stakeholder_score","stakeholder_threshold_pass_rate","minimum_stakeholder_score","maximum_stakeholder_burden","average_stakeholder_burden","procedural_score","decision_legitimacy_index","review_flag","rank"
+"Participatory Adaptive",0.823192,1,0.8164,0.26,0.208,0.8936,0.7845808,"acceptable",1
+"Precautionary Safeguard",0.793176,1,0.778,0.28,0.22,0.8256,0.7508144,"acceptable",2
+"Balanced Public Value",0.765544,1,0.7628,0.34,0.296,0.74,0.7128976,"acceptable",3
+"Equity Protective",0.754268,1,0.7414,0.3,0.252,0.7488,0.7115592,"acceptable",4
+"Efficiency First",0.560136,0,0.5328,0.62,0.514,0.416,0.3275744,"review",5

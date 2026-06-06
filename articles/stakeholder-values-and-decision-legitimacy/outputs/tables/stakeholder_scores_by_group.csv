@@ -1,0 +1,26 @@
+"alternative","stakeholder","stakeholder_score","importance","minimum_threshold","passes_threshold","weighted_score"
+"Efficiency First","Residents",0.55,0.24,0.66,FALSE,0.132
+"Efficiency First","Service Users",0.5788,0.24,0.68,FALSE,0.138912
+"Efficiency First","Workers",0.5564,0.18,0.64,FALSE,0.100152
+"Efficiency First","Regulators",0.5768,0.18,0.66,FALSE,0.103824
+"Efficiency First","Future Stakeholders",0.5328,0.16,0.62,FALSE,0.085248
+"Balanced Public Value","Residents",0.7628,0.24,0.66,TRUE,0.183072
+"Balanced Public Value","Service Users",0.7688,0.24,0.68,TRUE,0.184512
+"Balanced Public Value","Workers",0.7644,0.18,0.64,TRUE,0.137592
+"Balanced Public Value","Regulators",0.7656,0.18,0.66,TRUE,0.137808
+"Balanced Public Value","Future Stakeholders",0.766,0.16,0.62,TRUE,0.12256
+"Equity Protective","Residents",0.7656,0.24,0.66,TRUE,0.183744
+"Equity Protective","Service Users",0.7518,0.24,0.68,TRUE,0.180432
+"Equity Protective","Workers",0.7504,0.18,0.64,TRUE,0.135072
+"Equity Protective","Regulators",0.7414,0.18,0.66,TRUE,0.133452
+"Equity Protective","Future Stakeholders",0.7598,0.16,0.62,TRUE,0.121568
+"Participatory Adaptive","Residents",0.8212,0.24,0.66,TRUE,0.197088
+"Participatory Adaptive","Service Users",0.8164,0.24,0.68,TRUE,0.195936
+"Participatory Adaptive","Workers",0.826,0.18,0.64,TRUE,0.14868
+"Participatory Adaptive","Regulators",0.82,0.18,0.66,TRUE,0.1476
+"Participatory Adaptive","Future Stakeholders",0.8368,0.16,0.62,TRUE,0.133888
+"Precautionary Safeguard","Residents",0.7948,0.24,0.66,TRUE,0.190752
+"Precautionary Safeguard","Service Users",0.778,0.24,0.68,TRUE,0.18672
+"Precautionary Safeguard","Workers",0.7916,0.18,0.64,TRUE,0.142488
+"Precautionary Safeguard","Regulators",0.7856,0.18,0.66,TRUE,0.141408
+"Precautionary Safeguard","Future Stakeholders",0.8238,0.16,0.62,TRUE,0.131808

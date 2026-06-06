@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,stakeholder_threshold_pass_rate,below,0.80,legitimacy review group
+RT2,maximum_stakeholder_burden,above,0.50,burden review lead
+RT3,procedural_score,below,0.65,governance lead
+RT4,dissent_unresolved,equals,true,decision owner
+RT5,representation_gap_count,above,0,stakeholder engagement lead

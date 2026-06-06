@@ -1,0 +1,3 @@
+"strategy","stability_score","responsiveness_score","delay_sensitivity","resilience_score","transparency_score","description","dynamic_intervention_score","review_flag","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate","systems_decision_score","systems_decision_rank"
+"Fast Control Path",0.62,0.88,0.71,0.54,0.5,"Fast intervention with high responsiveness but elevated delay risk",0.3632,"review",0.562,0.46,0.3,0.2,0.39962,5
+"Aggressive Adjustment Path",0.49,0.91,0.84,0.46,0.44,"Aggressive adjustment with high responsiveness but fragile system behavior",0.2848,"review",0.472,0.34,0.48,0.2,0.32568,6

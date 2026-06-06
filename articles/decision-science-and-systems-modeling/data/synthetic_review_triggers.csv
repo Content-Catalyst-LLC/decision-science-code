@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,threshold_breach_rate,above,0.20,model governance lead
+RT2,delay_sensitivity,above,0.70,systems modeling lead
+RT3,resilience_score,below,0.60,decision owner
+RT4,worst_case_performance,below,0.60,scenario review lead
+RT5,model_boundary_change,equals,true,model owner

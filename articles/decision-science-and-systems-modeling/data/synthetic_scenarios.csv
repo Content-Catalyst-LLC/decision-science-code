@@ -1,0 +1,6 @@
+scenario,description
+baseline,Stable reference future with manageable dynamics
+delayed_feedback,Future where consequences appear late and early indicators mislead
+resource_constraint,Future with capacity or resource constraints
+shock_event,Future with external disruption or sudden system stress
+adaptive_resistance,Future where actors respond strategically to the intervention

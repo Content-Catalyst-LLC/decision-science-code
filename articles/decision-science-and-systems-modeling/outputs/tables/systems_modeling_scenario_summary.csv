@@ -1,0 +1,7 @@
+"strategy","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Aggressive Adjustment Path",0.472,0.34,0.48,0.2
+"Balanced Adaptive Path",0.744,0.7,0.1,1
+"Fast Control Path",0.562,0.46,0.3,0.2
+"High Resilience Path",0.808,0.76,0.12,1
+"Robust Modular Path",0.82,0.79,0.0599999999999999,1
+"Staged Learning Path",0.796,0.74,0.1,1

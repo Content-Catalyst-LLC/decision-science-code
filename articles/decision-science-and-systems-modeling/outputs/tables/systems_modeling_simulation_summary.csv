@@ -1,0 +1,8 @@
+metric,value
+final_system_state,2188.033642
+peak_system_state,2188.033642
+average_system_state,549.540305
+average_intervention_signal,1.957844
+average_resilience_capacity,2.652212
+threshold_breach_count,53
+threshold_breach_rate,0.883333

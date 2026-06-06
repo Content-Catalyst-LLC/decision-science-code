@@ -1,0 +1,7 @@
+strategy,stability_score,responsiveness_score,delay_sensitivity,resilience_score,transparency_score,description
+Fast Control Path,0.62,0.88,0.71,0.54,0.50,Fast intervention with high responsiveness but elevated delay risk
+Balanced Adaptive Path,0.78,0.74,0.42,0.79,0.78,Balanced path with moderate responsiveness and strong transparency
+High Resilience Path,0.86,0.63,0.31,0.91,0.74,Resilience-oriented path with low delay sensitivity
+Aggressive Adjustment Path,0.49,0.91,0.84,0.46,0.44,Aggressive adjustment with high responsiveness but fragile system behavior
+Staged Learning Path,0.80,0.78,0.38,0.84,0.86,Staged intervention combining action monitoring and learning
+Robust Modular Path,0.84,0.70,0.34,0.88,0.82,Modular path preserving flexibility across uncertain conditions

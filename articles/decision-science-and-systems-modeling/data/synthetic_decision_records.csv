@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Decision science and systems modeling review,Robust Modular Path,Strong scenario performance with low delay sensitivity and high resilience,review if threshold breach rate or model boundary changes

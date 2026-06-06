@@ -1,0 +1,52 @@
+{
+  "article": "Decision Science and Systems Modeling",
+  "decision_context": "Simulating dynamic system response to repeated decisions, delayed correction, resilience capacity, and threshold risk.",
+  "random_seed": 42,
+  "parameters": {
+    "time_steps": 60.0,
+    "target_state": 60.0,
+    "threshold_risk_level": 72.0,
+    "delay": 3.0,
+    "initial_system_state": 55.0,
+    "initial_intervention_signal": 10.0,
+    "initial_resilience_capacity": 18.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_system_state",
+      "value": 2188.033642
+    },
+    {
+      "metric": "peak_system_state",
+      "value": 2188.033642
+    },
+    {
+      "metric": "average_system_state",
+      "value": 549.540305
+    },
+    {
+      "metric": "average_intervention_signal",
+      "value": 1.957844
+    },
+    {
+      "metric": "average_resilience_capacity",
+      "value": 2.652212
+    },
+    {
+      "metric": "threshold_breach_count",
+      "value": 53
+    },
+    {
+      "metric": "threshold_breach_rate",
+      "value": 0.883333
+    }
+  ],
+  "recommendation": "review_policy_due_to_threshold_breach",
+  "modeling_principles": [
+    "Decisions should be represented as interventions in dynamic systems.",
+    "Delayed effects can distort early interpretation of outcomes.",
+    "Stocks, flows, feedback, and resilience capacity shape system response.",
+    "Threshold breaches should trigger review and model revision.",
+    "Decision records should preserve assumptions, model structure, and monitoring triggers."
+  ]
+}

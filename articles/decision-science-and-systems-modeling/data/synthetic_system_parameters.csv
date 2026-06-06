@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+target_state,60,Reference system state for intervention adjustment
+threshold_risk_level,72,System state threshold indicating elevated risk
+delay,3,Number of time steps before intervention effects fully appear
+initial_system_state,55,Initial system state
+initial_intervention_signal,10,Initial intervention signal
+initial_resilience_capacity,18,Initial resilience capacity

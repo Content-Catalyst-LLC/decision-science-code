@@ -1,0 +1,2 @@
+record_id,decision_context,decision_rule,selected_action,rationale,review_trigger
+DREC1,Group decision review,consultative decision,Review,Influence concentration and hidden-profile risk require structured dissent and evidence review,review if hidden-profile risk exceeds threshold

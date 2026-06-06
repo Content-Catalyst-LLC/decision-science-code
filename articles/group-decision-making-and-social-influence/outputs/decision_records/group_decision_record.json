@@ -1,0 +1,120 @@
+{
+  "article": "Group Decision-Making and Social Influence",
+  "decision_context": "Evaluating group judgment, social influence, hidden-profile risk, dissent, influence concentration, and collective error.",
+  "modeling_principles": [
+    "Group judgment should preserve independent estimates before discussion.",
+    "Social influence should be measured through influence weights, consensus pressure, and authority concentration.",
+    "Unique information should be elicited so hidden profiles do not disappear.",
+    "Dissent should be recorded rather than smoothed into consensus.",
+    "Decision records should preserve evidence, disagreement, confidence, decision rules, and review triggers."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "mean_collective_error",
+      "value": 0.024139
+    },
+    {
+      "metric": "mean_independent_error",
+      "value": 0.026035
+    },
+    {
+      "metric": "mean_social_influence_error_change",
+      "value": -0.001896
+    },
+    {
+      "metric": "mean_dissent_ratio",
+      "value": 0.146428
+    },
+    {
+      "metric": "mean_influence_concentration",
+      "value": 0.194416
+    },
+    {
+      "metric": "mean_hidden_profile_risk",
+      "value": 0.394111
+    },
+    {
+      "metric": "mean_consensus_pressure",
+      "value": 0.390887
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.508333
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_groups": 41,
+      "average_collective_error": 0.022499,
+      "average_independent_error": 0.023375,
+      "average_social_influence_error_change": -0.000877,
+      "average_dissent_ratio": 0.139373,
+      "average_influence_concentration": 0.190806,
+      "average_hidden_profile_risk": 0.355187,
+      "average_consensus_pressure": 0.429781,
+      "review_rate": 0.414634
+    },
+    {
+      "domain": "Financial Risk",
+      "n_groups": 36,
+      "average_collective_error": 0.0256,
+      "average_independent_error": 0.027277,
+      "average_social_influence_error_change": -0.001677,
+      "average_dissent_ratio": 0.111111,
+      "average_influence_concentration": 0.195383,
+      "average_hidden_profile_risk": 0.409013,
+      "average_consensus_pressure": 0.395844,
+      "review_rate": 0.472222
+    },
+    {
+      "domain": "Healthcare",
+      "n_groups": 32,
+      "average_collective_error": 0.02302,
+      "average_independent_error": 0.02466,
+      "average_social_influence_error_change": -0.00164,
+      "average_dissent_ratio": 0.142857,
+      "average_influence_concentration": 0.190081,
+      "average_hidden_profile_risk": 0.432386,
+      "average_consensus_pressure": 0.341136,
+      "review_rate": 0.59375
+    },
+    {
+      "domain": "Infrastructure",
+      "n_groups": 40,
+      "average_collective_error": 0.01995,
+      "average_independent_error": 0.021394,
+      "average_social_influence_error_change": -0.001444,
+      "average_dissent_ratio": 0.114286,
+      "average_influence_concentration": 0.193097,
+      "average_hidden_profile_risk": 0.39724,
+      "average_consensus_pressure": 0.366986,
+      "review_rate": 0.55
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_groups": 37,
+      "average_collective_error": 0.023525,
+      "average_independent_error": 0.024697,
+      "average_social_influence_error_change": -0.001172,
+      "average_dissent_ratio": 0.204633,
+      "average_influence_concentration": 0.196487,
+      "average_hidden_profile_risk": 0.414013,
+      "average_consensus_pressure": 0.432318,
+      "review_rate": 0.594595
+    },
+    {
+      "domain": "Public Policy",
+      "n_groups": 54,
+      "average_collective_error": 0.028598,
+      "average_independent_error": 0.032398,
+      "average_social_influence_error_change": -0.003801,
+      "average_dissent_ratio": 0.161376,
+      "average_influence_concentration": 0.198638,
+      "average_hidden_profile_risk": 0.375092,
+      "average_consensus_pressure": 0.376851,
+      "review_rate": 0.462963
+    }
+  ],
+  "review_queue_size": 122
+}

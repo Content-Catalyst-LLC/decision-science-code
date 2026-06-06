@@ -1,0 +1,6 @@
+rule_id,decision_rule,strength,risk,best_suited_for
+DRULE1,majority vote,efficient and clear,minority evidence may be ignored,lower-stakes decisions with comparable information
+DRULE2,supermajority,broad support required,can block action,high-stakes or legitimacy-sensitive decisions
+DRULE3,consensus,commitment and shared ownership,conformity pressure,implementation-heavy decisions
+DRULE4,delegation,clear accountability,distributed knowledge may be underused,operational decisions with clear owner
+DRULE5,expert recommendation,specialized knowledge,value judgments may be hidden,technical decisions with calibrated expertise

@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,collective_error,above,0.15,decision review group
+RT2,social_influence_error_change,above,0.05,facilitator
+RT3,influence_concentration,above,0.35,governance lead
+RT4,hidden_profile_risk,above,0.45,evidence lead
+RT5,consensus_pressure,above,0.60,decision owner

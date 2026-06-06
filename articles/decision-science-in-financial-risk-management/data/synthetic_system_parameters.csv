@@ -1,0 +1,5 @@
+parameter,value,description
+time_steps,36,Number of simulated review periods
+random_seed,42,Random seed for reproducibility
+capital_trigger,72.0,Capital level requiring review
+liquidity_trigger,0.42,Liquidity level requiring review

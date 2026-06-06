@@ -1,0 +1,25 @@
+portfolio,scenario,loss_pct
+Conservative Credit Book,normal,-1.2
+Conservative Credit Book,recession,-4.8
+Conservative Credit Book,liquidity_shock,-3.6
+Conservative Credit Book,systemic_stress,-6.2
+Balanced Multi-Asset,normal,-2.1
+Balanced Multi-Asset,recession,-7.3
+Balanced Multi-Asset,liquidity_shock,-8.9
+Balanced Multi-Asset,systemic_stress,-11.8
+Yield-Seeking Portfolio,normal,-3.5
+Yield-Seeking Portfolio,recession,-11.6
+Yield-Seeking Portfolio,liquidity_shock,-14.2
+Yield-Seeking Portfolio,systemic_stress,-19.5
+Concentrated Risk Book,normal,-4.8
+Concentrated Risk Book,recession,-15.4
+Concentrated Risk Book,liquidity_shock,-18.7
+Concentrated Risk Book,systemic_stress,-27.4
+Liquidity-Sensitive Strategy,normal,-2.4
+Liquidity-Sensitive Strategy,recession,-8.6
+Liquidity-Sensitive Strategy,liquidity_shock,-16.5
+Liquidity-Sensitive Strategy,systemic_stress,-22.6
+Resilience-Oriented Portfolio,normal,-1.8
+Resilience-Oriented Portfolio,recession,-5.9
+Resilience-Oriented Portfolio,liquidity_shock,-6.8
+Resilience-Oriented Portfolio,systemic_stress,-9.4

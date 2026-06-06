@@ -1,0 +1,63 @@
+{
+  "article": "Decision Science in Financial Risk Management",
+  "decision_context": "Simulating capital resilience, liquidity pressure, and review triggers under tail shocks.",
+  "parameters": {
+    "time_steps": 36.0,
+    "random_seed": 42.0,
+    "capital_trigger": 72.0,
+    "liquidity_trigger": 0.42
+  },
+  "summary_metrics": [
+    {
+      "portfolio": "Balanced Multi-Asset",
+      "final_capital": 115.230587,
+      "minimum_capital": 94.266763,
+      "average_capital": 104.624054,
+      "final_liquidity": 0.220343,
+      "minimum_liquidity": 0.220343,
+      "tail_event_count": 5,
+      "review_required_count": 16,
+      "review_flag": "review"
+    },
+    {
+      "portfolio": "Concentrated Risk Book",
+      "final_capital": 59.757503,
+      "minimum_capital": 58.017355,
+      "average_capital": 86.430107,
+      "final_liquidity": 0.05,
+      "minimum_liquidity": 0.05,
+      "tail_event_count": 6,
+      "review_required_count": 36,
+      "review_flag": "review"
+    },
+    {
+      "portfolio": "Conservative Credit Book",
+      "final_capital": 163.232899,
+      "minimum_capital": 101.251374,
+      "average_capital": 131.353208,
+      "final_liquidity": 0.528637,
+      "minimum_liquidity": 0.528637,
+      "tail_event_count": 3,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "portfolio": "Yield-Seeking Portfolio",
+      "final_capital": 133.774173,
+      "minimum_capital": 95.9425,
+      "average_capital": 109.583611,
+      "final_liquidity": 0.05,
+      "minimum_liquidity": 0.05,
+      "tail_event_count": 4,
+      "review_required_count": 31,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "Financial risk decisions require capital, liquidity, model, behavioral, and governance review.",
+    "Tail events can change the decision problem faster than ordinary volatility metrics imply.",
+    "Liquidity drag can turn mark-to-market losses into survivability problems.",
+    "Review triggers should be connected to real decision authority.",
+    "Decision records should preserve assumptions, overlays, stress results, dissent, and revision triggers."
+  ]
+}

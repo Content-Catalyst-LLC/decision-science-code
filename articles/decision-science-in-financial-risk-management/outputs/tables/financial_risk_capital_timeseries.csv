@@ -1,0 +1,145 @@
+portfolio,time,capital,liquidity,ordinary_shock,tail_event,tail_loss,period_return,capital_trigger_hit,liquidity_trigger_hit,review_required
+Conservative Credit Book,1,101.251374,0.814081,-0.172908,False,0.0,1.251374,False,False,False
+Conservative Credit Book,2,102.924196,0.808059,-0.207484,False,0.0,1.652147,False,False,False
+Conservative Credit Book,3,104.609463,0.802659,0.398782,False,0.0,1.637387,False,False,False
+Conservative Credit Book,4,106.047149,0.796296,-0.320805,False,0.0,1.374336,False,False,False
+Conservative Credit Book,5,108.720712,0.790896,0.787964,False,0.0,2.521108,False,False,False
+Conservative Credit Book,6,110.795433,0.785496,0.132609,False,0.0,1.908304,False,False,False
+Conservative Credit Book,7,112.934009,0.780096,0.049988,False,0.0,1.930202,False,False,False
+Conservative Credit Book,8,114.324986,0.774314,-0.127588,False,0.0,1.231672,False,False,False
+Conservative Credit Book,9,117.01269,0.768914,1.048085,False,0.0,2.350933,False,False,False
+Conservative Credit Book,10,118.768841,0.762647,-0.288756,False,0.0,1.500821,False,False,False
+Conservative Credit Book,11,122.125358,0.757247,0.681901,False,0.0,2.826092,False,False,False
+Conservative Credit Book,12,122.030753,0.746395,-1.817424,False,0.0,-0.077465,False,False,False
+Conservative Credit Book,13,125.156421,0.740995,0.797119,False,0.0,2.561377,False,False,False
+Conservative Credit Book,14,124.894971,0.731206,-1.46289,False,0.0,-0.208898,False,False,False
+Conservative Credit Book,15,120.07732,0.7046,0.137304,True,-5.301627,-3.857362,False,False,False
+Conservative Credit Book,16,123.442631,0.6992,0.982364,False,0.0,2.802621,False,False,False
+Conservative Credit Book,17,124.311819,0.691513,-0.762176,False,0.0,0.704123,False,False,False
+Conservative Credit Book,18,127.66634,0.686113,0.866359,False,0.0,2.698473,False,False,False
+Conservative Credit Book,19,128.684863,0.679006,-0.569065,False,0.0,0.797801,False,False,False
+Conservative Credit Book,20,130.865275,0.67221,-0.465562,False,0.0,1.694381,False,False,False
+Conservative Credit Book,21,132.230359,0.663881,-0.976016,False,0.0,1.043122,False,False,False
+Conservative Credit Book,22,132.561053,0.654942,-1.179797,False,0.0,0.250089,False,False,False
+Conservative Credit Book,23,135.790401,0.649542,1.023577,False,0.0,2.436121,False,False,False
+Conservative Credit Book,24,138.860087,0.644142,0.209293,False,0.0,2.260606,False,False,False
+Conservative Credit Book,25,140.797909,0.636665,-0.692444,False,0.0,1.395521,False,False,False
+Conservative Credit Book,26,145.125131,0.631265,1.609072,False,0.0,3.073357,False,False,False
+Conservative Credit Book,27,147.742963,0.625865,0.032642,False,0.0,1.803845,False,False,False
+Conservative Credit Book,28,152.372726,0.620465,1.540236,False,0.0,3.133661,False,False,False
+Conservative Credit Book,29,155.563505,0.615065,0.796788,False,0.0,2.094061,False,False,False
+Conservative Credit Book,30,155.911152,0.586981,4.082181,True,-5.671053,0.223476,False,False,False
+Conservative Credit Book,31,152.224883,0.56216,0.328432,True,-4.855142,-2.364339,False,False,False
+Conservative Credit Book,32,153.621927,0.553121,-1.213133,False,0.0,0.91775,False,False,False
+Conservative Credit Book,33,156.644144,0.547721,0.11693,False,0.0,1.967308,False,False,False
+Conservative Credit Book,34,158.697006,0.541901,-0.139943,False,0.0,1.310526,False,False,False
+Conservative Credit Book,35,160.694744,0.535393,-0.369307,False,0.0,1.258838,False,False,False
+Conservative Credit Book,36,163.232899,0.528637,-0.451948,False,0.0,1.579488,False,False,False
+Balanced Multi-Asset,1,101.563618,0.672265,-0.178232,False,0.0,1.563618,False,False,False
+Balanced Multi-Asset,2,104.992828,0.665065,2.113629,False,0.0,3.376416,False,False,False
+Balanced Multi-Asset,3,105.034745,0.653111,-1.584835,False,0.0,0.039923,False,False,False
+Balanced Multi-Asset,4,104.769149,0.64024,-1.890194,False,0.0,-0.252865,False,False,False
+Balanced Multi-Asset,5,105.801555,0.632861,-0.059781,False,0.0,0.985411,False,False,False
+Balanced Multi-Asset,6,107.604267,0.625626,-0.011542,False,0.0,1.703862,False,False,False
+Balanced Multi-Asset,7,105.96564,0.60223,0.757509,True,-4.048957,-1.522827,False,False,False
+Balanced Multi-Asset,8,99.529879,0.567745,-1.344384,True,-5.813043,-6.073441,False,False,False
+Balanced Multi-Asset,9,101.111169,0.560545,0.204166,False,0.0,1.588759,False,False,False
+Balanced Multi-Asset,10,99.247392,0.544164,-3.060311,False,0.0,-1.843295,False,False,False
+Balanced Multi-Asset,11,101.962927,0.536964,1.313394,False,0.0,2.736127,False,False,False
+Balanced Multi-Asset,12,101.757901,0.525695,-1.356459,False,0.0,-0.201079,False,False,False
+Balanced Multi-Asset,13,100.854906,0.511829,-2.221961,False,0.0,-0.887395,False,False,False
+Balanced Multi-Asset,14,107.430844,0.504629,5.439899,False,0.0,6.520197,False,False,False
+Balanced Multi-Asset,15,108.957083,0.497429,0.258867,False,0.0,1.420671,False,False,False
+Balanced Multi-Asset,16,111.842959,0.490229,1.614546,False,0.0,2.648635,False,False,False
+Balanced Multi-Asset,17,112.697084,0.480383,-0.881948,False,0.0,0.763682,False,False,False
+Balanced Multi-Asset,18,105.496524,0.44261,-0.952319,True,-6.928979,-6.389304,False,False,False
+Balanced Multi-Asset,19,107.195441,0.43541,0.213682,False,0.0,1.610401,False,False,False
+Balanced Multi-Asset,20,109.869526,0.42821,0.93488,False,0.0,2.494588,False,False,False
+Balanced Multi-Asset,21,105.065755,0.396769,0.413523,True,-6.06027,-4.372251,False,True,True
+Balanced Multi-Asset,22,105.488797,0.386286,-1.094418,False,0.0,0.402645,False,True,True
+Balanced Multi-Asset,23,97.681833,0.347132,-2.400347,True,-6.188204,-7.400752,False,True,True
+Balanced Multi-Asset,24,94.266763,0.326151,-4.593634,False,0.0,-3.496116,False,True,True
+Balanced Multi-Asset,25,95.992763,0.318951,0.720634,False,0.0,1.830975,False,True,True
+Balanced Multi-Asset,26,99.291785,0.311751,1.827117,False,0.0,3.43674,False,True,True
+Balanced Multi-Asset,27,96.882161,0.294495,-3.352145,False,0.0,-2.426811,False,True,True
+Balanced Multi-Asset,28,99.576318,0.287295,1.251511,False,0.0,2.78086,False,True,True
+Balanced Multi-Asset,29,104.592045,0.280095,4.033699,False,0.0,5.037069,False,True,True
+Balanced Multi-Asset,30,104.844012,0.270507,-0.795866,False,0.0,0.240904,False,True,True
+Balanced Multi-Asset,31,106.023681,0.261781,-0.508629,False,0.0,1.125166,False,True,True
+Balanced Multi-Asset,32,107.971283,0.254581,0.364485,False,0.0,1.836951,False,True,True
+Balanced Multi-Asset,33,107.777926,0.241943,-1.812802,False,0.0,-0.179082,False,True,True
+Balanced Multi-Asset,34,109.866549,0.234743,0.526564,False,0.0,1.937894,False,True,True
+Balanced Multi-Asset,35,112.228252,0.227543,0.850479,False,0.0,2.149611,False,True,True
+Balanced Multi-Asset,36,115.230587,0.220343,1.248012,False,0.0,2.675204,False,True,True
+Yield-Seeking Portfolio,1,104.515929,0.4698,3.472624,False,0.0,4.515929,False,False,False
+Yield-Seeking Portfolio,2,107.014768,0.4596,1.303855,False,0.0,2.390869,False,False,False
+Yield-Seeking Portfolio,3,109.70566,0.4494,1.572723,False,0.0,2.514505,False,False,False
+Yield-Seeking Portfolio,4,111.38757,0.4392,0.866046,False,0.0,1.533112,False,False,False
+Yield-Seeking Portfolio,5,114.198078,0.429,1.624516,False,0.0,2.523179,False,False,False
+Yield-Seeking Portfolio,6,113.666347,0.414783,-1.338984,False,0.0,-0.465621,False,True,True
+Yield-Seeking Portfolio,7,107.359242,0.38516,-6.474387,False,0.0,-5.548789,False,True,True
+Yield-Seeking Portfolio,8,107.160549,0.37216,-0.933178,False,0.0,-0.185073,False,True,True
+Yield-Seeking Portfolio,9,106.937025,0.358609,-1.117211,False,0.0,-0.208588,False,True,True
+Yield-Seeking Portfolio,10,97.462204,0.310988,-2.084331,True,-7.792001,-8.860187,False,True,True
+Yield-Seeking Portfolio,11,99.136599,0.300788,1.091908,False,0.0,1.717995,False,True,True
+Yield-Seeking Portfolio,12,100.015603,0.290507,-0.026786,False,0.0,0.886659,False,True,True
+Yield-Seeking Portfolio,13,102.850685,0.280307,1.952037,False,0.0,2.83464,False,True,True
+Yield-Seeking Portfolio,14,101.737687,0.264557,-1.850001,False,0.0,-1.08215,False,True,True
+Yield-Seeking Portfolio,15,101.118328,0.233236,4.066143,True,-5.280271,-0.60878,False,True,True
+Yield-Seeking Portfolio,16,101.684995,0.222056,-0.326875,False,0.0,0.5604,False,True,True
+Yield-Seeking Portfolio,17,95.9425,0.183346,0.921725,True,-7.127435,-5.647338,False,True,True
+Yield-Seeking Portfolio,18,97.647668,0.173146,1.036151,False,0.0,1.777282,False,True,True
+Yield-Seeking Portfolio,19,99.370672,0.162946,1.141499,False,0.0,1.764511,False,True,True
+Yield-Seeking Portfolio,20,103.931887,0.152746,3.803615,False,0.0,4.590102,False,True,True
+Yield-Seeking Portfolio,21,106.875715,0.142546,2.45856,False,0.0,2.832459,False,True,True
+Yield-Seeking Portfolio,22,109.312877,0.132346,1.610519,False,0.0,2.280371,False,True,True
+Yield-Seeking Portfolio,23,109.548615,0.121109,-0.345512,False,0.0,0.215655,False,True,True
+Yield-Seeking Portfolio,24,103.949006,0.069016,4.590985,True,-10.473293,-5.111529,False,True,True
+Yield-Seeking Portfolio,25,107.566535,0.058816,2.895282,False,0.0,3.480099,False,True,True
+Yield-Seeking Portfolio,26,105.804564,0.05,-1.996256,False,0.0,-1.638029,False,True,True
+Yield-Seeking Portfolio,27,104.278006,0.05,-2.145946,False,0.0,-1.442809,False,True,True
+Yield-Seeking Portfolio,28,110.52332,0.05,5.598263,False,0.0,5.9891,False,True,True
+Yield-Seeking Portfolio,29,111.317141,0.05,0.003853,False,0.0,0.718238,False,True,True
+Yield-Seeking Portfolio,30,113.423326,0.05,1.304141,False,0.0,1.892059,False,True,True
+Yield-Seeking Portfolio,31,118.416165,0.05,3.643372,False,0.0,4.401951,False,True,True
+Yield-Seeking Portfolio,32,125.570761,0.05,5.328828,False,0.0,6.041908,False,True,True
+Yield-Seeking Portfolio,33,132.169346,0.05,4.518082,False,0.0,5.254874,False,True,True
+Yield-Seeking Portfolio,34,134.038391,0.05,0.709378,False,0.0,1.414129,False,True,True
+Yield-Seeking Portfolio,35,135.598057,0.05,0.821711,False,0.0,1.163597,False,True,True
+Yield-Seeking Portfolio,36,133.774173,0.05,-2.047192,False,0.0,-1.345067,False,True,True
+Concentrated Risk Book,1,101.509046,0.3486,1.079178,False,0.0,1.509046,False,True,True
+Concentrated Risk Book,2,108.166796,0.3372,6.16824,False,0.0,6.558775,False,True,True
+Concentrated Risk Book,3,111.207587,0.3258,2.202838,False,0.0,2.811205,False,True,True
+Concentrated Risk Book,4,112.004118,0.3144,0.329971,False,0.0,0.716256,False,True,True
+Concentrated Risk Book,5,110.10312,0.296506,-2.164694,False,0.0,-1.697257,False,True,True
+Concentrated Risk Book,6,107.494993,0.277105,-2.666833,False,0.0,-2.368804,False,True,True
+Concentrated Risk Book,7,110.105472,0.265705,2.095792,False,0.0,2.428466,False,True,True
+Concentrated Risk Book,8,99.100129,0.212767,-0.394329,True,-10.088926,-9.995274,False,True,True
+Concentrated Risk Book,9,97.617019,0.195943,-1.808015,False,0.0,-1.496578,False,True,True
+Concentrated Risk Book,10,102.032091,0.184543,4.275209,False,0.0,4.522852,False,True,True
+Concentrated Risk Book,11,102.325665,0.172991,-0.050659,False,0.0,0.287727,False,True,True
+Concentrated Risk Book,12,102.539385,0.161017,-0.191231,False,0.0,0.208862,False,True,True
+Concentrated Risk Book,13,92.972791,0.112886,-1.547705,True,-8.021861,-9.329677,False,True,True
+Concentrated Risk Book,14,90.682296,0.092961,-2.84179,False,0.0,-2.463618,False,True,True
+Concentrated Risk Book,15,90.371425,0.079933,-0.542797,False,0.0,-0.342814,False,True,True
+Concentrated Risk Book,16,87.953633,0.060067,-2.821762,False,0.0,-2.675394,False,True,True
+Concentrated Risk Book,17,90.362429,0.05,2.474809,False,0.0,2.738711,False,True,True
+Concentrated Risk Book,18,92.873227,0.05,2.547001,False,0.0,2.778586,False,True,True
+Concentrated Risk Book,19,81.170037,0.05,-1.348236,True,-11.417777,-12.601252,False,True,True
+Concentrated Risk Book,20,84.670406,0.05,4.066696,False,0.0,4.31239,False,True,True
+Concentrated Risk Book,21,81.787681,0.05,-3.58499,False,0.0,-3.404643,False,True,True
+Concentrated Risk Book,22,82.685864,0.05,0.801619,False,0.0,1.098188,False,True,True
+Concentrated Risk Book,23,83.454695,0.05,0.691963,False,0.0,0.929822,False,True,True
+Concentrated Risk Book,24,84.754543,0.05,1.252916,False,0.0,1.557548,False,True,True
+Concentrated Risk Book,25,84.854578,0.05,0.036343,False,0.0,0.11803,False,True,True
+Concentrated Risk Book,26,70.686019,0.05,-5.082092,True,-11.796417,-16.69746,True,True,True
+Concentrated Risk Book,27,71.401453,0.05,0.775414,False,0.0,1.01213,True,True,True
+Concentrated Risk Book,28,70.822897,0.05,-1.070974,False,0.0,-0.810286,True,True,True
+Concentrated Risk Book,29,69.031538,0.05,-2.541346,False,0.0,-2.52935,True,True,True
+Concentrated Risk Book,30,69.291813,0.05,0.089821,False,0.0,0.377038,True,True,True
+Concentrated Risk Book,31,67.644823,0.05,2.804951,True,-5.378306,-2.37689,True,True,True
+Concentrated Risk Book,32,61.407352,0.05,2.2209,True,-11.757215,-9.220914,True,True,True
+Concentrated Risk Book,33,58.017355,0.05,-5.886147,False,0.0,-5.520506,True,True,True
+Concentrated Risk Book,34,59.179806,0.05,1.651611,False,0.0,2.003625,True,True,True
+Concentrated Risk Book,35,61.444266,0.05,3.634686,False,0.0,3.826407,True,True,True
+Concentrated Risk Book,36,59.757503,0.05,-2.952425,False,0.0,-2.745192,True,True,True

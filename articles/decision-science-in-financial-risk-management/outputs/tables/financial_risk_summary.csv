@@ -1,0 +1,7 @@
+"portfolio","expected_loss","worst_case","regime_dispersion","capital_buffer_needed","liquidity_score","governance_score","model_confidence","risk_resilience_score","review_flag","rank"
+"Conservative Credit Book",-2.78,-6.2,2.119,7.13,0.82,0.78,0.74,0.4451,"acceptable",1
+"Resilience-Oriented Portfolio",-4.13,-9.4,3.1542,10.81,0.76,0.84,0.78,0.4228,"acceptable",2
+"Balanced Multi-Asset",-5.13,-11.8,4.0681,13.57,0.68,0.72,0.7,0.3408,"acceptable",3
+"Yield-Seeking Portfolio",-8.325,-19.5,6.6668,22.425,0.48,0.58,0.56,0.1682,"acceptable",4
+"Liquidity-Sensitive Strategy",-7.775,-22.6,8.8549,25.99,0.28,0.54,0.52,0.0795,"review",5
+"Concentrated Risk Book",-11.265,-27.4,9.3404,31.51,0.36,0.42,0.46,0.0176,"review",6

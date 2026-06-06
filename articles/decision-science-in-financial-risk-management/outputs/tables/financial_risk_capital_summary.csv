@@ -1,0 +1,5 @@
+portfolio,final_capital,minimum_capital,average_capital,final_liquidity,minimum_liquidity,tail_event_count,review_required_count,review_flag
+Balanced Multi-Asset,115.230587,94.266763,104.624054,0.220343,0.220343,5,16,review
+Concentrated Risk Book,59.757503,58.017355,86.430107,0.05,0.05,6,36,review
+Conservative Credit Book,163.232899,101.251374,131.353208,0.528637,0.528637,3,0,acceptable
+Yield-Seeking Portfolio,133.774173,95.9425,109.583611,0.05,0.05,4,31,review

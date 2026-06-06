@@ -1,0 +1,8 @@
+threshold_name,value,description
+worst_case_loss_review,-20.0,Worst-case loss below this level requires review
+low_liquidity_score,0.45,Liquidity score below this level requires review
+low_governance_score,0.55,Governance score below this level requires review
+low_model_confidence,0.55,Model confidence below this level requires review
+capital_buffer_review,25.0,Capital buffer need above this level requires review
+capital_trigger,72.0,Capital level requiring review in simulation
+liquidity_trigger,0.42,Liquidity level requiring review in simulation

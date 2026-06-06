@@ -1,0 +1,3 @@
+"portfolio","expected_loss","worst_case","regime_dispersion","capital_buffer_needed","liquidity_score","governance_score","model_confidence","risk_resilience_score","review_flag","rank"
+"Liquidity-Sensitive Strategy",-7.775,-22.6,8.8549,25.99,0.28,0.54,0.52,0.0795,"review",5
+"Concentrated Risk Book",-11.265,-27.4,9.3404,31.51,0.36,0.42,0.46,0.0176,"review",6

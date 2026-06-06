@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Financial risk stress review,Resilience-Oriented Portfolio,Strong liquidity governance and downside resilience,review if capital falls below trigger or liquidity deteriorates

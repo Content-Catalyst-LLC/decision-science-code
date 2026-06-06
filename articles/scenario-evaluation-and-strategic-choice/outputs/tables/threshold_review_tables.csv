@@ -1,0 +1,3 @@
+"strategy","expected_value","worst_case","average_performance","scenario_dispersion","maximum_regret","threshold_pass_rate","scenario_robustness_score","review_flag","rank"
+"Balanced Optionality",0.6916,0.63,0.688,0.0496990945591567,0.19,0.4,0.373658126761718,"review",4
+"Aggressive Expansion",0.484,0.19,0.47,0.274043792120894,0.63,0.2,0.0722738691030748,"review",5

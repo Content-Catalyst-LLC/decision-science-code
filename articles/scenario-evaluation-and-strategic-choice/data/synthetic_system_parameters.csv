@@ -1,0 +1,5 @@
+parameter,value,description
+time_steps,40,Number of simulated time steps
+initial_value,100,Initial strategy value index
+floor_value,20,Minimum simulated value floor
+random_seed,42,Random seed for reproducibility

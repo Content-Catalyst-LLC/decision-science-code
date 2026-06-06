@@ -1,0 +1,6 @@
+threshold_name,value,description
+minimum_acceptable_performance,0.70,Minimum acceptable performance threshold for scenario pass rate
+low_worst_case_performance,0.55,Worst-case performance level triggering review
+low_threshold_pass_rate,0.60,Pass rate level triggering review
+high_maximum_regret,0.35,Maximum regret level triggering review
+high_scenario_dispersion,0.20,Scenario dispersion level indicating volatility exposure

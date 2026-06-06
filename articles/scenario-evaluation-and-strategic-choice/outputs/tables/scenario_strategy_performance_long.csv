@@ -1,0 +1,26 @@
+"strategy","scenario","performance"
+"Aggressive Expansion","high_growth",0.92
+"Aggressive Expansion","slow_growth",0.48
+"Aggressive Expansion","disruption",0.19
+"Aggressive Expansion","policy_shift",0.34
+"Aggressive Expansion","resource_constraint",0.42
+"Balanced Optionality","high_growth",0.76
+"Balanced Optionality","slow_growth",0.71
+"Balanced Optionality","disruption",0.63
+"Balanced Optionality","policy_shift",0.68
+"Balanced Optionality","resource_constraint",0.66
+"Defensive Resilience","high_growth",0.58
+"Defensive Resilience","slow_growth",0.69
+"Defensive Resilience","disruption",0.81
+"Defensive Resilience","policy_shift",0.79
+"Defensive Resilience","resource_constraint",0.76
+"Adaptive Sequencing","high_growth",0.73
+"Adaptive Sequencing","slow_growth",0.74
+"Adaptive Sequencing","disruption",0.78
+"Adaptive Sequencing","policy_shift",0.72
+"Adaptive Sequencing","resource_constraint",0.74
+"Robust Modular Strategy","high_growth",0.78
+"Robust Modular Strategy","slow_growth",0.76
+"Robust Modular Strategy","disruption",0.82
+"Robust Modular Strategy","policy_shift",0.8
+"Robust Modular Strategy","resource_constraint",0.81

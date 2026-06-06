@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Scenario evaluation and strategic choice review,Robust Modular Strategy,Strong threshold performance low regret and stable scenario performance,review if scenario signals or performance thresholds deteriorate

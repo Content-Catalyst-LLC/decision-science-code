@@ -1,0 +1,102 @@
+{
+  "article": "Scenario Evaluation and Strategic Choice",
+  "decision_context": "Simulating strategy performance under repeated scenario volatility and adaptive buffers.",
+  "parameters": {
+    "time_steps": 40.0,
+    "initial_value": 100.0,
+    "floor_value": 20.0,
+    "random_seed": 42.0
+  },
+  "strategy_parameters": {
+    "Aggressive Expansion": {
+      "base_return": 1.8,
+      "volatility": 4.6,
+      "resilience": 0.4
+    },
+    "Balanced Optionality": {
+      "base_return": 1.4,
+      "volatility": 2.8,
+      "resilience": 1.1
+    },
+    "Defensive Resilience": {
+      "base_return": 1.0,
+      "volatility": 1.8,
+      "resilience": 1.5
+    },
+    "Adaptive Sequencing": {
+      "base_return": 1.5,
+      "volatility": 2.4,
+      "resilience": 1.3
+    },
+    "Robust Modular Strategy": {
+      "base_return": 1.3,
+      "volatility": 2.0,
+      "resilience": 1.6
+    }
+  },
+  "ranked_results": [
+    {
+      "strategy": "Robust Modular Strategy",
+      "final_value": 276.694333,
+      "minimum_value": 105.472601,
+      "maximum_value": 276.694333,
+      "average_value": 180.329897,
+      "path_volatility": 49.83021,
+      "downside_exposure": 0.0,
+      "simulation_robustness_score": 1.540791,
+      "rank": 1
+    },
+    {
+      "strategy": "Defensive Resilience",
+      "final_value": 268.40532,
+      "minimum_value": 104.168062,
+      "maximum_value": 268.40532,
+      "average_value": 174.210007,
+      "path_volatility": 49.10874,
+      "downside_exposure": 0.0,
+      "simulation_robustness_score": 1.496735,
+      "rank": 2
+    },
+    {
+      "strategy": "Balanced Optionality",
+      "final_value": 264.466456,
+      "minimum_value": 100.328739,
+      "maximum_value": 264.466456,
+      "average_value": 170.649352,
+      "path_volatility": 48.398845,
+      "downside_exposure": 0.0,
+      "simulation_robustness_score": 1.467005,
+      "rank": 3
+    },
+    {
+      "strategy": "Adaptive Sequencing",
+      "final_value": 251.601802,
+      "minimum_value": 99.786955,
+      "maximum_value": 251.601802,
+      "average_value": 169.802981,
+      "path_volatility": 40.809523,
+      "downside_exposure": 0.213045,
+      "simulation_robustness_score": 1.427479,
+      "rank": 4
+    },
+    {
+      "strategy": "Aggressive Expansion",
+      "final_value": 231.243309,
+      "minimum_value": 99.228036,
+      "maximum_value": 232.565468,
+      "average_value": 146.892444,
+      "path_volatility": 40.255121,
+      "downside_exposure": 0.771964,
+      "simulation_robustness_score": 1.306511,
+      "rank": 5
+    }
+  ],
+  "selected_strategy": "Robust Modular Strategy",
+  "modeling_principles": [
+    "Scenario evaluation compares strategies across uncertainty rather than relying on one forecast.",
+    "Robust strategies should be judged by downside exposure, threshold performance, and adaptability.",
+    "High upside does not always imply defensible strategic choice.",
+    "Adaptive buffers and monitoring matter when scenarios evolve over time.",
+    "Decision records should preserve scenario assumptions, evaluation rules, and revision triggers."
+  ]
+}

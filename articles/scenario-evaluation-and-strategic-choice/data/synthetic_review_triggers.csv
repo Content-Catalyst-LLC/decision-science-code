@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,worst_case_performance,below,0.55,decision owner
+RT2,threshold_pass_rate,below,0.60,scenario review lead
+RT3,maximum_regret,above,0.35,strategy governance lead
+RT4,scenario_dispersion,above,0.20,risk review lead
+RT5,emerging_scenario_signal,equals,true,adaptive strategy owner

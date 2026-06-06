@@ -1,0 +1,6 @@
+scenario,description,probability
+high_growth,Future with strong demand growth and favorable investment conditions,0.22
+slow_growth,Future with weak demand growth and moderate constraint,0.24
+disruption,Future with shock disruption volatility or operational stress,0.20
+policy_shift,Future with regulatory policy or governance change,0.18
+resource_constraint,Future with financing capacity labor or material constraint,0.16

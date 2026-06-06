@@ -1,0 +1,7 @@
+trigger_name,value,description
+trust_trigger,0.50,Public trust below this level requires review
+legitimacy_trigger,0.56,Legitimacy below this level requires review
+contestability_trigger,0.56,Contestability below this level requires review
+equity_trigger,0.56,Equity review below this level requires review
+harm_trigger,0.62,Public harm signal above this level requires review
+participation_trigger,0.55,Participation quality below this level requires review

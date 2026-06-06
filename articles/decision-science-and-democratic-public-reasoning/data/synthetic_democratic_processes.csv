@@ -1,0 +1,7 @@
+process,evidence_quality,transparency,participation,procedural_fairness,contestability,equity_review,accountability,uncertainty_communication,process_burden,public_trust_risk,description
+Internal Expert Decision,0.78,0.44,0.22,0.42,0.36,0.48,0.46,0.52,0.24,0.68,Expert-centered decision with strong evidence but weak participation legitimacy and contestability
+Public Comment Process,0.62,0.68,0.58,0.58,0.64,0.56,0.60,0.58,0.46,0.54,Open comment process with moderate transparency but uneven voice
+Stakeholder Consultation,0.70,0.70,0.68,0.66,0.68,0.72,0.66,0.66,0.56,0.46,Stakeholder consultation with practical knowledge and equity review
+Deliberative Citizens Panel,0.78,0.82,0.82,0.84,0.78,0.76,0.74,0.78,0.72,0.34,Deliberative process with informed public reasoning and stronger legitimacy
+Participatory Budgeting,0.64,0.76,0.86,0.78,0.72,0.78,0.72,0.62,0.64,0.38,Community resource allocation with direct participation and transparent constraints
+Adaptive Public Reasoning System,0.84,0.88,0.88,0.88,0.86,0.86,0.88,0.86,0.76,0.28,Public reasoning system with evidence transparency participation contestability monitoring and review triggers

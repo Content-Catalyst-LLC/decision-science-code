@@ -1,0 +1,7 @@
+threshold_name,value,description
+low_public_trust,0.50,Public trust below this level requires review
+low_legitimacy,0.56,Legitimacy below this level requires review
+low_contestability,0.56,Contestability below this level requires review
+low_equity_review,0.56,Equity review below this level requires review
+high_public_harm_signal,0.62,Public harm signal above this level requires review
+high_public_trust_risk,0.60,Public trust risk above this level requires review

@@ -1,0 +1,7 @@
+"process","evidence_quality","transparency","participation","procedural_fairness","contestability","equity_review","accountability","uncertainty_communication","process_burden","public_trust_risk","description","democratic_decision_quality","review_flag","rank"
+"Adaptive Public Reasoning System",0.84,0.88,0.88,0.88,0.86,0.86,0.88,0.86,0.76,0.28,"Public reasoning system with evidence transparency participation contestability monitoring and review triggers",0.8016,"acceptable",1
+"Deliberative Citizens Panel",0.78,0.82,0.82,0.84,0.78,0.76,0.74,0.78,0.72,0.34,"Deliberative process with informed public reasoning and stronger legitimacy",0.7216,"acceptable",2
+"Participatory Budgeting",0.64,0.76,0.86,0.78,0.72,0.78,0.72,0.62,0.64,0.38,"Community resource allocation with direct participation and transparent constraints",0.6688,"acceptable",3
+"Stakeholder Consultation",0.7,0.7,0.68,0.66,0.68,0.72,0.66,0.66,0.56,0.46,"Stakeholder consultation with practical knowledge and equity review",0.6088,"acceptable",4
+"Public Comment Process",0.62,0.68,0.58,0.58,0.64,0.56,0.6,0.58,0.46,0.54,"Open comment process with moderate transparency but uneven voice",0.5278,"acceptable",5
+"Internal Expert Decision",0.78,0.44,0.22,0.42,0.36,0.48,0.46,0.52,0.24,0.68,"Expert-centered decision with strong evidence but weak participation legitimacy and contestability",0.3796,"review",6

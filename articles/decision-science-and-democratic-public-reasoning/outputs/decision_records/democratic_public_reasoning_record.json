@@ -1,0 +1,70 @@
+{
+  "article": "Decision Science and Democratic Public Reasoning",
+  "decision_context": "Simulating public trust, legitimacy, participation, evidence transparency, contestability, equity review, uncertainty communication, harm signals, and review triggers.",
+  "parameters": {
+    "time_steps": 40.0,
+    "random_seed": 42.0,
+    "trust_trigger": 0.5,
+    "legitimacy_trigger": 0.56,
+    "contestability_trigger": 0.56,
+    "equity_trigger": 0.56,
+    "harm_trigger": 0.62
+  },
+  "summary_metrics": [
+    {
+      "public_decision_system": "Adaptive Public Reasoning System",
+      "minimum_public_trust": 0.818141,
+      "average_public_trust": 0.990186,
+      "minimum_legitimacy": 0.957901,
+      "minimum_participation": 0.868791,
+      "minimum_contestability": 0.860771,
+      "minimum_equity_review": 0.869985,
+      "maximum_public_harm_signal": 0.24907,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "public_decision_system": "Deliberative Citizens Panel",
+      "minimum_public_trust": 0.704214,
+      "average_public_trust": 0.964347,
+      "minimum_legitimacy": 0.83923,
+      "minimum_participation": 0.797806,
+      "minimum_contestability": 0.781284,
+      "minimum_equity_review": 0.774593,
+      "maximum_public_harm_signal": 0.299223,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "public_decision_system": "Internal Expert Decision",
+      "minimum_public_trust": 0.566268,
+      "average_public_trust": 0.909439,
+      "minimum_legitimacy": 0.524873,
+      "minimum_participation": 0.269013,
+      "minimum_contestability": 0.403518,
+      "minimum_equity_review": 0.49427,
+      "maximum_public_harm_signal": 0.440895,
+      "review_required_count": 5,
+      "review_flag": "review"
+    },
+    {
+      "public_decision_system": "Public Comment Process",
+      "minimum_public_trust": 0.577702,
+      "average_public_trust": 0.882987,
+      "minimum_legitimacy": 0.640888,
+      "minimum_participation": 0.587237,
+      "minimum_contestability": 0.650171,
+      "minimum_equity_review": 0.562797,
+      "maximum_public_harm_signal": 0.402154,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    }
+  ],
+  "modeling_principles": [
+    "Decision science should support public reasoning, not replace democratic judgment.",
+    "Public legitimacy depends on evidence, values, participation, transparency, contestability, and accountability.",
+    "Trade-offs should be visible enough to debate, justify, and revise.",
+    "Public trust is strengthened when uncertainty and review triggers are communicated honestly.",
+    "Decision records should preserve how evidence, public input, values, dissent, and authority shaped the decision."
+  ]
+}

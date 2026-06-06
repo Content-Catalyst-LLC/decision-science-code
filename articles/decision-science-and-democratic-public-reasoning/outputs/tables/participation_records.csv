@@ -1,0 +1,8 @@
+"group","standing","access","participation_quality","deliberation_quality","response_to_input","trust_effect","notes","standing_access_gap","participation_review_flag"
+"Affected residents",0.9,0.62,0.7,0.68,0.64,0.66,"Directly affected public with high standing and moderate access",0.28,"acceptable"
+"Low-power communities",0.88,0.46,0.54,0.52,0.42,0.48,"High standing but lower access and weaker institutional response",0.42,"review"
+"Technical experts",0.72,0.84,0.78,0.76,0.74,0.62,"Strong evidence role but should not dominate values",0,"acceptable"
+"Frontline implementers",0.76,0.68,0.72,0.7,0.66,0.64,"Practical implementation knowledge",0.08,"acceptable"
+"Organized interest groups",0.58,0.82,0.76,0.62,0.7,0.54,"High access but may not represent wider affected publics",0,"acceptable"
+"Future generations",0.84,0.22,0.3,0.34,0.28,0.4,"High ethical standing but weak direct voice",0.62,"review"
+"Public oversight body",0.7,0.78,0.74,0.72,0.8,0.72,"Can strengthen accountability and public trust",0,"acceptable"

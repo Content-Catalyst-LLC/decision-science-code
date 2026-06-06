@@ -1,0 +1,161 @@
+public_decision_system,time,public_trust,legitimacy,participation,evidence_transparency,contestability,equity_review,uncertainty_communication,public_harm_signal,controversy_event,controversy_severity,review_required
+Internal Expert Decision,1,0.566268,0.524873,0.269013,0.478469,0.403518,0.49427,0.529959,0.440895,False,0.001251,True
+Internal Expert Decision,2,0.590863,0.577783,0.309457,0.527449,0.438737,0.515696,0.539014,0.428322,False,0.025268,True
+Internal Expert Decision,3,0.60341,0.647725,0.355103,0.562768,0.496809,0.548764,0.550201,0.398523,False,0.034907,True
+Internal Expert Decision,4,0.624065,0.725273,0.385369,0.565764,0.529846,0.598013,0.565432,0.343897,False,0.036487,True
+Internal Expert Decision,5,0.654714,0.790835,0.436002,0.607383,0.585621,0.641259,0.581372,0.312398,False,0.002291,True
+Internal Expert Decision,6,0.689006,0.848029,0.472777,0.608817,0.58131,0.635127,0.599311,0.308532,False,0.010475,False
+Internal Expert Decision,7,0.723781,0.894013,0.469144,0.593615,0.601326,0.624034,0.60652,0.288023,False,0.032,False
+Internal Expert Decision,8,0.762607,0.945048,0.464246,0.606864,0.600083,0.621269,0.626568,0.255687,False,0.047145,False
+Internal Expert Decision,9,0.797026,1.0,0.453134,0.585994,0.598982,0.636255,0.650151,0.228955,False,0.013137,False
+Internal Expert Decision,10,0.818405,1.0,0.440715,0.592811,0.615867,0.648458,0.671976,0.217062,True,0.205489,False
+Internal Expert Decision,11,0.856557,1.0,0.426427,0.588382,0.617675,0.6749,0.687777,0.217368,True,0.224144,False
+Internal Expert Decision,12,0.884242,1.0,0.430437,0.584507,0.648653,0.669465,0.688643,0.211727,False,0.013169,False
+Internal Expert Decision,13,0.898619,1.0,0.417378,0.592356,0.667776,0.678701,0.727396,0.189617,False,0.026969,False
+Internal Expert Decision,14,0.927893,1.0,0.398011,0.621807,0.689066,0.696438,0.756293,0.171953,False,0.002896,False
+Internal Expert Decision,15,0.980106,1.0,0.430165,0.623889,0.687614,0.710396,0.741483,0.138113,False,0.02749,False
+Internal Expert Decision,16,1.0,1.0,0.440385,0.612962,0.701752,0.726908,0.738645,0.12864,False,0.032494,False
+Internal Expert Decision,17,1.0,1.0,0.472249,0.619951,0.709716,0.73069,0.745177,0.138541,True,0.206221,False
+Internal Expert Decision,18,1.0,1.0,0.480298,0.600534,0.719739,0.732396,0.764236,0.120174,False,0.028552,False
+Internal Expert Decision,19,1.0,1.0,0.483461,0.611578,0.716173,0.749877,0.778004,0.082731,False,0.033668,False
+Internal Expert Decision,20,1.0,1.0,0.519218,0.616518,0.697304,0.770214,0.780948,0.050735,False,0.013927,False
+Internal Expert Decision,21,1.0,1.0,0.515991,0.626002,0.694498,0.781249,0.783948,0.025843,False,0.046318,False
+Internal Expert Decision,22,1.0,1.0,0.523816,0.61655,0.745657,0.779806,0.769942,0.0,False,0.039204,False
+Internal Expert Decision,23,1.0,1.0,0.521578,0.598869,0.769801,0.797352,0.749384,0.0,False,0.028959,False
+Internal Expert Decision,24,1.0,1.0,0.512566,0.585375,0.775842,0.814323,0.763125,0.0,True,0.117165,False
+Internal Expert Decision,25,1.0,1.0,0.51175,0.557751,0.788424,0.846706,0.770466,0.0,False,0.029184,False
+Internal Expert Decision,26,1.0,1.0,0.522323,0.576334,0.841438,0.857757,0.785616,0.0,False,0.037593,False
+Internal Expert Decision,27,1.0,1.0,0.531992,0.575336,0.858691,0.85054,0.760415,0.0,False,0.043964,False
+Internal Expert Decision,28,1.0,1.0,0.50769,0.563087,0.869847,0.867577,0.780894,0.0,False,0.014969,False
+Internal Expert Decision,29,1.0,1.0,0.50358,0.560738,0.846113,0.881448,0.790999,0.0,False,0.01018,False
+Internal Expert Decision,30,1.0,1.0,0.496689,0.556328,0.848533,0.872686,0.793111,0.0,True,0.234224,False
+Internal Expert Decision,31,1.0,1.0,0.48461,0.570475,0.859365,0.889942,0.788899,0.0,False,0.02728,False
+Internal Expert Decision,32,1.0,1.0,0.495205,0.575429,0.87159,0.873193,0.779462,0.0,False,0.010504,False
+Internal Expert Decision,33,1.0,1.0,0.471991,0.590753,0.900586,0.888079,0.769989,0.001021,False,0.04881,False
+Internal Expert Decision,34,1.0,1.0,0.469518,0.597218,0.926795,0.880102,0.781439,0.0,False,0.01334,False
+Internal Expert Decision,35,1.0,1.0,0.474941,0.611215,0.920758,0.916749,0.79972,0.0,False,0.01138,False
+Internal Expert Decision,36,1.0,1.0,0.476237,0.622419,0.936481,0.927058,0.817561,0.0,False,0.026811,False
+Internal Expert Decision,37,1.0,1.0,0.469878,0.61414,0.929848,0.951128,0.82409,0.0,False,0.015684,False
+Internal Expert Decision,38,1.0,1.0,0.452808,0.617766,0.933251,0.966708,0.824639,0.0,False,0.035971,False
+Internal Expert Decision,39,1.0,1.0,0.470189,0.617435,0.930864,0.985423,0.842059,0.0,False,0.015016,False
+Internal Expert Decision,40,1.0,1.0,0.490765,0.616616,0.949346,0.997585,0.832409,0.0,False,0.030776,False
+Public Comment Process,1,0.580669,0.640888,0.590722,0.657159,0.650171,0.562797,0.602275,0.402154,False,0.010685,False
+Public Comment Process,2,0.588459,0.693727,0.587237,0.659086,0.658533,0.576443,0.610248,0.394423,False,0.037557,False
+Public Comment Process,3,0.577702,0.746838,0.612971,0.673126,0.655705,0.58781,0.617126,0.366306,False,0.031488,False
+Public Comment Process,4,0.597983,0.772692,0.648284,0.694262,0.65726,0.597065,0.623614,0.381071,True,0.165029,False
+Public Comment Process,5,0.601414,0.837017,0.634147,0.672436,0.679604,0.596093,0.627906,0.336924,False,0.049395,False
+Public Comment Process,6,0.618663,0.889382,0.641219,0.668317,0.687449,0.627504,0.637165,0.290148,False,0.037183,False
+Public Comment Process,7,0.637958,0.945755,0.657548,0.672234,0.686197,0.636016,0.646117,0.29489,True,0.137146,False
+Public Comment Process,8,0.6492,1.0,0.667834,0.670696,0.667243,0.662312,0.635193,0.253154,False,0.027131,False
+Public Comment Process,9,0.677459,1.0,0.692431,0.663673,0.696186,0.647199,0.622867,0.235093,False,0.000295,False
+Public Comment Process,10,0.715125,1.0,0.699433,0.667398,0.693167,0.6777,0.62381,0.209475,False,0.010971,False
+Public Comment Process,11,0.757828,1.0,0.716366,0.660151,0.720866,0.694019,0.641968,0.190572,False,0.001348,False
+Public Comment Process,12,0.79945,1.0,0.708335,0.667911,0.728986,0.6803,0.649704,0.166484,False,0.016342,False
+Public Comment Process,13,0.842401,1.0,0.694166,0.660368,0.72309,0.673691,0.666291,0.132751,False,0.017498,False
+Public Comment Process,14,0.870288,1.0,0.693559,0.656154,0.720509,0.661125,0.681051,0.13745,True,0.213892,False
+Public Comment Process,15,0.907431,1.0,0.700786,0.665116,0.719823,0.692795,0.702044,0.104746,False,0.048236,False
+Public Comment Process,16,0.937245,1.0,0.720602,0.691082,0.738852,0.690215,0.739092,0.106631,False,0.031362,False
+Public Comment Process,17,0.96022,1.0,0.7257,0.685075,0.762054,0.68225,0.775171,0.101113,False,0.018529,False
+Public Comment Process,18,1.0,1.0,0.695103,0.688125,0.766805,0.720314,0.767535,0.065277,False,0.021774,False
+Public Comment Process,19,1.0,1.0,0.695181,0.697555,0.782283,0.725926,0.756644,0.040137,False,0.042586,False
+Public Comment Process,20,1.0,1.0,0.7252,0.710326,0.775171,0.763594,0.76166,0.0,False,0.009092,False
+Public Comment Process,21,1.0,1.0,0.730003,0.691517,0.772978,0.755605,0.742466,0.0,True,0.224015,False
+Public Comment Process,22,1.0,1.0,0.727847,0.684508,0.766515,0.765986,0.750176,0.0,False,0.01531,False
+Public Comment Process,23,1.0,1.0,0.740185,0.693902,0.751629,0.774027,0.762305,0.0,False,0.006033,False
+Public Comment Process,24,1.0,1.0,0.751976,0.699273,0.763113,0.796782,0.771395,0.0,False,0.026232,False
+Public Comment Process,25,1.0,1.0,0.750563,0.703596,0.78219,0.798247,0.792253,0.0,False,0.027668,False
+Public Comment Process,26,1.0,1.0,0.750557,0.725406,0.79706,0.799361,0.818556,0.0,False,0.002569,False
+Public Comment Process,27,1.0,1.0,0.755907,0.739239,0.807451,0.79416,0.829779,0.0,False,0.015192,False
+Public Comment Process,28,1.0,1.0,0.760442,0.757697,0.802028,0.794429,0.83624,0.0,False,0.043008,False
+Public Comment Process,29,1.0,1.0,0.771057,0.767126,0.826442,0.808915,0.835695,0.0,False,0.007853,False
+Public Comment Process,30,1.0,1.0,0.747236,0.761678,0.839881,0.803775,0.827293,0.0,False,0.022702,False
+Public Comment Process,31,1.0,1.0,0.747715,0.770679,0.854544,0.827911,0.835877,0.0,False,0.045421,False
+Public Comment Process,32,1.0,1.0,0.747281,0.792726,0.857838,0.842051,0.859397,0.0,False,0.034987,False
+Public Comment Process,33,1.0,1.0,0.734101,0.806382,0.91623,0.836672,0.8606,0.0,True,0.272382,False
+Public Comment Process,34,1.0,1.0,0.735051,0.820673,0.908539,0.840749,0.863941,0.0,False,0.032575,False
+Public Comment Process,35,1.0,1.0,0.759221,0.816853,0.909717,0.887876,0.880109,0.0,False,0.042887,False
+Public Comment Process,36,1.0,1.0,0.773972,0.809455,0.939193,0.901018,0.875299,0.0,False,0.048509,False
+Public Comment Process,37,1.0,1.0,0.76997,0.816695,0.91799,0.905921,0.864669,0.0,False,0.03127,False
+Public Comment Process,38,1.0,1.0,0.790484,0.833178,0.921959,0.919061,0.905421,0.0,False,0.011965,False
+Public Comment Process,39,1.0,1.0,0.779656,0.836411,0.927751,0.960257,0.925543,0.0,False,0.024919,False
+Public Comment Process,40,1.0,1.0,0.76592,0.863423,0.933696,0.99948,0.907489,0.0,False,0.025412,False
+Deliberative Citizens Panel,1,0.704214,0.83923,0.800572,0.784807,0.781284,0.774593,0.776734,0.299223,False,0.014928,False
+Deliberative Citizens Panel,2,0.715299,0.918474,0.828039,0.801906,0.781492,0.784481,0.786832,0.257057,False,0.016089,False
+Deliberative Citizens Panel,3,0.738407,0.977052,0.813174,0.797436,0.807045,0.796869,0.812262,0.223852,False,0.019304,False
+Deliberative Citizens Panel,4,0.790724,1.0,0.817999,0.791071,0.813752,0.797128,0.816925,0.178843,False,0.022015,False
+Deliberative Citizens Panel,5,0.809992,1.0,0.803069,0.783743,0.839299,0.789267,0.817008,0.152293,False,0.034635,False
+Deliberative Citizens Panel,6,0.873913,1.0,0.818888,0.810819,0.891504,0.781524,0.826413,0.096725,False,0.001795,False
+Deliberative Citizens Panel,7,0.941346,1.0,0.797806,0.809285,0.924838,0.80375,0.832206,0.074123,False,0.022184,False
+Deliberative Citizens Panel,8,1.0,1.0,0.809907,0.820745,0.947533,0.804832,0.84336,0.073234,False,0.039626,False
+Deliberative Citizens Panel,9,1.0,1.0,0.818847,0.854993,0.97475,0.808414,0.861728,0.04927,False,0.012766,False
+Deliberative Citizens Panel,10,1.0,1.0,0.85324,0.863884,0.989148,0.837706,0.861595,0.011876,False,0.021215,False
+Deliberative Citizens Panel,11,1.0,1.0,0.857829,0.893174,0.996888,0.871956,0.863055,0.0,False,0.014762,False
+Deliberative Citizens Panel,12,1.0,1.0,0.889314,0.896189,0.996803,0.88015,0.860522,0.0,False,0.045208,False
+Deliberative Citizens Panel,13,1.0,1.0,0.874576,0.883928,0.999528,0.886817,0.853455,0.0,False,0.041917,False
+Deliberative Citizens Panel,14,1.0,1.0,0.888382,0.896032,0.973552,0.893889,0.833365,0.0,False,0.037374,False
+Deliberative Citizens Panel,15,1.0,1.0,0.873943,0.912972,0.980507,0.91606,0.851534,0.0,False,0.024092,False
+Deliberative Citizens Panel,16,1.0,1.0,0.875789,0.946367,0.974713,0.950521,0.8796,0.0,False,0.048997,False
+Deliberative Citizens Panel,17,1.0,1.0,0.853182,0.969802,0.993882,0.973084,0.919601,0.0,False,0.029228,False
+Deliberative Citizens Panel,18,1.0,1.0,0.833308,0.992622,1.0,1.0,0.95309,0.0,False,0.003161,False
+Deliberative Citizens Panel,19,1.0,1.0,0.849408,1.0,0.997337,0.993122,0.97576,0.0,True,0.257452,False
+Deliberative Citizens Panel,20,1.0,1.0,0.857908,0.994764,1.0,1.0,0.977227,0.0,False,0.004951,False
+Deliberative Citizens Panel,21,1.0,1.0,0.852245,0.964568,0.999633,1.0,0.988835,0.0,True,0.217136,False
+Deliberative Citizens Panel,22,1.0,1.0,0.857793,0.970983,1.0,1.0,1.0,0.0,False,0.032085,False
+Deliberative Citizens Panel,23,1.0,1.0,0.856138,0.988531,1.0,1.0,1.0,0.0,False,0.010798,False
+Deliberative Citizens Panel,24,1.0,1.0,0.86092,0.995868,1.0,1.0,1.0,0.0,False,0.008725,False
+Deliberative Citizens Panel,25,1.0,1.0,0.852288,1.0,1.0,0.999667,1.0,0.0,False,0.026304,False
+Deliberative Citizens Panel,26,1.0,1.0,0.857286,0.993331,1.0,1.0,0.997335,0.0,False,0.043349,False
+Deliberative Citizens Panel,27,1.0,1.0,0.874159,1.0,1.0,1.0,0.997459,0.0,False,0.003675,False
+Deliberative Citizens Panel,28,1.0,1.0,0.877552,1.0,1.0,0.990346,0.995212,0.0,False,0.022686,False
+Deliberative Citizens Panel,29,1.0,1.0,0.898064,1.0,1.0,1.0,0.98852,0.0,False,0.011425,False
+Deliberative Citizens Panel,30,1.0,1.0,0.900229,1.0,1.0,1.0,1.0,0.0,False,0.003357,False
+Deliberative Citizens Panel,31,1.0,1.0,0.924235,0.996507,1.0,0.98899,1.0,0.0,False,0.006112,False
+Deliberative Citizens Panel,32,1.0,1.0,0.923395,1.0,1.0,1.0,0.995887,0.0,False,0.010637,False
+Deliberative Citizens Panel,33,1.0,1.0,0.912862,1.0,1.0,1.0,1.0,0.0,False,0.048727,False
+Deliberative Citizens Panel,34,1.0,1.0,0.921585,1.0,1.0,1.0,1.0,0.0,False,0.015449,False
+Deliberative Citizens Panel,35,1.0,1.0,0.935226,0.997817,0.996492,1.0,1.0,0.0,False,0.010757,False
+Deliberative Citizens Panel,36,1.0,1.0,0.930475,0.999771,0.997155,1.0,0.999104,0.0,True,0.203568,False
+Deliberative Citizens Panel,37,1.0,1.0,0.923343,1.0,1.0,1.0,0.995954,0.0,False,0.014162,False
+Deliberative Citizens Panel,38,1.0,1.0,0.943339,1.0,1.0,1.0,1.0,0.0,False,0.006862,False
+Deliberative Citizens Panel,39,1.0,1.0,0.962641,1.0,1.0,1.0,1.0,0.0,False,0.04031,False
+Deliberative Citizens Panel,40,1.0,1.0,0.971894,1.0,1.0,1.0,0.99226,0.0,False,0.020885,False
+Adaptive Public Reasoning System,1,0.818141,0.957901,0.879616,0.875972,0.860771,0.882886,0.863646,0.24907,False,0.012166,False
+Adaptive Public Reasoning System,2,0.867227,1.0,0.878999,0.89549,0.865303,0.870793,0.876293,0.209125,True,0.18199,False
+Adaptive Public Reasoning System,3,0.928561,1.0,0.880096,0.900779,0.877918,0.869985,0.887306,0.14145,False,0.038011,False
+Adaptive Public Reasoning System,4,0.993498,1.0,0.868791,0.891178,0.882584,0.879611,0.911376,0.107195,False,0.031765,False
+Adaptive Public Reasoning System,5,1.0,1.0,0.889674,0.894235,0.915533,0.902902,0.944718,0.091851,True,0.181467,False
+Adaptive Public Reasoning System,6,1.0,1.0,0.889895,0.881191,0.937926,0.909714,0.96248,0.027191,False,0.023136,False
+Adaptive Public Reasoning System,7,1.0,1.0,0.915742,0.914693,0.935333,0.943696,0.963734,0.0,True,0.092375,False
+Adaptive Public Reasoning System,8,1.0,1.0,0.935589,0.932328,0.94321,0.974332,0.964647,0.0,False,0.026137,False
+Adaptive Public Reasoning System,9,1.0,1.0,0.932895,0.93692,0.949706,0.969882,0.998373,0.0,True,0.098901,False
+Adaptive Public Reasoning System,10,1.0,1.0,0.935525,0.967214,0.944562,0.996814,1.0,0.0,True,0.149964,False
+Adaptive Public Reasoning System,11,1.0,1.0,0.923749,0.988359,0.949196,0.997516,1.0,0.0,False,0.033506,False
+Adaptive Public Reasoning System,12,1.0,1.0,0.927203,1.0,0.962165,1.0,1.0,0.0,False,0.01071,False
+Adaptive Public Reasoning System,13,1.0,1.0,0.938454,1.0,0.974305,1.0,1.0,0.0,False,0.044184,False
+Adaptive Public Reasoning System,14,1.0,1.0,0.952651,0.997166,0.981553,1.0,1.0,0.0,False,0.008277,False
+Adaptive Public Reasoning System,15,1.0,1.0,0.946569,1.0,1.0,1.0,1.0,0.0,False,0.015473,False
+Adaptive Public Reasoning System,16,1.0,1.0,0.949626,1.0,1.0,1.0,1.0,0.0,False,0.026373,False
+Adaptive Public Reasoning System,17,1.0,1.0,0.946207,1.0,1.0,1.0,1.0,0.0,True,0.249178,False
+Adaptive Public Reasoning System,18,1.0,1.0,0.957375,1.0,1.0,1.0,1.0,0.005635,False,0.022556,False
+Adaptive Public Reasoning System,19,1.0,1.0,0.945623,0.995566,1.0,1.0,1.0,0.0,False,0.041959,False
+Adaptive Public Reasoning System,20,1.0,1.0,0.959559,1.0,1.0,1.0,1.0,0.0,False,0.000263,False
+Adaptive Public Reasoning System,21,1.0,1.0,0.980342,0.988745,1.0,1.0,1.0,0.0,False,0.002387,False
+Adaptive Public Reasoning System,22,1.0,1.0,0.997373,0.981775,1.0,1.0,1.0,0.0,False,0.007179,False
+Adaptive Public Reasoning System,23,1.0,1.0,1.0,1.0,0.999458,1.0,0.985747,0.0,False,0.025366,False
+Adaptive Public Reasoning System,24,1.0,1.0,0.989011,1.0,1.0,0.995069,0.995451,0.0,False,0.01724,False
+Adaptive Public Reasoning System,25,1.0,1.0,0.99974,0.987146,0.991241,0.991333,1.0,0.0,True,0.235829,False
+Adaptive Public Reasoning System,26,1.0,1.0,1.0,1.0,0.959661,1.0,1.0,0.0,True,0.119894,False
+Adaptive Public Reasoning System,27,1.0,1.0,0.998941,1.0,0.980629,1.0,1.0,0.0,False,0.039042,False
+Adaptive Public Reasoning System,28,1.0,1.0,1.0,0.978507,0.967046,1.0,1.0,0.0,False,0.02481,False
+Adaptive Public Reasoning System,29,1.0,1.0,1.0,1.0,0.97221,1.0,0.992654,0.0,False,0.016061,False
+Adaptive Public Reasoning System,30,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,False,0.017628,False
+Adaptive Public Reasoning System,31,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,False,0.047639,False
+Adaptive Public Reasoning System,32,1.0,1.0,0.977637,0.995542,0.995041,1.0,0.996214,0.0,False,0.030255,False
+Adaptive Public Reasoning System,33,1.0,1.0,0.969974,1.0,0.993326,1.0,1.0,0.0,False,0.005672,False
+Adaptive Public Reasoning System,34,1.0,1.0,0.97862,1.0,1.0,1.0,1.0,0.0,False,0.045824,False
+Adaptive Public Reasoning System,35,1.0,1.0,0.991427,1.0,0.983309,1.0,1.0,0.0,False,0.015979,False
+Adaptive Public Reasoning System,36,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,False,0.025438,False
+Adaptive Public Reasoning System,37,1.0,1.0,1.0,1.0,1.0,1.0,0.987972,0.0,False,0.030597,False
+Adaptive Public Reasoning System,38,1.0,1.0,1.0,0.990137,0.995364,1.0,1.0,0.0,False,0.032117,False
+Adaptive Public Reasoning System,39,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,False,0.045536,False
+Adaptive Public Reasoning System,40,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,False,0.042297,False

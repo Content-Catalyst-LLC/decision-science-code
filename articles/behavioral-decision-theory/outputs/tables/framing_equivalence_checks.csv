@@ -1,0 +1,6 @@
+frame_id,frame_type,domain,positive_frame,negative_frame,positive_value,negative_value,equivalence_gap,review_flag
+F1,attribute,Healthcare,90 percent survival,10 percent mortality,0.9,0.1,0.0,equivalent_pair
+F2,attribute,AI Governance,95 percent effective,5 percent ineffective,0.95,0.05,0.0,equivalent_pair
+F3,goal,Infrastructure,investment avoids losses,delay increases losses,0.7,0.3,0.0,equivalent_pair
+F4,cost,Public Policy,program costs 10 million,program avoids 20 million in damages,0.5,0.5,0.0,equivalent_pair
+F5,risk,Financial Risk,low probability catastrophic loss,rare but severe downside,0.08,0.08,0.84,review

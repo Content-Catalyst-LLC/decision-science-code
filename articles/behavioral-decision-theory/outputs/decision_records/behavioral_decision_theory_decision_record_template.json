@@ -1,0 +1,26 @@
+{
+  "article": "Behavioral Decision Theory",
+  "decision_context": "",
+  "formal_benchmark": "",
+  "alternatives": [],
+  "reference_points": [],
+  "frames_tested": [],
+  "expected_utility_results": [],
+  "prospect_theory_results": [],
+  "probability_weighting_notes": [],
+  "loss_aversion_notes": [],
+  "rank_divergence": null,
+  "behavioral_review_flags": [],
+  "choice_architecture_review": {
+    "defaults": "",
+    "labels": "",
+    "option_order": "",
+    "visual_emphasis": "",
+    "comparison_set": ""
+  },
+  "dissent": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

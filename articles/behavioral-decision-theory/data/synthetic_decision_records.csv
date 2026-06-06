@@ -1,0 +1,2 @@
+record_id,decision_context,current_frame,reference_point,selected_action,rationale,review_trigger
+DR1,Behavioral decision theory review,loss avoidance,status quo,Review,Expected utility and prospect-theory scoring may diverge under loss aversion and framing,review if rank divergence exceeds threshold

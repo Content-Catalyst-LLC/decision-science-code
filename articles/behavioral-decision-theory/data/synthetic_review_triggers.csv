@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,rank_divergence,above,25,decision review group
+RT2,frame_sensitivity_index,above,100,decision facilitator
+RT3,probability_weight_distortion,above,0.12,risk communication lead
+RT4,loss_aversion,above,2.50,behavioral review group
+RT5,reference_point_sensitivity,above,100,analysis lead

@@ -1,0 +1,8 @@
+probability_id,objective_probability,gamma,weighted_probability
+PW1,0.05,0.72,0.132
+PW2,0.10,0.72,0.186
+PW3,0.20,0.72,0.261
+PW4,0.50,0.72,0.454
+PW5,0.80,0.72,0.607
+PW6,0.90,0.72,0.710
+PW7,0.95,0.72,0.790

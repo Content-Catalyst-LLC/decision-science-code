@@ -1,0 +1,203 @@
+{
+  "article": "Behavioral Decision Theory",
+  "decision_context": "Comparing expected utility and prospect-theory-style behavioral valuation under reference dependence, loss aversion, probability weighting, and framing effects.",
+  "modeling_principles": [
+    "Formal models should be paired with behavioral diagnostics.",
+    "Reference points should be made explicit.",
+    "Loss aversion and framing can change apparent preferences.",
+    "Probability weighting can distort risk perception.",
+    "Behavioral divergence should trigger review before high-stakes decisions.",
+    "Decision records should preserve frames, assumptions, behavioral flags, and rationale."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "mean_expected_value",
+      "value": 69.888156
+    },
+    {
+      "metric": "mean_expected_utility",
+      "value": 4.653656
+    },
+    {
+      "metric": "mean_prospect_score",
+      "value": 8.948335
+    },
+    {
+      "metric": "mean_probability_weight_distortion",
+      "value": 0.056813
+    },
+    {
+      "metric": "mean_frame_sensitivity_index",
+      "value": 184.165481
+    },
+    {
+      "metric": "mean_absolute_rank_divergence",
+      "value": 24.338889
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.708333
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_cases": 118,
+      "average_expected_value": 67.283884,
+      "average_expected_utility": 4.579576,
+      "average_prospect_score": 4.95831,
+      "average_probability_weight_distortion": 0.068538,
+      "average_frame_sensitivity_index": 184.662811,
+      "average_absolute_rank_divergence": 24.694915,
+      "review_rate": 0.711864
+    },
+    {
+      "domain": "Financial Risk",
+      "n_cases": 109,
+      "average_expected_value": 65.334924,
+      "average_expected_utility": 4.299272,
+      "average_prospect_score": 15.774754,
+      "average_probability_weight_distortion": 0.051741,
+      "average_frame_sensitivity_index": 188.108564,
+      "average_absolute_rank_divergence": 24.091743,
+      "review_rate": 0.633028
+    },
+    {
+      "domain": "Healthcare",
+      "n_cases": 123,
+      "average_expected_value": 66.884847,
+      "average_expected_utility": 4.634793,
+      "average_prospect_score": 4.858379,
+      "average_probability_weight_distortion": 0.058141,
+      "average_frame_sensitivity_index": 187.233784,
+      "average_absolute_rank_divergence": 21.544715,
+      "review_rate": 0.731707
+    },
+    {
+      "domain": "Infrastructure",
+      "n_cases": 126,
+      "average_expected_value": 71.921639,
+      "average_expected_utility": 4.728822,
+      "average_prospect_score": 12.614255,
+      "average_probability_weight_distortion": 0.055534,
+      "average_frame_sensitivity_index": 182.680228,
+      "average_absolute_rank_divergence": 23.714286,
+      "review_rate": 0.722222
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_cases": 146,
+      "average_expected_value": 63.669525,
+      "average_expected_utility": 4.076288,
+      "average_prospect_score": -1.246226,
+      "average_probability_weight_distortion": 0.05224,
+      "average_frame_sensitivity_index": 184.629698,
+      "average_absolute_rank_divergence": 30.136986,
+      "review_rate": 0.746575
+    },
+    {
+      "domain": "Public Policy",
+      "n_cases": 98,
+      "average_expected_value": 88.507688,
+      "average_expected_utility": 5.924207,
+      "average_prospect_score": 21.767802,
+      "average_probability_weight_distortion": 0.055129,
+      "average_frame_sensitivity_index": 176.547972,
+      "average_absolute_rank_divergence": 19.857143,
+      "review_rate": 0.683673
+    }
+  ],
+  "reference_point_summary": [
+    {
+      "reference_point": -100.0,
+      "n_cases": 184,
+      "average_expected_value": 64.348147,
+      "average_expected_utility": 4.140546,
+      "average_prospect_score": 65.557924,
+      "average_probability_weight_distortion": 0.058347,
+      "average_frame_sensitivity_index": 179.00845,
+      "average_absolute_rank_divergence": 35.23913,
+      "review_rate": 0.858696
+    },
+    {
+      "reference_point": 0.0,
+      "n_cases": 336,
+      "average_expected_value": 72.015635,
+      "average_expected_utility": 4.885462,
+      "average_prospect_score": 14.95823,
+      "average_probability_weight_distortion": 0.05629,
+      "average_frame_sensitivity_index": 190.01186,
+      "average_absolute_rank_divergence": 13.330357,
+      "review_rate": 0.595238
+    },
+    {
+      "reference_point": 100.0,
+      "n_cases": 200,
+      "average_expected_value": 71.410798,
+      "average_expected_utility": 4.736283,
+      "average_prospect_score": -53.229111,
+      "average_probability_weight_distortion": 0.056281,
+      "average_frame_sensitivity_index": 179.088034,
+      "average_absolute_rank_divergence": 32.805,
+      "review_rate": 0.76
+    }
+  ],
+  "framing_equivalence_summary": [
+    {
+      "frame_id": "F1",
+      "frame_type": "attribute",
+      "domain": "Healthcare",
+      "positive_frame": "90 percent survival",
+      "negative_frame": "10 percent mortality",
+      "positive_value": 0.9,
+      "negative_value": 0.1,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "frame_id": "F2",
+      "frame_type": "attribute",
+      "domain": "AI Governance",
+      "positive_frame": "95 percent effective",
+      "negative_frame": "5 percent ineffective",
+      "positive_value": 0.95,
+      "negative_value": 0.05,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "frame_id": "F3",
+      "frame_type": "goal",
+      "domain": "Infrastructure",
+      "positive_frame": "investment avoids losses",
+      "negative_frame": "delay increases losses",
+      "positive_value": 0.7,
+      "negative_value": 0.3,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "frame_id": "F4",
+      "frame_type": "cost",
+      "domain": "Public Policy",
+      "positive_frame": "program costs 10 million",
+      "negative_frame": "program avoids 20 million in damages",
+      "positive_value": 0.5,
+      "negative_value": 0.5,
+      "equivalence_gap": 0.0,
+      "review_flag": "equivalent_pair"
+    },
+    {
+      "frame_id": "F5",
+      "frame_type": "risk",
+      "domain": "Financial Risk",
+      "positive_frame": "low probability catastrophic loss",
+      "negative_frame": "rare but severe downside",
+      "positive_value": 0.08,
+      "negative_value": 0.08,
+      "equivalence_gap": 0.84,
+      "review_flag": "review"
+    }
+  ],
+  "review_queue_size": 510
+}

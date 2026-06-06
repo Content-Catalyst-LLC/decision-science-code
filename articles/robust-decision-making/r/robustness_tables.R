@@ -1,0 +1,5 @@
+args <- commandArgs(trailingOnly = FALSE); file_arg <- grep("^--file=", args, value = TRUE)
+article_root <- if (length(file_arg) > 0) normalizePath(file.path(dirname(normalizePath(sub("^--file=", "", file_arg[1]), mustWork = TRUE)), ".."), mustWork = TRUE) else getwd()
+tables_dir <- file.path(article_root, "outputs", "tables")
+x <- read.csv(file.path(tables_dir, "rdm_robustness_results.csv"), stringsAsFactors = FALSE)
+x <- x[order(x$rank), ]; write.csv(x, file.path(tables_dir, "robustness_tables.csv"), row.names = FALSE); print(x)

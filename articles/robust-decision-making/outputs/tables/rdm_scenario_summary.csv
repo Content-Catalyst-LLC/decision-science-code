@@ -1,0 +1,7 @@
+"scenario","best_strategy","max_performance","min_performance","scenario_spread"
+"stable_growth","Aggressive Growth Strategy",0.92,0.61,0.31
+"demand_shock","Modular Investment Strategy",0.8,0.43,0.37
+"climate_stress","Defensive Resilience Strategy",0.83,0.17,0.66
+"fiscal_constraint","Staged Optionality Strategy",0.81,0.29,0.52
+"governance_stress","Modular Investment Strategy",0.83,0.35,0.48
+"technology_shift","Staged Optionality Strategy",0.86,0.58,0.28

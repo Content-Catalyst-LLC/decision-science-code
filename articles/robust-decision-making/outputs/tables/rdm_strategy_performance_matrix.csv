@@ -1,0 +1,7 @@
+"strategy","stable_growth","demand_shock","climate_stress","fiscal_constraint","governance_stress","technology_shift"
+"Aggressive Growth Strategy",0.92,0.43,0.17,0.29,0.35,0.58
+"Balanced Adaptive Strategy",0.76,0.72,0.63,0.67,0.7,0.75
+"Defensive Resilience Strategy",0.61,0.68,0.83,0.8,0.72,0.64
+"Staged Optionality Strategy",0.73,0.77,0.79,0.81,0.76,0.86
+"Modular Investment Strategy",0.72,0.8,0.76,0.74,0.83,0.82
+"No-Regrets Capacity Strategy",0.68,0.75,0.81,0.78,0.79,0.71

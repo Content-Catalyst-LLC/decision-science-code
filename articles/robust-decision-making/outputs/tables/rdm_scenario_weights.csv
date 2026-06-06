@@ -1,0 +1,7 @@
+"scenario","weight"
+"stable_growth",0.18
+"demand_shock",0.17
+"climate_stress",0.18
+"fiscal_constraint",0.16
+"governance_stress",0.15
+"technology_shift",0.16

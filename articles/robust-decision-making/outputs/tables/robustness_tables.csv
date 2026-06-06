@@ -1,0 +1,7 @@
+"strategy","expected_value","worst_case","best_case","performance_range","average_regret","max_regret","threshold_pass_rate","vulnerability_count","robustness_score","rank","review_flag"
+"Staged Optionality Strategy",0.7857,0.73,0.86,0.13,0.055,0.19,1,0,0.835855,1,"acceptable"
+"Modular Investment Strategy",0.7765,0.72,0.83,0.11,0.0633333333333334,0.2,1,0,0.831475,2,"acceptable"
+"No-Regrets Capacity Strategy",0.7526,0.68,0.81,0.13,0.0883333333333333,0.24,0.833333333333333,1,0.764223333333333,3,"acceptable"
+"Balanced Adaptive Strategy",0.7048,0.63,0.76,0.13,0.136666666666667,0.2,0.666666666666667,2,0.708386666666667,4,"acceptable"
+"Defensive Resilience Strategy",0.7132,0.61,0.83,0.22,0.128333333333333,0.31,0.5,3,0.63098,5,"acceptable"
+"Aggressive Growth Strategy",0.461,0.17,0.92,0.75,0.385,0.66,0.166666666666667,5,0.254816666666667,6,"review"

@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Robust strategy review,Staged Optionality Strategy,Strong performance across uncertain futures with low regret and high adaptability,review when scenario signals cross threshold

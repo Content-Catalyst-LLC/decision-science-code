@@ -1,0 +1,1 @@
+-- Regret can be derived from performance and scenario maxima; this table is available for materialized results if desired.

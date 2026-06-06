@@ -1,0 +1,19 @@
+{
+  "article": "Robust Decision-Making",
+  "decision_context": "",
+  "decision_owner": "",
+  "strategy_alternatives": [],
+  "scenarios": [],
+  "scenario_weights": {},
+  "performance_thresholds": {},
+  "performance_matrix": [],
+  "regret_matrix": [],
+  "vulnerability_conditions": [],
+  "stress_tests": [],
+  "adaptive_triggers": [],
+  "fallback_options": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_responsibilities": [],
+  "post_decision_learning": []
+}

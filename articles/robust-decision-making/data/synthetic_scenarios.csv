@@ -1,0 +1,7 @@
+scenario,weight,description
+stable_growth,0.18,baseline growth future with favorable conditions
+demand_shock,0.17,unexpected demand increase or demand pattern change
+climate_stress,0.18,environmental stress and physical risk intensification
+fiscal_constraint,0.16,budget pressure and resource constraints
+governance_stress,0.15,institutional capacity or legitimacy stress
+technology_shift,0.16,rapid technology or model environment change

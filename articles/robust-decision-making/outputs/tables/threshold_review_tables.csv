@@ -1,0 +1,2 @@
+"strategy","expected_value","worst_case","best_case","performance_range","average_regret","max_regret","threshold_pass_rate","vulnerability_count","robustness_score","rank","review_flag"
+"Aggressive Growth Strategy",0.461,0.17,0.92,0.75,0.385,0.66,0.166666666666667,5,0.254816666666667,6,"review"

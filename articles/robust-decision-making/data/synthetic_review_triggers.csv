@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,worst_case,below,0.50,robustness review group
+RT2,max_regret,above,0.35,scenario review lead
+RT3,threshold_pass_rate,below,0.50,decision owner
+RT4,vulnerability_count,above,3,governance lead
+RT5,adaptive_trigger_reached,equals,true,implementation owner

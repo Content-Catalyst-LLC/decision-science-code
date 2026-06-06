@@ -1,0 +1,5 @@
+threshold_name,value,description
+minimum_acceptable_performance,0.70,minimum performance level for satisfactory strategy behavior
+high_regret_threshold,0.35,maximum regret level triggering review
+low_worst_case_threshold,0.50,worst-case performance level triggering review
+low_pass_rate_threshold,0.50,minimum scenario pass-rate threshold

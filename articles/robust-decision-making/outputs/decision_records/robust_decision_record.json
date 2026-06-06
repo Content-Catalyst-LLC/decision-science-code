@@ -1,0 +1,225 @@
+{
+  "article": "Robust Decision-Making",
+  "decision_context": "Comparing strategies across uncertain futures using expected value, worst-case performance, regret, threshold compliance, vulnerabilities, and durability under uncertainty shocks.",
+  "scenarios": [
+    "stable_growth",
+    "demand_shock",
+    "climate_stress",
+    "fiscal_constraint",
+    "governance_stress",
+    "technology_shift"
+  ],
+  "scenario_weights": {
+    "stable_growth": 0.18,
+    "demand_shock": 0.17,
+    "climate_stress": 0.18,
+    "fiscal_constraint": 0.16,
+    "governance_stress": 0.15,
+    "technology_shift": 0.16
+  },
+  "thresholds": {
+    "minimum_acceptable_performance": 0.7,
+    "high_regret_threshold": 0.35,
+    "low_worst_case_threshold": 0.5,
+    "low_pass_rate_threshold": 0.5
+  },
+  "robustness_results": [
+    {
+      "strategy": "Staged Optionality Strategy",
+      "expected_value": 0.7857,
+      "worst_case": 0.73,
+      "best_case": 0.86,
+      "performance_range": 0.13,
+      "average_regret": 0.055,
+      "max_regret": 0.19,
+      "threshold_pass_rate": 1.0,
+      "vulnerability_count": 0,
+      "robustness_score": 0.835855,
+      "review_flag": "acceptable",
+      "rank": 1
+    },
+    {
+      "strategy": "Modular Investment Strategy",
+      "expected_value": 0.7765,
+      "worst_case": 0.72,
+      "best_case": 0.83,
+      "performance_range": 0.11,
+      "average_regret": 0.063333,
+      "max_regret": 0.2,
+      "threshold_pass_rate": 1.0,
+      "vulnerability_count": 0,
+      "robustness_score": 0.831475,
+      "review_flag": "acceptable",
+      "rank": 2
+    },
+    {
+      "strategy": "No-Regrets Capacity Strategy",
+      "expected_value": 0.7526,
+      "worst_case": 0.68,
+      "best_case": 0.81,
+      "performance_range": 0.13,
+      "average_regret": 0.088333,
+      "max_regret": 0.24,
+      "threshold_pass_rate": 0.833333,
+      "vulnerability_count": 1,
+      "robustness_score": 0.764223,
+      "review_flag": "acceptable",
+      "rank": 3
+    },
+    {
+      "strategy": "Balanced Adaptive Strategy",
+      "expected_value": 0.7048,
+      "worst_case": 0.63,
+      "best_case": 0.76,
+      "performance_range": 0.13,
+      "average_regret": 0.136667,
+      "max_regret": 0.2,
+      "threshold_pass_rate": 0.666667,
+      "vulnerability_count": 2,
+      "robustness_score": 0.708387,
+      "review_flag": "acceptable",
+      "rank": 4
+    },
+    {
+      "strategy": "Defensive Resilience Strategy",
+      "expected_value": 0.7132,
+      "worst_case": 0.61,
+      "best_case": 0.83,
+      "performance_range": 0.22,
+      "average_regret": 0.128333,
+      "max_regret": 0.31,
+      "threshold_pass_rate": 0.5,
+      "vulnerability_count": 3,
+      "robustness_score": 0.63098,
+      "review_flag": "acceptable",
+      "rank": 5
+    },
+    {
+      "strategy": "Aggressive Growth Strategy",
+      "expected_value": 0.461,
+      "worst_case": 0.17,
+      "best_case": 0.92,
+      "performance_range": 0.75,
+      "average_regret": 0.385,
+      "max_regret": 0.66,
+      "threshold_pass_rate": 0.166667,
+      "vulnerability_count": 5,
+      "robustness_score": 0.254817,
+      "review_flag": "review",
+      "rank": 6
+    }
+  ],
+  "scenario_summary": [
+    {
+      "scenario": "stable_growth",
+      "best_strategy": "Aggressive Growth Strategy",
+      "max_performance": 0.92,
+      "min_performance": 0.61,
+      "scenario_spread": 0.31
+    },
+    {
+      "scenario": "demand_shock",
+      "best_strategy": "Modular Investment Strategy",
+      "max_performance": 0.8,
+      "min_performance": 0.43,
+      "scenario_spread": 0.37
+    },
+    {
+      "scenario": "climate_stress",
+      "best_strategy": "Defensive Resilience Strategy",
+      "max_performance": 0.83,
+      "min_performance": 0.17,
+      "scenario_spread": 0.66
+    },
+    {
+      "scenario": "fiscal_constraint",
+      "best_strategy": "Staged Optionality Strategy",
+      "max_performance": 0.81,
+      "min_performance": 0.29,
+      "scenario_spread": 0.52
+    },
+    {
+      "scenario": "governance_stress",
+      "best_strategy": "Modular Investment Strategy",
+      "max_performance": 0.83,
+      "min_performance": 0.35,
+      "scenario_spread": 0.48
+    },
+    {
+      "scenario": "technology_shift",
+      "best_strategy": "Staged Optionality Strategy",
+      "max_performance": 0.86,
+      "min_performance": 0.58,
+      "scenario_spread": 0.28
+    }
+  ],
+  "durability_summary": [
+    {
+      "strategy": "Balanced Adaptive Strategy",
+      "final_value": 334.51822,
+      "min_value": 97.806845,
+      "max_value": 334.51822,
+      "average_value": 179.955328,
+      "value_volatility": 61.620805,
+      "average_growth_rate": 3.11472,
+      "worst_growth_rate": -3.299995
+    },
+    {
+      "strategy": "No-Regrets Capacity Strategy",
+      "final_value": 313.403926,
+      "min_value": 100.97727,
+      "max_value": 313.403926,
+      "average_value": 180.856371,
+      "value_volatility": 57.729405,
+      "average_growth_rate": 2.922145,
+      "worst_growth_rate": -1.554972
+    },
+    {
+      "strategy": "Defensive Resilience Strategy",
+      "final_value": 312.324379,
+      "min_value": 107.863735,
+      "max_value": 312.324379,
+      "average_value": 195.774941,
+      "value_volatility": 61.505263,
+      "average_growth_rate": 2.916574,
+      "worst_growth_rate": -2.773653
+    },
+    {
+      "strategy": "Modular Investment Strategy",
+      "final_value": 288.340803,
+      "min_value": 101.425206,
+      "max_value": 288.340803,
+      "average_value": 176.709384,
+      "value_volatility": 55.452329,
+      "average_growth_rate": 2.713045,
+      "worst_growth_rate": -3.767424
+    },
+    {
+      "strategy": "Staged Optionality Strategy",
+      "final_value": 250.351069,
+      "min_value": 105.832135,
+      "max_value": 250.351069,
+      "average_value": 163.620007,
+      "value_volatility": 42.610066,
+      "average_growth_rate": 2.350242,
+      "worst_growth_rate": -4.86078
+    },
+    {
+      "strategy": "Aggressive Growth Strategy",
+      "final_value": 244.83299,
+      "min_value": 106.747935,
+      "max_value": 244.83299,
+      "average_value": 171.59654,
+      "value_volatility": 43.249831,
+      "average_growth_rate": 2.345152,
+      "worst_growth_rate": -7.482653
+    }
+  ],
+  "modeling_principles": [
+    "Robust decision-making evaluates strategies across many plausible futures.",
+    "Expected value is useful but insufficient under deep uncertainty.",
+    "Worst-case performance, regret, and threshold compliance reveal brittleness.",
+    "Adaptive strategies can preserve flexibility as uncertainty unfolds.",
+    "Decision records should document scenarios, thresholds, vulnerabilities, triggers, and review responsibilities."
+  ]
+}

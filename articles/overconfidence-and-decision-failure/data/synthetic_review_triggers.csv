@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,confidence_error,above,0.15,calibration review group
+RT2,brier_score,above,0.25,forecast review group
+RT3,planning_error,above,0.30,project review board
+RT4,interval_coverage,below,0.80,analysis lead
+RT5,model_drift,above,0.10,model governance lead

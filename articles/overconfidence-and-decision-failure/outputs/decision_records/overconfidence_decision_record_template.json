@@ -1,0 +1,23 @@
+{
+  "article": "Overconfidence and Decision Failure",
+  "decision_context": "",
+  "decision_owner": "",
+  "confidence_claims": [],
+  "forecast_probabilities": [],
+  "uncertainty_ranges": [],
+  "reference_classes": [],
+  "assumptions": [],
+  "disconfirming_evidence": [],
+  "dissent": [],
+  "model_outputs_used": [],
+  "model_limitations": [],
+  "planning_estimates": {
+    "estimated_duration": null,
+    "estimated_cost": null,
+    "confidence_interval": ""
+  },
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

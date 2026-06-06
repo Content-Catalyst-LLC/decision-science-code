@@ -1,0 +1,2 @@
+record_id,decision_context,confidence,uncertainty_range,selected_action,rationale,review_trigger
+DR1,Overconfidence review,0.82,"medium",Review,Confidence exceeds evidence quality and interval coverage is weak,review if confidence error exceeds threshold

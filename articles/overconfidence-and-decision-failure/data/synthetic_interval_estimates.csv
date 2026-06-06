@@ -1,0 +1,7 @@
+case_id,domain,estimate_type,lower_bound,central_estimate,upper_bound,actual_value
+1,Public Policy,duration,90,120,150,154
+2,Healthcare,duration,70,90,110,96
+3,Financial Risk,duration,35,45,55,58
+4,Infrastructure,cost,4200000,5000000,5800000,7200000
+5,AI Governance,cost,950000,1200000,1450000,1680000
+6,Organizational Strategy,cost,700000,900000,1100000,1170000

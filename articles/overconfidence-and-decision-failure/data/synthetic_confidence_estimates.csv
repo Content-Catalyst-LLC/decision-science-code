@@ -1,0 +1,11 @@
+case_id,domain,confidence,accuracy_proxy,confidence_source
+1,Public Policy,0.78,0.86,expert judgment
+2,Healthcare,0.90,0.97,clinical review
+3,Financial Risk,0.72,0.81,forecast model
+4,Infrastructure,0.76,0.69,project team
+5,AI Governance,0.88,0.52,automated score
+6,Organizational Strategy,0.80,0.82,leadership estimate
+7,Public Policy,0.62,0.88,policy analyst
+8,Healthcare,0.86,0.93,clinical team
+9,Financial Risk,0.85,0.63,risk model
+10,Infrastructure,0.70,0.58,planning office

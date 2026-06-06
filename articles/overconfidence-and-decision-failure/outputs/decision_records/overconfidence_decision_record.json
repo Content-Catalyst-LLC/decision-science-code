@@ -1,0 +1,321 @@
+{
+  "article": "Overconfidence and Decision Failure",
+  "decision_context": "Evaluating confidence error, forecast calibration, interval coverage, planning bias, and review triggers.",
+  "modeling_principles": [
+    "Confidence should be compared with accuracy and evidence quality.",
+    "Forecast probabilities should be scored against outcomes.",
+    "Intervals should be checked for coverage to detect overprecision.",
+    "Planning estimates should be compared with actual cost and duration.",
+    "Decision records should preserve confidence, uncertainty ranges, assumptions, dissent, and review triggers before outcomes are known."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "mean_brier_score",
+      "value": 0.186607
+    },
+    {
+      "metric": "expected_calibration_error",
+      "value": 0.092054
+    },
+    {
+      "metric": "mean_confidence_error",
+      "value": -0.063935
+    },
+    {
+      "metric": "duration_interval_coverage",
+      "value": 0.345556
+    },
+    {
+      "metric": "cost_interval_coverage",
+      "value": 0.304444
+    },
+    {
+      "metric": "mean_duration_planning_error",
+      "value": 0.262871
+    },
+    {
+      "metric": "mean_cost_planning_error",
+      "value": 0.272147
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.915556
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_cases": 164,
+      "average_forecast_probability": 0.535054,
+      "observed_frequency": 0.426829,
+      "average_confidence": 0.753965,
+      "average_brier_score": 0.184494,
+      "average_confidence_error": -0.061541,
+      "duration_interval_coverage": 0.371951,
+      "cost_interval_coverage": 0.365854,
+      "average_duration_planning_error": 0.22955,
+      "average_cost_planning_error": 0.316754,
+      "review_rate": 0.865854
+    },
+    {
+      "domain": "Financial Risk",
+      "n_cases": 141,
+      "average_forecast_probability": 0.51835,
+      "observed_frequency": 0.397163,
+      "average_confidence": 0.748119,
+      "average_brier_score": 0.194237,
+      "average_confidence_error": -0.057644,
+      "duration_interval_coverage": 0.347518,
+      "cost_interval_coverage": 0.312057,
+      "average_duration_planning_error": 0.288074,
+      "average_cost_planning_error": 0.234544,
+      "review_rate": 0.921986
+    },
+    {
+      "domain": "Healthcare",
+      "n_cases": 137,
+      "average_forecast_probability": 0.538797,
+      "observed_frequency": 0.394161,
+      "average_confidence": 0.763539,
+      "average_brier_score": 0.19374,
+      "average_confidence_error": -0.042721,
+      "duration_interval_coverage": 0.343066,
+      "cost_interval_coverage": 0.277372,
+      "average_duration_planning_error": 0.257825,
+      "average_cost_planning_error": 0.234174,
+      "review_rate": 0.934307
+    },
+    {
+      "domain": "Infrastructure",
+      "n_cases": 149,
+      "average_forecast_probability": 0.522024,
+      "observed_frequency": 0.409396,
+      "average_confidence": 0.733866,
+      "average_brier_score": 0.17904,
+      "average_confidence_error": -0.087093,
+      "duration_interval_coverage": 0.308725,
+      "cost_interval_coverage": 0.315436,
+      "average_duration_planning_error": 0.23016,
+      "average_cost_planning_error": 0.23261,
+      "review_rate": 0.912752
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_cases": 164,
+      "average_forecast_probability": 0.53591,
+      "observed_frequency": 0.493902,
+      "average_confidence": 0.753015,
+      "average_brier_score": 0.190266,
+      "average_confidence_error": -0.056719,
+      "duration_interval_coverage": 0.359756,
+      "cost_interval_coverage": 0.304878,
+      "average_duration_planning_error": 0.308103,
+      "average_cost_planning_error": 0.315635,
+      "review_rate": 0.932927
+    },
+    {
+      "domain": "Public Policy",
+      "n_cases": 145,
+      "average_forecast_probability": 0.541556,
+      "observed_frequency": 0.510345,
+      "average_confidence": 0.744351,
+      "average_brier_score": 0.178478,
+      "average_confidence_error": -0.07717,
+      "duration_interval_coverage": 0.337931,
+      "cost_interval_coverage": 0.241379,
+      "average_duration_planning_error": 0.26327,
+      "average_cost_planning_error": 0.285578,
+      "review_rate": 0.931034
+    }
+  ],
+  "evidence_quality_summary": [
+    {
+      "evidence_quality": "high",
+      "n_cases": 214,
+      "average_forecast_probability": 0.566362,
+      "observed_frequency": 0.457944,
+      "average_confidence": 0.735213,
+      "average_brier_score": 0.188066,
+      "average_confidence_error": -0.076721,
+      "duration_interval_coverage": 0.327103,
+      "cost_interval_coverage": 0.28972,
+      "average_duration_planning_error": 0.317204,
+      "average_cost_planning_error": 0.267817,
+      "review_rate": 0.925234
+    },
+    {
+      "evidence_quality": "low",
+      "n_cases": 195,
+      "average_forecast_probability": 0.533567,
+      "observed_frequency": 0.430769,
+      "average_confidence": 0.750049,
+      "average_brier_score": 0.180958,
+      "average_confidence_error": -0.068992,
+      "duration_interval_coverage": 0.389744,
+      "cost_interval_coverage": 0.307692,
+      "average_duration_planning_error": 0.266122,
+      "average_cost_planning_error": 0.194433,
+      "review_rate": 0.902564
+    },
+    {
+      "evidence_quality": "medium",
+      "n_cases": 491,
+      "average_forecast_probability": 0.516499,
+      "observed_frequency": 0.435845,
+      "average_confidence": 0.75543,
+      "average_brier_score": 0.188215,
+      "average_confidence_error": -0.056355,
+      "duration_interval_coverage": 0.336049,
+      "cost_interval_coverage": 0.309572,
+      "average_duration_planning_error": 0.237899,
+      "average_cost_planning_error": 0.304897,
+      "review_rate": 0.916497
+    }
+  ],
+  "confidence_summary": [
+    {
+      "confidence_flag": "approximately calibrated",
+      "n_cases": 395,
+      "average_forecast_probability": 0.502362,
+      "observed_frequency": 0.405063,
+      "average_confidence": 0.813573,
+      "average_brier_score": 0.165405,
+      "average_confidence_error": -0.021023,
+      "duration_interval_coverage": 0.351899,
+      "cost_interval_coverage": 0.281013,
+      "average_duration_planning_error": 0.254887,
+      "average_cost_planning_error": 0.281307,
+      "review_rate": 0.903797
+    },
+    {
+      "confidence_flag": "overconfident",
+      "n_cases": 161,
+      "average_forecast_probability": 0.585527,
+      "observed_frequency": 0.304348,
+      "average_confidence": 0.838027,
+      "average_brier_score": 0.489093,
+      "average_confidence_error": 0.32712,
+      "duration_interval_coverage": 0.354037,
+      "cost_interval_coverage": 0.341615,
+      "average_duration_planning_error": 0.267502,
+      "average_cost_planning_error": 0.264728,
+      "review_rate": 1.0
+    },
+    {
+      "confidence_flag": "underconfident",
+      "n_cases": 344,
+      "average_forecast_probability": 0.541119,
+      "observed_frequency": 0.543605,
+      "average_confidence": 0.634383,
+      "average_brier_score": 0.069383,
+      "average_confidence_error": -0.296233,
+      "duration_interval_coverage": 0.334302,
+      "cost_interval_coverage": 0.313953,
+      "average_duration_planning_error": 0.269871,
+      "average_cost_planning_error": 0.265101,
+      "review_rate": 0.889535
+    }
+  ],
+  "calibration_summary": [
+    {
+      "probability_bin": "[0.1,0.2)",
+      "n_cases": 105,
+      "average_forecast_probability": 0.153723,
+      "observed_frequency": 0.066667,
+      "calibration_gap": 0.087057,
+      "absolute_calibration_gap": 0.087057,
+      "weighted_calibration_error": 0.010157,
+      "average_brier_score": 0.068201,
+      "average_confidence": 0.757247
+    },
+    {
+      "probability_bin": "[0.2,0.3)",
+      "n_cases": 98,
+      "average_forecast_probability": 0.252398,
+      "observed_frequency": 0.122449,
+      "calibration_gap": 0.129949,
+      "absolute_calibration_gap": 0.129949,
+      "weighted_calibration_error": 0.01415,
+      "average_brier_score": 0.122238,
+      "average_confidence": 0.751202
+    },
+    {
+      "probability_bin": "[0.3,0.4)",
+      "n_cases": 104,
+      "average_forecast_probability": 0.343793,
+      "observed_frequency": 0.230769,
+      "calibration_gap": 0.113024,
+      "absolute_calibration_gap": 0.113024,
+      "weighted_calibration_error": 0.013061,
+      "average_brier_score": 0.190432,
+      "average_confidence": 0.751775
+    },
+    {
+      "probability_bin": "[0.4,0.5)",
+      "n_cases": 104,
+      "average_forecast_probability": 0.453004,
+      "observed_frequency": 0.375,
+      "calibration_gap": 0.078004,
+      "absolute_calibration_gap": 0.078004,
+      "weighted_calibration_error": 0.009014,
+      "average_brier_score": 0.241364,
+      "average_confidence": 0.775899
+    },
+    {
+      "probability_bin": "[0.5,0.6)",
+      "n_cases": 110,
+      "average_forecast_probability": 0.557908,
+      "observed_frequency": 0.445455,
+      "calibration_gap": 0.112454,
+      "absolute_calibration_gap": 0.112454,
+      "weighted_calibration_error": 0.013744,
+      "average_brier_score": 0.257875,
+      "average_confidence": 0.750058
+    },
+    {
+      "probability_bin": "[0.6,0.7)",
+      "n_cases": 115,
+      "average_forecast_probability": 0.64969,
+      "observed_frequency": 0.513043,
+      "calibration_gap": 0.136646,
+      "absolute_calibration_gap": 0.136646,
+      "weighted_calibration_error": 0.01746,
+      "average_brier_score": 0.26858,
+      "average_confidence": 0.710285
+    },
+    {
+      "probability_bin": "[0.7,0.8)",
+      "n_cases": 101,
+      "average_forecast_probability": 0.751424,
+      "observed_frequency": 0.693069,
+      "calibration_gap": 0.058355,
+      "absolute_calibration_gap": 0.058355,
+      "weighted_calibration_error": 0.006549,
+      "average_brier_score": 0.216437,
+      "average_confidence": 0.745334
+    },
+    {
+      "probability_bin": "[0.8,0.9)",
+      "n_cases": 109,
+      "average_forecast_probability": 0.855756,
+      "observed_frequency": 0.834862,
+      "calibration_gap": 0.020893,
+      "absolute_calibration_gap": 0.020893,
+      "weighted_calibration_error": 0.00253,
+      "average_brier_score": 0.136193,
+      "average_confidence": 0.757614
+    },
+    {
+      "probability_bin": "[0.9,1.0]",
+      "n_cases": 54,
+      "average_forecast_probability": 0.923142,
+      "observed_frequency": 0.833333,
+      "calibration_gap": 0.089808,
+      "absolute_calibration_gap": 0.089808,
+      "weighted_calibration_error": 0.005389,
+      "average_brier_score": 0.147061,
+      "average_confidence": 0.7492
+    }
+  ],
+  "review_queue_size": 824
+}

@@ -1,0 +1,74 @@
+{
+  "article": "Adaptive Decision Pathways",
+  "decision_context": "Simulating trigger-based movement across adaptive decision pathways under changing stress and option value.",
+  "parameters": {
+    "time_steps": 40.0,
+    "random_seed": 42.0,
+    "initial_system_stress": 0.3,
+    "initial_option_value": 0.82,
+    "stress_trigger": 0.68,
+    "option_value_trigger": 0.4
+  },
+  "pathways": {
+    "baseline_path": {
+      "performance": 0.74,
+      "flexibility": 0.42,
+      "switching_cost": 0.22,
+      "fallback_strength": 0.38
+    },
+    "moderate_adaptation_path": {
+      "performance": 0.76,
+      "flexibility": 0.72,
+      "switching_cost": 0.34,
+      "fallback_strength": 0.68
+    },
+    "high_resilience_path": {
+      "performance": 0.78,
+      "flexibility": 0.84,
+      "switching_cost": 0.48,
+      "fallback_strength": 0.82
+    }
+  },
+  "summary_metrics": [
+    {
+      "metric": "average_performance",
+      "value": 0.670504
+    },
+    {
+      "metric": "worst_case_performance",
+      "value": 0.643904
+    },
+    {
+      "metric": "final_system_stress",
+      "value": 0.508064
+    },
+    {
+      "metric": "peak_system_stress",
+      "value": 0.508064
+    },
+    {
+      "metric": "final_option_value",
+      "value": 0.4824
+    },
+    {
+      "metric": "minimum_option_value",
+      "value": 0.4824
+    },
+    {
+      "metric": "trigger_count",
+      "value": 0
+    },
+    {
+      "metric": "pathway_switch_count",
+      "value": 0
+    }
+  ],
+  "recommendation": "continue_monitoring_with_adaptive_review",
+  "modeling_principles": [
+    "Adaptive pathways separate initial action from future revision.",
+    "Trigger points connect monitoring indicators to decision authority.",
+    "Option value can decline when switching costs rise or flexibility erodes.",
+    "Fallback strength improves performance under stress.",
+    "Decision records should preserve assumptions, thresholds, switching rules, and revision authority."
+  ]
+}

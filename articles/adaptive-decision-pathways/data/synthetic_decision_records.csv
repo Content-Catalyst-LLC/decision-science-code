@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Adaptive decision pathway review,Modular Adaptive Path,Strong flexibility monitoring trigger clarity and fallback capacity,review if stress trigger or option-value trigger is reached

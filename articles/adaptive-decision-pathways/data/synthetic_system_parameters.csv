@@ -1,0 +1,7 @@
+parameter,value,description
+time_steps,40,Number of simulated time steps
+random_seed,42,Random seed for reproducibility
+initial_system_stress,0.30,Initial system stress
+initial_option_value,0.82,Initial option value
+stress_trigger,0.68,System stress threshold for switching
+option_value_trigger,0.40,Option value threshold for switching

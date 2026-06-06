@@ -1,0 +1,3 @@
+"pathway","initial_performance","flexibility","monitoring_quality","trigger_clarity","switching_cost","fallback_strength","description","adaptive_pathway_score","review_flag","average_performance","worst_case_performance","performance_range","threshold_pass_rate","robust_adaptive_score","rank"
+"Wait-and-See Path",0.52,0.86,0.58,0.36,0.3,0.48,"Preserves flexibility but delays early action and has weak trigger clarity",0.4596,"review",0.632,0.58,0.12,0.2,0.44596,5
+"Fixed Commitment Path",0.82,0.28,0.4,0.22,0.78,0.24,"Strong baseline performance but weak flexibility triggers and fallback capacity",0.2632,"review",0.536,0.4,0.44,0.2,0.3052,6

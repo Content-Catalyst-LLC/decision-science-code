@@ -1,0 +1,9 @@
+threshold_name,value,description
+low_trigger_clarity,0.45,Trigger clarity level requiring review
+low_monitoring_quality,0.45,Monitoring quality level requiring review
+high_switching_cost,0.70,Switching cost level requiring review
+low_fallback_strength,0.45,Fallback strength level requiring review
+low_worst_case_performance,0.60,Worst-case performance level requiring review
+low_threshold_pass_rate,0.60,Scenario pass rate requiring review
+stress_trigger,0.68,System stress level triggering pathway switch
+option_value_trigger,0.40,Option value level triggering pathway switch

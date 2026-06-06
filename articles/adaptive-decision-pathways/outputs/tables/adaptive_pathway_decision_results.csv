@@ -1,0 +1,7 @@
+"pathway","initial_performance","flexibility","monitoring_quality","trigger_clarity","switching_cost","fallback_strength","description","adaptive_pathway_score","review_flag","average_performance","worst_case_performance","performance_range","threshold_pass_rate","robust_adaptive_score","rank"
+"Modular Adaptive Path",0.76,0.88,0.82,0.8,0.38,0.84,"Combines initial action with modularity monitoring and strong fallback capacity",0.6752,"acceptable",0.78,0.74,0.08,1,0.72776,1
+"Portfolio Pathway",0.78,0.84,0.78,0.76,0.52,0.86,"Maintains a portfolio of pathways and switches based on evidence",0.646,"acceptable",0.792,0.76,0.08,1,0.72628,2
+"Trigger-Based Escalation Path",0.74,0.8,0.88,0.92,0.46,0.8,"Uses clear thresholds to escalate before adaptation space closes",0.6688,"acceptable",0.768,0.72,0.12,1,0.71616,3
+"Low-Regret Initial Action",0.72,0.72,0.74,0.7,0.44,0.7,"Takes useful early action while preserving future alternatives",0.5772,"acceptable",0.714,0.68,0.0599999999999999,0.8,0.63452,4
+"Wait-and-See Path",0.52,0.86,0.58,0.36,0.3,0.48,"Preserves flexibility but delays early action and has weak trigger clarity",0.4596,"review",0.632,0.58,0.12,0.2,0.44596,5
+"Fixed Commitment Path",0.82,0.28,0.4,0.22,0.78,0.24,"Strong baseline performance but weak flexibility triggers and fallback capacity",0.2632,"review",0.536,0.4,0.44,0.2,0.3052,6

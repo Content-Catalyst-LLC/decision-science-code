@@ -1,0 +1,7 @@
+pathway,initial_performance,flexibility,monitoring_quality,trigger_clarity,switching_cost,fallback_strength,description
+Fixed Commitment Path,0.82,0.28,0.40,0.22,0.78,0.24,Strong baseline performance but weak flexibility triggers and fallback capacity
+Wait-and-See Path,0.52,0.86,0.58,0.36,0.30,0.48,Preserves flexibility but delays early action and has weak trigger clarity
+Low-Regret Initial Action,0.72,0.72,0.74,0.70,0.44,0.70,Takes useful early action while preserving future alternatives
+Modular Adaptive Path,0.76,0.88,0.82,0.80,0.38,0.84,Combines initial action with modularity monitoring and strong fallback capacity
+Trigger-Based Escalation Path,0.74,0.80,0.88,0.92,0.46,0.80,Uses clear thresholds to escalate before adaptation space closes
+Portfolio Pathway,0.78,0.84,0.78,0.76,0.52,0.86,Maintains a portfolio of pathways and switches based on evidence

@@ -1,0 +1,9 @@
+metric,value
+average_performance,0.670504
+worst_case_performance,0.643904
+final_system_stress,0.508064
+peak_system_stress,0.508064
+final_option_value,0.4824
+minimum_option_value,0.4824
+trigger_count,0
+pathway_switch_count,0

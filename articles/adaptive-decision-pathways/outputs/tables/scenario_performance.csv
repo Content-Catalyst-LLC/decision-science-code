@@ -1,0 +1,31 @@
+"pathway","scenario","performance"
+"Fixed Commitment Path","baseline",0.84
+"Fixed Commitment Path","accelerating_risk",0.48
+"Fixed Commitment Path","cost_pressure",0.52
+"Fixed Commitment Path","technology_shift",0.44
+"Fixed Commitment Path","stakeholder_conflict",0.4
+"Wait-and-See Path","baseline",0.58
+"Wait-and-See Path","accelerating_risk",0.66
+"Wait-and-See Path","cost_pressure",0.62
+"Wait-and-See Path","technology_shift",0.7
+"Wait-and-See Path","stakeholder_conflict",0.6
+"Low-Regret Initial Action","baseline",0.74
+"Low-Regret Initial Action","accelerating_risk",0.72
+"Low-Regret Initial Action","cost_pressure",0.7
+"Low-Regret Initial Action","technology_shift",0.73
+"Low-Regret Initial Action","stakeholder_conflict",0.68
+"Modular Adaptive Path","baseline",0.78
+"Modular Adaptive Path","accelerating_risk",0.8
+"Modular Adaptive Path","cost_pressure",0.74
+"Modular Adaptive Path","technology_shift",0.82
+"Modular Adaptive Path","stakeholder_conflict",0.76
+"Trigger-Based Escalation Path","baseline",0.76
+"Trigger-Based Escalation Path","accelerating_risk",0.84
+"Trigger-Based Escalation Path","cost_pressure",0.72
+"Trigger-Based Escalation Path","technology_shift",0.78
+"Trigger-Based Escalation Path","stakeholder_conflict",0.74
+"Portfolio Pathway","baseline",0.8
+"Portfolio Pathway","accelerating_risk",0.78
+"Portfolio Pathway","cost_pressure",0.76
+"Portfolio Pathway","technology_shift",0.84
+"Portfolio Pathway","stakeholder_conflict",0.78

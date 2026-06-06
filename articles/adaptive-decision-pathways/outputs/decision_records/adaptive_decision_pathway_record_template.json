@@ -1,0 +1,29 @@
+{
+  "article": "Adaptive Decision Pathways",
+  "decision_context": "",
+  "decision_owner": "",
+  "system_boundary": "",
+  "time_horizon": "",
+  "stakeholders": [],
+  "key_uncertainties": [],
+  "initial_action": "",
+  "future_options": [],
+  "monitoring_indicators": [],
+  "trigger_points": [],
+  "switching_rules": [],
+  "fallback_options": [],
+  "scenario_tests": [],
+  "option_value_considerations": [],
+  "switching_costs": [],
+  "governance_roles": {
+    "indicator_owner": "",
+    "trigger_authority": "",
+    "switching_authority": "",
+    "review_owner": ""
+  },
+  "stakeholder_review_points": [],
+  "selected_pathway": "",
+  "rationale": "",
+  "dissent_or_contested_assumptions": [],
+  "revision_history": []
+}

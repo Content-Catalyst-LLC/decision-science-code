@@ -1,0 +1,7 @@
+"pathway","average_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Fixed Commitment Path",0.536,0.4,0.44,0.2
+"Low-Regret Initial Action",0.714,0.68,0.0599999999999999,0.8
+"Modular Adaptive Path",0.78,0.74,0.08,1
+"Portfolio Pathway",0.792,0.76,0.08,1
+"Trigger-Based Escalation Path",0.768,0.72,0.12,1
+"Wait-and-See Path",0.632,0.58,0.12,0.2

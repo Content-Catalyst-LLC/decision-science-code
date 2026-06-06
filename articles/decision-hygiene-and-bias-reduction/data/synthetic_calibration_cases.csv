@@ -1,0 +1,11 @@
+case_id,forecast_probability,outcome,confidence_source
+1,0.62,1,independent estimate
+2,0.78,1,expert judgment
+3,0.44,0,model output
+4,0.56,1,group forecast
+5,0.69,0,AI score
+6,0.58,1,leadership estimate
+7,0.35,0,policy forecast
+8,0.82,1,clinical estimate
+9,0.61,0,risk model
+10,0.48,1,planning estimate

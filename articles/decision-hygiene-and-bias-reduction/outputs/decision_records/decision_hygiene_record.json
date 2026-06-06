@@ -1,0 +1,486 @@
+{
+  "article": "Decision Hygiene and Bias Reduction",
+  "decision_context": "Evaluating whether decision hygiene practices reduce bias, noise, mean squared error, miscalibration, and review risk.",
+  "modeling_principles": [
+    "Decision hygiene should reduce predictable bias and unwanted noise.",
+    "Bias reduction should be measured, not merely asserted.",
+    "Independent estimates, base-rate checks, structured dissent, calibration review, decision records, and model validation support cleaner judgment.",
+    "Decision records should preserve assumptions, uncertainty, dissent, confidence, and review triggers.",
+    "Bias reduction should be scaled to stakes, uncertainty, reversibility, and harm potential."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "pre_bias",
+      "value": 0.051317
+    },
+    {
+      "metric": "post_bias",
+      "value": 0.036332
+    },
+    {
+      "metric": "bias_reduction",
+      "value": 0.014986
+    },
+    {
+      "metric": "pre_noise",
+      "value": 0.109728
+    },
+    {
+      "metric": "post_noise",
+      "value": 0.086686
+    },
+    {
+      "metric": "noise_reduction",
+      "value": 0.023041
+    },
+    {
+      "metric": "pre_mse",
+      "value": 0.01466
+    },
+    {
+      "metric": "post_mse",
+      "value": 0.008826
+    },
+    {
+      "metric": "mse_reduction",
+      "value": 0.005834
+    },
+    {
+      "metric": "expected_calibration_error",
+      "value": 0.046027
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.638889
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_cases": 156,
+      "pre_bias": 0.044822,
+      "post_bias": 0.043793,
+      "bias_reduction": 0.001028,
+      "pre_noise": 0.106551,
+      "post_noise": 0.088107,
+      "noise_reduction": 0.018444,
+      "pre_mse": 0.013289,
+      "post_mse": 0.009631,
+      "mse_reduction": 0.003658,
+      "mean_error_reduction": 0.011981,
+      "mean_brier_improvement": 0.019286,
+      "review_rate": 0.724359
+    },
+    {
+      "domain": "Financial Risk",
+      "n_cases": 166,
+      "pre_bias": 0.054704,
+      "post_bias": 0.037521,
+      "bias_reduction": 0.017182,
+      "pre_noise": 0.107119,
+      "post_noise": 0.083501,
+      "noise_reduction": 0.023617,
+      "pre_mse": 0.014398,
+      "post_mse": 0.008338,
+      "mse_reduction": 0.006059,
+      "mean_error_reduction": 0.023146,
+      "mean_brier_improvement": 0.006929,
+      "review_rate": 0.60241
+    },
+    {
+      "domain": "Healthcare",
+      "n_cases": 137,
+      "pre_bias": 0.049074,
+      "post_bias": 0.042041,
+      "bias_reduction": 0.007033,
+      "pre_noise": 0.119847,
+      "post_noise": 0.088478,
+      "noise_reduction": 0.031369,
+      "pre_mse": 0.016667,
+      "post_mse": 0.009539,
+      "mse_reduction": 0.007128,
+      "mean_error_reduction": 0.022684,
+      "mean_brier_improvement": 0.001311,
+      "review_rate": 0.613139
+    },
+    {
+      "domain": "Infrastructure",
+      "n_cases": 144,
+      "pre_bias": 0.056088,
+      "post_bias": 0.032238,
+      "bias_reduction": 0.023851,
+      "pre_noise": 0.120836,
+      "post_noise": 0.092519,
+      "noise_reduction": 0.028317,
+      "pre_mse": 0.017646,
+      "post_mse": 0.00954,
+      "mse_reduction": 0.008106,
+      "mean_error_reduction": 0.028873,
+      "mean_brier_improvement": 0.018055,
+      "review_rate": 0.680556
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_cases": 164,
+      "pre_bias": 0.047197,
+      "post_bias": 0.027618,
+      "bias_reduction": 0.01958,
+      "pre_noise": 0.092133,
+      "post_noise": 0.087827,
+      "noise_reduction": 0.004306,
+      "pre_mse": 0.010664,
+      "post_mse": 0.008429,
+      "mse_reduction": 0.002235,
+      "mean_error_reduction": 0.011817,
+      "mean_brier_improvement": 0.00862,
+      "review_rate": 0.621951
+    },
+    {
+      "domain": "Public Policy",
+      "n_cases": 133,
+      "pre_bias": 0.056936,
+      "post_bias": 0.035391,
+      "bias_reduction": 0.021545,
+      "pre_noise": 0.114371,
+      "post_noise": 0.079174,
+      "noise_reduction": 0.035196,
+      "pre_mse": 0.016224,
+      "post_mse": 0.007474,
+      "mse_reduction": 0.00875,
+      "mean_error_reduction": 0.035178,
+      "mean_brier_improvement": 0.004843,
+      "review_rate": 0.586466
+    }
+  ],
+  "practice_summary": [
+    {
+      "hygiene_practice": "base_rate_check",
+      "n_cases": 123,
+      "pre_bias": 0.06026,
+      "post_bias": 0.035691,
+      "bias_reduction": 0.024569,
+      "pre_noise": 0.108447,
+      "post_noise": 0.086062,
+      "noise_reduction": 0.022386,
+      "pre_mse": 0.015297,
+      "post_mse": 0.00862,
+      "mse_reduction": 0.006676,
+      "mean_error_reduction": 0.026495,
+      "mean_brier_improvement": 0.008223,
+      "review_rate": 0.617886
+    },
+    {
+      "hygiene_practice": "calibration_review",
+      "n_cases": 126,
+      "pre_bias": 0.048307,
+      "post_bias": 0.04217,
+      "bias_reduction": 0.006137,
+      "pre_noise": 0.105115,
+      "post_noise": 0.079796,
+      "noise_reduction": 0.025319,
+      "pre_mse": 0.013295,
+      "post_mse": 0.008095,
+      "mse_reduction": 0.0052,
+      "mean_error_reduction": 0.023328,
+      "mean_brier_improvement": 0.011095,
+      "review_rate": 0.539683
+    },
+    {
+      "hygiene_practice": "decision_record",
+      "n_cases": 125,
+      "pre_bias": 0.049774,
+      "post_bias": 0.037853,
+      "bias_reduction": 0.011921,
+      "pre_noise": 0.104814,
+      "post_noise": 0.088283,
+      "noise_reduction": 0.016531,
+      "pre_mse": 0.013376,
+      "post_mse": 0.009164,
+      "mse_reduction": 0.004211,
+      "mean_error_reduction": 0.013948,
+      "mean_brier_improvement": -0.003569,
+      "review_rate": 0.704
+    },
+    {
+      "hygiene_practice": "independent_estimates",
+      "n_cases": 132,
+      "pre_bias": 0.035716,
+      "post_bias": 0.028743,
+      "bias_reduction": 0.006973,
+      "pre_noise": 0.11359,
+      "post_noise": 0.088212,
+      "noise_reduction": 0.025378,
+      "pre_mse": 0.01408,
+      "post_mse": 0.008548,
+      "mse_reduction": 0.005532,
+      "mean_error_reduction": 0.019432,
+      "mean_brier_improvement": 0.004394,
+      "review_rate": 0.681818
+    },
+    {
+      "hygiene_practice": "model_validation",
+      "n_cases": 146,
+      "pre_bias": 0.061926,
+      "post_bias": 0.04418,
+      "bias_reduction": 0.017746,
+      "pre_noise": 0.11724,
+      "post_noise": 0.093055,
+      "noise_reduction": 0.024184,
+      "pre_mse": 0.017486,
+      "post_mse": 0.010552,
+      "mse_reduction": 0.006934,
+      "mean_error_reduction": 0.021597,
+      "mean_brier_improvement": 0.025641,
+      "review_rate": 0.712329
+    },
+    {
+      "hygiene_practice": "premortem",
+      "n_cases": 124,
+      "pre_bias": 0.046017,
+      "post_bias": 0.035593,
+      "bias_reduction": 0.010423,
+      "pre_noise": 0.107375,
+      "post_noise": 0.092184,
+      "noise_reduction": 0.015191,
+      "pre_mse": 0.013554,
+      "post_mse": 0.009696,
+      "mse_reduction": 0.003858,
+      "mean_error_reduction": 0.015976,
+      "mean_brier_improvement": 0.007474,
+      "review_rate": 0.580645
+    },
+    {
+      "hygiene_practice": "structured_dissent",
+      "n_cases": 124,
+      "pre_bias": 0.056479,
+      "post_bias": 0.029076,
+      "bias_reduction": 0.027403,
+      "pre_noise": 0.109612,
+      "post_noise": 0.077645,
+      "noise_reduction": 0.031968,
+      "pre_mse": 0.015108,
+      "post_mse": 0.006825,
+      "mse_reduction": 0.008282,
+      "mean_error_reduction": 0.031873,
+      "mean_brier_improvement": 0.014375,
+      "review_rate": 0.620968
+    }
+  ],
+  "bias_source_summary": [
+    {
+      "bias_source": "anchoring",
+      "n_cases": 123,
+      "pre_bias": 0.08108,
+      "post_bias": 0.066303,
+      "bias_reduction": 0.014777,
+      "pre_noise": 0.09083,
+      "post_noise": 0.078784,
+      "noise_reduction": 0.012046,
+      "pre_mse": 0.014757,
+      "post_mse": 0.010552,
+      "mse_reduction": 0.004204,
+      "mean_error_reduction": 0.018113,
+      "mean_brier_improvement": 0.003957,
+      "review_rate": 0.650407
+    },
+    {
+      "bias_source": "availability",
+      "n_cases": 131,
+      "pre_bias": 0.003726,
+      "post_bias": -0.006455,
+      "bias_reduction": -0.00273,
+      "pre_noise": 0.11893,
+      "post_noise": 0.082771,
+      "noise_reduction": 0.036158,
+      "pre_mse": 0.01405,
+      "post_mse": 0.00684,
+      "mse_reduction": 0.00721,
+      "mean_error_reduction": 0.026458,
+      "mean_brier_improvement": 0.011751,
+      "review_rate": 0.656489
+    },
+    {
+      "bias_source": "confirmation",
+      "n_cases": 123,
+      "pre_bias": 0.070485,
+      "post_bias": 0.058074,
+      "bias_reduction": 0.012411,
+      "pre_noise": 0.094791,
+      "post_noise": 0.072007,
+      "noise_reduction": 0.022784,
+      "pre_mse": 0.01388,
+      "post_mse": 0.008515,
+      "mse_reduction": 0.005365,
+      "mean_error_reduction": 0.021194,
+      "mean_brier_improvement": 0.00949,
+      "review_rate": 0.674797
+    },
+    {
+      "bias_source": "framing",
+      "n_cases": 128,
+      "pre_bias": 0.000367,
+      "post_bias": 0.004691,
+      "bias_reduction": -0.004324,
+      "pre_noise": 0.110866,
+      "post_noise": 0.088552,
+      "noise_reduction": 0.022314,
+      "pre_mse": 0.012195,
+      "post_mse": 0.007802,
+      "mse_reduction": 0.004393,
+      "mean_error_reduction": 0.017289,
+      "mean_brier_improvement": 0.010706,
+      "review_rate": 0.65625
+    },
+    {
+      "bias_source": "groupthink",
+      "n_cases": 131,
+      "pre_bias": 0.006143,
+      "post_bias": 0.00744,
+      "bias_reduction": -0.001298,
+      "pre_noise": 0.090688,
+      "post_noise": 0.08181,
+      "noise_reduction": 0.008879,
+      "pre_mse": 0.008199,
+      "post_mse": 0.006697,
+      "mse_reduction": 0.001502,
+      "mean_error_reduction": 0.007814,
+      "mean_brier_improvement": 0.003137,
+      "review_rate": 0.641221
+    },
+    {
+      "bias_source": "model_overtrust",
+      "n_cases": 119,
+      "pre_bias": 0.109314,
+      "post_bias": 0.074198,
+      "bias_reduction": 0.035116,
+      "pre_noise": 0.105894,
+      "post_noise": 0.087854,
+      "noise_reduction": 0.01804,
+      "pre_mse": 0.023069,
+      "post_mse": 0.013159,
+      "mse_reduction": 0.00991,
+      "mean_error_reduction": 0.030548,
+      "mean_brier_improvement": 0.020475,
+      "review_rate": 0.588235
+    },
+    {
+      "bias_source": "overconfidence",
+      "n_cases": 145,
+      "pre_bias": 0.091002,
+      "post_bias": 0.054076,
+      "bias_reduction": 0.036925,
+      "pre_noise": 0.093177,
+      "post_noise": 0.076202,
+      "noise_reduction": 0.016975,
+      "pre_mse": 0.016903,
+      "post_mse": 0.008691,
+      "mse_reduction": 0.008212,
+      "mean_error_reduction": 0.030489,
+      "mean_brier_improvement": 0.01093,
+      "review_rate": 0.606897
+    }
+  ],
+  "calibration_summary": [
+    {
+      "probability_bin": "[0.0,0.1)",
+      "n_cases": 18,
+      "average_probability": 0.056725,
+      "observed_frequency": 0.166667,
+      "calibration_gap": -0.109942,
+      "absolute_calibration_gap": 0.109942,
+      "weighted_calibration_error": 0.002199,
+      "average_brier_score": 0.156196
+    },
+    {
+      "probability_bin": "[0.1,0.2)",
+      "n_cases": 63,
+      "average_probability": 0.156347,
+      "observed_frequency": 0.174603,
+      "calibration_gap": -0.018256,
+      "absolute_calibration_gap": 0.018256,
+      "weighted_calibration_error": 0.001278,
+      "average_brier_score": 0.14226
+    },
+    {
+      "probability_bin": "[0.2,0.3)",
+      "n_cases": 94,
+      "average_probability": 0.252103,
+      "observed_frequency": 0.191489,
+      "calibration_gap": 0.060613,
+      "absolute_calibration_gap": 0.060613,
+      "weighted_calibration_error": 0.006331,
+      "average_brier_score": 0.157225
+    },
+    {
+      "probability_bin": "[0.3,0.4)",
+      "n_cases": 108,
+      "average_probability": 0.347764,
+      "observed_frequency": 0.342593,
+      "calibration_gap": 0.005171,
+      "absolute_calibration_gap": 0.005171,
+      "weighted_calibration_error": 0.000621,
+      "average_brier_score": 0.227182
+    },
+    {
+      "probability_bin": "[0.4,0.5)",
+      "n_cases": 118,
+      "average_probability": 0.446676,
+      "observed_frequency": 0.449153,
+      "calibration_gap": -0.002476,
+      "absolute_calibration_gap": 0.002476,
+      "weighted_calibration_error": 0.000325,
+      "average_brier_score": 0.245186
+    },
+    {
+      "probability_bin": "[0.5,0.6)",
+      "n_cases": 115,
+      "average_probability": 0.549315,
+      "observed_frequency": 0.486957,
+      "calibration_gap": 0.062358,
+      "absolute_calibration_gap": 0.062358,
+      "weighted_calibration_error": 0.007968,
+      "average_brier_score": 0.251738
+    },
+    {
+      "probability_bin": "[0.6,0.7)",
+      "n_cases": 120,
+      "average_probability": 0.651079,
+      "observed_frequency": 0.566667,
+      "calibration_gap": 0.084413,
+      "absolute_calibration_gap": 0.084413,
+      "weighted_calibration_error": 0.011255,
+      "average_brier_score": 0.248478
+    },
+    {
+      "probability_bin": "[0.7,0.8)",
+      "n_cases": 107,
+      "average_probability": 0.753554,
+      "observed_frequency": 0.691589,
+      "calibration_gap": 0.061965,
+      "absolute_calibration_gap": 0.061965,
+      "weighted_calibration_error": 0.007367,
+      "average_brier_score": 0.216396
+    },
+    {
+      "probability_bin": "[0.8,0.9)",
+      "n_cases": 85,
+      "average_probability": 0.849308,
+      "observed_frequency": 0.776471,
+      "calibration_gap": 0.072837,
+      "absolute_calibration_gap": 0.072837,
+      "weighted_calibration_error": 0.006879,
+      "average_brier_score": 0.179274
+    },
+    {
+      "probability_bin": "[0.9,1.0]",
+      "n_cases": 72,
+      "average_probability": 0.953101,
+      "observed_frequency": 0.930556,
+      "calibration_gap": 0.022546,
+      "absolute_calibration_gap": 0.022546,
+      "weighted_calibration_error": 0.001804,
+      "average_brier_score": 0.063144
+    }
+  ],
+  "review_queue_size": 575
+}

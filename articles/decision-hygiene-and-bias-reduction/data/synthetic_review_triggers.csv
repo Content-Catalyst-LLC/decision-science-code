@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,post_absolute_error,above,0.15,decision review group
+RT2,post_brier_score,above,0.25,calibration lead
+RT3,error_reduction,below,0,process owner
+RT4,low_evidence_high_stakes,equal,1,governance lead
+RT5,calibration_gap,above,0.10,forecast review group

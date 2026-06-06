@@ -1,0 +1,11 @@
+case_id,domain,bias_source,hygiene_practice,true_value,evidence_quality,decision_stakes
+1,Public Policy,anchoring,independent_estimates,0.62,medium,high
+2,Healthcare,confirmation,structured_dissent,0.78,high,high
+3,Financial Risk,overconfidence,calibration_review,0.44,medium,high
+4,Infrastructure,availability,base_rate_check,0.56,medium,high
+5,AI Governance,model_overtrust,model_validation,0.69,low,high
+6,Organizational Strategy,groupthink,premortem,0.58,medium,medium
+7,Public Policy,framing,decision_record,0.35,low,medium
+8,Healthcare,anchoring,independent_estimates,0.82,high,high
+9,Financial Risk,model_overtrust,model_validation,0.61,medium,high
+10,Infrastructure,overconfidence,base_rate_check,0.48,low,high

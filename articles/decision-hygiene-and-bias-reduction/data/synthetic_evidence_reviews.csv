@@ -1,0 +1,6 @@
+evidence_id,case_id,claim,source_quality,evidence_type,disconfirming
+E1,1,reference-class data is available,high,base rate,false
+E2,1,implementation resistance is likely,medium,operational signal,true
+E3,2,diagnostic uncertainty remains,medium,clinical signal,true
+E4,3,tail risk is underestimated,medium,risk signal,true
+E5,5,model validation is incomplete,low,model evidence,true

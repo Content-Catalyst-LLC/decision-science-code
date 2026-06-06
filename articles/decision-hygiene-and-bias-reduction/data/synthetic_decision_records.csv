@@ -1,0 +1,2 @@
+record_id,decision_context,hygiene_practice,selected_action,rationale,review_trigger
+DR1,Decision hygiene review,structured_dissent,Review,High-stakes decision requires evidence-quality and dissent review,review if post-hygiene error exceeds threshold

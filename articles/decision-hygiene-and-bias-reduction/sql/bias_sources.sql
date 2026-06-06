@@ -1,0 +1,11 @@
+-- bias_sources.sql
+
+INSERT INTO bias_sources (bias_source, description, primary_hygiene_response)
+VALUES
+('anchoring', 'early numbers or opinions shape later judgment', 'independent estimates before discussion'),
+('availability', 'vivid or recent examples dominate perception', 'base-rate and representative evidence review'),
+('confirmation', 'supporting evidence receives too much attention', 'disconfirming evidence review'),
+('overconfidence', 'confidence exceeds evidence or accuracy', 'calibration and forecast scoring'),
+('framing', 'equivalent descriptions change choice', 'alternative frame testing'),
+('groupthink', 'agreement is prioritized over critical evaluation', 'structured dissent and premortem'),
+('model_overtrust', 'quantitative output is overinterpreted', 'model validation and uncertainty review');

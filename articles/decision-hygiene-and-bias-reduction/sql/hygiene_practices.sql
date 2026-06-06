@@ -1,0 +1,11 @@
+-- hygiene_practices.sql
+
+INSERT INTO hygiene_practices (hygiene_practice, description, target_failure_mode)
+VALUES
+('independent_estimates', 'collect judgments before discussion', 'anchoring and conformity'),
+('base_rate_check', 'compare case with reference class', 'base-rate neglect and planning fallacy'),
+('structured_dissent', 'require challenge and alternative hypotheses', 'groupthink and confirmation bias'),
+('premortem', 'assume the decision failed and identify why', 'overconfidence and planning fallacy'),
+('calibration_review', 'score confidence against outcomes', 'overconfidence and miscalibration'),
+('decision_record', 'document assumptions and dissent before outcomes', 'hindsight bias and accountability gaps'),
+('model_validation', 'check model assumptions and performance', 'false precision and automation bias');

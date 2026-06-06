@@ -1,0 +1,25 @@
+{
+  "article": "Decision Hygiene and Bias Reduction",
+  "decision_context": "",
+  "decision_owner": "",
+  "decision_rule": "",
+  "bias_risks": [],
+  "noise_risks": [],
+  "evidence_inventory": [],
+  "base_rates": [],
+  "reference_classes": [],
+  "independent_estimates": [],
+  "framing_checks": [],
+  "structured_dissent": [],
+  "model_or_ai_review": {
+    "model_used": "",
+    "validation_status": "",
+    "calibration_status": "",
+    "known_limitations": ""
+  },
+  "confidence_estimates": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

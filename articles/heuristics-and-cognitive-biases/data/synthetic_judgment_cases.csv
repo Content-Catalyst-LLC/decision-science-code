@@ -1,0 +1,11 @@
+case_id,domain,bias_profile,base_rate,evidence_signal,anchor,salience_multiplier,confirming_evidence,disconfirming_evidence
+1,Public Policy,availability,0.42,0.08,0.70,1.45,0.16,0.08
+2,Healthcare,representativeness,0.62,-0.10,0.55,1.10,0.12,0.20
+3,Financial Risk,anchoring,0.30,0.12,0.80,0.95,0.11,0.07
+4,Infrastructure,confirmation,0.38,0.09,0.60,1.20,0.24,0.06
+5,AI Governance,overconfidence,0.44,0.16,0.72,1.15,0.18,0.10
+6,Organizational Strategy,balanced,0.58,-0.03,0.62,0.90,0.08,0.14
+7,Public Policy,anchoring,0.46,-0.12,0.75,1.05,0.10,0.18
+8,Healthcare,availability,0.55,0.15,0.58,1.55,0.20,0.05
+9,Financial Risk,confirmation,0.28,0.06,0.48,1.30,0.26,0.04
+10,Infrastructure,overconfidence,0.40,0.10,0.65,1.00,0.12,0.09

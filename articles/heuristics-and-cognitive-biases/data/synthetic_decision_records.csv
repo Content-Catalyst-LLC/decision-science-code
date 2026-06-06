@@ -1,0 +1,2 @@
+record_id,decision_context,bias_profile,judged_probability,confidence,selected_action,rationale,review_trigger
+DR1,Heuristic judgment and cognitive-bias review,anchoring,0.61,0.64,Review,Estimate shows anchor dependence and requires independent-estimate comparison,review if bias magnitude exceeds tolerance

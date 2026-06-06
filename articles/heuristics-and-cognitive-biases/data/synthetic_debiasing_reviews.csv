@@ -1,0 +1,6 @@
+review_id,bias_profile,review_method,owner
+DRQ1,availability,base-rate comparison and longer time-series review,analysis lead
+DRQ2,representativeness,reference-class and sample-size review,forecasting lead
+DRQ3,anchoring,independent estimate collection and anchor audit,decision facilitator
+DRQ4,confirmation,disconfirming evidence search and red-team review,review chair
+DRQ5,overconfidence,probability calibration and premortem,risk committee

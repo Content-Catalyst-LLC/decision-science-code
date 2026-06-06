@@ -1,0 +1,19 @@
+{
+  "article": "Heuristics and Cognitive Biases",
+  "decision_context": "",
+  "decision_frame": "",
+  "alternatives": [],
+  "base_rates": [],
+  "independent_estimates": [],
+  "bias_risks": [],
+  "judged_probability": null,
+  "confidence": null,
+  "confidence_gap": null,
+  "calibration_notes": "",
+  "disconfirming_evidence": [],
+  "premortem_findings": [],
+  "dissent": [],
+  "selected_action": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

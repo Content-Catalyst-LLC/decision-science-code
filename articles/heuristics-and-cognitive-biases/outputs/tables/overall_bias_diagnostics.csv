@@ -1,0 +1,6 @@
+"metric","value"
+"mean_brier_score",0.187776021792502
+"expected_calibration_error",0.033424111804886
+"mean_bias_magnitude",0.0528209985058036
+"mean_confidence_gap",-0.00208011741492001
+"review_rate",0.42

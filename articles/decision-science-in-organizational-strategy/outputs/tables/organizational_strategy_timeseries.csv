@@ -1,0 +1,181 @@
+strategy,time,strategic_value,shock,disruption_event,disruption_penalty,assumption_drift,learning_adjustment,review_required
+Scale Existing Core,1,101.579637,-0.259363,False,0.0,0.0,0.639,False
+Scale Existing Core,2,103.947945,0.492478,False,0.0,0.020001,0.639,False
+Scale Existing Core,3,106.475098,0.598173,False,0.0,0.002455,0.633,False
+Scale Existing Core,4,109.755144,1.242311,False,0.0,0.0,0.638264,False
+Scale Existing Core,5,113.070787,1.181946,False,0.0,0.0,0.639,False
+Scale Existing Core,6,113.770693,-1.220002,False,0.0,0.0,0.639,False
+Scale Existing Core,7,115.948244,0.074982,False,0.0,0.0,0.639,False
+Scale Existing Core,8,117.471208,-0.525514,False,0.0,0.0,0.639,False
+Scale Existing Core,9,120.443047,1.572128,True,0.848943,0.090787,0.60666,False
+Scale Existing Core,10,119.498138,-2.596291,False,0.0,0.056578,0.611764,False
+Scale Existing Core,11,116.040011,-4.715902,False,0.0,0.03224,0.622027,False
+Scale Existing Core,12,114.442699,-3.205846,False,0.0,0.007959,0.629328,False
+Scale Existing Core,13,118.290106,1.525251,False,0.0,0.0,0.636612,False
+Scale Existing Core,14,121.933802,1.241306,False,0.0,0.0,0.639,False
+Scale Existing Core,15,124.168616,1.149145,True,1.128079,0.085652,0.611744,False
+Scale Existing Core,16,125.000596,-1.143264,False,0.0,0.087892,0.613304,False
+Scale Existing Core,17,126.703635,-0.450208,False,0.0,0.122407,0.612632,False
+Scale Existing Core,18,127.905647,-0.853598,False,0.0,0.102447,0.602278,False
+Scale Existing Core,19,131.382778,0.910247,False,0.0,0.106964,0.608266,False
+Scale Existing Core,20,131.833273,-1.464024,False,0.0,0.075101,0.606911,False
+Scale Existing Core,21,136.489205,1.715212,False,0.0,0.034027,0.61647,False
+Scale Existing Core,22,141.080917,1.535366,False,0.0,0.025315,0.628792,False
+Scale Existing Core,23,145.139546,1.045404,False,0.0,0.059543,0.631405,False
+Scale Existing Core,24,146.27522,-1.038667,False,0.0,0.074161,0.621137,False
+Scale Existing Core,25,151.43997,1.714092,False,0.0,0.050625,0.616752,False
+Scale Existing Core,26,154.276102,0.048964,False,0.0,0.064095,0.623813,False
+Scale Existing Core,27,151.970378,-3.314315,False,0.0,0.030246,0.619771,False
+Scale Existing Core,28,156.567647,1.195182,False,0.0,0.086082,0.629926,False
+Scale Existing Core,29,157.485688,0.470456,True,1.666267,0.180608,0.582166,False
+Scale Existing Core,30,159.389866,-0.575706,False,0.0,0.171812,0.584818,False
+Scale Existing Core,31,165.759007,2.208495,False,0.0,0.159014,0.587456,False
+Scale Existing Core,32,169.018974,0.175395,False,0.0,0.144482,0.591296,False
+Scale Existing Core,33,170.483306,-0.929284,False,0.0,0.109713,0.595656,False
+Scale Existing Core,34,172.617973,-0.55396,False,0.0,0.08998,0.606086,False
+Scale Existing Core,35,168.363691,-4.276571,False,0.0,0.091999,0.612006,False
+Scale Existing Core,36,171.113354,-0.178232,False,0.0,0.103284,0.6114,False
+Modular Expansion,1,105.724753,3.449753,False,0.0,0.0,0.875,False
+Modular Expansion,2,106.268254,-1.760928,False,0.0,0.0,0.875,False
+Modular Expansion,3,108.893667,0.195553,False,0.0,0.0,0.875,False
+Modular Expansion,4,111.298668,-0.066423,False,0.0,0.0,0.875,False
+Modular Expansion,5,118.91357,4.566863,False,0.0,0.0,0.875,False
+Modular Expansion,6,120.661074,0.841677,True,1.612392,0.079318,0.840273,False
+Modular Expansion,7,123.957215,1.981239,True,1.470329,0.170912,0.820824,False
+Modular Expansion,8,128.661697,1.57152,False,0.0,0.165812,0.823726,False
+Modular Expansion,9,131.031469,-0.383394,False,0.0,0.184717,0.825256,False
+Modular Expansion,10,134.715458,0.591945,False,0.0,0.187403,0.819585,False
+Modular Expansion,11,138.408109,0.522296,False,0.0,0.182382,0.818779,False
+Modular Expansion,12,139.732297,-1.263558,False,0.0,0.143519,0.820285,False
+Modular Expansion,13,144.29584,1.033974,False,0.0,0.131852,0.831944,False
+Modular Expansion,14,145.747501,-1.229414,False,0.0,0.102732,0.835444,False
+Modular Expansion,15,152.732198,2.548146,False,0.0,0.093417,0.84418,False
+Modular Expansion,16,159.856859,3.283872,True,0.837986,0.143245,0.818919,False
+Modular Expansion,17,163.804446,0.237425,False,0.0,0.132133,0.832026,False
+Modular Expansion,18,164.122946,-2.040921,False,0.0,0.100865,0.83536,False
+Modular Expansion,19,166.766101,0.45947,True,1.071572,0.141091,0.822575,False
+Modular Expansion,20,165.214455,-3.163105,False,0.0,0.12624,0.832673,False
+Modular Expansion,21,170.407193,0.9059,False,0.0,0.103836,0.837128,False
+Modular Expansion,22,170.623661,-2.116819,False,0.0,0.116017,0.843849,False
+Modular Expansion,23,175.812155,0.800704,False,0.0,0.114818,0.840195,False
+Modular Expansion,24,179.275728,-0.270513,False,0.0,0.108239,0.840555,False
+Modular Expansion,25,176.618723,-3.724606,False,0.0,0.100644,0.842528,False
+Modular Expansion,26,193.351483,7.229138,False,0.0,0.102929,0.844807,False
+Modular Expansion,27,206.35632,4.481887,False,0.0,0.072586,0.844121,False
+Modular Expansion,28,213.394713,1.157571,False,0.0,0.071033,0.853224,False
+Modular Expansion,29,216.997983,-0.565143,False,0.0,0.053582,0.85369,False
+Modular Expansion,30,225.292437,1.563439,False,0.0,0.030635,0.858925,False
+Modular Expansion,31,225.85924,-2.014224,False,0.0,0.014986,0.865809,False
+Modular Expansion,32,236.73944,2.546744,False,0.0,0.0,0.870504,False
+Modular Expansion,33,244.362395,0.944977,False,0.0,0.0,0.875,False
+Modular Expansion,34,244.552928,-2.197028,False,0.0,0.0,0.875,False
+Modular Expansion,35,256.182509,2.480445,False,0.0,0.0,0.875,False
+Modular Expansion,36,263.814629,0.704173,False,0.0,0.0,0.875,False
+High-Risk Market Entry,1,104.841084,2.359084,False,0.0,0.0,0.482,True
+High-Risk Market Entry,2,101.001366,-1.392697,True,4.733811,0.037738,0.464091,True
+High-Risk Market Entry,3,98.61018,-4.838157,False,0.0,0.013283,0.470679,True
+High-Risk Market Entry,4,96.696293,-4.418877,False,0.0,0.0,0.478015,True
+High-Risk Market Entry,5,100.923361,1.889489,False,0.0,0.02154,0.482,True
+High-Risk Market Entry,6,98.403807,-4.97204,False,0.0,0.030819,0.475538,True
+High-Risk Market Entry,7,94.852586,-2.832451,True,3.213165,0.172342,0.436791,True
+High-Risk Market Entry,8,98.711341,1.637863,False,0.0,0.163251,0.430297,True
+High-Risk Market Entry,9,100.193102,-0.93192,False,0.0,0.200674,0.433025,True
+High-Risk Market Entry,10,105.553285,2.928055,False,0.0,0.17856,0.421798,True
+High-Risk Market Entry,11,111.588613,3.28937,False,0.0,0.142691,0.428432,True
+High-Risk Market Entry,12,116.100159,6.099215,True,4.476207,0.195406,0.420008,True
+High-Risk Market Entry,13,110.597826,-5.141798,True,2.006309,0.194608,0.408809,True
+High-Risk Market Entry,14,109.779425,-3.163597,False,0.0,0.180474,0.423617,True
+High-Risk Market Entry,15,111.815962,-0.572741,False,0.0,0.158357,0.427858,True
+High-Risk Market Entry,16,114.060906,-0.426779,False,0.0,0.172528,0.434493,True
+High-Risk Market Entry,17,118.029953,1.049519,False,0.0,0.156382,0.430242,True
+High-Risk Market Entry,18,120.834368,-0.059065,False,0.0,0.149144,0.435085,True
+High-Risk Market Entry,19,121.20315,-2.132061,False,0.0,0.128415,0.437257,True
+High-Risk Market Entry,20,116.767252,-4.205309,True,1.864858,0.223423,0.410281,True
+High-Risk Market Entry,21,124.658262,4.342923,False,0.0,0.200264,0.414973,True
+High-Risk Market Entry,22,121.713567,-2.06549,True,2.685069,0.297671,0.388345,True
+High-Risk Market Entry,23,127.526203,2.382969,False,0.0,0.250717,0.392699,True
+High-Risk Market Entry,24,126.018193,0.789934,True,4.346009,0.367227,0.373566,True
+High-Risk Market Entry,25,122.87642,-4.864943,False,0.0,0.37378,0.371832,True
+High-Risk Market Entry,26,135.123401,7.597043,False,0.0,0.347823,0.369866,True
+High-Risk Market Entry,27,137.010803,3.231825,True,4.192707,0.367173,0.357681,True
+High-Risk Market Entry,28,149.657151,6.858335,False,0.0,0.343108,0.371848,True
+High-Risk Market Entry,29,155.062219,1.232566,False,0.0,0.319586,0.379067,True
+High-Risk Market Entry,30,169.040407,6.628443,False,0.0,0.336168,0.386124,True
+High-Risk Market Entry,31,175.318993,1.333102,False,0.0,0.363552,0.38115,True
+High-Risk Market Entry,32,175.021489,-2.542628,False,0.0,0.388156,0.372935,True
+High-Risk Market Entry,33,183.924318,2.721153,False,0.0,0.381197,0.365553,True
+High-Risk Market Entry,34,201.554206,7.217763,False,0.0,0.332991,0.367641,True
+High-Risk Market Entry,35,200.965806,-2.674034,False,0.0,0.308403,0.382103,True
+High-Risk Market Entry,36,176.193223,-9.684149,True,5.01581,0.34311,0.373193,True
+Capability Renewal,1,102.918338,1.833249,True,1.271426,0.072219,0.856515,False
+Capability Renewal,2,104.03818,-1.276246,False,0.0,0.074968,0.864334,False
+Capability Renewal,3,104.03895,-2.36277,False,0.0,0.069884,0.86351,False
+Capability Renewal,4,106.462304,-0.035759,False,0.0,0.046359,0.865035,False
+Capability Renewal,5,105.032357,-3.715241,False,0.0,0.01633,0.872092,False
+Capability Renewal,6,104.684509,-1.092498,True,1.59986,0.043629,0.861176,False
+Capability Renewal,7,105.262258,-1.821016,False,0.0,0.056963,0.872911,False
+Capability Renewal,8,107.080062,-0.641982,False,0.0,0.050915,0.868911,False
+Capability Renewal,9,106.482199,-1.643251,True,1.251238,0.153381,0.836157,False
+Capability Renewal,10,106.540635,-2.285107,False,0.0,0.092223,0.839986,False
+Capability Renewal,11,106.885863,-0.951696,True,1.060287,0.168136,0.836016,False
+Capability Renewal,12,106.103821,-3.06722,False,0.0,0.131687,0.835559,False
+Capability Renewal,13,106.943072,-1.555522,False,0.0,0.114217,0.846494,False
+Capability Renewal,14,113.180504,3.480744,False,0.0,0.07107,0.851735,False
+Capability Renewal,15,118.673499,2.488626,False,0.0,0.060899,0.864679,False
+Capability Renewal,16,118.799877,-2.261238,False,0.0,0.070276,0.86773,False
+Capability Renewal,17,120.661024,-0.798294,False,0.0,0.035255,0.864917,False
+Capability Renewal,18,125.671999,1.777512,False,0.0,0.015146,0.875424,False
+Capability Renewal,19,129.352689,0.547351,False,0.0,0.0,0.881456,False
+Capability Renewal,20,131.039376,-1.082056,False,0.0,0.0,0.886,False
+Capability Renewal,21,131.815271,-1.793892,False,0.0,0.0,0.886,False
+Capability Renewal,22,140.232205,3.999401,False,0.0,0.0,0.886,False
+Capability Renewal,23,146.354694,1.979965,False,0.0,0.0,0.886,False
+Capability Renewal,24,152.422757,2.798849,True,1.006354,0.07916,0.85364,False
+Capability Renewal,25,149.690312,-4.154927,False,0.0,0.066475,0.862252,False
+Capability Renewal,26,158.051359,3.219506,False,0.0,0.04203,0.866058,False
+Capability Renewal,27,165.857598,2.565661,False,0.0,0.002263,0.873391,False
+Capability Renewal,28,162.316566,-4.520304,False,0.0,0.0,0.885321,False
+Capability Renewal,29,171.322482,3.162365,False,0.0,0.0,0.886,False
+Capability Renewal,30,175.231369,-0.104404,False,0.0,0.0,0.886,False
+Capability Renewal,31,179.918768,0.288977,False,0.0,0.0,0.886,False
+Capability Renewal,32,183.944671,-0.148377,False,0.0,0.0,0.886,False
+Capability Renewal,33,187.806519,-0.286538,False,0.0,0.0,0.886,False
+Capability Renewal,34,194.396962,1.123166,False,0.0,0.0,0.886,False
+Capability Renewal,35,198.575564,-0.23648,False,0.0,0.0,0.886,False
+Capability Renewal,36,198.548463,-2.399648,False,0.0,0.0,0.886,False
+Resilience-Oriented Redesign,1,98.976424,-3.042576,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,2,99.926938,-1.058656,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,3,101.817428,-0.127128,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,4,103.942827,0.068461,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,5,103.631638,-2.318384,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,6,104.791289,-0.899988,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,7,106.532706,-0.357204,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,8,107.936416,-0.701367,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,9,109.232062,-0.818621,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,10,113.161709,1.578521,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,11,117.307433,2.262468,True,0.604721,0.026386,0.905793,False
+Resilience-Oriented Redesign,12,118.727964,-0.800137,False,0.0,0.013385,0.911084,False
+Resilience-Oriented Redesign,13,121.251072,0.110132,False,0.0,0.0,0.914985,False
+Resilience-Oriented Redesign,14,124.017895,0.600635,True,0.312793,0.047379,0.894054,False
+Resilience-Oriented Redesign,15,128.345884,1.485024,False,0.0,0.024869,0.904786,False
+Resilience-Oriented Redesign,16,131.509199,0.453141,False,0.0,0.0,0.911539,False
+Resilience-Oriented Redesign,17,134.95123,1.013932,True,0.400572,0.023445,0.903971,False
+Resilience-Oriented Redesign,18,136.317867,-0.999277,False,0.0,0.0,0.911966,False
+Resilience-Oriented Redesign,19,137.90798,-0.852526,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,20,136.621959,-2.075629,True,0.840739,0.073959,0.883847,False
+Resilience-Oriented Redesign,21,139.737995,0.28396,False,0.0,0.054325,0.896812,False
+Resilience-Oriented Redesign,22,140.053344,-1.777031,False,0.0,0.0,0.902703,False
+Resilience-Oriented Redesign,23,142.686748,-0.138714,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,24,144.829771,-0.517093,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,25,148.18395,1.277066,True,0.949337,0.058224,0.888217,False
+Resilience-Oriented Redesign,26,149.711866,-0.970438,False,0.0,0.053053,0.901533,False
+Resilience-Oriented Redesign,27,150.523696,-1.460823,False,0.0,0.029868,0.903084,False
+Resilience-Oriented Redesign,28,154.048618,0.331732,False,0.0,0.0,0.91004,False
+Resilience-Oriented Redesign,29,154.109717,-1.979337,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,30,153.534604,-2.392185,False,0.0,0.0,0.919,False
+Resilience-Oriented Redesign,31,156.072648,-0.365923,False,0.0,0.013557,0.919,False
+Resilience-Oriented Redesign,32,156.560963,-1.702057,False,0.0,0.0,0.914933,False
+Resilience-Oriented Redesign,33,159.157509,-0.360511,False,0.0,0.016315,0.919,False
+Resilience-Oriented Redesign,34,166.8631,2.827382,False,0.0,0.015218,0.914106,False
+Resilience-Oriented Redesign,35,166.64875,-2.142893,False,0.0,0.0,0.914435,False
+Resilience-Oriented Redesign,36,175.131536,3.071219,False,0.0,0.0,0.919,False

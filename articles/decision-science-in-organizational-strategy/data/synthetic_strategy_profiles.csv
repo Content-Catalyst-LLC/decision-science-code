@@ -1,0 +1,7 @@
+strategy,low_growth,base_case,high_growth,disruption,adaptability,capability_fit,governance_feasibility,reversibility,description
+Scale Existing Core,72,84,91,48,0.42,0.86,0.78,0.58,Strengthens the existing core while preserving operational continuity
+Modular Expansion,68,82,89,66,0.84,0.72,0.70,0.82,Expands in staged modules with flexibility to learn and revise
+High-Risk Market Entry,40,88,118,32,0.48,0.44,0.46,0.30,Large upside market entry with weak capability fit and low reversibility
+Capability Renewal,62,79,92,76,0.90,0.70,0.66,0.64,Builds new capabilities to improve long-term adaptability
+Strategic Partnership,64,81,96,70,0.74,0.68,0.72,0.70,Uses partnership structure to share risk and accelerate capability access
+Resilience-Oriented Redesign,70,78,86,82,0.82,0.76,0.80,0.74,Redesigns operating model for resilience learning and strategic coherence

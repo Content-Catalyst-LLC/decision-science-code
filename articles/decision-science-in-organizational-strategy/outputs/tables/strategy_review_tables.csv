@@ -1,0 +1,3 @@
+"strategy","low_growth","base_case","high_growth","disruption","adaptability","capability_fit","governance_feasibility","reversibility","description","expected_value","downside_robustness","scenario_dispersion","strategy_quality_score","review_flag","rank"
+"Scale Existing Core",72,84,91,48,0.42,0.86,0.78,0.58,"Strengthens the existing core while preserving operational continuity",75.2,48,18.8745860881769,0.51244471303941,"review",5
+"High-Risk Market Entry",40,88,118,32,0.48,0.44,0.46,0.3,"Large upside market entry with weak capability fit and low reversibility",70.8,32,40.7062648740952,0.307752450419683,"review",6

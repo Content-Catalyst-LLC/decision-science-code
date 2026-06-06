@@ -1,0 +1,5 @@
+parameter,value,description
+time_steps,36,Number of strategic review cycles
+random_seed,42,Random seed for reproducibility
+review_trigger_value,70.0,Strategic value below this level requires review
+assumption_drift_trigger,0.35,Assumption drift above this level requires review

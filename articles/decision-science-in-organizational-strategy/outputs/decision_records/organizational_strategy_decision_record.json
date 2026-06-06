@@ -1,0 +1,74 @@
+{
+  "article": "Decision Science in Organizational Strategy",
+  "decision_context": "Simulating strategic review cycles under uncertainty, disruption, assumption drift, and adaptive learning.",
+  "parameters": {
+    "time_steps": 36.0,
+    "random_seed": 42.0,
+    "review_trigger_value": 70.0,
+    "assumption_drift_trigger": 0.35
+  },
+  "summary_metrics": [
+    {
+      "strategy": "Modular Expansion",
+      "final_value": 263.814629,
+      "minimum_value": 105.724753,
+      "average_value": 170.290225,
+      "maximum_assumption_drift": 0.187403,
+      "average_assumption_drift": 0.082637,
+      "disruption_event_count": 4,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "strategy": "Capability Renewal",
+      "final_value": 198.548463,
+      "minimum_value": 102.918338,
+      "average_value": 136.842697,
+      "maximum_assumption_drift": 0.168136,
+      "average_assumption_drift": 0.042597,
+      "disruption_event_count": 5,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "strategy": "High-Risk Market Entry",
+      "final_value": 176.193223,
+      "minimum_value": 94.852586,
+      "average_value": 128.673019,
+      "maximum_assumption_drift": 0.388156,
+      "average_assumption_drift": 0.217793,
+      "disruption_event_count": 9,
+      "review_required_count": 36,
+      "review_flag": "review"
+    },
+    {
+      "strategy": "Resilience-Oriented Redesign",
+      "final_value": 175.131536,
+      "minimum_value": 98.976424,
+      "average_value": 133.187854,
+      "maximum_assumption_drift": 0.073959,
+      "average_assumption_drift": 0.0125,
+      "disruption_event_count": 5,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    },
+    {
+      "strategy": "Scale Existing Core",
+      "final_value": 171.113354,
+      "minimum_value": 101.579637,
+      "average_value": 135.475887,
+      "maximum_assumption_drift": 0.180608,
+      "average_assumption_drift": 0.06293,
+      "disruption_event_count": 3,
+      "review_required_count": 0,
+      "review_flag": "acceptable"
+    }
+  ],
+  "modeling_principles": [
+    "Strategy is a decision system, not only a plan document.",
+    "Strategic quality depends on uncertainty classification, alternatives, resources, governance, and learning.",
+    "High upside can be strategically weak when downside resilience, capability fit, and governance support are low.",
+    "Assumption drift should trigger review before performance collapse becomes visible.",
+    "Decision records should preserve assumptions, alternatives, dissent, trade-offs, and revision triggers."
+  ]
+}

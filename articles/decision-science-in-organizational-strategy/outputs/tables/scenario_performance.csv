@@ -1,0 +1,25 @@
+"strategy","scenario","value"
+"Scale Existing Core","low_growth",72
+"Scale Existing Core","base_case",84
+"Scale Existing Core","high_growth",91
+"Scale Existing Core","disruption",48
+"Modular Expansion","low_growth",68
+"Modular Expansion","base_case",82
+"Modular Expansion","high_growth",89
+"Modular Expansion","disruption",66
+"High-Risk Market Entry","low_growth",40
+"High-Risk Market Entry","base_case",88
+"High-Risk Market Entry","high_growth",118
+"High-Risk Market Entry","disruption",32
+"Capability Renewal","low_growth",62
+"Capability Renewal","base_case",79
+"Capability Renewal","high_growth",92
+"Capability Renewal","disruption",76
+"Strategic Partnership","low_growth",64
+"Strategic Partnership","base_case",81
+"Strategic Partnership","high_growth",96
+"Strategic Partnership","disruption",70
+"Resilience-Oriented Redesign","low_growth",70
+"Resilience-Oriented Redesign","base_case",78
+"Resilience-Oriented Redesign","high_growth",86
+"Resilience-Oriented Redesign","disruption",82

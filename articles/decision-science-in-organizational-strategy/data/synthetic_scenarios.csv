@@ -1,0 +1,5 @@
+scenario,probability,description
+low_growth,0.25,Weak demand and slower market expansion
+base_case,0.35,Ordinary conditions where assumptions broadly hold
+high_growth,0.20,Upside environment where demand and adoption accelerate
+disruption,0.20,Competitive technological regulatory or operating disruption

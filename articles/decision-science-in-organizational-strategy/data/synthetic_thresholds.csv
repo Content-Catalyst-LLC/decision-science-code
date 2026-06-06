@@ -1,0 +1,7 @@
+threshold_name,value,description
+low_downside_robustness,50.0,Worst scenario value below this level requires review
+low_capability_fit,0.55,Capability fit below this level requires review
+low_governance_feasibility,0.55,Governance feasibility below this level requires review
+low_reversibility,0.40,Reversibility below this level requires review
+review_trigger_value,70.0,Strategic value below this level requires review
+assumption_drift_trigger,0.35,Assumption drift above this level requires review

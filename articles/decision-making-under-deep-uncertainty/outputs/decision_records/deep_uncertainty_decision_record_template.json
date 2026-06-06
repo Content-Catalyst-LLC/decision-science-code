@@ -1,0 +1,25 @@
+{
+  "article": "Decision-Making Under Deep Uncertainty",
+  "decision_context": "",
+  "decision_owner": "",
+  "decision_question": "",
+  "models_considered": [],
+  "scenario_space": [],
+  "ambiguity_profiles": [],
+  "strategy_alternatives": [],
+  "performance_thresholds": {},
+  "regret_analysis": [],
+  "vulnerability_conditions": [],
+  "value_tradeoffs": [],
+  "dissent_or_contested_assumptions": [],
+  "adaptive_pathway": {
+    "near_term_action": "",
+    "signposts": [],
+    "triggers": [],
+    "fallback_options": [],
+    "review_authority": ""
+  },
+  "selected_action": "",
+  "rationale": "",
+  "post_decision_learning": []
+}

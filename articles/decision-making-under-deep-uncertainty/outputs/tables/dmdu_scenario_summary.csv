@@ -1,0 +1,7 @@
+"scenario","best_strategy","max_performance","min_performance","scenario_spread"
+"stable_growth","Aggressive Commitment",0.91,0.6,0.31
+"fiscal_stress","Staged Optionality Strategy",0.8,0.31,0.49
+"climate_disruption","Defensive Resilience Strategy",0.84,0.18,0.66
+"technology_shift","Learning Portfolio Strategy",0.88,0.52,0.36
+"governance_breakdown","Modular No-Regrets Strategy",0.81,0.28,0.53
+"social_contestation","Learning Portfolio Strategy",0.83,0.37,0.46

@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+random_seed,42,Random seed for reproducibility
+initial_uptake,18.0,Initial policy uptake
+initial_feedback_quality,12.0,Initial feedback quality
+initial_implementation_drift,6.0,Initial implementation drift
+initial_implementation_capacity,22.0,Initial implementation capacity
+initial_public_trust,55.0,Initial public trust

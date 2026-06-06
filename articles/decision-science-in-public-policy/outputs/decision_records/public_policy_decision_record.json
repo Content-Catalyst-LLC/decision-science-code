@@ -1,0 +1,55 @@
+{
+  "article": "Decision Science in Public Policy",
+  "decision_context": "Simulating policy uptake, feedback quality, implementation capacity, public trust, and implementation drift.",
+  "parameters": {
+    "time_steps": 60.0,
+    "random_seed": 42.0,
+    "initial_uptake": 18.0,
+    "initial_feedback_quality": 12.0,
+    "initial_implementation_drift": 6.0,
+    "initial_implementation_capacity": 22.0,
+    "initial_public_trust": 55.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_uptake",
+      "value": 397.689677
+    },
+    {
+      "metric": "average_feedback_quality",
+      "value": 86.492244
+    },
+    {
+      "metric": "final_implementation_drift",
+      "value": 0.0
+    },
+    {
+      "metric": "average_implementation_capacity",
+      "value": 56.454639
+    },
+    {
+      "metric": "final_public_trust",
+      "value": 100.0
+    },
+    {
+      "metric": "average_policy_effectiveness",
+      "value": 93.590295
+    },
+    {
+      "metric": "minimum_policy_effectiveness",
+      "value": 21.669554
+    },
+    {
+      "metric": "maximum_policy_effectiveness",
+      "value": 207.510999
+    }
+  ],
+  "recommendation": "continue_policy_with_adaptive_monitoring_and_review",
+  "modeling_principles": [
+    "Public policy decisions are multi-objective, institutional, and distributional.",
+    "Policy effectiveness depends on implementation capacity and public trust.",
+    "Feedback quality can reduce implementation drift over time.",
+    "Decision records should preserve evidence, assumptions, trade-offs, stakeholder concerns, and revision triggers.",
+    "Public policy decision science should support accountable judgment, not technocratic closure."
+  ]
+}

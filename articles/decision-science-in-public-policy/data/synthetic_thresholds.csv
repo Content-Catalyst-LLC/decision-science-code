@@ -1,0 +1,9 @@
+threshold_name,value,description
+low_equity,0.55,Equity value requiring review
+low_legitimacy,0.55,Legitimacy value requiring review
+low_implementation_capacity,0.55,Implementation capacity requiring review
+low_worst_case_performance,0.55,Worst-case scenario performance requiring review
+low_threshold_pass_rate,0.60,Scenario pass rate requiring review
+high_implementation_drift,15.0,Implementation drift triggering review
+low_public_trust,45.0,Public trust level triggering legitimacy review
+low_policy_effectiveness,20.0,Minimum policy effectiveness triggering redesign

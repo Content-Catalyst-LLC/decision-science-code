@@ -1,0 +1,7 @@
+"policy","efficiency","equity","resilience","feasibility","legitimacy","implementation_capacity","description","policy_value_score","review_flag"
+"Targeted Transfer Reform",0.71,0.82,0.66,0.58,0.7,0.62,"Targeted social support reform with strong equity but moderate feasibility",0.693,"acceptable"
+"Universal Service Expansion",0.63,0.88,0.74,0.49,0.82,0.54,"Universal service expansion with strong equity and legitimacy but lower feasibility",0.6992,"review"
+"Market Incentive Package",0.78,0.46,0.52,0.72,0.54,0.68,"Market-based incentive package with high efficiency but weak equity and legitimacy",0.6068,"review"
+"Adaptive Mixed Strategy",0.69,0.79,0.83,0.64,0.78,0.72,"Mixed policy package with adaptive monitoring and strong cross-objective performance",0.747,"acceptable"
+"Resilience Investment Package",0.66,0.76,0.88,0.55,0.74,0.6,"Long-horizon resilience investment with high resilience but implementation and fiscal constraints",0.709,"acceptable"
+"Administrative Simplification Reform",0.72,0.84,0.7,0.76,0.8,0.86,"Simplifies access and improves capacity while maintaining equity and legitimacy",0.7792,"acceptable"

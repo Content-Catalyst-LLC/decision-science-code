@@ -1,0 +1,9 @@
+"metric","value"
+"mean_brier_score",0.200706372829991
+"expected_calibration_error",0.090451740758196
+"mean_confidence_error",-0.0523168977164775
+"duration_interval_coverage",0.324444444444444
+"cost_interval_coverage",0.318888888888889
+"mean_duration_planning_error",0.274024160151689
+"mean_cost_planning_error",0.250707250540732
+"review_rate",0.916666666666667

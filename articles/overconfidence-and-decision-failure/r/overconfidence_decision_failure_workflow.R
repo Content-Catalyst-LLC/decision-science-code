@@ -1,0 +1,295 @@
+# overconfidence_decision_failure_workflow.R
+# Base R workflow for overconfidence diagnostics, calibration,
+# interval coverage, planning error, and decision review tables.
+
+args <- commandArgs(trailingOnly = FALSE)
+file_arg <- grep("^--file=", args, value = TRUE)
+
+if (length(file_arg) > 0) {
+  script_path <- normalizePath(sub("^--file=", "", file_arg[1]), mustWork = TRUE)
+  article_root <- normalizePath(file.path(dirname(script_path), ".."), mustWork = TRUE)
+} else {
+  article_root <- getwd()
+}
+
+setwd(article_root)
+
+tables_dir <- file.path(article_root, "outputs", "tables")
+figures_dir <- file.path(article_root, "outputs", "figures")
+dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(figures_dir, recursive = TRUE, showWarnings = FALSE)
+
+set.seed(42)
+
+n <- 900
+
+domains <- c(
+  "Public Policy",
+  "Healthcare",
+  "Financial Risk",
+  "Infrastructure",
+  "AI Governance",
+  "Organizational Strategy"
+)
+
+cases <- data.frame(
+  case_id = seq_len(n),
+  domain = sample(domains, n, replace = TRUE),
+  forecast_probability = runif(n, 0.10, 0.95),
+  confidence = runif(n, 0.50, 0.99),
+  evidence_quality = sample(c("low", "medium", "high"), n, replace = TRUE, prob = c(0.25, 0.50, 0.25)),
+  estimated_duration = runif(n, 30, 365),
+  estimated_cost = runif(n, 100000, 5000000),
+  interval_width_factor = runif(n, 0.05, 0.30),
+  stringsAsFactors = FALSE
+)
+
+quality_adjustment <- ifelse(
+  cases$evidence_quality == "high",
+  0.03,
+  ifelse(cases$evidence_quality == "medium", 0.08, 0.15)
+)
+
+true_probability <- pmin(
+  pmax(
+    cases$forecast_probability - runif(n, 0.00, 0.18) + rnorm(n, 0, quality_adjustment),
+    0.01
+  ),
+  0.99
+)
+
+cases$outcome <- rbinom(n, size = 1, prob = true_probability)
+cases$brier_score <- (cases$forecast_probability - cases$outcome)^2
+cases$accuracy_proxy <- 1 - cases$brier_score
+cases$confidence_error <- cases$confidence - cases$accuracy_proxy
+
+duration_bias <- rlnorm(n, meanlog = log(1.20), sdlog = 0.30)
+cost_bias <- rlnorm(n, meanlog = log(1.18), sdlog = 0.35)
+
+cases$actual_duration <- cases$estimated_duration * duration_bias
+cases$actual_cost <- cases$estimated_cost * cost_bias
+
+cases$duration_planning_error <- (cases$actual_duration - cases$estimated_duration) / cases$estimated_duration
+cases$cost_planning_error <- (cases$actual_cost - cases$estimated_cost) / cases$estimated_cost
+
+cases$duration_lower <- cases$estimated_duration * (1 - cases$interval_width_factor)
+cases$duration_upper <- cases$estimated_duration * (1 + cases$interval_width_factor)
+cases$cost_lower <- cases$estimated_cost * (1 - cases$interval_width_factor)
+cases$cost_upper <- cases$estimated_cost * (1 + cases$interval_width_factor)
+
+cases$duration_interval_hit <- cases$actual_duration >= cases$duration_lower &
+  cases$actual_duration <= cases$duration_upper
+
+cases$cost_interval_hit <- cases$actual_cost >= cases$cost_lower &
+  cases$actual_cost <= cases$cost_upper
+
+cases$probability_bin <- cut(
+  cases$forecast_probability,
+  breaks = seq(0, 1, by = 0.1),
+  include.lowest = TRUE,
+  right = FALSE
+)
+
+cases$confidence_flag <- ifelse(
+  cases$confidence_error > 0.15,
+  "overconfident",
+  ifelse(cases$confidence_error < -0.15, "underconfident", "approximately calibrated")
+)
+
+cases$review_flag <- ifelse(
+  cases$confidence_error > 0.15 |
+    cases$brier_score > 0.25 |
+    cases$duration_planning_error > 0.30 |
+    cases$cost_planning_error > 0.30 |
+    !cases$duration_interval_hit |
+    !cases$cost_interval_hit,
+  "review",
+  "acceptable"
+)
+
+write.csv(
+  cases,
+  file.path(tables_dir, "overconfidence_decision_cases.csv"),
+  row.names = FALSE
+)
+
+domain_summary <- do.call(
+  rbind,
+  lapply(
+    split(cases, cases$domain),
+    function(x) {
+      data.frame(
+        domain = unique(x$domain),
+        n_cases = nrow(x),
+        average_forecast_probability = mean(x$forecast_probability),
+        observed_frequency = mean(x$outcome),
+        average_confidence = mean(x$confidence),
+        average_brier_score = mean(x$brier_score),
+        average_confidence_error = mean(x$confidence_error),
+        duration_interval_coverage = mean(x$duration_interval_hit),
+        cost_interval_coverage = mean(x$cost_interval_hit),
+        average_duration_planning_error = mean(x$duration_planning_error),
+        average_cost_planning_error = mean(x$cost_planning_error),
+        review_rate = mean(x$review_flag == "review"),
+        stringsAsFactors = FALSE
+      )
+    }
+  )
+)
+
+domain_summary <- domain_summary[order(-domain_summary$review_rate), ]
+
+write.csv(
+  domain_summary,
+  file.path(tables_dir, "domain_overconfidence_summary.csv"),
+  row.names = FALSE
+)
+
+calibration_table <- do.call(
+  rbind,
+  lapply(
+    split(cases, cases$probability_bin, drop = TRUE),
+    function(x) {
+      data.frame(
+        probability_bin = as.character(unique(x$probability_bin)),
+        n_cases = nrow(x),
+        average_forecast_probability = mean(x$forecast_probability),
+        observed_frequency = mean(x$outcome),
+        calibration_gap = mean(x$forecast_probability) - mean(x$outcome),
+        absolute_calibration_gap = abs(mean(x$forecast_probability) - mean(x$outcome)),
+        average_brier_score = mean(x$brier_score),
+        average_confidence = mean(x$confidence),
+        stringsAsFactors = FALSE
+      )
+    }
+  )
+)
+
+calibration_table$weighted_calibration_error <- (
+  calibration_table$n_cases / sum(calibration_table$n_cases)
+) * calibration_table$absolute_calibration_gap
+
+write.csv(
+  calibration_table,
+  file.path(tables_dir, "overconfidence_calibration_table.csv"),
+  row.names = FALSE
+)
+
+confidence_summary <- do.call(
+  rbind,
+  lapply(
+    split(cases, cases$confidence_flag),
+    function(x) {
+      data.frame(
+        confidence_flag = unique(x$confidence_flag),
+        n_cases = nrow(x),
+        average_confidence = mean(x$confidence),
+        average_accuracy_proxy = mean(x$accuracy_proxy),
+        average_confidence_error = mean(x$confidence_error),
+        average_brier_score = mean(x$brier_score),
+        review_rate = mean(x$review_flag == "review"),
+        stringsAsFactors = FALSE
+      )
+    }
+  )
+)
+
+write.csv(
+  confidence_summary,
+  file.path(tables_dir, "confidence_error_summary.csv"),
+  row.names = FALSE
+)
+
+review_queue <- cases[cases$review_flag == "review", c(
+  "case_id",
+  "domain",
+  "forecast_probability",
+  "confidence",
+  "outcome",
+  "brier_score",
+  "confidence_error",
+  "confidence_flag",
+  "duration_planning_error",
+  "cost_planning_error",
+  "duration_interval_hit",
+  "cost_interval_hit",
+  "review_flag"
+)]
+
+write.csv(
+  review_queue,
+  file.path(tables_dir, "overconfidence_review_queue.csv"),
+  row.names = FALSE
+)
+
+overall_metrics <- data.frame(
+  metric = c(
+    "mean_brier_score",
+    "expected_calibration_error",
+    "mean_confidence_error",
+    "duration_interval_coverage",
+    "cost_interval_coverage",
+    "mean_duration_planning_error",
+    "mean_cost_planning_error",
+    "review_rate"
+  ),
+  value = c(
+    mean(cases$brier_score),
+    sum(calibration_table$weighted_calibration_error),
+    mean(cases$confidence_error),
+    mean(cases$duration_interval_hit),
+    mean(cases$cost_interval_hit),
+    mean(cases$duration_planning_error),
+    mean(cases$cost_planning_error),
+    mean(cases$review_flag == "review")
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(
+  overall_metrics,
+  file.path(tables_dir, "overall_overconfidence_metrics.csv"),
+  row.names = FALSE
+)
+
+png(file.path(figures_dir, "overconfidence_calibration_diagram.png"), width = 1200, height = 800)
+plot(
+  calibration_table$average_forecast_probability,
+  calibration_table$observed_frequency,
+  xlim = c(0, 1),
+  ylim = c(0, 1),
+  xlab = "Average forecast probability",
+  ylab = "Observed frequency",
+  main = "Overconfidence Calibration Diagram",
+  pch = 19
+)
+abline(0, 1, lty = 2)
+grid()
+dev.off()
+
+png(file.path(figures_dir, "review_rate_by_domain.png"), width = 1200, height = 800)
+barplot(
+  domain_summary$review_rate,
+  names.arg = domain_summary$domain,
+  las = 2,
+  main = "Overconfidence Review Rate by Domain",
+  ylab = "Review rate"
+)
+grid()
+dev.off()
+
+png(file.path(figures_dir, "planning_error_by_domain.png"), width = 1200, height = 800)
+barplot(
+  domain_summary$average_duration_planning_error,
+  names.arg = domain_summary$domain,
+  las = 2,
+  main = "Average Duration Planning Error by Domain",
+  ylab = "Relative planning error"
+)
+grid()
+dev.off()
+
+print(overall_metrics)
+print(domain_summary)
+print(calibration_table)
+print(confidence_summary)

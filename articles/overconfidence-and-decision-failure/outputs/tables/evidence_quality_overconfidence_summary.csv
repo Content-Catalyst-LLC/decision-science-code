@@ -1,0 +1,4 @@
+evidence_quality,n_cases,average_forecast_probability,observed_frequency,average_confidence,average_brier_score,average_confidence_error,duration_interval_coverage,cost_interval_coverage,average_duration_planning_error,average_cost_planning_error,review_rate
+high,214,0.566362,0.457944,0.735213,0.188066,-0.076721,0.327103,0.28972,0.317204,0.267817,0.925234
+low,195,0.533567,0.430769,0.750049,0.180958,-0.068992,0.389744,0.307692,0.266122,0.194433,0.902564
+medium,491,0.516499,0.435845,0.75543,0.188215,-0.056355,0.336049,0.309572,0.237899,0.304897,0.916497

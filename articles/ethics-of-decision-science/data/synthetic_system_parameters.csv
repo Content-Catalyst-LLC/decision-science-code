@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,36,Number of simulated ethical decision review periods
+random_seed,42,Random seed for reproducibility
+ethical_risk_trigger,0.62,Ethical risk above this level requires review
+trust_trigger,0.46,Stakeholder trust below this level requires review
+accountability_trigger,0.55,Accountability below this level requires review
+contestability_trigger,0.55,Contestability below this level requires review
+burden_trigger,0.64,Distributional burden above this level requires review

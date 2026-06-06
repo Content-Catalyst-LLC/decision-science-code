@@ -1,0 +1,145 @@
+decision_context,time,ethical_risk,stakeholder_trust,accountability_strength,contestability,distributional_burden,controversy_event,controversy_severity,review_required
+Public Policy Allocation,1,0.437809,0.626017,0.696803,0.626555,0.415071,False,0.001251,False
+Public Policy Allocation,2,0.428681,0.651482,0.707025,0.651306,0.407349,False,0.00149,False
+Public Policy Allocation,3,0.428657,0.662822,0.731835,0.660235,0.410418,False,0.027247,False
+Public Policy Allocation,4,0.41679,0.684531,0.750908,0.665753,0.38172,False,0.007774,False
+Public Policy Allocation,5,0.386659,0.686909,0.7361,0.637424,0.39076,False,0.030186,False
+Public Policy Allocation,6,0.368602,0.698592,0.754345,0.63195,0.405384,False,0.030926,False
+Public Policy Allocation,7,0.342539,0.721291,0.765954,0.650009,0.414743,False,0.014469,False
+Public Policy Allocation,8,0.305795,0.721719,0.769243,0.691773,0.399459,False,0.010475,False
+Public Policy Allocation,9,0.26524,0.734854,0.787215,0.720605,0.407749,False,0.036456,False
+Public Policy Allocation,10,0.261516,0.744419,0.793909,0.733057,0.3975,False,0.0388,False
+Public Policy Allocation,11,0.263915,0.744151,0.791434,0.733934,0.408488,False,0.047145,False
+Public Policy Allocation,12,0.226765,0.727188,0.788059,0.739083,0.396025,False,0.012331,False
+Public Policy Allocation,13,0.229279,0.746357,0.794581,0.752101,0.415166,False,0.010966,False
+Public Policy Allocation,14,0.211211,0.784497,0.813806,0.766864,0.429512,False,0.021108,False
+Public Policy Allocation,15,0.196542,0.779075,0.821557,0.768806,0.45777,False,0.043039,False
+Public Policy Allocation,16,0.186953,0.798682,0.791956,0.785592,0.490407,True,0.166953,False
+Public Policy Allocation,17,0.166904,0.837658,0.784006,0.788868,0.518991,False,0.008933,False
+Public Policy Allocation,18,0.153033,0.867645,0.793546,0.781024,0.511052,False,0.026969,False
+Public Policy Allocation,19,0.193299,0.878153,0.776984,0.784385,0.548584,True,0.26582,False
+Public Policy Allocation,20,0.182159,0.88802,0.801909,0.801146,0.525959,True,0.177198,False
+Public Policy Allocation,21,0.13796,0.908692,0.836643,0.802192,0.521158,False,0.02749,False
+Public Policy Allocation,22,0.128509,0.904705,0.863605,0.811687,0.511975,False,0.015586,False
+Public Policy Allocation,23,0.13948,0.930264,0.883974,0.821527,0.503866,True,0.124939,False
+Public Policy Allocation,24,0.147692,0.94807,0.89348,0.82738,0.514549,False,0.045271,False
+Public Policy Allocation,25,0.13077,0.970029,0.893168,0.813821,0.533469,False,0.006616,False
+Public Policy Allocation,26,0.094705,0.977591,0.882914,0.829011,0.529498,True,0.16621,False
+Public Policy Allocation,27,0.07713,0.984755,0.897136,0.846532,0.513378,False,0.004921,False
+Public Policy Allocation,28,0.068788,0.968871,0.903896,0.88888,0.529485,False,0.013927,False
+Public Policy Allocation,29,0.05628,0.979036,0.910726,0.931141,0.560865,False,0.002529,False
+Public Policy Allocation,30,0.074384,0.959448,0.913556,0.944768,0.549671,False,0.010687,False
+Public Policy Allocation,31,0.029319,0.962426,0.923868,0.999536,0.530895,False,0.039204,False
+Public Policy Allocation,32,0.011869,0.949211,0.946146,1.0,0.526419,True,0.139342,False
+Public Policy Allocation,33,0.009726,1.0,0.948718,1.0,0.500004,True,0.196836,False
+Public Policy Allocation,34,0.0,1.0,0.9557,1.0,0.504597,False,0.033761,False
+Public Policy Allocation,35,0.0,1.0,0.971088,0.978786,0.482629,False,0.030969,False
+Public Policy Allocation,36,0.002061,1.0,0.972107,0.979713,0.508213,False,0.019789,False
+AI-Supported Eligibility,1,0.596458,0.568194,0.627314,0.512926,0.671884,True,0.171657,True
+AI-Supported Eligibility,2,0.598253,0.610042,0.672037,0.565744,0.717853,False,0.043964,True
+AI-Supported Eligibility,3,0.598983,0.625292,0.720805,0.617897,0.721175,False,0.049362,True
+AI-Supported Eligibility,4,0.644799,0.651605,0.783845,0.676185,0.692585,True,0.103086,True
+AI-Supported Eligibility,5,0.659579,0.688594,0.826654,0.695081,0.685466,False,0.01018,True
+AI-Supported Eligibility,6,0.656858,0.715643,0.901614,0.745675,0.681415,False,0.013834,True
+AI-Supported Eligibility,7,0.680248,0.770304,0.953118,0.821957,0.682455,False,0.027584,True
+AI-Supported Eligibility,8,0.717939,0.79611,1.0,0.87891,0.67301,False,0.029125,True
+AI-Supported Eligibility,9,0.725597,0.844701,1.0,0.930236,0.687183,False,0.043035,True
+AI-Supported Eligibility,10,0.678294,0.919549,1.0,1.0,0.65398,False,0.031033,True
+AI-Supported Eligibility,11,0.678398,0.997373,1.0,1.0,0.68731,False,0.044071,True
+AI-Supported Eligibility,12,0.632832,1.0,1.0,1.0,0.655709,False,0.01334,True
+AI-Supported Eligibility,13,0.62545,1.0,1.0,1.0,0.644914,False,0.040829,True
+AI-Supported Eligibility,14,0.593196,1.0,1.0,1.0,0.650894,False,0.043218,True
+AI-Supported Eligibility,15,0.588879,1.0,1.0,1.0,0.662412,False,0.026811,True
+AI-Supported Eligibility,16,0.570029,1.0,1.0,1.0,0.670769,True,0.166913,True
+AI-Supported Eligibility,17,0.525567,1.0,1.0,1.0,0.6733,False,0.028829,True
+AI-Supported Eligibility,18,0.495128,1.0,1.0,1.0,0.670086,False,0.033531,True
+AI-Supported Eligibility,19,0.467063,1.0,1.0,1.0,0.671396,False,0.042401,True
+AI-Supported Eligibility,20,0.449206,1.0,1.0,1.0,0.691555,True,0.164089,True
+AI-Supported Eligibility,21,0.425508,1.0,1.0,1.0,0.709641,False,0.027397,True
+AI-Supported Eligibility,22,0.399576,1.0,1.0,1.0,0.695293,False,0.010685,True
+AI-Supported Eligibility,23,0.393438,1.0,1.0,1.0,0.697005,True,0.18309,True
+AI-Supported Eligibility,24,0.370649,1.0,1.0,1.0,0.687359,False,0.001221,True
+AI-Supported Eligibility,25,0.356459,1.0,1.0,1.0,0.700395,False,0.031488,True
+AI-Supported Eligibility,26,0.384663,1.0,1.0,1.0,0.702768,False,0.038502,True
+AI-Supported Eligibility,27,0.343258,1.0,1.0,1.0,0.704735,False,0.002511,True
+AI-Supported Eligibility,28,0.305945,1.0,1.0,1.0,0.662757,False,0.047502,True
+AI-Supported Eligibility,29,0.291653,1.0,1.0,1.0,0.689758,False,0.027394,True
+AI-Supported Eligibility,30,0.287179,1.0,1.0,1.0,0.718607,False,0.026065,True
+AI-Supported Eligibility,31,0.272387,1.0,1.0,1.0,0.711693,False,0.015985,True
+AI-Supported Eligibility,32,0.280064,1.0,1.0,1.0,0.708646,False,0.027131,True
+AI-Supported Eligibility,33,0.252944,1.0,1.0,1.0,0.731427,False,0.034776,True
+AI-Supported Eligibility,34,0.241962,1.0,1.0,1.0,0.7601,False,0.047672,True
+AI-Supported Eligibility,35,0.225229,1.0,1.0,1.0,0.75838,False,0.010971,True
+AI-Supported Eligibility,36,0.232502,1.0,1.0,1.0,0.766518,False,0.006381,True
+Infrastructure Siting,1,0.55154,0.585186,0.614162,0.577025,0.605415,True,0.20855,False
+Infrastructure Siting,2,0.593039,0.590961,0.620717,0.557732,0.621825,False,0.018956,False
+Infrastructure Siting,3,0.592521,0.589884,0.668552,0.58788,0.649524,True,0.187884,True
+Infrastructure Siting,4,0.607014,0.641473,0.727937,0.636944,0.625252,False,0.009968,True
+Infrastructure Siting,5,0.596823,0.697145,0.75662,0.694762,0.616034,False,0.010898,True
+Infrastructure Siting,6,0.612073,0.721624,0.80974,0.745173,0.609771,False,0.048236,True
+Infrastructure Siting,7,0.623673,0.735253,0.855511,0.787412,0.609121,False,0.019833,True
+Infrastructure Siting,8,0.593988,0.77759,0.935643,0.865342,0.629146,False,0.030021,True
+Infrastructure Siting,9,0.612741,0.791975,0.986393,0.931583,0.613543,False,0.018529,True
+Infrastructure Siting,10,0.551474,0.828684,1.0,0.968343,0.64395,False,0.041435,True
+Infrastructure Siting,11,0.562358,0.857661,1.0,0.958842,0.625996,False,0.04041,False
+Infrastructure Siting,12,0.548214,0.876676,1.0,1.0,0.660909,False,0.004333,True
+Infrastructure Siting,13,0.503262,0.951544,1.0,1.0,0.667474,False,0.001435,True
+Infrastructure Siting,14,0.4924,1.0,1.0,1.0,0.699296,False,0.013813,True
+Infrastructure Siting,15,0.477977,1.0,1.0,1.0,0.691835,False,0.037908,True
+Infrastructure Siting,16,0.448484,1.0,1.0,1.0,0.699505,False,0.01531,True
+Infrastructure Siting,17,0.425439,1.0,1.0,1.0,0.696041,False,0.01654,True
+Infrastructure Siting,18,0.406017,1.0,1.0,1.0,0.706546,False,0.038109,True
+Infrastructure Siting,19,0.383055,1.0,1.0,1.0,0.706134,False,0.026232,True
+Infrastructure Siting,20,0.349336,1.0,1.0,1.0,0.709422,False,0.013716,True
+Infrastructure Siting,21,0.329783,1.0,1.0,1.0,0.727004,False,0.024544,True
+Infrastructure Siting,22,0.32,1.0,1.0,1.0,0.733513,False,0.023886,True
+Infrastructure Siting,23,0.306996,1.0,1.0,1.0,0.725683,True,0.10984,True
+Infrastructure Siting,24,0.294846,1.0,1.0,1.0,0.701603,False,0.011284,True
+Infrastructure Siting,25,0.272416,0.999026,1.0,1.0,0.684351,False,0.015269,True
+Infrastructure Siting,26,0.245855,1.0,1.0,1.0,0.696502,False,0.007853,True
+Infrastructure Siting,27,0.20442,1.0,1.0,1.0,0.700371,False,0.014563,True
+Infrastructure Siting,28,0.185994,1.0,1.0,1.0,0.664232,False,0.031253,True
+Infrastructure Siting,29,0.158761,1.0,1.0,1.0,0.669886,False,0.045421,True
+Infrastructure Siting,30,0.118279,1.0,1.0,1.0,0.646619,False,0.006218,True
+Infrastructure Siting,31,0.125962,1.0,1.0,1.0,0.665129,False,0.004022,True
+Infrastructure Siting,32,0.087552,1.0,1.0,1.0,0.691555,False,0.02876,True
+Infrastructure Siting,33,0.054524,1.0,1.0,1.0,0.679462,True,0.231254,True
+Infrastructure Siting,34,0.0,1.0,1.0,1.0,0.666405,False,0.004562,True
+Infrastructure Siting,35,0.0,1.0,1.0,1.0,0.657889,False,0.034684,True
+Infrastructure Siting,36,0.0,1.0,1.0,1.0,0.664901,False,0.048509,True
+Crisis Triage,1,0.628261,0.523194,0.623647,0.547407,0.66992,False,0.020662,True
+Crisis Triage,2,0.680186,0.587152,0.654465,0.602195,0.662742,False,0.046384,True
+Crisis Triage,3,0.735132,0.61623,0.720884,0.644251,0.678018,False,0.011965,True
+Crisis Triage,4,0.726625,0.645166,0.780682,0.678683,0.678596,False,0.005873,True
+Crisis Triage,5,0.760851,0.672745,0.830352,0.714376,0.696612,False,0.041736,True
+Crisis Triage,6,0.797112,0.67172,0.877227,0.78807,0.691253,False,0.043201,True
+Crisis Triage,7,0.801652,0.673569,0.939747,0.793987,0.692769,False,0.041027,True
+Crisis Triage,8,0.817484,0.696713,0.974595,0.839248,0.696629,False,0.017256,True
+Crisis Triage,9,0.825755,0.73089,1.0,0.891073,0.689066,False,0.034875,True
+Crisis Triage,10,0.823238,0.793027,1.0,0.920447,0.664265,False,0.019304,True
+Crisis Triage,11,0.812564,0.815942,1.0,0.980027,0.646592,True,0.180458,True
+Crisis Triage,12,0.818065,0.81246,1.0,1.0,0.646753,False,0.020499,True
+Crisis Triage,13,0.801074,0.826823,1.0,1.0,0.630289,False,0.034635,True
+Crisis Triage,14,0.802949,0.892693,1.0,1.0,0.645479,False,0.03797,True
+Crisis Triage,15,0.804774,0.949572,1.0,1.0,0.650241,False,0.049871,True
+Crisis Triage,16,0.805328,0.987473,1.0,1.0,0.64112,False,0.045171,True
+Crisis Triage,17,0.812684,1.0,1.0,1.0,0.62523,True,0.186233,True
+Crisis Triage,18,0.80379,1.0,1.0,1.0,0.611973,False,0.045641,True
+Crisis Triage,19,0.787802,1.0,1.0,1.0,0.65062,True,0.240927,True
+Crisis Triage,20,0.787402,1.0,1.0,1.0,0.673819,False,0.021215,True
+Crisis Triage,21,0.793336,1.0,1.0,1.0,0.655513,False,0.01186,True
+Crisis Triage,22,0.781942,1.0,1.0,1.0,0.655727,False,0.028296,True
+Crisis Triage,23,0.747771,1.0,1.0,1.0,0.653331,False,0.045208,True
+Crisis Triage,24,0.700166,1.0,1.0,1.0,0.638681,False,0.036046,True
+Crisis Triage,25,0.667613,1.0,1.0,1.0,0.619692,False,0.015447,True
+Crisis Triage,26,0.640449,1.0,1.0,1.0,0.65092,False,0.006608,True
+Crisis Triage,27,0.617334,1.0,1.0,1.0,0.663186,False,0.012849,True
+Crisis Triage,28,0.549225,1.0,1.0,1.0,0.673325,False,0.007038,True
+Crisis Triage,29,0.505623,1.0,1.0,1.0,0.65673,False,0.040229,True
+Crisis Triage,30,0.496612,1.0,1.0,1.0,0.668185,False,0.029228,True
+Crisis Triage,31,0.512858,1.0,1.0,1.0,0.648704,True,0.256847,True
+Crisis Triage,32,0.545866,1.0,1.0,1.0,0.616815,False,0.020415,False
+Crisis Triage,33,0.563332,1.0,1.0,1.0,0.647448,True,0.257452,True
+Crisis Triage,34,0.542642,1.0,1.0,1.0,0.643825,False,0.007726,True
+Crisis Triage,35,0.578517,1.0,1.0,1.0,0.632698,False,0.001636,False
+Crisis Triage,36,0.569623,1.0,1.0,1.0,0.653798,False,0.048892,True

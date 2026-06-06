@@ -1,0 +1,11 @@
+threshold_name,value,description
+low_equity_score,0.55,Equity score below this level requires review
+low_safety_score,0.55,Safety score below this level requires review
+low_legitimacy_score,0.55,Legitimacy score below this level requires review
+low_contestability_score,0.55,Contestability score below this level requires review
+high_ethical_risk_score,0.55,Ethical risk above this level requires review
+ethical_risk_trigger,0.62,Ethical risk above this level requires review
+trust_trigger,0.46,Stakeholder trust below this level requires review
+accountability_trigger,0.55,Accountability below this level requires review
+contestability_trigger,0.55,Contestability below this level requires review
+burden_trigger,0.64,Distributional burden above this level requires review

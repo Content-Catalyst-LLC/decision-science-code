@@ -1,0 +1,51 @@
+{
+  "article": "Ethics of Decision Science",
+  "decision_context": "Simulating ethical risk, stakeholder trust, accountability, contestability, distributional burden, and review triggers.",
+  "parameters": {
+    "time_steps": 36.0,
+    "random_seed": 42.0,
+    "ethical_risk_trigger": 0.62,
+    "trust_trigger": 0.46,
+    "accountability_trigger": 0.55,
+    "contestability_trigger": 0.55,
+    "burden_trigger": 0.64
+  },
+  "summary_metrics": [
+    {
+      "decision_context": "AI-Supported Eligibility",
+      "maximum_ethical_risk": 0.725597,
+      "minimum_stakeholder_trust": 0.568194,
+      "minimum_accountability_strength": 0.627314,
+      "minimum_contestability": 0.512926,
+      "maximum_distributional_burden": 0.766518,
+      "review_required_count": 36
+    },
+    {
+      "decision_context": "Crisis Triage",
+      "maximum_ethical_risk": 0.825755,
+      "minimum_stakeholder_trust": 0.523194,
+      "minimum_accountability_strength": 0.623647,
+      "minimum_contestability": 0.547407,
+      "maximum_distributional_burden": 0.696629,
+      "review_required_count": 34
+    },
+    {
+      "decision_context": "Infrastructure Siting",
+      "maximum_ethical_risk": 0.623673,
+      "minimum_stakeholder_trust": 0.585186,
+      "minimum_accountability_strength": 0.614162,
+      "minimum_contestability": 0.557732,
+      "maximum_distributional_burden": 0.733513,
+      "review_required_count": 33
+    },
+    {
+      "decision_context": "Public Policy Allocation",
+      "maximum_ethical_risk": 0.437809,
+      "minimum_stakeholder_trust": 0.626017,
+      "minimum_accountability_strength": 0.696803,
+      "minimum_contestability": 0.626555,
+      "maximum_distributional_burden": 0.560865,
+      "review_required_count": 0
+    }
+  ]
+}

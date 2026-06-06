@@ -1,0 +1,5 @@
+decision_context,maximum_ethical_risk,minimum_stakeholder_trust,minimum_accountability_strength,minimum_contestability,maximum_distributional_burden,review_required_count
+AI-Supported Eligibility,0.725597,0.568194,0.627314,0.512926,0.766518,36
+Crisis Triage,0.825755,0.523194,0.623647,0.547407,0.696629,34
+Infrastructure Siting,0.623673,0.585186,0.614162,0.557732,0.733513,33
+Public Policy Allocation,0.437809,0.626017,0.696803,0.626555,0.560865,0

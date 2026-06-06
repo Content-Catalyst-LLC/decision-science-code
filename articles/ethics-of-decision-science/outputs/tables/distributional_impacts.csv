@@ -1,0 +1,19 @@
+"alternative","group","benefit","cost","risk","net_benefit"
+"Efficiency Maximization","High-influence stakeholders",86,24,18,44
+"Efficiency Maximization","Low-power affected communities",48,44,58,-54
+"Efficiency Maximization","Future generations",52,34,48,-30
+"Equity-Constrained Option","High-influence stakeholders",70,28,22,20
+"Equity-Constrained Option","Low-power affected communities",72,26,24,22
+"Equity-Constrained Option","Future generations",64,28,30,6
+"Precautionary Option","High-influence stakeholders",62,30,18,14
+"Precautionary Option","Low-power affected communities",68,24,20,24
+"Precautionary Option","Future generations",72,22,18,32
+"Participatory Review Option","High-influence stakeholders",66,30,24,12
+"Participatory Review Option","Low-power affected communities",78,24,22,32
+"Participatory Review Option","Future generations",70,24,22,24
+"Adaptive Accountability Pathway","High-influence stakeholders",76,28,22,26
+"Adaptive Accountability Pathway","Low-power affected communities",80,24,20,36
+"Adaptive Accountability Pathway","Future generations",78,22,18,38
+"Status Quo","High-influence stakeholders",64,26,26,12
+"Status Quo","Low-power affected communities",44,38,50,-44
+"Status Quo","Future generations",46,34,46,-34

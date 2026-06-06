@@ -1,0 +1,9 @@
+criterion,weight,description
+expected_value,0.18,Expected aggregate value or outcome performance
+equity_score,0.18,Distributional fairness and burden reduction
+safety_score,0.16,Harm prevention and protection from unacceptable risk
+legitimacy_score,0.14,Procedural fairness and public defensibility
+transparency_score,0.10,Visibility of process evidence criteria uncertainty and rationale
+contestability_score,0.10,Ability to challenge correct appeal or review decisions
+reversibility_score,0.08,Capacity to revise or reverse decisions when evidence changes
+accountability_score,0.06,Clear responsibility for correction remedy and learning

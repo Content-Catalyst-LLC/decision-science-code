@@ -1,0 +1,7 @@
+"alternative","expected_value","equity_score","safety_score","legitimacy_score","transparency_score","contestability_score","reversibility_score","accountability_score","harm_risk","opacity_risk","exclusion_risk","description","ethical_value_score","ethical_risk_score","net_ethical_score","review_flag","rank"
+"Adaptive Accountability Pathway",82,0.84,0.82,0.84,0.82,0.86,0.88,0.9,0.3,0.28,0.24,"Uses staged decisions monitoring review triggers and correction mechanisms",0.84,0.2412,0.738696,"acceptable",1
+"Participatory Review Option",74,0.78,0.76,0.88,0.86,0.9,0.72,0.84,0.4,0.24,0.22,"Strengthens participation transparency legitimacy and contestability",0.8024,0.2736,0.687488,"acceptable",2
+"Equity-Constrained Option",78,0.82,0.72,0.74,0.76,0.7,0.68,0.76,0.42,0.34,0.28,"Uses equity constraints to reduce unequal burdens while preserving moderate expected value",0.7528,0.3328,0.613024,"acceptable",3
+"Precautionary Option",70,0.74,0.88,0.68,0.7,0.66,0.78,0.72,0.32,0.36,0.36,"Prioritizes safety reversibility and harm prevention under uncertainty",0.7368,0.3304,0.598032,"acceptable",4
+"Status Quo",62,0.5,0.54,0.52,0.48,0.4,0.56,0.5,0.56,0.52,0.58,"Preserves current practice but leaves major ethical weaknesses unresolved",0.5236,0.544,0.29512,"review",5
+"Efficiency Maximization",88,0.42,0.58,0.46,0.5,0.38,0.44,0.46,0.64,0.58,0.68,"Maximizes aggregate value but performs poorly on equity contestability and distributional burden",0.542,0.6164,0.283112,"review",6

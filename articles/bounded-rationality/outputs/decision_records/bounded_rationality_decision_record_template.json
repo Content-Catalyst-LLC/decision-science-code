@@ -1,0 +1,25 @@
+{
+  "article": "Bounded Rationality",
+  "decision_context": "",
+  "decision_owner": "",
+  "constraints": {
+    "information": [],
+    "time": [],
+    "attention": [],
+    "organizational_capacity": [],
+    "implementation": []
+  },
+  "alternatives_searched": [],
+  "excluded_search_space": [],
+  "aspiration_thresholds": [],
+  "search_rule": "",
+  "stopping_rule": "",
+  "selected_action": "",
+  "optimizing_benchmark": null,
+  "opportunity_loss": null,
+  "search_cost": null,
+  "net_value": null,
+  "dissent": [],
+  "review_triggers": [],
+  "post_decision_learning": []
+}

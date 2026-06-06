@@ -1,0 +1,7 @@
+"metric","value"
+"average_search_length",4.394
+"satisficing_found_rate",0.776
+"average_opportunity_loss",0.0387069358821788
+"average_net_value_advantage",0.113866815043798
+"review_rate",0.302
+"final_adaptive_aspiration",0.76181841064099

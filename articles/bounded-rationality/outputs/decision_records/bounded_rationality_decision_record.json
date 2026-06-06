@@ -1,0 +1,100 @@
+{
+  "article": "Bounded Rationality",
+  "decision_context": "Comparing optimizing and satisficing rules under search cost, uncertainty penalties, implementation risk, and adaptive aspiration.",
+  "modeling_principles": [
+    "Decision-makers operate under cognitive, informational, temporal, and institutional constraints.",
+    "Alternatives often must be searched for rather than assumed to be fully known.",
+    "Satisficing can be reasonable when search is costly and aspiration levels are explicit.",
+    "Decision quality depends on search design, stopping rules, and feedback quality.",
+    "Decision records should preserve aspiration thresholds, search assumptions, selected alternatives, and review triggers."
+  ],
+  "overall_metrics": [
+    {
+      "metric": "average_search_length",
+      "value": 4.464
+    },
+    {
+      "metric": "satisficing_found_rate",
+      "value": 0.784
+    },
+    {
+      "metric": "average_opportunity_loss",
+      "value": 0.043321
+    },
+    {
+      "metric": "average_net_value_advantage",
+      "value": 0.109963
+    },
+    {
+      "metric": "review_rate",
+      "value": 0.3
+    },
+    {
+      "metric": "final_adaptive_aspiration",
+      "value": 0.74615
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain": "AI Governance",
+      "n_cycles": 89,
+      "average_aspiration": 0.683168,
+      "average_search_length": 4.730337,
+      "satisficing_found_rate": 0.786517,
+      "average_opportunity_loss": 0.04609,
+      "average_net_value_advantage": 0.102373,
+      "review_rate": 0.269663
+    },
+    {
+      "domain": "Financial Risk",
+      "n_cycles": 77,
+      "average_aspiration": 0.68928,
+      "average_search_length": 5.025974,
+      "satisficing_found_rate": 0.701299,
+      "average_opportunity_loss": 0.050187,
+      "average_net_value_advantage": 0.088741,
+      "review_rate": 0.415584
+    },
+    {
+      "domain": "Healthcare",
+      "n_cycles": 84,
+      "average_aspiration": 0.677089,
+      "average_search_length": 4.619048,
+      "satisficing_found_rate": 0.821429,
+      "average_opportunity_loss": 0.049009,
+      "average_net_value_advantage": 0.102683,
+      "review_rate": 0.261905
+    },
+    {
+      "domain": "Infrastructure",
+      "n_cycles": 79,
+      "average_aspiration": 0.69089,
+      "average_search_length": 4.493671,
+      "satisficing_found_rate": 0.772152,
+      "average_opportunity_loss": 0.026045,
+      "average_net_value_advantage": 0.12875,
+      "review_rate": 0.278481
+    },
+    {
+      "domain": "Organizational Strategy",
+      "n_cycles": 77,
+      "average_aspiration": 0.67988,
+      "average_search_length": 3.987013,
+      "satisficing_found_rate": 0.779221,
+      "average_opportunity_loss": 0.040417,
+      "average_net_value_advantage": 0.113144,
+      "review_rate": 0.324675
+    },
+    {
+      "domain": "Public Policy",
+      "n_cycles": 94,
+      "average_aspiration": 0.692263,
+      "average_search_length": 3.978723,
+      "satisficing_found_rate": 0.829787,
+      "average_opportunity_loss": 0.04689,
+      "average_net_value_advantage": 0.122644,
+      "review_rate": 0.265957
+    }
+  ],
+  "review_queue_size": 150
+}

@@ -1,0 +1,7 @@
+constraint_id,domain,constraint_type,severity,description
+OC1,Public Policy,stakeholder conflict,0.70,values and legitimacy constraints narrow feasible alternatives
+OC2,Healthcare,time pressure,0.82,clinical decision must occur before full search is possible
+OC3,Financial Risk,market volatility,0.76,conditions change while analysis is underway
+OC4,Infrastructure,long horizon uncertainty,0.88,future demand climate and funding are uncertain
+OC5,AI Governance,model opacity,0.74,system behavior is difficult to fully inspect
+OC6,Organizational Strategy,siloed information,0.69,knowledge is distributed unevenly across units

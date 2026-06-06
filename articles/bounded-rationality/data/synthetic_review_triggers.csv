@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,opportunity_loss,above,0.20,decision review group
+RT2,search_length,above,10,analysis lead
+RT3,satisficing_found_rate,below,0.70,governance lead
+RT4,net_value_advantage,below,-0.10,strategy review group
+RT5,aspiration_drift,above,0.15,learning review group

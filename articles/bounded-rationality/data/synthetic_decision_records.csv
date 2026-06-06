@@ -1,0 +1,2 @@
+record_id,decision_context,aspiration,search_rule,selected_action,rationale,review_trigger
+DR1,Bounded rationality search review,0.72,first acceptable option,Review,Selected option met aspiration threshold but search order and opportunity loss require review,review if opportunity loss exceeds threshold

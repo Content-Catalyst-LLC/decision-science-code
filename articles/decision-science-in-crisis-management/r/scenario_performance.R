@@ -1,0 +1,8 @@
+args <- commandArgs(trailingOnly = FALSE)
+file_arg <- grep("^--file=", args, value = TRUE)
+script_path <- if (length(file_arg) > 0) normalizePath(sub("^--file=", "", file_arg[1]), mustWork = TRUE) else file.path(getwd(), "r", "scenario_performance.R")
+article_root <- normalizePath(file.path(dirname(script_path), ".."), mustWork = TRUE)
+tables_dir <- file.path(article_root, "outputs", "tables")
+x <- read.csv(file.path(tables_dir, "crisis_response_scenario_performance.csv"), stringsAsFactors = FALSE)
+write.csv(x, file.path(tables_dir, "scenario_performance.csv"), row.names = FALSE)
+print(x)

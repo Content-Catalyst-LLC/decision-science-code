@@ -1,0 +1,6 @@
+scenario,probability,description
+baseline,0.30,Ordinary crisis trajectory with manageable uncertainty
+rapid_escalation,0.20,Crisis intensifies quickly and requires immediate escalation
+resource_constraint,0.15,Personnel equipment funding or supply capacity is constrained
+public_trust_stress,0.15,Public confidence misinformation confusion or legitimacy pressure becomes central
+cascading_failure,0.20,Initial disruption propagates across dependent systems

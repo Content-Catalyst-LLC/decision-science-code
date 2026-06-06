@@ -1,0 +1,70 @@
+{
+  "article": "Decision Science in Crisis Management",
+  "decision_context": "Simulating crisis risk, uncertainty, resource pressure, public trust, cascading impact, response capacity, and escalation triggers.",
+  "parameters": {
+    "time_steps": 36.0,
+    "random_seed": 42.0,
+    "risk_trigger": 0.72,
+    "uncertainty_trigger": 0.62,
+    "trust_trigger": 0.46,
+    "resource_trigger": 0.7,
+    "cascading_trigger": 0.64
+  },
+  "summary_metrics": [
+    {
+      "crisis_type": "Cyber Incident",
+      "final_risk": 0.0,
+      "maximum_risk": 0.672204,
+      "average_risk": 0.315435,
+      "maximum_uncertainty": 0.666514,
+      "minimum_public_trust": 0.634807,
+      "maximum_resource_pressure": 0.486453,
+      "maximum_cascading_impact": 0.7165,
+      "shock_event_count": 5,
+      "escalation_required_count": 10
+    },
+    {
+      "crisis_type": "Infrastructure Outage",
+      "final_risk": 0.427823,
+      "maximum_risk": 0.724215,
+      "average_risk": 0.607633,
+      "maximum_uncertainty": 0.442937,
+      "minimum_public_trust": 0.486952,
+      "maximum_resource_pressure": 0.526185,
+      "maximum_cascading_impact": 0.569951,
+      "shock_event_count": 8,
+      "escalation_required_count": 4
+    },
+    {
+      "crisis_type": "Public Health Emergency",
+      "final_risk": 0.0,
+      "maximum_risk": 0.747039,
+      "average_risk": 0.395357,
+      "maximum_uncertainty": 0.636492,
+      "minimum_public_trust": 0.522725,
+      "maximum_resource_pressure": 0.566674,
+      "maximum_cascading_impact": 0.638802,
+      "shock_event_count": 4,
+      "escalation_required_count": 7
+    },
+    {
+      "crisis_type": "Severe Weather Disaster",
+      "final_risk": 0.0,
+      "maximum_risk": 0.71332,
+      "average_risk": 0.398038,
+      "maximum_uncertainty": 0.470339,
+      "minimum_public_trust": 0.558127,
+      "maximum_resource_pressure": 0.595703,
+      "maximum_cascading_impact": 0.751337,
+      "shock_event_count": 6,
+      "escalation_required_count": 6
+    }
+  ],
+  "modeling_principles": [
+    "Crisis decisions should distinguish facts, assumptions, uncertainty, and decision triggers.",
+    "Escalation should be connected to risk, uncertainty, resource pressure, public trust, and cascading impact.",
+    "Public communication and public trust are operational variables.",
+    "Adaptive response requires monitoring indicators, revision authority, and decision records.",
+    "After-action review should change future plans, budgets, training, authority, and institutional learning."
+  ]
+}

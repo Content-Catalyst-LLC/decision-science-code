@@ -1,0 +1,11 @@
+threshold_name,value,description
+low_worst_case_value,50.0,Worst-case response value below this level requires review
+low_equity_score,0.55,Equity score below this level requires review
+low_trust_score,0.55,Trust score below this level requires review
+low_continuity_score,0.50,Continuity score below this level requires review
+low_feasibility_score,0.50,Feasibility score below this level requires review
+risk_trigger,0.72,Risk above this level requires escalation
+uncertainty_trigger,0.62,Uncertainty above this level requires review
+trust_trigger,0.46,Public trust below this level requires review
+resource_trigger,0.70,Resource pressure above this level requires escalation
+cascading_trigger,0.64,Cascading impact above this level requires escalation

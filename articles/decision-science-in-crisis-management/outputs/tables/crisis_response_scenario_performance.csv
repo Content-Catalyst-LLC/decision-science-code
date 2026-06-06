@@ -1,0 +1,31 @@
+"option","scenario","value"
+"Monitor and Prepare","baseline",62
+"Monitor and Prepare","rapid_escalation",38
+"Monitor and Prepare","resource_constraint",70
+"Monitor and Prepare","public_trust_stress",56
+"Monitor and Prepare","cascading_failure",34
+"Targeted Escalation","baseline",74
+"Targeted Escalation","rapid_escalation",70
+"Targeted Escalation","resource_constraint",66
+"Targeted Escalation","public_trust_stress",72
+"Targeted Escalation","cascading_failure",68
+"Full Emergency Activation","baseline",70
+"Full Emergency Activation","rapid_escalation",86
+"Full Emergency Activation","resource_constraint",52
+"Full Emergency Activation","public_trust_stress",62
+"Full Emergency Activation","cascading_failure",82
+"Precautionary Shutdown","baseline",58
+"Precautionary Shutdown","rapid_escalation",82
+"Precautionary Shutdown","resource_constraint",48
+"Precautionary Shutdown","public_trust_stress",44
+"Precautionary Shutdown","cascading_failure",70
+"Mutual Aid Mobilization","baseline",72
+"Mutual Aid Mobilization","rapid_escalation",80
+"Mutual Aid Mobilization","resource_constraint",74
+"Mutual Aid Mobilization","public_trust_stress",66
+"Mutual Aid Mobilization","cascading_failure",78
+"Adaptive Phased Response","baseline",76
+"Adaptive Phased Response","rapid_escalation",84
+"Adaptive Phased Response","resource_constraint",76
+"Adaptive Phased Response","public_trust_stress",80
+"Adaptive Phased Response","cascading_failure",86

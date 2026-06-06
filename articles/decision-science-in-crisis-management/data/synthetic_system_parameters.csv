@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,36,Number of simulated crisis review periods
+random_seed,42,Random seed for reproducibility
+risk_trigger,0.72,Risk above this level requires escalation
+uncertainty_trigger,0.62,Uncertainty above this level requires review
+trust_trigger,0.46,Public trust below this level requires review
+resource_trigger,0.70,Resource pressure above this level requires escalation
+cascading_trigger,0.64,Cascading impact above this level requires escalation

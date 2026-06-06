@@ -1,0 +1,7 @@
+option,baseline,rapid_escalation,resource_constraint,public_trust_stress,cascading_failure,speed_score,feasibility_score,equity_score,trust_score,continuity_score,adaptability,description
+Monitor and Prepare,62,38,70,56,34,0.42,0.88,0.58,0.62,0.66,0.54,Maintains readiness with limited activation but weak performance under rapid escalation and cascading failure
+Targeted Escalation,74,70,66,72,68,0.74,0.78,0.72,0.76,0.72,0.70,Escalates selected functions while preserving operational flexibility
+Full Emergency Activation,70,86,52,62,82,0.88,0.58,0.68,0.64,0.58,0.52,Activates full emergency response with strong rapid escalation performance but high burden
+Precautionary Shutdown,58,82,48,44,70,0.84,0.50,0.46,0.40,0.42,0.36,Reduces exposure quickly but creates major continuity equity and trust burdens
+Mutual Aid Mobilization,72,80,74,66,78,0.70,0.62,0.70,0.68,0.76,0.68,Requests outside support to increase capacity and reduce cascading impacts
+Adaptive Phased Response,76,84,76,80,86,0.82,0.72,0.80,0.82,0.80,0.90,Uses staged escalation monitoring triggers and adaptive public communication

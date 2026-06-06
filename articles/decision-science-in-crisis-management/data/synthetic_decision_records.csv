@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Crisis management review,Adaptive Phased Response,Strong worst-case performance trust equity continuity adaptability and cascading-failure resilience,review if risk uncertainty public trust resource pressure or cascading impact crosses threshold

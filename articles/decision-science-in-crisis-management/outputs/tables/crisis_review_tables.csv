@@ -1,0 +1,3 @@
+"option","baseline","rapid_escalation","resource_constraint","public_trust_stress","cascading_failure","speed_score","feasibility_score","equity_score","trust_score","continuity_score","adaptability","description","expected_response_value","worst_case_value","scenario_dispersion","crisis_decision_score","review_flag","rank"
+"Monitor and Prepare",62,38,70,56,34,0.42,0.88,0.58,0.62,0.66,0.54,"Maintains readiness with limited activation but weak performance under rapid escalation and cascading failure",51.9,34,15.4919333848297,0.554868177640454,"review",5
+"Precautionary Shutdown",58,82,48,44,70,0.84,0.5,0.46,0.4,0.42,0.36,"Reduces exposure quickly but creates major continuity equity and trust burdens",61.6,44,15.7098695093244,0.522827014641802,"review",6

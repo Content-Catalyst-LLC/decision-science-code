@@ -1,0 +1,5 @@
+crisis_type,final_risk,maximum_risk,average_risk,maximum_uncertainty,minimum_public_trust,maximum_resource_pressure,maximum_cascading_impact,shock_event_count,escalation_required_count
+Cyber Incident,0.0,0.672204,0.315435,0.666514,0.634807,0.486453,0.7165,5,10
+Infrastructure Outage,0.427823,0.724215,0.607633,0.442937,0.486952,0.526185,0.569951,8,4
+Public Health Emergency,0.0,0.747039,0.395357,0.636492,0.522725,0.566674,0.638802,4,7
+Severe Weather Disaster,0.0,0.71332,0.398038,0.470339,0.558127,0.595703,0.751337,6,6

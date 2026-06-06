@@ -1,0 +1,57 @@
+-- schema_regret_analysis_minimax_decision_rules.sql
+-- SQLite-compatible schema for regret analysis and minimax decision rules.
+
+PRAGMA foreign_keys = ON;
+
+DROP TABLE IF EXISTS decision_records;
+DROP TABLE IF EXISTS thresholds;
+DROP TABLE IF EXISTS regret;
+DROP TABLE IF EXISTS payoffs;
+DROP TABLE IF EXISTS scenarios;
+DROP TABLE IF EXISTS strategies;
+
+CREATE TABLE strategies (
+    strategy_id TEXT PRIMARY KEY,
+    strategy_name TEXT NOT NULL,
+    description TEXT
+);
+
+CREATE TABLE scenarios (
+    scenario_id TEXT PRIMARY KEY,
+    scenario_name TEXT NOT NULL,
+    weight REAL CHECK (weight >= 0),
+    description TEXT
+);
+
+CREATE TABLE payoffs (
+    strategy_id TEXT,
+    scenario_id TEXT,
+    payoff_value REAL,
+    PRIMARY KEY (strategy_id, scenario_id),
+    FOREIGN KEY (strategy_id) REFERENCES strategies(strategy_id),
+    FOREIGN KEY (scenario_id) REFERENCES scenarios(scenario_id)
+);
+
+CREATE TABLE regret (
+    strategy_id TEXT,
+    scenario_id TEXT,
+    regret_value REAL,
+    PRIMARY KEY (strategy_id, scenario_id),
+    FOREIGN KEY (strategy_id) REFERENCES strategies(strategy_id),
+    FOREIGN KEY (scenario_id) REFERENCES scenarios(scenario_id)
+);
+
+CREATE TABLE thresholds (
+    threshold_name TEXT PRIMARY KEY,
+    threshold_value REAL,
+    description TEXT
+);
+
+CREATE TABLE decision_records (
+    record_id TEXT PRIMARY KEY,
+    decision_context TEXT NOT NULL,
+    selected_action TEXT,
+    rationale TEXT,
+    review_trigger TEXT,
+    created_at TEXT DEFAULT CURRENT_TIMESTAMP
+);

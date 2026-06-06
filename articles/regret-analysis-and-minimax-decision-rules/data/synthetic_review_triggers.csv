@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,maximin_value,below,0.50,regret analysis review group
+RT2,maximum_regret,above,0.35,scenario review lead
+RT3,threshold_pass_rate,below,0.50,decision owner
+RT4,vulnerability_count,above,3,governance lead
+RT5,decision_rule_disagreement,equals,true,decision quality lead

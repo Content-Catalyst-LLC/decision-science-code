@@ -1,0 +1,215 @@
+{
+  "article": "Regret Analysis and Minimax Decision Rules",
+  "decision_context": "Comparing strategies across uncertain scenarios using expected value, maximin, minimax regret, threshold compliance, and vulnerability analysis.",
+  "scenarios": [
+    "stable_growth",
+    "fiscal_stress",
+    "climate_disruption",
+    "technology_shift",
+    "governance_stress",
+    "social_contestation"
+  ],
+  "scenario_weights": {
+    "stable_growth": 0.18,
+    "fiscal_stress": 0.16,
+    "climate_disruption": 0.18,
+    "technology_shift": 0.17,
+    "governance_stress": 0.15,
+    "social_contestation": 0.16
+  },
+  "thresholds": {
+    "minimum_acceptable_performance": 0.7,
+    "high_regret_threshold": 0.35,
+    "low_worst_case_threshold": 0.5,
+    "low_pass_rate_threshold": 0.5
+  },
+  "decision_rule_comparison": [
+    {
+      "strategy": "Learning Portfolio Strategy",
+      "expected_value": 0.7998,
+      "maximin_value": 0.74,
+      "best_case": 0.88,
+      "performance_range": 0.14,
+      "average_regret": 0.05,
+      "maximum_regret": 0.18,
+      "threshold_pass_rate": 1.0,
+      "vulnerability_count": 0,
+      "combined_robustness_score": 0.84597,
+      "review_flag": "acceptable",
+      "expected_value_rank": 1,
+      "maximin_rank": 1,
+      "minimax_regret_rank": 1,
+      "threshold_rank": 3,
+      "combined_rank": 1
+    },
+    {
+      "strategy": "Staged Optionality Strategy",
+      "expected_value": 0.7883,
+      "maximin_value": 0.73,
+      "best_case": 0.87,
+      "performance_range": 0.14,
+      "average_regret": 0.061667,
+      "maximum_regret": 0.19,
+      "threshold_pass_rate": 1.0,
+      "vulnerability_count": 0,
+      "combined_robustness_score": 0.839245,
+      "review_flag": "acceptable",
+      "expected_value_rank": 2,
+      "maximin_rank": 2,
+      "minimax_regret_rank": 2,
+      "threshold_rank": 1,
+      "combined_rank": 2
+    },
+    {
+      "strategy": "Modular No-Regrets Strategy",
+      "expected_value": 0.779,
+      "maximin_value": 0.7,
+      "best_case": 0.82,
+      "performance_range": 0.12,
+      "average_regret": 0.07,
+      "maximum_regret": 0.22,
+      "threshold_pass_rate": 1.0,
+      "vulnerability_count": 0,
+      "combined_robustness_score": 0.82485,
+      "review_flag": "acceptable",
+      "expected_value_rank": 3,
+      "maximin_rank": 3,
+      "minimax_regret_rank": 4,
+      "threshold_rank": 2,
+      "combined_rank": 3
+    },
+    {
+      "strategy": "Balanced Adaptive Strategy",
+      "expected_value": 0.71,
+      "maximin_value": 0.64,
+      "best_case": 0.76,
+      "performance_range": 0.12,
+      "average_regret": 0.14,
+      "maximum_regret": 0.2,
+      "threshold_pass_rate": 0.666667,
+      "vulnerability_count": 2,
+      "combined_robustness_score": 0.721167,
+      "review_flag": "acceptable",
+      "expected_value_rank": 5,
+      "maximin_rank": 4,
+      "minimax_regret_rank": 3,
+      "threshold_rank": 4,
+      "combined_rank": 4
+    },
+    {
+      "strategy": "Defensive Resilience Strategy",
+      "expected_value": 0.716,
+      "maximin_value": 0.61,
+      "best_case": 0.84,
+      "performance_range": 0.23,
+      "average_regret": 0.133333,
+      "maximum_regret": 0.31,
+      "threshold_pass_rate": 0.5,
+      "vulnerability_count": 3,
+      "combined_robustness_score": 0.6344,
+      "review_flag": "acceptable",
+      "expected_value_rank": 4,
+      "maximin_rank": 5,
+      "minimax_regret_rank": 5,
+      "threshold_rank": 5,
+      "combined_rank": 5
+    },
+    {
+      "strategy": "Aggressive Commitment",
+      "expected_value": 0.4497,
+      "maximin_value": 0.18,
+      "best_case": 0.92,
+      "performance_range": 0.74,
+      "average_regret": 0.406667,
+      "maximum_regret": 0.66,
+      "threshold_pass_rate": 0.166667,
+      "vulnerability_count": 5,
+      "combined_robustness_score": 0.265122,
+      "review_flag": "review",
+      "expected_value_rank": 6,
+      "maximin_rank": 6,
+      "minimax_regret_rank": 6,
+      "threshold_rank": 6,
+      "combined_rank": 6
+    }
+  ],
+  "decision_rule_winners": [
+    {
+      "rule": "Expected value",
+      "selected_strategy": "Learning Portfolio Strategy"
+    },
+    {
+      "rule": "Maximin",
+      "selected_strategy": "Learning Portfolio Strategy"
+    },
+    {
+      "rule": "Minimax regret",
+      "selected_strategy": "Learning Portfolio Strategy"
+    },
+    {
+      "rule": "Threshold pass rate",
+      "selected_strategy": "Staged Optionality Strategy"
+    },
+    {
+      "rule": "Combined robustness",
+      "selected_strategy": "Learning Portfolio Strategy"
+    }
+  ],
+  "scenario_summary": [
+    {
+      "scenario": "stable_growth",
+      "best_strategy": "Aggressive Commitment",
+      "best_value": 0.92,
+      "worst_strategy": "Defensive Resilience Strategy",
+      "worst_value": 0.61,
+      "scenario_spread": 0.31
+    },
+    {
+      "scenario": "fiscal_stress",
+      "best_strategy": "Staged Optionality Strategy",
+      "best_value": 0.81,
+      "worst_strategy": "Aggressive Commitment",
+      "worst_value": 0.29,
+      "scenario_spread": 0.52
+    },
+    {
+      "scenario": "climate_disruption",
+      "best_strategy": "Defensive Resilience Strategy",
+      "best_value": 0.84,
+      "worst_strategy": "Aggressive Commitment",
+      "worst_value": 0.18,
+      "scenario_spread": 0.66
+    },
+    {
+      "scenario": "technology_shift",
+      "best_strategy": "Learning Portfolio Strategy",
+      "best_value": 0.88,
+      "worst_strategy": "Aggressive Commitment",
+      "worst_value": 0.55,
+      "scenario_spread": 0.33
+    },
+    {
+      "scenario": "governance_stress",
+      "best_strategy": "Modular No-Regrets Strategy",
+      "best_value": 0.82,
+      "worst_strategy": "Aggressive Commitment",
+      "worst_value": 0.34,
+      "scenario_spread": 0.48
+    },
+    {
+      "scenario": "social_contestation",
+      "best_strategy": "Learning Portfolio Strategy",
+      "best_value": 0.83,
+      "worst_strategy": "Aggressive Commitment",
+      "worst_value": 0.38,
+      "scenario_spread": 0.45
+    }
+  ],
+  "modeling_principles": [
+    "Regret measures opportunity loss relative to the hindsight-best action in each state.",
+    "Maximin protects the worst absolute payoff.",
+    "Minimax regret protects against the worst missed opportunity.",
+    "Expected value requires credible probabilities.",
+    "Regret should be evaluated alongside absolute thresholds and vulnerability sets."
+  ]
+}

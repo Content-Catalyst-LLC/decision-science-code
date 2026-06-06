@@ -1,0 +1,24 @@
+{
+  "article": "Regret Analysis and Minimax Decision Rules",
+  "decision_context": "",
+  "decision_owner": "",
+  "decision_question": "",
+  "actions": [],
+  "scenarios": [],
+  "payoff_matrix": [],
+  "regret_matrix": [],
+  "thresholds": {},
+  "decision_rules_compared": [
+    "expected_value",
+    "maximin",
+    "minimax_regret",
+    "threshold_pass_rate",
+    "combined_robustness"
+  ],
+  "selected_action": "",
+  "rationale": "",
+  "dissent_or_contested_assumptions": [],
+  "scenario_sensitivity_tests": [],
+  "review_triggers": [],
+  "post_decision_learning": []
+}

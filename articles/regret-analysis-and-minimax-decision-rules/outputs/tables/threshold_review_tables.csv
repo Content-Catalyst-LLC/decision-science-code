@@ -1,0 +1,2 @@
+"strategy","expected_value","maximin_value","best_case","performance_range","average_regret","maximum_regret","threshold_pass_rate","vulnerability_count","expected_value_rank","maximin_rank","minimax_regret_rank","threshold_rank","combined_robustness_score","combined_rank","review_flag"
+"Aggressive Commitment",0.4497,0.18,0.92,0.74,0.406666666666667,0.66,0.166666666666667,5,6,6,6,6,0.265121666666667,6,"review"

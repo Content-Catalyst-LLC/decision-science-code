@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Regret and minimax strategy review,Staged Optionality Strategy,Strong minimax-regret profile and broad threshold compliance,review if scenario set or payoff assumptions materially change

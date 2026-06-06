@@ -1,0 +1,7 @@
+scenario,weight,description
+stable_growth,0.18,baseline favorable future with stable growth and manageable disruption
+fiscal_stress,0.16,budget pressure funding volatility and resource constraints
+climate_disruption,0.18,environmental stress physical risk and disruption
+technology_shift,0.17,rapid technology model or platform change
+governance_stress,0.15,institutional capacity legitimacy or coordination stress
+social_contestation,0.16,public resistance stakeholder conflict or legitimacy challenge

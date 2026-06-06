@@ -1,0 +1,27 @@
+{
+  "article": "Judgment Under Uncertainty",
+  "decision_context": "",
+  "judgment_target": "",
+  "prior_probability": null,
+  "reference_class": "",
+  "evidence": [],
+  "likelihood_if_true": null,
+  "likelihood_if_false": null,
+  "posterior_probability": null,
+  "forecast_probability": null,
+  "confidence": null,
+  "confidence_rationale": "",
+  "competing_hypotheses": [],
+  "bias_checks": {
+    "base_rate_neglect": "",
+    "anchoring": "",
+    "availability": "",
+    "confirmation_bias": "",
+    "overconfidence": "",
+    "framing_effects": ""
+  },
+  "action_threshold": "",
+  "selected_action": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

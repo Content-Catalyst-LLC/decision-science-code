@@ -1,0 +1,6 @@
+profile_id,confidence_flag,description,review_priority
+CP1,overconfident,confidence exceeds forecast probability or evidence quality,high
+CP2,underconfident,confidence is lower than evidence-supported probability,medium
+CP3,approximately calibrated,confidence is close to forecast probability and evidence quality,low
+CP4,overprecise,uncertainty interval is too narrow relative to historical error,high
+CP5,unknown,no feedback history available,medium

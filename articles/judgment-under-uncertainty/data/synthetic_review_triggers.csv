@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,brier_score,above,0.25,forecast review group
+RT2,confidence_gap,above,0.15,calibration lead
+RT3,anchor_distortion,above,0.15,decision facilitator
+RT4,calibration_gap,above,0.10,analysis lead
+RT5,evidence_quality,equals,low,decision review group

@@ -1,0 +1,2 @@
+record_id,decision_context,prior,posterior,forecast_probability,confidence,selected_action,rationale,review_trigger
+DR1,Judgment under uncertainty review,0.35,0.58,0.62,0.72,Monitor and review,Forecast confidence exceeds evidence quality and requires calibration review,review if confidence gap exceeds threshold

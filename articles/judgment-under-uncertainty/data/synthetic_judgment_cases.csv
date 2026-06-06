@@ -1,0 +1,11 @@
+case_id,domain,prior,likelihood_if_true,likelihood_if_false,anchor,anchor_weight,evidence_quality
+1,Public Policy,0.35,0.72,0.28,0.60,0.40,medium
+2,Healthcare,0.58,0.84,0.22,0.55,0.25,high
+3,Financial Risk,0.28,0.66,0.44,0.70,0.48,medium
+4,Infrastructure,0.42,0.75,0.35,0.50,0.30,medium
+5,AI Governance,0.33,0.80,0.30,0.68,0.45,low
+6,Organizational Strategy,0.52,0.62,0.40,0.57,0.35,medium
+7,Public Policy,0.46,0.55,0.50,0.65,0.50,low
+8,Healthcare,0.64,0.88,0.18,0.62,0.20,high
+9,Financial Risk,0.22,0.70,0.26,0.45,0.42,medium
+10,Infrastructure,0.39,0.58,0.47,0.52,0.38,low

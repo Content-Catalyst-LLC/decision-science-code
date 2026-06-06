@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,Decision quality and strategic alignment review,Adaptive Learning Portfolio,Strong process quality strategic fit and learning capacity,review if drift exceeds threshold

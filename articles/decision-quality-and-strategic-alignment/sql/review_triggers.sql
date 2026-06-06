@@ -1,0 +1,9 @@
+-- review_triggers.sql
+
+INSERT INTO review_triggers (trigger_id, indicator, threshold_direction, threshold_value, review_owner)
+VALUES
+('RT1', 'decision_quality_score', 'below', 0.70, 'decision quality lead'),
+('RT2', 'strategic_alignment_score', 'below', 0.70, 'strategy owner'),
+('RT3', 'strategy_vector_alignment', 'below', 0.85, 'governance lead'),
+('RT4', 'strategic_drift', 'above', 0.12, 'portfolio review group'),
+('RT5', 'implementation_readiness', 'below', 0.65, 'implementation owner');

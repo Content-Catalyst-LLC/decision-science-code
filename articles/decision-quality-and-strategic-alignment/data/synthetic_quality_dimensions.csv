@@ -1,0 +1,7 @@
+dimension,weight,description
+objective_clarity,0.16,clarity of what the decision is intended to achieve
+alternative_quality,0.15,quality and variety of alternatives considered
+information_strength,0.17,relevance credibility and completeness of evidence
+tradeoff_transparency,0.18,visibility of competing objectives and sacrifices
+uncertainty_treatment,0.18,quality of assumptions scenarios risks and unknowns
+implementation_readiness,0.16,ability to execute the selected action

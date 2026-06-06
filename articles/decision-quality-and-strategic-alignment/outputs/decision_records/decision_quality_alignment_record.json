@@ -1,0 +1,334 @@
+{
+  "article": "Decision Quality and Strategic Alignment",
+  "decision_context": "Evaluating decisions by process quality, strategic fit, implementation readiness, adaptive performance, and alignment drift.",
+  "quality_dimensions": [
+    "objective_clarity",
+    "alternative_quality",
+    "information_strength",
+    "tradeoff_transparency",
+    "uncertainty_treatment",
+    "implementation_readiness"
+  ],
+  "alignment_dimensions": [
+    "strategic_fit",
+    "capability_fit",
+    "value_fit"
+  ],
+  "quality_weights": {
+    "objective_clarity": 0.16,
+    "alternative_quality": 0.15,
+    "information_strength": 0.17,
+    "tradeoff_transparency": 0.18,
+    "uncertainty_treatment": 0.18,
+    "implementation_readiness": 0.16
+  },
+  "alignment_weights": {
+    "strategic_fit": 0.45,
+    "capability_fit": 0.3,
+    "value_fit": 0.25
+  },
+  "strategy_vector": {
+    "growth": 0.2,
+    "resilience": 0.25,
+    "equity": 0.18,
+    "learning": 0.22,
+    "legitimacy": 0.15
+  },
+  "ranked_decisions": [
+    {
+      "decision": "Adaptive Learning Portfolio",
+      "decision_quality_score": 0.8472,
+      "strategic_alignment_score": 0.8835,
+      "strategy_vector_alignment": 0.984519,
+      "implementation_readiness": 0.77,
+      "combined_decision_value": 0.85014,
+      "rank": 1
+    },
+    {
+      "decision": "Mission-Aligned Capability Build",
+      "decision_quality_score": 0.7973,
+      "strategic_alignment_score": 0.906,
+      "strategy_vector_alignment": 0.969128,
+      "implementation_readiness": 0.82,
+      "combined_decision_value": 0.844185,
+      "rank": 2
+    },
+    {
+      "decision": "Balanced Strategic Investment",
+      "decision_quality_score": 0.785,
+      "strategic_alignment_score": 0.826,
+      "strategy_vector_alignment": 0.981756,
+      "implementation_readiness": 0.78,
+      "combined_decision_value": 0.80065,
+      "rank": 3
+    },
+    {
+      "decision": "Risk-Controlled Expansion",
+      "decision_quality_score": 0.7798,
+      "strategic_alignment_score": 0.7765,
+      "strategy_vector_alignment": 0.983236,
+      "implementation_readiness": 0.75,
+      "combined_decision_value": 0.77401,
+      "rank": 4
+    },
+    {
+      "decision": "Efficiency Consolidation",
+      "decision_quality_score": 0.6548,
+      "strategic_alignment_score": 0.6245,
+      "strategy_vector_alignment": 0.982346,
+      "implementation_readiness": 0.88,
+      "combined_decision_value": 0.67646,
+      "rank": 5
+    },
+    {
+      "decision": "Fast Growth Allocation",
+      "decision_quality_score": 0.5316,
+      "strategic_alignment_score": 0.473,
+      "strategy_vector_alignment": 0.92181,
+      "implementation_readiness": 0.72,
+      "combined_decision_value": 0.53642,
+      "rank": 6
+    }
+  ],
+  "performance_summary": [
+    {
+      "decision": "Adaptive Learning Portfolio",
+      "final_value": 240.434975,
+      "min_value": 101.879462,
+      "max_value": 240.434975,
+      "average_value": 160.079213,
+      "volatility": 41.997199
+    },
+    {
+      "decision": "Mission-Aligned Capability Build",
+      "final_value": 253.09708,
+      "min_value": 104.581085,
+      "max_value": 253.09708,
+      "average_value": 173.152596,
+      "volatility": 41.059042
+    },
+    {
+      "decision": "Balanced Strategic Investment",
+      "final_value": 229.849329,
+      "min_value": 104.250101,
+      "max_value": 229.849329,
+      "average_value": 162.770392,
+      "volatility": 38.960528
+    },
+    {
+      "decision": "Risk-Controlled Expansion",
+      "final_value": 243.092011,
+      "min_value": 102.197718,
+      "max_value": 243.092011,
+      "average_value": 164.323671,
+      "volatility": 45.100688
+    },
+    {
+      "decision": "Efficiency Consolidation",
+      "final_value": 275.676509,
+      "min_value": 104.123031,
+      "max_value": 275.676509,
+      "average_value": 169.261686,
+      "volatility": 51.779507
+    },
+    {
+      "decision": "Fast Growth Allocation",
+      "final_value": 191.969451,
+      "min_value": 101.571307,
+      "max_value": 191.969451,
+      "average_value": 141.833585,
+      "volatility": 27.662897
+    }
+  ],
+  "alignment_drift": [
+    {
+      "period": 1,
+      "alignment": 0.955406,
+      "strategic_drift": 0.044594,
+      "equity": 0.161049,
+      "growth": 0.188884,
+      "learning": 0.300887,
+      "legitimacy": 0.04127,
+      "resilience": 0.307911
+    },
+    {
+      "period": 2,
+      "alignment": 0.915585,
+      "strategic_drift": 0.084415,
+      "equity": 0.190674,
+      "growth": 0.355735,
+      "learning": 0.224266,
+      "legitimacy": 0.033377,
+      "resilience": 0.195948
+    },
+    {
+      "period": 3,
+      "alignment": 0.941103,
+      "strategic_drift": 0.058897,
+      "equity": 0.171391,
+      "growth": 0.309304,
+      "learning": 0.262041,
+      "legitimacy": 0.032767,
+      "resilience": 0.224497
+    },
+    {
+      "period": 4,
+      "alignment": 0.96318,
+      "strategic_drift": 0.03682,
+      "equity": 0.161413,
+      "growth": 0.303675,
+      "learning": 0.229489,
+      "legitimacy": 0.082512,
+      "resilience": 0.222911
+    },
+    {
+      "period": 5,
+      "alignment": 0.935144,
+      "strategic_drift": 0.064856,
+      "equity": 0.197323,
+      "growth": 0.32938,
+      "learning": 0.189278,
+      "legitimacy": 0.13383,
+      "resilience": 0.150189
+    },
+    {
+      "period": 6,
+      "alignment": 0.857613,
+      "strategic_drift": 0.142387,
+      "equity": 0.072043,
+      "growth": 0.438096,
+      "learning": 0.176325,
+      "legitimacy": 0.116996,
+      "resilience": 0.19654
+    },
+    {
+      "period": 7,
+      "alignment": 0.880807,
+      "strategic_drift": 0.119193,
+      "equity": 0.119016,
+      "growth": 0.413239,
+      "learning": 0.128157,
+      "legitimacy": 0.11161,
+      "resilience": 0.227978
+    },
+    {
+      "period": 8,
+      "alignment": 0.918151,
+      "strategic_drift": 0.081849,
+      "equity": 0.115751,
+      "growth": 0.349586,
+      "learning": 0.195915,
+      "legitimacy": 0.180789,
+      "resilience": 0.157959
+    },
+    {
+      "period": 9,
+      "alignment": 0.740454,
+      "strategic_drift": 0.259546,
+      "equity": 0.203865,
+      "growth": 0.535506,
+      "learning": 0.027761,
+      "legitimacy": 0.055825,
+      "resilience": 0.177042
+    },
+    {
+      "period": 10,
+      "alignment": 0.843155,
+      "strategic_drift": 0.156845,
+      "equity": 0.144873,
+      "growth": 0.446433,
+      "learning": 0.168807,
+      "legitimacy": 0.108652,
+      "resilience": 0.131235
+    },
+    {
+      "period": 11,
+      "alignment": 0.823595,
+      "strategic_drift": 0.176405,
+      "equity": 0.076131,
+      "growth": 0.479766,
+      "learning": 0.155905,
+      "legitimacy": 0.077722,
+      "resilience": 0.210475
+    },
+    {
+      "period": 12,
+      "alignment": 0.812461,
+      "strategic_drift": 0.187539,
+      "equity": 0.052694,
+      "growth": 0.481861,
+      "learning": 0.160691,
+      "legitimacy": 0.126646,
+      "resilience": 0.178107
+    }
+  ],
+  "review_flags": [
+    {
+      "decision": "Adaptive Learning Portfolio",
+      "rank": 1,
+      "decision_quality_score": 0.8472,
+      "strategic_alignment_score": 0.8835,
+      "strategy_vector_alignment": 0.984519,
+      "implementation_readiness": 0.77,
+      "combined_decision_value": 0.85014,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision": "Mission-Aligned Capability Build",
+      "rank": 2,
+      "decision_quality_score": 0.7973,
+      "strategic_alignment_score": 0.906,
+      "strategy_vector_alignment": 0.969128,
+      "implementation_readiness": 0.82,
+      "combined_decision_value": 0.844185,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision": "Balanced Strategic Investment",
+      "rank": 3,
+      "decision_quality_score": 0.785,
+      "strategic_alignment_score": 0.826,
+      "strategy_vector_alignment": 0.981756,
+      "implementation_readiness": 0.78,
+      "combined_decision_value": 0.80065,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision": "Risk-Controlled Expansion",
+      "rank": 4,
+      "decision_quality_score": 0.7798,
+      "strategic_alignment_score": 0.7765,
+      "strategy_vector_alignment": 0.983236,
+      "implementation_readiness": 0.75,
+      "combined_decision_value": 0.77401,
+      "review_flag": "acceptable"
+    },
+    {
+      "decision": "Efficiency Consolidation",
+      "rank": 5,
+      "decision_quality_score": 0.6548,
+      "strategic_alignment_score": 0.6245,
+      "strategy_vector_alignment": 0.982346,
+      "implementation_readiness": 0.88,
+      "combined_decision_value": 0.67646,
+      "review_flag": "review"
+    },
+    {
+      "decision": "Fast Growth Allocation",
+      "rank": 6,
+      "decision_quality_score": 0.5316,
+      "strategic_alignment_score": 0.473,
+      "strategy_vector_alignment": 0.92181,
+      "implementation_readiness": 0.72,
+      "combined_decision_value": 0.53642,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "Decision quality should be evaluated separately from outcome quality.",
+    "Strategic alignment should be demonstrated through criteria, trade-offs, and resource implications.",
+    "High-quality misaligned decisions can produce elegant irrelevance.",
+    "Aligned but low-quality decisions can produce coherent failure.",
+    "Decision records preserve assumptions, rationale, dissent, strategic fit, and review triggers."
+  ]
+}

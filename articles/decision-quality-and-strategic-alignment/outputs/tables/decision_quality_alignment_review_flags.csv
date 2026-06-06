@@ -1,0 +1,7 @@
+"decision","decision_quality_score","strategic_alignment_score","implementation_readiness","combined_decision_value","rank","strategy_vector_alignment","review_flag"
+"Adaptive Learning Portfolio",0.8472,0.8835,0.77,0.85014,1,0.984519211347124,"acceptable"
+"Mission-Aligned Capability Build",0.7973,0.906,0.82,0.844185,2,0.96912758217619,"acceptable"
+"Balanced Strategic Investment",0.785,0.826,0.78,0.80065,3,0.981755790037328,"acceptable"
+"Risk-Controlled Expansion",0.7798,0.7765,0.75,0.77401,4,0.983235799414569,"acceptable"
+"Efficiency Consolidation",0.6548,0.6245,0.88,0.67646,5,0.982346437539598,"review"
+"Fast Growth Allocation",0.5316,0.473,0.72,0.53642,6,0.921809635066913,"review"

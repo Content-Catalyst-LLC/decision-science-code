@@ -1,0 +1,4 @@
+dimension,weight,description
+strategic_fit,0.45,fit with stated strategic priorities
+capability_fit,0.30,fit with existing or desired organizational capabilities
+value_fit,0.25,fit with institutional values and responsibilities

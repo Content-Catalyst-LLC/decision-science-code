@@ -1,0 +1,2 @@
+record_id,decision_context,selected_action,rationale,review_trigger
+DR1,MCDA review,Adaptive Portfolio Option,Strong rank stability and balanced performance across criteria,review if stakeholder profiles reverse ranking

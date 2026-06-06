@@ -1,0 +1,22 @@
+profile,criterion,weight
+Efficiency Profile,cost,0.28
+Efficiency Profile,implementation_feasibility,0.22
+Efficiency Profile,equity,0.10
+Efficiency Profile,resilience,0.12
+Efficiency Profile,environmental_benefit,0.08
+Efficiency Profile,long_term_value,0.12
+Efficiency Profile,legitimacy,0.08
+Equity Profile,cost,0.10
+Equity Profile,implementation_feasibility,0.10
+Equity Profile,equity,0.30
+Equity Profile,resilience,0.14
+Equity Profile,environmental_benefit,0.12
+Equity Profile,long_term_value,0.14
+Equity Profile,legitimacy,0.10
+Resilience Profile,cost,0.08
+Resilience Profile,implementation_feasibility,0.10
+Resilience Profile,equity,0.12
+Resilience Profile,resilience,0.30
+Resilience Profile,environmental_benefit,0.16
+Resilience Profile,long_term_value,0.16
+Resilience Profile,legitimacy,0.08

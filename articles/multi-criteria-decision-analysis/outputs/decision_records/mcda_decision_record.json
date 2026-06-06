@@ -1,0 +1,304 @@
+{
+  "article": "Multi-Criteria Decision Analysis",
+  "decision_context": "Comparing alternatives across cost, feasibility, equity, resilience, environmental benefit, long-term value, and legitimacy.",
+  "criteria": [
+    "cost",
+    "implementation_feasibility",
+    "equity",
+    "resilience",
+    "environmental_benefit",
+    "long_term_value",
+    "legitimacy"
+  ],
+  "directions": {
+    "cost": "cost",
+    "implementation_feasibility": "benefit",
+    "equity": "benefit",
+    "resilience": "benefit",
+    "environmental_benefit": "benefit",
+    "long_term_value": "benefit",
+    "legitimacy": "benefit"
+  },
+  "base_weights": {
+    "cost": 0.16,
+    "implementation_feasibility": 0.14,
+    "equity": 0.16,
+    "resilience": 0.17,
+    "environmental_benefit": 0.13,
+    "long_term_value": 0.15,
+    "legitimacy": 0.09
+  },
+  "base_results": [
+    {
+      "alternative": "Adaptive Portfolio Option",
+      "composite_score": 0.734045,
+      "rank": 1
+    },
+    {
+      "alternative": "Balanced Option",
+      "composite_score": 0.648857,
+      "rank": 2
+    },
+    {
+      "alternative": "Resilience-Priority Option",
+      "composite_score": 0.631373,
+      "rank": 3
+    },
+    {
+      "alternative": "Equity-Priority Option",
+      "composite_score": 0.578905,
+      "rank": 4
+    },
+    {
+      "alternative": "Low-Cost Minimum Option",
+      "composite_score": 0.316552,
+      "rank": 5
+    },
+    {
+      "alternative": "Efficiency-First Option",
+      "composite_score": 0.300775,
+      "rank": 6
+    }
+  ],
+  "rank_stability": [
+    {
+      "alternative": "Adaptive Portfolio Option",
+      "average_score": 0.734261,
+      "min_score": 0.649684,
+      "max_score": 0.815662,
+      "average_rank": 1,
+      "best_rank_rate": 1.0,
+      "top_two_rate": 1.0,
+      "rank_volatility": 0.0
+    },
+    {
+      "alternative": "Balanced Option",
+      "average_score": 0.648901,
+      "min_score": 0.607102,
+      "max_score": 0.690456,
+      "average_rank": 2.323333,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.684667,
+      "rank_volatility": 0.484631
+    },
+    {
+      "alternative": "Resilience-Priority Option",
+      "average_score": 0.631479,
+      "min_score": 0.502116,
+      "max_score": 0.757563,
+      "average_rank": 2.764667,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.307333,
+      "rank_volatility": 0.569262
+    },
+    {
+      "alternative": "Equity-Priority Option",
+      "average_score": 0.579796,
+      "min_score": 0.449287,
+      "max_score": 0.699747,
+      "average_rank": 3.912333,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.008,
+      "rank_volatility": 0.310934
+    },
+    {
+      "alternative": "Low-Cost Minimum Option",
+      "average_score": 0.31586,
+      "min_score": 0.170894,
+      "max_score": 0.487729,
+      "average_rank": 5.189,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.0,
+      "rank_volatility": 0.392425
+    },
+    {
+      "alternative": "Efficiency-First Option",
+      "average_score": 0.300085,
+      "min_score": 0.17764,
+      "max_score": 0.427854,
+      "average_rank": 5.810667,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.0,
+      "rank_volatility": 0.391838
+    }
+  ],
+  "stakeholder_profile_results": [
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Adaptive Portfolio Option",
+      "composite_score": 0.636832,
+      "rank": 1
+    },
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Balanced Option",
+      "composite_score": 0.611733,
+      "rank": 2
+    },
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Low-Cost Minimum Option",
+      "composite_score": 0.510345,
+      "rank": 3
+    },
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Resilience-Priority Option",
+      "composite_score": 0.47642,
+      "rank": 4
+    },
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Equity-Priority Option",
+      "composite_score": 0.445517,
+      "rank": 5
+    },
+    {
+      "profile": "Efficiency Profile",
+      "alternative": "Efficiency-First Option",
+      "composite_score": 0.43774,
+      "rank": 6
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Adaptive Portfolio Option",
+      "composite_score": 0.766103,
+      "rank": 1
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Equity-Priority Option",
+      "composite_score": 0.685802,
+      "rank": 2
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Balanced Option",
+      "composite_score": 0.658821,
+      "rank": 3
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Resilience-Priority Option",
+      "composite_score": 0.658205,
+      "rank": 4
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Low-Cost Minimum Option",
+      "composite_score": 0.231034,
+      "rank": 5
+    },
+    {
+      "profile": "Equity Profile",
+      "alternative": "Efficiency-First Option",
+      "composite_score": 0.220177,
+      "rank": 6
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Adaptive Portfolio Option",
+      "composite_score": 0.800987,
+      "rank": 1
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Resilience-Priority Option",
+      "composite_score": 0.764228,
+      "rank": 2
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Balanced Option",
+      "composite_score": 0.672326,
+      "rank": 3
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Equity-Priority Option",
+      "composite_score": 0.616055,
+      "rank": 4
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Efficiency-First Option",
+      "composite_score": 0.22294,
+      "rank": 5
+    },
+    {
+      "profile": "Resilience Profile",
+      "alternative": "Low-Cost Minimum Option",
+      "composite_score": 0.192414,
+      "rank": 6
+    }
+  ],
+  "review_flags": [
+    {
+      "alternative": "Adaptive Portfolio Option",
+      "base_rank": 1,
+      "base_score": 0.734045,
+      "best_rank_rate": 1.0,
+      "top_two_rate": 1.0,
+      "rank_volatility": 0.0,
+      "score_gap_from_leader": 0.0,
+      "review_flag": "review"
+    },
+    {
+      "alternative": "Balanced Option",
+      "base_rank": 2,
+      "base_score": 0.648857,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.684667,
+      "rank_volatility": 0.484631,
+      "score_gap_from_leader": 0.085188,
+      "review_flag": "review"
+    },
+    {
+      "alternative": "Resilience-Priority Option",
+      "base_rank": 3,
+      "base_score": 0.631373,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.307333,
+      "rank_volatility": 0.569262,
+      "score_gap_from_leader": 0.102672,
+      "review_flag": "review"
+    },
+    {
+      "alternative": "Equity-Priority Option",
+      "base_rank": 4,
+      "base_score": 0.578905,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.008,
+      "rank_volatility": 0.310934,
+      "score_gap_from_leader": 0.15514,
+      "review_flag": "review"
+    },
+    {
+      "alternative": "Low-Cost Minimum Option",
+      "base_rank": 5,
+      "base_score": 0.316552,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.0,
+      "rank_volatility": 0.392425,
+      "score_gap_from_leader": 0.417493,
+      "review_flag": "review"
+    },
+    {
+      "alternative": "Efficiency-First Option",
+      "base_rank": 6,
+      "base_score": 0.300775,
+      "best_rank_rate": 0.0,
+      "top_two_rate": 0.0,
+      "rank_volatility": 0.391838,
+      "score_gap_from_leader": 0.43327,
+      "review_flag": "review"
+    }
+  ],
+  "modeling_principles": [
+    "MCDA rankings depend on criteria, scores, weights, normalization, and aggregation logic.",
+    "Weights encode value judgments and should be documented.",
+    "Sensitivity analysis is necessary before interpreting rankings.",
+    "Rank stability can be more informative than a single preferred alternative.",
+    "MCDA should support deliberation, not replace accountable judgment."
+  ]
+}

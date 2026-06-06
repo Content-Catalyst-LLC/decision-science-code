@@ -1,0 +1,8 @@
+alternative,criterion,raw_score,normalized_score,evidence_quality
+Efficiency-First Option,cost,68,0.725,medium
+Efficiency-First Option,implementation_feasibility,0.86,0.849,medium
+Balanced Option,cost,82,0.451,high
+Balanced Option,equity,0.72,0.621,high
+Equity-Priority Option,equity,0.94,1.000,medium
+Resilience-Priority Option,resilience,0.95,1.000,high
+Adaptive Portfolio Option,long_term_value,0.89,0.977,medium

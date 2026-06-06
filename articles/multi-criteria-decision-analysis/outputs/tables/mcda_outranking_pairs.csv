@@ -1,0 +1,31 @@
+"alternative_a","alternative_b","concordance","discordance_count","a_outranks_b"
+"Efficiency-First Option","Balanced Option",0.3,5,FALSE
+"Efficiency-First Option","Equity-Priority Option",0.3,5,FALSE
+"Efficiency-First Option","Resilience-Priority Option",0.3,5,FALSE
+"Efficiency-First Option","Low-Cost Minimum Option",0.54,2,FALSE
+"Efficiency-First Option","Adaptive Portfolio Option",0.3,5,FALSE
+"Balanced Option","Efficiency-First Option",0.7,2,FALSE
+"Balanced Option","Equity-Priority Option",0.62,2,FALSE
+"Balanced Option","Resilience-Priority Option",0.55,3,FALSE
+"Balanced Option","Low-Cost Minimum Option",0.7,2,FALSE
+"Balanced Option","Adaptive Portfolio Option",0.3,3,FALSE
+"Equity-Priority Option","Efficiency-First Option",0.7,2,FALSE
+"Equity-Priority Option","Balanced Option",0.38,2,FALSE
+"Equity-Priority Option","Resilience-Priority Option",0.41,4,FALSE
+"Equity-Priority Option","Low-Cost Minimum Option",0.7,2,FALSE
+"Equity-Priority Option","Adaptive Portfolio Option",0.25,3,FALSE
+"Resilience-Priority Option","Efficiency-First Option",0.7,2,FALSE
+"Resilience-Priority Option","Balanced Option",0.45,2,FALSE
+"Resilience-Priority Option","Equity-Priority Option",0.59,3,FALSE
+"Resilience-Priority Option","Low-Cost Minimum Option",0.7,2,FALSE
+"Resilience-Priority Option","Adaptive Portfolio Option",0.45,4,FALSE
+"Low-Cost Minimum Option","Efficiency-First Option",0.46,2,FALSE
+"Low-Cost Minimum Option","Balanced Option",0.3,5,FALSE
+"Low-Cost Minimum Option","Equity-Priority Option",0.3,5,FALSE
+"Low-Cost Minimum Option","Resilience-Priority Option",0.3,5,FALSE
+"Low-Cost Minimum Option","Adaptive Portfolio Option",0.3,5,FALSE
+"Adaptive Portfolio Option","Efficiency-First Option",0.7,2,FALSE
+"Adaptive Portfolio Option","Balanced Option",0.7,0,TRUE
+"Adaptive Portfolio Option","Equity-Priority Option",0.75,1,FALSE
+"Adaptive Portfolio Option","Resilience-Priority Option",0.55,0,FALSE
+"Adaptive Portfolio Option","Low-Cost Minimum Option",0.7,2,FALSE

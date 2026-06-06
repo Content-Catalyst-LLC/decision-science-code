@@ -1,0 +1,8 @@
+criterion,direction,description
+cost,cost,total cost or resource burden
+implementation_feasibility,benefit,practical ability to implement the alternative
+equity,benefit,distributional fairness and access
+resilience,benefit,ability to perform under disruption and change
+environmental_benefit,benefit,environmental improvement or avoided harm
+long_term_value,benefit,value over extended time horizons
+legitimacy,benefit,public trust institutional fit and stakeholder acceptance

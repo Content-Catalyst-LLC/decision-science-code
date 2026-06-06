@@ -1,0 +1,21 @@
+{
+  "article": "Multi-Criteria Decision Analysis",
+  "decision_context": "",
+  "decision_owner": "",
+  "decision_rule": "",
+  "alternatives": [],
+  "criteria": [],
+  "criterion_directions": {},
+  "score_sources": [],
+  "normalization_method": "",
+  "weights": {},
+  "stakeholder_weight_profiles": [],
+  "aggregation_method": "",
+  "sensitivity_tests": [],
+  "rank_stability": [],
+  "dissent_or_disagreement": [],
+  "selected_action": "",
+  "rationale": "",
+  "review_triggers": [],
+  "post_decision_learning": []
+}

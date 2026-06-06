@@ -1,0 +1,6 @@
+scenario,description
+baseline,Reference case with manageable system behavior
+delayed_feedback,Future where lagged consequences dominate early signals
+resistance_escalation,Future where system counter-response intensifies
+capacity_constraint,Future where implementation capacity limits policy effect
+adaptive_revision,Future where monitoring and revision improve performance

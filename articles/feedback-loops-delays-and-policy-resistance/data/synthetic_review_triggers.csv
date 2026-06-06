@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,threshold_breach_rate,above,0.20,policy review lead
+RT2,resistance_intensity,above,0.65,systems modeling lead
+RT3,implementation_delay,above,0.65,implementation governance lead
+RT4,worst_case_performance,below,0.60,decision owner
+RT5,monitoring_quality,below,0.50,learning loop owner

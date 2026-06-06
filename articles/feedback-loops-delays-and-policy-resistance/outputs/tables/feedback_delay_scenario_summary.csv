@@ -1,0 +1,7 @@
+"context","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Adaptive Balanced System",0.748,0.7,0.12,1
+"Capacity Constrained Policy",0.52,0.42,0.22,0
+"Delayed Response Moderate Resistance",0.618,0.55,0.15,0.2
+"Fast Response Low Resistance",0.724,0.68,0.1,0.8
+"High Reinforcement High Resistance",0.444,0.32,0.34,0
+"Robust Feedback-Aware Policy",0.794,0.76,0.08,1

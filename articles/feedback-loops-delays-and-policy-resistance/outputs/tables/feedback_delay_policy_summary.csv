@@ -1,0 +1,9 @@
+metric,value
+final_system_state,4705.624443
+peak_system_state,4705.624443
+average_system_state,1045.19883
+average_policy_signal,1.284215
+average_resistance,4.204001
+final_resistance,2.323789
+threshold_breach_count,52
+threshold_breach_rate,0.866667

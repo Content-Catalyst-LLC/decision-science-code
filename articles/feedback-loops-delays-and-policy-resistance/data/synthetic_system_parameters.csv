@@ -1,0 +1,8 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+target_state,60,Reference system state for policy adjustment
+delay,4,Time steps before policy effects are fully visible
+threshold_risk_level,85,System state threshold indicating elevated risk
+initial_system_state,50,Initial system state
+initial_policy_signal,8,Initial policy signal
+initial_resistance,4,Initial resistance level

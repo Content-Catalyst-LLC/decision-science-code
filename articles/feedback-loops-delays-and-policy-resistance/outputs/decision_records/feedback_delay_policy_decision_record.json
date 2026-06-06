@@ -1,0 +1,56 @@
+{
+  "article": "Feedback Loops, Delays, and Policy Resistance",
+  "decision_context": "Simulating reinforcing pressure, balancing correction, delayed policy effects, resistance, and threshold risk.",
+  "random_seed": 42,
+  "parameters": {
+    "time_steps": 60.0,
+    "target_state": 60.0,
+    "delay": 4.0,
+    "threshold_risk_level": 85.0,
+    "initial_system_state": 50.0,
+    "initial_policy_signal": 8.0,
+    "initial_resistance": 4.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_system_state",
+      "value": 4705.624443
+    },
+    {
+      "metric": "peak_system_state",
+      "value": 4705.624443
+    },
+    {
+      "metric": "average_system_state",
+      "value": 1045.19883
+    },
+    {
+      "metric": "average_policy_signal",
+      "value": 1.284215
+    },
+    {
+      "metric": "average_resistance",
+      "value": 4.204001
+    },
+    {
+      "metric": "final_resistance",
+      "value": 2.323789
+    },
+    {
+      "metric": "threshold_breach_count",
+      "value": 52
+    },
+    {
+      "metric": "threshold_breach_rate",
+      "value": 0.866667
+    }
+  ],
+  "recommendation": "redesign_policy_due_to_threshold_breach",
+  "modeling_principles": [
+    "Feedback loops can amplify or counteract policy effects.",
+    "Delayed responses can cause overcorrection, false confidence, or premature abandonment.",
+    "Policy resistance should be modeled as a system response, not only an implementation failure.",
+    "Threshold breaches should trigger structured review.",
+    "Decision records should preserve feedback assumptions, delays, resistance risks, and monitoring triggers."
+  ]
+}

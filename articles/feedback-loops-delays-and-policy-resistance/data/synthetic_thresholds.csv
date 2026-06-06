@@ -1,0 +1,7 @@
+threshold_name,value,description
+high_reinforcing_pressure,0.75,Reinforcing pressure level triggering review
+high_implementation_delay,0.65,Delay level triggering review
+high_resistance_intensity,0.65,Resistance intensity triggering review
+low_monitoring_quality,0.50,Monitoring quality threshold triggering review
+minimum_worst_case_performance,0.60,Worst-case performance threshold triggering review
+high_threshold_breach_rate,0.20,Simulation threshold breach rate triggering review

@@ -1,0 +1,31 @@
+context,scenario,performance
+Fast Response Low Resistance,baseline,0.78
+Fast Response Low Resistance,delayed_feedback,0.70
+Fast Response Low Resistance,resistance_escalation,0.68
+Fast Response Low Resistance,capacity_constraint,0.72
+Fast Response Low Resistance,adaptive_revision,0.74
+Delayed Response Moderate Resistance,baseline,0.70
+Delayed Response Moderate Resistance,delayed_feedback,0.58
+Delayed Response Moderate Resistance,resistance_escalation,0.55
+Delayed Response Moderate Resistance,capacity_constraint,0.60
+Delayed Response Moderate Resistance,adaptive_revision,0.66
+High Reinforcement High Resistance,baseline,0.66
+High Reinforcement High Resistance,delayed_feedback,0.42
+High Reinforcement High Resistance,resistance_escalation,0.32
+High Reinforcement High Resistance,capacity_constraint,0.38
+High Reinforcement High Resistance,adaptive_revision,0.44
+Adaptive Balanced System,baseline,0.76
+Adaptive Balanced System,delayed_feedback,0.74
+Adaptive Balanced System,resistance_escalation,0.70
+Adaptive Balanced System,capacity_constraint,0.72
+Adaptive Balanced System,adaptive_revision,0.82
+Capacity Constrained Policy,baseline,0.64
+Capacity Constrained Policy,delayed_feedback,0.50
+Capacity Constrained Policy,resistance_escalation,0.48
+Capacity Constrained Policy,capacity_constraint,0.42
+Capacity Constrained Policy,adaptive_revision,0.56
+Robust Feedback-Aware Policy,baseline,0.80
+Robust Feedback-Aware Policy,delayed_feedback,0.78
+Robust Feedback-Aware Policy,resistance_escalation,0.76
+Robust Feedback-Aware Policy,capacity_constraint,0.79
+Robust Feedback-Aware Policy,adaptive_revision,0.84

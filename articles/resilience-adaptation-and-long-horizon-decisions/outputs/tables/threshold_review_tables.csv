@@ -1,0 +1,2 @@
+"strategy","resilience_score","adaptability_score","near_term_cost","long_term_value","reversibility","description","long_horizon_score","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate","resilient_decision_score","review_flag","rank"
+"Short-Term Efficiency Path",0.34,0.29,0.18,0.41,0.3,"Lean short-term strategy with low cost but weak resilience and adaptability",0.2762,0.442,0.3,0.44,0.2,0.26454,"review",5

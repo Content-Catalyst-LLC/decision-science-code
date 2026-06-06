@@ -1,0 +1,26 @@
+"strategy","scenario","performance"
+"Short-Term Efficiency Path","stable_future",0.74
+"Short-Term Efficiency Path","climate_stress",0.36
+"Short-Term Efficiency Path","funding_constraint",0.42
+"Short-Term Efficiency Path","institutional_drift",0.39
+"Short-Term Efficiency Path","shock_event",0.3
+"Balanced Adaptive Path","stable_future",0.76
+"Balanced Adaptive Path","climate_stress",0.7
+"Balanced Adaptive Path","funding_constraint",0.66
+"Balanced Adaptive Path","institutional_drift",0.68
+"Balanced Adaptive Path","shock_event",0.72
+"High-Redundancy Resilience Path","stable_future",0.72
+"High-Redundancy Resilience Path","climate_stress",0.84
+"High-Redundancy Resilience Path","funding_constraint",0.7
+"High-Redundancy Resilience Path","institutional_drift",0.76
+"High-Redundancy Resilience Path","shock_event",0.88
+"Transformative Long-Horizon Path","stable_future",0.7
+"Transformative Long-Horizon Path","climate_stress",0.82
+"Transformative Long-Horizon Path","funding_constraint",0.68
+"Transformative Long-Horizon Path","institutional_drift",0.8
+"Transformative Long-Horizon Path","shock_event",0.78
+"Modular Adaptive Path","stable_future",0.74
+"Modular Adaptive Path","climate_stress",0.81
+"Modular Adaptive Path","funding_constraint",0.76
+"Modular Adaptive Path","institutional_drift",0.78
+"Modular Adaptive Path","shock_event",0.84

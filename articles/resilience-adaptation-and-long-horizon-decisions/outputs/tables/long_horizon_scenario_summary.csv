@@ -1,0 +1,6 @@
+"strategy","average_scenario_performance","worst_case_performance","performance_range","threshold_pass_rate"
+"Balanced Adaptive Path",0.704,0.66,0.1,0.6
+"High-Redundancy Resilience Path",0.78,0.7,0.18,1
+"Modular Adaptive Path",0.786,0.74,0.1,1
+"Short-Term Efficiency Path",0.442,0.3,0.44,0.2
+"Transformative Long-Horizon Path",0.756,0.68,0.14,0.8

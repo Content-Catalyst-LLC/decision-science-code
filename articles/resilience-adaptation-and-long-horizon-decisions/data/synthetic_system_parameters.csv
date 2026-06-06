@@ -1,0 +1,6 @@
+parameter,value,description
+time_steps,60,Number of simulated time steps
+initial_system_state,100,Initial system state
+initial_resilience_capacity,35,Initial resilience capacity
+threshold_failure_level,65,System state below which threshold breach occurs
+random_seed,42,Random seed for reproducibility

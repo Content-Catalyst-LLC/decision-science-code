@@ -1,0 +1,57 @@
+{
+  "article": "Resilience, Adaptation, and Long-Horizon Decisions",
+  "decision_context": "Simulating long-horizon system performance under repeated shock, recovery, and adaptive capacity change.",
+  "parameters": {
+    "time_steps": 60.0,
+    "initial_system_state": 100.0,
+    "initial_resilience_capacity": 35.0,
+    "threshold_failure_level": 65.0,
+    "random_seed": 42.0
+  },
+  "summary_metrics": [
+    {
+      "metric": "final_system_state",
+      "value": 193.123056
+    },
+    {
+      "metric": "minimum_system_state",
+      "value": 94.036234
+    },
+    {
+      "metric": "average_system_state",
+      "value": 127.844448
+    },
+    {
+      "metric": "final_resilience_capacity",
+      "value": 83.179322
+    },
+    {
+      "metric": "average_resilience_capacity",
+      "value": 58.265792
+    },
+    {
+      "metric": "average_shock_load",
+      "value": 8.384294
+    },
+    {
+      "metric": "average_recovery",
+      "value": 8.630298
+    },
+    {
+      "metric": "threshold_breach_count",
+      "value": 0
+    },
+    {
+      "metric": "threshold_breach_rate",
+      "value": 0.0
+    }
+  ],
+  "recommendation": "continue_with_long_horizon_monitoring_and_adaptive_review",
+  "modeling_principles": [
+    "Resilience capacity should be treated as a stock that can be built or depleted.",
+    "Long-horizon strategies should be evaluated under repeated shocks rather than one stable forecast.",
+    "Adaptive gains and recovery capacity shape long-run viability.",
+    "Threshold breaches should trigger structured review.",
+    "Decision records should preserve assumptions, indicators, thresholds, and revision triggers."
+  ]
+}

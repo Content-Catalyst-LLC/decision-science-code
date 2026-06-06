@@ -1,0 +1,6 @@
+strategy,resilience_score,adaptability_score,near_term_cost,long_term_value,reversibility,description
+Short-Term Efficiency Path,0.34,0.29,0.18,0.41,0.30,Lean short-term strategy with low cost but weak resilience and adaptability
+Balanced Adaptive Path,0.68,0.74,0.42,0.77,0.72,Balanced long-horizon strategy with moderate cost and strong adaptive potential
+High-Redundancy Resilience Path,0.86,0.71,0.61,0.84,0.66,High-buffer strategy emphasizing redundancy recovery and continuity
+Transformative Long-Horizon Path,0.79,0.88,0.73,0.91,0.58,Transformative strategy with high long-term value and strong adaptability but higher near-term cost
+Modular Adaptive Path,0.82,0.84,0.56,0.86,0.81,Modular strategy preserving flexibility resilience and reversibility across futures

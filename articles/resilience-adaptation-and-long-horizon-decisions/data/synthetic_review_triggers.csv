@@ -1,0 +1,6 @@
+trigger_id,indicator,threshold_direction,threshold_value,review_owner
+RT1,threshold_breach_rate,above,0.20,long-horizon decision owner
+RT2,final_resilience_capacity,below,25,resilience governance lead
+RT3,worst_case_performance,below,0.60,scenario review lead
+RT4,threshold_pass_rate,below,0.60,adaptive pathway owner
+RT5,institutional_drift_signal,equals,true,continuity review lead

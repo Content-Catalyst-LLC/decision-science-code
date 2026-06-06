@@ -1,0 +1,10 @@
+metric,value
+final_system_state,193.123056
+minimum_system_state,94.036234
+average_system_state,127.844448
+final_resilience_capacity,83.179322
+average_resilience_capacity,58.265792
+average_shock_load,8.384294
+average_recovery,8.630298
+threshold_breach_count,0
+threshold_breach_rate,0.0

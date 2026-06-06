@@ -1,0 +1,8 @@
+threshold_name,value,description
+minimum_scenario_performance,0.70,Minimum acceptable scenario performance
+low_worst_case_performance,0.60,Worst-case performance level triggering review
+low_threshold_pass_rate,0.60,Scenario threshold pass rate triggering review
+low_resilience_score,0.50,Resilience score triggering review
+low_adaptability_score,0.50,Adaptability score triggering review
+failure_system_state,65,System state threshold indicating possible failure
+high_threshold_breach_rate,0.20,Simulation breach rate triggering strategic redesign
